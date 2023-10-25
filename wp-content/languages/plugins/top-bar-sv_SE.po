@@ -1,0 +1,181 @@
+# Translation of Plugins - Top Bar - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Top Bar - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-27 19:54:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Top Bar - Development (trunk)\n"
+
+#: inc/topbar-settings.php:221
+msgid "PRO version"
+msgstr "PRO-version"
+
+#: inc/topbar-settings.php:210
+msgid "Used for the Top Bar's background and button."
+msgstr "Används för topplistens bakgrund och knapp."
+
+#: inc/topbar-settings.php:208
+msgid "Color"
+msgstr "Färg"
+
+#: inc/topbar-settings.php:203
+msgid "Defines who can see the Top Bar."
+msgstr "Definierar vem som kan se topplisten."
+
+#: inc/topbar-settings.php:188 inc/topbar-settings.php:192
+#: inc/topbar-settings.php:196 inc/topbar-settings.php:200
+msgid "Registered users"
+msgstr "Registrerade användare"
+
+#: inc/topbar-settings.php:187 inc/topbar-settings.php:191
+#: inc/topbar-settings.php:195 inc/topbar-settings.php:199
+msgid "Guests"
+msgstr "Gäster"
+
+#: inc/topbar-settings.php:186 inc/topbar-settings.php:190
+#: inc/topbar-settings.php:194 inc/topbar-settings.php:198
+msgid "Everyone"
+msgstr "Alla"
+
+#: inc/topbar-settings.php:181
+msgid "User visibility"
+msgstr "Användarsynlighet"
+
+#: inc/topbar-settings.php:176
+msgid "Visibility & Styling"
+msgstr "Synlighet och stilsättning"
+
+#: inc/topbar-settings.php:166
+msgid "Button behavior when clicked."
+msgstr "Knappens beteende vid klick."
+
+#: inc/topbar-settings.php:160 inc/topbar-settings.php:162
+msgid "Same window"
+msgstr "Samma fönster"
+
+#: inc/topbar-settings.php:159 inc/topbar-settings.php:163
+msgid "New window"
+msgstr "Nytt fönster"
+
+#: inc/topbar-settings.php:155
+msgid "Link behavior"
+msgstr "Länkbeteende"
+
+#: inc/topbar-settings.php:152
+msgid "Link used when the button is clicked."
+msgstr "Länk används när knappen klickas."
+
+#: inc/topbar-settings.php:147
+msgid "Text inside the button."
+msgstr "Text inuti knappen."
+
+#: inc/topbar-settings.php:142
+msgid "Button settings"
+msgstr "Knappinställningar"
+
+#: inc/topbar-settings.php:118
+msgid "Message to show in your Top Bar."
+msgstr "Meddelande att visa i din topplist."
+
+#: inc/topbar-settings.php:90
+msgid "Detect fixed navigation"
+msgstr "Detekterat fixerad navigation"
+
+#: inc/topbar-settings.php:95 inc/topbar-settings.php:98
+#: inc/topbar-settings.php:100 inc/topbar-settings.php:127
+#: inc/topbar-settings.php:129 inc/topbar-settings.php:132
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: inc/topbar-settings.php:94 inc/topbar-settings.php:97
+#: inc/topbar-settings.php:101 inc/topbar-settings.php:126
+#: inc/topbar-settings.php:130 inc/topbar-settings.php:133
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: inc/topbar-settings.php:136
+msgid "Adds a button to your Top Bar."
+msgstr "Lägger till en knapp i din topplist."
+
+#: inc/topbar-settings.php:112
+msgid "Content"
+msgstr "Innehåll"
+
+#: inc/topbar-settings.php:80 inc/topbar-settings.php:83
+msgid "Fixed"
+msgstr "Fixerad"
+
+#: inc/topbar-settings.php:79 inc/topbar-settings.php:82
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/topbar-settings.php:75
+msgid "Position"
+msgstr "Position"
+
+#: inc/topbar-settings.php:57
+msgid "Status"
+msgstr "Status"
+
+#: inc/topbar-settings.php:53
+msgid "General"
+msgstr "Allmänt"
+
+#. Author URI of the plugin
+msgid "https://wpdarko.com"
+msgstr "https://wpdarko.com"
+
+#. Author of the plugin
+msgid "WP Darko"
+msgstr "WP Darko"
+
+#. Plugin URI of the plugin
+msgid "https://wpdarko.com/top-bar/"
+msgstr "https://wpdarko.com/top-bar/"
+
+#. Plugin Name of the plugin
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: inc/topbar-settings.php:151
+msgid "eg. https://wpdarko.com"
+msgstr "t.ex. https://wpdarko.com"
+
+#: inc/topbar-settings.php:150
+msgid "Button URL"
+msgstr "Knapp-URL"
+
+#: inc/topbar-settings.php:146
+msgid "eg. See product"
+msgstr "till exempel ”Se produkt”"
+
+#: inc/topbar-settings.php:145
+msgid "Button text"
+msgstr "Knapptext"
+
+#: inc/topbar-settings.php:122
+msgid "Button"
+msgstr "﻿Knapp"
+
+#: inc/topbar-settings.php:117
+msgid "eg. Check out our new product right now!"
+msgstr "till exempel ”Kolla in vår nya produkt just nu!”"
+
+#: inc/topbar-settings.php:116
+msgid "Message"
+msgstr "﻿Meddelande"
+
+#: inc/topbar-settings.php:62 inc/topbar-settings.php:64
+#: inc/topbar-settings.php:68
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: inc/topbar-settings.php:61 inc/topbar-settings.php:65
+#: inc/topbar-settings.php:67
+msgid "Active"
+msgstr "Aktiv"

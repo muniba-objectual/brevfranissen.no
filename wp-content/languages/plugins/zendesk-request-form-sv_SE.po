@@ -1,0 +1,136 @@
+# Translation of Plugins - Request Form for Zendesk - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Request Form for Zendesk - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-05 20:32:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Request Form for Zendesk - Development (trunk)\n"
+
+#. Plugin Name of the plugin
+msgid "Request Form for Zendesk"
+msgstr "Request Form for Zendesk"
+
+#: zendesk-request-form.php:666
+msgid "Please enter a valid URL"
+msgstr "Ange en giltig URL"
+
+#: zendesk-request-form.php:446
+msgid "Last name"
+msgstr "Efternamn"
+
+#: zendesk-request-form.php:439
+msgid "First name"
+msgstr "Förnamn"
+
+#: zendesk-request-form.php:165
+msgid "Allowed file types:"
+msgstr "Tillåtna filtyper:"
+
+#: zendesk-request-form.php:164
+msgid "Maximum size:"
+msgstr "Maximal storlek:"
+
+#: zendesk-request-form.php:611
+msgid "You can only upload a maximum of %s files."
+msgstr "Du kan bara ladda upp maximalt %s filer."
+
+#: zendesk-request-form.php:634
+msgid "Uploaded file type is not allowed."
+msgstr "Uppladdad filtyp är inte tillåten."
+
+#: zendesk-request-form.php:163
+msgid "Upload a file"
+msgstr "Ladda upp en fil"
+
+#: zendesk-request-form.php:624 inc/action.php:179
+msgid "Uploaded file is too large."
+msgstr "Den uppladdade filen är för stor."
+
+#: zendesk-request-form.php:162
+msgid "Priority of your message"
+msgstr "Prioritet för ditt meddelande"
+
+#: zendesk-request-form.php:532
+msgid "No description set in ticket"
+msgstr "Ingen beskrivning är angiven i ärendet"
+
+#: inc/action.php:130 inc/action.php:134
+msgid "No email address entered."
+msgstr "Ingen e-post är angiven."
+
+#: zendesk-request-form.php:328 zendesk-request-form.php:485
+msgid "Select an option"
+msgstr "Välj ett alternativ"
+
+#: inc/action.php:27
+msgid "Request not submitted. Please contact the Admin of this website so they can check the settings for this form."
+msgstr "Förfrågan inte inskickad. Kontakta administratören på den här webbplatsen så att han kan kontrollera inställningarna för detta formulär."
+
+#. Author URI of the plugin
+msgid "https://www.pipdig.co/"
+msgstr "https://www.pipdig.co/"
+
+#. Author of the plugin
+msgid "pipdig"
+msgstr "pipdig"
+
+#. Description of the plugin
+msgid "Add a Zendesk request form on any post/page via a shortcode. Submitted messages will create a new ticket in your Zendesk account."
+msgstr "Lägg till en Zendesk förfrågningsformulär på vilket inlägg / sida som helst via en kortkod. Skickade meddelanden skapar ett nytt ärende i ditt Zendesk-konto."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/zendesk-request-form/"
+msgstr "https://wordpress.org/plugins/zendesk-request-form/"
+
+#: zendesk-request-form.php:161
+msgid "Submit"
+msgstr "Skicka"
+
+#: zendesk-request-form.php:160
+msgid "Your Message"
+msgstr "Ditt meddelande"
+
+#: zendesk-request-form.php:159
+msgid "Subject"
+msgstr "Ämne"
+
+#: zendesk-request-form.php:158
+msgid "Your Email"
+msgstr "Din e-post"
+
+#: zendesk-request-form.php:157
+msgid "Your Name"
+msgstr "Ditt namn"
+
+#: zendesk-request-form.php:184
+msgid "Your ticket number is %s."
+msgstr "Ditt ärendenummer är %s."
+
+#: zendesk-request-form.php:179 inc/settings.php:153
+msgid "Your message has been sent successfully."
+msgstr "Ditt meddelande har skickats utan problem."
+
+#: inc/action.php:383 inc/action.php:387
+msgid "Your message has been received. We will get back to you as soon as possible."
+msgstr "Ditt meddelande har mottagits. Vi återkommer till dig så snart som möjligt."
+
+#: inc/action.php:350
+msgid "Ticket not created."
+msgstr "Ärende inte skapat."
+
+#: inc/action.php:105 inc/action.php:123
+msgid "No name entered."
+msgstr "Inget namn är angivet."
+
+#: inc/action.php:74
+msgid "Spam check failed."
+msgstr "Spamkontrollen misslyckades."
+
+#: inc/action.php:8
+msgid "Please try again by clicking the back button on your browser."
+msgstr "Försök igen genom att klicka på bakåtknappen i din webbläsare."

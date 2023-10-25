@@ -1,0 +1,334 @@
+# Translation of Plugins - Easy WP SMTP - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Easy WP SMTP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-29 11:59:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Easy WP SMTP - Development (trunk)\n"
+
+#: class-easywpsmtp-admin.php:443
+msgid "Warning! This can't be undone."
+msgstr "Varning! Detta kan inte ångras."
+
+#: class-easywpsmtp-admin.php:440
+msgid "Delete Settings and Deactivate Plugin"
+msgstr "Ta bort inställningar och inaktivera tillägg"
+
+#: class-easywpsmtp-admin.php:435
+msgid "Import Settings"
+msgstr "Importera inställningar"
+
+#: class-easywpsmtp-admin.php:433
+msgid "Use this to export plugin settings to a file."
+msgstr "Använd detta för att exportera tilläggets inställningar till en fil."
+
+#: class-easywpsmtp-admin.php:432
+msgid "Export Settings"
+msgstr "Exportera inställningar"
+
+#: class-easywpsmtp-admin.php:430
+msgid "Export\\Import Settings"
+msgstr "Exportera\\importera inställningar"
+
+#: class-easywpsmtp-admin.php:43
+msgid "Are you sure you want to delete ALL your settings and deactive plugin?"
+msgstr "Är du säker på att du vill ta bort ALLA dina inställningar och inaktivera tillägget?"
+
+#: class-easywpsmtp-admin.php:44
+msgid "All settings have been deleted and plugin is deactivated."
+msgstr "Alla inställningar har tagits bort och tillägget är inaktiverat."
+
+#: easy-wp-smtp.php:666
+msgid "Please refresh the page and try again."
+msgstr "Uppdatera sidan och försök igen."
+
+#: easy-wp-smtp.php:441
+msgid "Settings have been imported successfully."
+msgstr "Inställningarna har importerats Utan problem."
+
+#: easy-wp-smtp.php:377
+msgid "Error occurred during settings import"
+msgstr "Ett fel inträffade vid import av inställning"
+
+#: class-easywpsmtp-admin.php:436
+msgid "Use this to import plugin settings from a file. Note this would replace all your existing settings, so use with caution."
+msgstr "Använd detta för att importera tilläggets inställningar från en fil. Observera att detta kommer ersätta alla dina befintliga inställningar, så använd det försiktigt."
+
+#: class-easywpsmtp-admin.php:560
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: class-easywpsmtp-admin.php:41
+msgid "Error occurred:"
+msgstr "Fel uppstod:"
+
+#: class-easywpsmtp-admin.php:301
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#: class-easywpsmtp-admin.php:307
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#. Author of the plugin
+msgid "wpecommerce, alexanderfoxc"
+msgstr "wpecommerce, alexanderfoxc"
+
+#: class-easywpsmtp-admin.php:498
+msgid "Hide Debug Log"
+msgstr "Dölj felsökningslogg"
+
+#: class-easywpsmtp-admin.php:488 class-easywpsmtp-admin.php:496
+msgid "Show Debug Log"
+msgstr "Visa felsökningslogg"
+
+#: class-easywpsmtp-admin.php:388
+msgid "Encrypt Password"
+msgstr "Kryptera lösenord"
+
+#. translators: %s is PHP version
+#: class-easywpsmtp-admin.php:87
+msgid "Your PHP version is %s, encryption function requires PHP version 5.3.0 or higher."
+msgstr "Din PHP-version är %s, krypteringsfunktionen kräver PHP-version 5.3.0 eller högre."
+
+#: class-easywpsmtp-admin.php:601
+msgid "rating"
+msgstr "betyg"
+
+#: class-easywpsmtp-admin.php:591
+msgid "Rate Us"
+msgstr "Betygsätt oss"
+
+#: class-easywpsmtp-admin.php:584
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: class-easywpsmtp-admin.php:574
+msgid "Support"
+msgstr "Support"
+
+#. translators: %s is replaced by support forum URL
+#: class-easywpsmtp-admin.php:580
+msgctxt "%s is replaced by \"Support Forum\" link"
+msgid "Having issues or difficulties? You can post your issue on the %s"
+msgstr "Har du problem eller svårigheter? Du kan publicera ditt problem på %s"
+
+#: class-easywpsmtp-admin.php:399
+msgid "Allow Insecure SSL Certificates"
+msgstr "Tillåt osäkra SSL-certifikat"
+
+#: class-easywpsmtp-admin.php:382
+msgid "Block all emails"
+msgstr "Blockera all e-post"
+
+#: class-easywpsmtp-admin.php:348 class-easywpsmtp-admin.php:411
+#: class-easywpsmtp-admin.php:468 class-easywpsmtp-admin.php:520
+msgctxt "\"Note\" as in \"Note: keep this in mind\""
+msgid "Note:"
+msgstr "Obs:"
+
+#: class-easywpsmtp-admin.php:219
+msgid "SMTP Settings"
+msgstr "SMTP-inställningar"
+
+#: class-easywpsmtp-admin.php:363
+msgid "Additional Settings (Optional)"
+msgstr "Ytterligare inställningar (valfritt)"
+
+#: class-easywpsmtp-admin.php:413
+msgid "Clear Log"
+msgstr "Rensa logg"
+
+#: class-easywpsmtp-admin.php:413
+msgid "View Log"
+msgstr "Visa logg"
+
+#: class-easywpsmtp-admin.php:220
+msgid "Additional Settings"
+msgstr "Ytterligare inställningar"
+
+#: class-easywpsmtp-admin.php:39
+msgid "Are you sure want to clear log?"
+msgstr "Är du säker att du vill rensa logg?"
+
+#: class-easywpsmtp-admin.php:40
+msgid "Log cleared."
+msgstr "Logg rensad."
+
+#: class-easywpsmtp-admin.php:221 class-easywpsmtp-admin.php:466
+msgid "Test Email"
+msgstr "Testa e-post"
+
+#: class-easywpsmtp-admin.php:406
+msgid "Enable Debug Log"
+msgstr "Aktivera felsökningslogg"
+
+#: class-easywpsmtp-admin.php:375
+msgid "Enable Domain Check"
+msgstr "Aktivera domänkontroll"
+
+#: class-easywpsmtp-admin.php:233
+msgid "SMTP Configuration Settings"
+msgstr "Konfiguration av SMTP-inställningar"
+
+#: class-easywpsmtp-admin.php:542
+msgid "Write your email message"
+msgstr "Skriv ditt e-postmeddelande"
+
+#: class-easywpsmtp-admin.php:528
+msgid "Enter the recipient's email address"
+msgstr "Ange mottagarens e-postadress"
+
+#: class-easywpsmtp-admin.php:193
+msgid "Please enter a valid email address in the recipient email field."
+msgstr "Ange en giltig e-postadress i mottagarens e-postfält."
+
+#: easy-wp-smtp.php:429
+msgid "Please configure your SMTP credentials in the <a href=\"%s\">settings menu</a> in order to send email using Easy WP SMTP plugin."
+msgstr "Konfigurera dina SMTP-uppgifter i <a href=\"%s\">inställningsmenyn</a> för att kunna skicka e-post med tillägget Easy WP SMTP."
+
+#: class-easywpsmtp-admin.php:326
+msgid "No"
+msgstr "Nej"
+
+#: class-easywpsmtp-admin.php:332
+msgid "Yes"
+msgstr "Ja"
+
+#: class-easywpsmtp-admin.php:525
+msgid "To"
+msgstr "Till"
+
+#: class-easywpsmtp-admin.php:532
+msgid "Subject"
+msgstr "Ämne"
+
+#: class-easywpsmtp-admin.php:539
+msgid "Message"
+msgstr "Meddelande"
+
+#: class-easywpsmtp-admin.php:353 class-easywpsmtp-admin.php:418
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#. Author URI of the plugin
+msgid "https://wp-ecommerce.net/"
+msgstr "https://wp-ecommerce.net/"
+
+#: class-easywpsmtp-admin.php:535
+msgid "Enter a subject for your message"
+msgstr "Ange ett ämne för ditt meddelande"
+
+#. Plugin URI of the plugin
+msgid "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+msgstr "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+
+#: class-easywpsmtp-admin.php:547
+msgid "Send Test Email"
+msgstr "Skicka ett testmeddelande"
+
+#: class-easywpsmtp-admin.php:347
+msgid "The password to login to your mail server"
+msgstr "Lösenordet för att logga in på din e-postserver"
+
+#: class-easywpsmtp-admin.php:340
+msgid "The username to login to your mail server"
+msgstr "Användarnamnet för att logga in på din e-postserver"
+
+#: class-easywpsmtp-admin.php:337
+msgid "SMTP Username"
+msgstr "SMTP-användarnamn"
+
+#: class-easywpsmtp-admin.php:344
+msgid "SMTP Password"
+msgstr "SMTP-lösenord"
+
+#: class-easywpsmtp-admin.php:319
+msgid "SMTP Authentication"
+msgstr "SMTP-autentisering"
+
+#: class-easywpsmtp-admin.php:312
+msgid "SMTP Port"
+msgstr "SMTP-port"
+
+#: class-easywpsmtp-admin.php:315
+msgid "The port to your mail server"
+msgstr "Porten till din e-postserver"
+
+#. Description of the plugin
+msgid "Send email via SMTP from your WordPress Blog"
+msgstr "Skicka e-post via SMTP från din WordPress-blogg"
+
+#: class-easywpsmtp-admin.php:333
+msgid "This options should always be checked 'Yes'"
+msgstr "Detta alternativ borde alltid vara markerat ”Ja”"
+
+#: class-easywpsmtp-admin.php:308
+msgid "For most servers SSL/TLS is the recommended option"
+msgstr "SSL/TLS är rekommenderat för de flesta servrar"
+
+#: easy-wp-smtp.php:493 easy-wp-smtp.php:501
+msgid "Settings"
+msgstr "Inställningar"
+
+#: class-easywpsmtp-admin.php:295
+msgid "None"
+msgstr "Inget"
+
+#: class-easywpsmtp-admin.php:288
+msgid "Type of Encryption"
+msgstr "Typ av kryptering"
+
+#: class-easywpsmtp-admin.php:281
+msgid "SMTP Host"
+msgstr "SMTP-server"
+
+#: class-easywpsmtp-admin.php:284
+msgid "Your mail server"
+msgstr "Din e-postserver"
+
+#: class-easywpsmtp-admin.php:247
+msgid "From Name"
+msgstr "Avsändarnamn"
+
+#: class-easywpsmtp-admin.php:240
+msgid "From Email Address"
+msgstr "Avsändaradress"
+
+#: class-easywpsmtp-admin.php:92
+msgid "Easy WP SMTP Settings"
+msgstr "Inställningar för Easy WP SMTP"
+
+#. Plugin Name of the plugin
+#: class-easywpsmtp-admin.php:59
+msgid "Easy WP SMTP"
+msgstr "Easy WP SMTP"
+
+#: class-easywpsmtp-admin.php:179
+msgid "Settings saved."
+msgstr "Inställningar sparade."
+
+#: class-easywpsmtp-admin.php:181
+msgid "Settings are not saved."
+msgstr "Inställningarna har inte sparats."
+
+#: class-easywpsmtp-admin.php:243
+msgid "This email address will be used in the 'From' field."
+msgstr "Denna e-postadress kommer att användas i avsändarfältet."
+
+#: class-easywpsmtp-admin.php:250
+msgid "This text will be used in the 'FROM' field"
+msgstr "Denna text kommer att användas i avsändarfältet"
+
+#: class-easywpsmtp-admin.php:170
+msgid "Please enter a valid port in the 'SMTP Port' field."
+msgstr "Vänligen ange en giltig port i fältet för SMTP-port."
+
+#: class-easywpsmtp-admin.php:123
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "Vänligen ange en giltig e-postadress i fältet för avsändaradressen."

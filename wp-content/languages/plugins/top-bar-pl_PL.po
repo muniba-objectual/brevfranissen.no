@@ -1,0 +1,197 @@
+# Translation of Plugins - Top Bar - Development (trunk) in Polish
+# This file is distributed under the same license as the Plugins - Top Bar - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-29 07:44:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Top Bar - Development (trunk)\n"
+
+#: inc/topbar-settings.php:221
+msgid "PRO version"
+msgstr "Wersja PRO"
+
+#: inc/topbar-settings.php:210
+msgid "Used for the Top Bar's background and button."
+msgstr "Używany jako tło i przycisk paska górnego."
+
+#: inc/topbar-settings.php:208
+msgid "Color"
+msgstr "Kolor"
+
+#: inc/topbar-settings.php:203
+msgid "Defines who can see the Top Bar."
+msgstr "Określa, kto może zobaczyć górny pasek."
+
+#: inc/topbar-settings.php:188 inc/topbar-settings.php:192
+#: inc/topbar-settings.php:196 inc/topbar-settings.php:200
+msgid "Registered users"
+msgstr "Zarejestrowani użytkownicy"
+
+#: inc/topbar-settings.php:187 inc/topbar-settings.php:191
+#: inc/topbar-settings.php:195 inc/topbar-settings.php:199
+msgid "Guests"
+msgstr "Goście"
+
+#: inc/topbar-settings.php:186 inc/topbar-settings.php:190
+#: inc/topbar-settings.php:194 inc/topbar-settings.php:198
+msgid "Everyone"
+msgstr "Wszyscy"
+
+#: inc/topbar-settings.php:181
+msgid "User visibility"
+msgstr "Widoczność użytkownika"
+
+#: inc/topbar-settings.php:176
+msgid "Visibility & Styling"
+msgstr "Widoczność i wygląd"
+
+#: inc/topbar-settings.php:166
+msgid "Button behavior when clicked."
+msgstr "Zachowanie przycisku po kliknięciu."
+
+#: inc/topbar-settings.php:160 inc/topbar-settings.php:162
+msgid "Same window"
+msgstr "Tym samym oknie"
+
+#: inc/topbar-settings.php:159 inc/topbar-settings.php:163
+msgid "New window"
+msgstr "Nowe okno"
+
+#: inc/topbar-settings.php:155
+msgid "Link behavior"
+msgstr "Zachowanie odnośnika po kliknięciu"
+
+#: inc/topbar-settings.php:152
+msgid "Link used when the button is clicked."
+msgstr "Odnośnik używany po kliknięciu przycisku."
+
+#: inc/topbar-settings.php:147
+msgid "Text inside the button."
+msgstr "Treść przycisku."
+
+#: inc/topbar-settings.php:142
+msgid "Button settings"
+msgstr "Ustawienia przycisku"
+
+#: inc/topbar-settings.php:118
+msgid "Message to show in your Top Bar."
+msgstr "Wiadomość do wyświetlenia na górnym pasku."
+
+#: inc/topbar-settings.php:104
+msgid "If enabled, the plugin will try to check for sticky elements in your site's header that may cover or be covered by the Top Bar and fix these issues."
+msgstr "Jeśli opcja jest włączona, wtyczka będzie próbowała sprawdzić, czy w nagłówku witryny nie ma przyklejonych elementów, które mogą zakrywać lub być zakrywane przez górny pasek i rozwiązać te problemy."
+
+#: inc/topbar-settings.php:90
+msgid "Detect fixed navigation"
+msgstr "Wykryj przyklejoną nawigację"
+
+#: inc/topbar-settings.php:71
+msgid "If inactive, this prevents the Top Bar from displaying on your site (takes over all other settings)."
+msgstr "Jeśli nieaktywne, zapobiega wyświetlaniu paska górnego w witrynie (nadpisz wszystkie inne ustawienia)."
+
+#: inc/topbar-settings.php:95 inc/topbar-settings.php:98
+#: inc/topbar-settings.php:100 inc/topbar-settings.php:127
+#: inc/topbar-settings.php:129 inc/topbar-settings.php:132
+msgid "Disabled"
+msgstr "Wyłączono"
+
+#: inc/topbar-settings.php:94 inc/topbar-settings.php:97
+#: inc/topbar-settings.php:101 inc/topbar-settings.php:126
+#: inc/topbar-settings.php:130 inc/topbar-settings.php:133
+msgid "Enabled"
+msgstr "Włączono"
+
+#: inc/topbar-settings.php:136
+msgid "Adds a button to your Top Bar."
+msgstr "Dodaje przycisk do górnego paska."
+
+#: inc/topbar-settings.php:112
+msgid "Content"
+msgstr "Treść"
+
+#: inc/topbar-settings.php:80 inc/topbar-settings.php:83
+msgid "Fixed"
+msgstr "Określone"
+
+#: inc/topbar-settings.php:79 inc/topbar-settings.php:82
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/topbar-settings.php:86
+msgid "If set to Fixed, your Top Bar will remain visible as the user scrolls."
+msgstr "Jeśli jest ustawiony na stałe, górny pasek pozostanie widoczny podczas przewijania."
+
+#: inc/topbar-settings.php:75
+msgid "Position"
+msgstr "Położenie"
+
+#: inc/topbar-settings.php:57
+msgid "Status"
+msgstr "Status"
+
+#: inc/topbar-settings.php:53
+msgid "General"
+msgstr "Ogólne"
+
+#. Author URI of the plugin
+msgid "https://wpdarko.com"
+msgstr "https://wpdarko.com"
+
+#. Author of the plugin
+msgid "WP Darko"
+msgstr "WP Darko"
+
+#. Description of the plugin
+msgid "Simply the easiest way to add a top bar to your website. This plugin adds a simple and clean notification bar at the top of your website, allowing you to show a message to your visitors. Find help and information on our <a href=\"https://wpdarko.com/support\">support site</a>. This is a free plugin, it is NOT limited and does not contain any ad. Check out the <a href='https://wpdarko.com/top-bar/'>PRO version</a> for more great features."
+msgstr "Najprostszy sposób na dodanie górnego paska do witryny. Wtyczka dodaje prosty i przejrzysty pasek powiadomień u góry witryny, umożliwiając wyświetlanie wiadomości odwiedzającym. Szukaj pomocy i informacji w <a href=\"https://wpdarko.com/support\">witrynie pomocy</a>. Jest to darmowa wtyczka, NIE jest ograniczona i nie zawiera żadnych reklam. Sprawdź <a href='https://wpdarko.com/top-bar/'>wersję PRO</a>, aby uzyskać więcej wspaniałych funkcji."
+
+#. Plugin URI of the plugin
+msgid "https://wpdarko.com/top-bar/"
+msgstr "https://wpdarko.com/top-bar/"
+
+#. Plugin Name of the plugin
+msgid "Top Bar"
+msgstr "Pasek górny"
+
+#: inc/topbar-settings.php:151
+msgid "eg. https://wpdarko.com"
+msgstr "np.: https://wpdarko.com"
+
+#: inc/topbar-settings.php:150
+msgid "Button URL"
+msgstr "URL przycisku"
+
+#: inc/topbar-settings.php:146
+msgid "eg. See product"
+msgstr "np.: Zobacz produkt"
+
+#: inc/topbar-settings.php:145
+msgid "Button text"
+msgstr "Tekst przycisku"
+
+#: inc/topbar-settings.php:122
+msgid "Button"
+msgstr "Przycisk"
+
+#: inc/topbar-settings.php:117
+msgid "eg. Check out our new product right now!"
+msgstr "np. Sprawdź nasz nowy produkt już teraz!"
+
+#: inc/topbar-settings.php:116
+msgid "Message"
+msgstr "Wiadomość"
+
+#: inc/topbar-settings.php:62 inc/topbar-settings.php:64
+#: inc/topbar-settings.php:68
+msgid "Inactive"
+msgstr "Nieaktywne"
+
+#: inc/topbar-settings.php:61 inc/topbar-settings.php:65
+#: inc/topbar-settings.php:67
+msgid "Active"
+msgstr "Włączono"

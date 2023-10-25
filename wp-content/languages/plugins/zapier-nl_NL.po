@@ -1,0 +1,28 @@
+# Translation of Plugins - Zapier for WordPress - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Zapier for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-28 15:58:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Zapier for WordPress - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Zapier for WordPress"
+msgstr "Zapier for WordPress"
+
+#. Author URI of the plugin
+msgid "https://zapier.com"
+msgstr "https://zapier.com"
+
+#. Description of the plugin
+msgid "Zapier enables you to automatically share your posts to social media, create WordPress posts from Mailchimp newsletters, and much more. Visit https://zapier.com/apps/wordpress/integrations for more details."
+msgstr "Met Zapier kan je je berichten automatisch delen op sociale media, WordPress berichten maken van Mailchimp nieuwsbrieven en nog veel meer. Bezoek https://zapier.com/apps/wordpress/integrations voor meer details."
+
+#. Author of the plugin
+msgid "Zapier"
+msgstr "Zapier"

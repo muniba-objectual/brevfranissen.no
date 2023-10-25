@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>WordPress installation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Pragma" content="no-cache">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+        /* reset properties */
+        :root {
+            --oci-bg-blue: #0078C8;
+            --oci-semi-blue: rgba(0, 120, 200, .12);
+            --oci-heading-text: #3C3C3C;
+            --oci-body-text: #262626;
+            --oci-light-gray: #8A8989;
+            --oci-icon-gray: #666666;
+            --oci-icon-border-gray: #bdbdbd;
+            --oci-green: #76B82A;
+            --oci-field-text:#3C3C3C;
+        }
+
+        * {
+            -webkit-font-smoothing: antialiased;
+            -webkit-text-size-adjust: 100%;
+            -moz-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%
+        }
+
+        html, body {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+            color: var(--oci-heading-text);
+            margin: 0 !important;
+            padding: 0 !important;
+            font-family: 'Montserrat', sans-serif;
+            line-height: 24px;
+        }
+
+        body, h1, h2, h3, h4, h5, h6 {
+            font-weight: 400;
+            font-style: normal;
+        }
+        aside.nav.oci-doneall.migrationFailed .final-step {
+            font-size: 18px;
+            line-height: 26px;
+            color: var(--oci-heading-text);
+            padding: 0 0 45px;
+            max-width: 620px;
+            font-style: normal;
+            font-weight: 400;
+            text-align: center;
+            margin: 24px 0;
+        }
+        p.wearesorry {
+            font-style: normal;
+            font-weight: 400;
+            font-size: 36px;
+            line-height: 38px;
+            align-items: center;
+            text-align: center;
+            letter-spacing: .2px;
+            color: #3C3C3C;
+            margin: 30px 0 25px;
+        }
+        #linkwebsitewp, aside.nav.oci-doneall.migrationFailed .final-step a {
+            color: #0078C8;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        /* wrapper */
+        #oc-wizard {
+            display: flex;
+            flex-direction: row;
+            overflow: hidden;
+            flex-grow: 1;
+        }
+
+        #oc-wizard .nav {
+            display: flex;
+            flex-direction: column;
+            padding: 40px;
+            justify-content: space-between;
+            width: 58%;
+        }
+
+        #oc-wizard .nav .nav-header {
+            margin: 0;
+            font-size: 18px;
+            line-height: 26px;
+            display: flex;
+            align-content: baseline;
+        }
+        #oc-wizard .nav .nav-header span{
+            display: inline-block;
+        }
+        .onelogo {
+            width: 162.12px;
+            height: 20.04px;
+            margin-right: 24px;
+        }
+        /* last step css */
+
+        #oc-wizard  .final-step>span {
+            font-size: 36px;
+            line-height: 38px;
+            letter-spacing: 0.2px;
+            color: var(--oci-heading-text);
+        }
+
+        #oc-wizard  .final-step>p {
+            font-size: 18px;
+            line-height: 26px;
+            color: var(--oci-heading-text);
+            margin: 15px 0px;
+            max-width: 100%;
+            padding: 0 0 10px 0;
+        }
+
+        #oc-wizard .tab-content #step-4 {
+            justify-content: normal;
+        }
+
+        #step-4 {
+            height: 100%;
+            align-content: center;
+            justify-content: center;
+            width: 100%;
+            align-items: center;
+            text-align: center;
+        }
+        #linkwebsitewp {
+            color: #0078C8;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        #oc-wizard .final-step img {
+            display: flex;
+            margin: auto auto 50px auto;
+        }
+        aside.nav.oci-doneall {
+            height: 100%;
+        }
+
+        /* Media Query from 768px or less */
+        @media screen and (max-width:768px) {
+            #oc-wizard .final-step img{
+                margin: auto auto 30px;
+            }
+            #oc-wizard .final-step>p{
+                padding: 0 0 15px;
+            }
+            #oc-wizard .final-step>span{
+                font-size: 30px;
+                line-height: 34px;
+            }
+
+            #oc-wizard {
+                display: inline-block;
+                overflow: scroll;
+                padding-bottom: 82px;
+                width: 100%;
+            }
+            #oc-wizard .nav {
+                padding: 16px 16px 0;
+                width: calc(100% - 32px);
+                display: inline-block;
+            }
+            #oc-wizard .tab-content {
+                flex-grow: 1;
+                width: 100%;
+            }
+
+            #oc-wizard .nav .nav-header{
+                display: block;
+            }
+            #step-4{
+                align-items: baseline;
+                padding-top: 40px;
+            }
+        }
+    </style>
+</head>
+<body cz-shortcut-listen="true">
+    <!-- wrapper -->
+    <section id="oc-wizard" class="sw sw-theme-none sw-justified">
+        <aside class="nav oci-doneall migrationFailed" style="opacity: 1; width: calc(100% - 40px);">
+            <div class="nav-header">
+                <svg width="163" height="21" viewBox="0 0 163 21" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 162.12px;
+    height: 20.04px;
+    margin-right: 24px;">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M77.2904 12.5234C79.3726 12.5234 81.0603 14.2057 81.0603 16.2807C81.0603 18.3561 79.3726 20.0379 77.2904 20.0379C75.2077 20.0379 73.52 18.3561 73.52 16.2807C73.52 14.2057 75.2077 12.5234 77.2904 12.5234Z" fill="#76B82A"/>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M157.724 20.0382H162.123V8.76702C162.123 3.9254 158.184 0 153.326 0C150.698 0 148.339 1.14807 146.727 2.96787C145.115 1.14807 142.757 0 140.129 0C135.271 0 131.332 3.9254 131.332 8.76702V9.39355V20.0382H135.731V8.76702L135.733 8.61586C135.813 6.26528 137.75 4.38327 140.129 4.38327C142.559 4.38327 144.528 6.34645 144.528 8.76702V20.0382H148.926V8.76702L148.929 8.61586C149.009 6.26528 150.947 4.38327 153.326 4.38327C155.755 4.38327 157.724 6.34645 157.724 8.76702V20.0382ZM106.825 10.0193C106.825 4.48602 111.326 0.00019455 116.879 0.00019455C122.432 0.00019455 126.933 4.48602 126.933 10.0193C126.933 15.5526 122.432 20.0384 116.879 20.0384C111.326 20.0384 106.825 15.5526 106.825 10.0193ZM111.223 10.0193C111.223 13.132 113.755 15.6551 116.879 15.6551C120.003 15.6551 122.535 13.132 122.535 10.0193C122.535 6.90659 120.003 4.38346 116.879 4.38346C113.755 4.38346 111.223 6.90659 111.223 10.0193ZM95.5225 15.6551C92.3989 15.6551 89.8669 13.132 89.8669 10.0193C89.8669 6.90659 92.3989 4.38346 95.5225 4.38346C97.1379 4.38346 98.5905 5.06151 99.6211 6.14348L102.732 3.04389C100.904 1.16916 98.352 0.00019455 95.5225 0.00019455C89.9698 0.00019455 85.4683 4.48602 85.4683 10.0193C85.4683 15.5526 89.9698 20.0384 95.5225 20.0384C98.352 20.0384 100.904 18.8694 102.732 16.9947L99.6211 13.8956C98.5905 14.9771 97.1379 15.6551 95.5225 15.6551ZM69.122 10.0193C69.122 4.48602 64.6205 0.00019455 59.0679 0.00019455C53.5152 0.00019455 49.0137 4.48602 49.0137 10.0193C49.0137 15.5526 53.5152 20.0384 59.0679 20.0384C63.1665 20.0384 66.692 17.5945 68.2577 14.0895L62.9792 14.09C61.9637 15.0592 60.5853 15.6551 59.0679 15.6551C56.4896 15.6551 54.3147 13.9359 53.6338 11.5854H69.0001C69.08 11.075 69.122 10.552 69.122 10.0193ZM44.6132 9.82196C44.5078 4.37957 40.0478 0.00019455 34.561 0.00019455C29.0079 0.00019455 24.5069 4.48602 24.5069 10.0193V20.0384H28.9055V18.3041C28.9055 18.3041 28.9055 18.3046 28.9059 18.3046L28.9055 10.0193L28.9079 9.85307C28.9962 6.81764 31.493 4.38346 34.561 4.38346C37.6841 4.38346 40.2165 6.90659 40.2165 10.0193V18.3037H40.217L40.2165 20.0384H44.6151V10.0193L44.6132 9.82196ZM20.1083 10.0193C20.1083 4.48602 15.6068 0.00019455 10.0541 0.00019455C4.50102 0.00019455 0 4.48602 0 10.0193C0 15.5526 4.50102 20.0384 10.0541 20.0384C15.6068 20.0384 20.1083 15.5526 20.1083 10.0193ZM4.39859 10.0193C4.39859 6.90659 6.93054 4.38346 10.0541 4.38346C13.1772 4.38346 15.7092 6.90659 15.7092 10.0193C15.7092 13.132 13.1772 15.6551 10.0541 15.6551C6.93054 15.6551 4.39859 13.132 4.39859 10.0193ZM53.7342 8.14117C54.5103 5.95197 56.6052 4.38346 59.0679 4.38346C61.5305 4.38346 63.6255 5.95197 64.4015 8.14117H53.7342Z" fill="#3C3C3C"/>
+                </svg>
+                <span>WordPress installation</span>
+            </div>
+            <div id="step-4" class="tab-pane" role="tabpanel" aria-labelledby="step-4" style="display: flex;">
+                <div class="final-step">
+                    <div class="appendHtml">
+                        <svg width="144" height="144" viewBox="0 0 144 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M13.65 130.35V13.65H130.35V130.35H13.65Z" fill="#DECAE1" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5"/>
+                            <path d="M13.65 130.35V13.65H130.35V130.35H13.65Z" fill="#ECC2D8" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5"/>
+                            <path d="M17.35 13C17.35 15.4024 15.4024 17.35 13 17.35C10.5976 17.35 8.65 15.4024 8.65 13C8.65 10.5976 10.5976 8.65 13 8.65C15.4024 8.65 17.35 10.5976 17.35 13Z" fill="white" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5" stroke-linecap="square"/>
+                            <path d="M135.35 13C135.35 15.4024 133.402 17.35 131 17.35C128.598 17.35 126.65 15.4024 126.65 13C126.65 10.5976 128.598 8.65 131 8.65C133.402 8.65 135.35 10.5976 135.35 13Z" fill="white" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5" stroke-linecap="square"/>
+                            <path d="M135.35 131C135.35 133.402 133.402 135.35 131 135.35C128.598 135.35 126.65 133.402 126.65 131C126.65 128.598 128.598 126.65 131 126.65C133.402 126.65 135.35 128.598 135.35 131Z" fill="white" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5" stroke-linecap="square"/>
+                            <path d="M17.35 131C17.35 133.402 15.4024 135.35 13 135.35C10.5976 135.35 8.65 133.402 8.65 131C8.65 128.598 10.5976 126.65 13 126.65C15.4024 126.65 17.35 128.598 17.35 131Z" fill="white" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5" stroke-linecap="square"/>
+                            <path d="M72 118C96.8528 118 117 97.8528 117 73C117 48.1472 96.8528 28 72 28C47.1472 28 27 48.1472 27 73C27 97.8528 47.1472 118 72 118Z" fill="white" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5" stroke-linecap="square"/>
+                            <path d="M46 93C52.1791 84.8018 61.8025 80 72.0065 80C82.2104 80 91.8338 84.8148 98 93" stroke="#3C3C3C" stroke-width="1.3" stroke-miterlimit="1.5"/>
+                        </svg>
+                        <p class="wearesorry">403 - access denied</p>
+                    </div>
+                    <p>It seems like a 1-click WordPress installation was already started but not completed.
+                    <br> <br>
+                        Please complete the installation in the same browser and on the same device that you started it from.
+                        <br><br>Alternatively, you can <a href="https://help.one.com/hc/en-us/articles/115005585889-How-do-I-delete-a-1-click-WordPress-installation-" target="_blank" title="delete">delete</a> the 1-click installation via your <a href="https://login.one.com/" target="_blank" title="one.com control panel">one.com control panel</a> and then restart the installation.
+                    <br> <br>
+                        If you are still experiencing any problems, please  <a href="https://www.one.com/help.do" target="_blank">contact our support</a>.</p>
+                </div>
+            </div>
+        </aside>
+    </section>
+</body></html>

@@ -1,0 +1,3169 @@
+# Translation of Plugins - Imagify – Optimize Images &amp; Convert WebP | Compress Images Easily - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Imagify – Optimize Images &amp; Convert WebP | Compress Images Easily - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-08 13:24:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Imagify – Optimize Images &amp; Convert WebP | Compress Images Easily - Stable (latest release)\n"
+
+#. translators: %1$s = opening link tag, %2$s = closing link tag.
+#: inc/functions/api.php:197
+msgid "An unknown error occurred: %1$sMore info and possible solutions%2$s"
+msgstr "Er is een onbekende fout opgetreden: %1$sMeer info en mogelijke oplossingen%2$s"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:958
+msgid "Unable to release actions from claim id %d."
+msgstr "Kan acties niet vrijgeven van claim id %d."
+
+#. translators: %s is a formatted number (don’t use %d).
+#: views/part-settings-webp-missing-message.php:7
+msgid "It seems that you have %s optimized image without WebP versions. You can generate it here."
+msgid_plural "It seems that you have %s optimized images without WebP versions. You can generate them here."
+msgstr[0] "Het lijkt erop dat je %s geoptimaliseerde afbeelding zonder WepP versies. Je kunt het hier genereren."
+msgstr[1] "Het lijkt erop dat je %s geoptimaliseerde afbeeldingen zonder WepP versies. Je kunt ze hier genereren."
+
+#: views/part-bulk-optimization-success.php:47
+msgid "Leave a review"
+msgstr "Laat een beoordeling achter"
+
+#. translators: 1 is a link tag start, 2 is the link tag end.
+#: views/part-bulk-optimization-success.php:37
+msgid "Please take a few seconds to leave a review on %1$sWordPress.org%2$s. It would mean the world to us!"
+msgstr "Neem een paar seconden de tijd om een beoordeling achter te laten op %1$sWordPress.org%2$s. Het zou de wereld voor ons betekenen!"
+
+#: views/part-bulk-optimization-success.php:32
+msgid "How about spreading the word?"
+msgstr "Hoe zit het met het verspreiden van het woord?"
+
+#. translators: %1$s = number of images, %2$s = data size, %3$s = data size.
+#: views/part-bulk-optimization-success.php:22
+msgid "You optimized %1$s images and saved %2$s out of %3$s"
+msgstr "Je optimaliseerde %1$s afbeeldingen en bespaarde %2$s uit %3$s"
+
+#: views/page-settings.php:78
+msgid "If you are a photographer or focus on the quality of your images rather than the performance, you may be interested in this option to make sure not a single pixel looks different in the optimized image compared with the original."
+msgstr "Als je een fotograaf bent of zich richt op de kwaliteit van je afbeeldingen in plaats van de prestaties, ben je misschien geïnteresseerd in deze optie om ervoor te zorgen dat geen enkele pixel er anders uitziet in de geoptimaliseerde afbeelding in vergelijking met het origineel."
+
+#: views/page-settings.php:78
+msgid "By default, Imagify optimizes your images by using a smart compression to get the best compression rate with an optimal quality."
+msgstr "Standaard optimaliseert Imagify je afbeeldingen door een slimme compressie te gebruiken om de beste compressiesnelheid met een optimale kwaliteit te krijgen."
+
+#: views/page-settings.php:77
+msgid "Lossless compression"
+msgstr "Lossless compressie"
+
+#. translators: %1$s = number of images optimized, %2$s = size saved, %3$s =
+#. total size, %4$s = opening link tag, %5$s = closing link tag.
+#: views/notice-bulk-optimization-complete.php:19
+msgid "We have optimized %1$s images and you have just saved %2$s out of %3$s. %4$sCheck your stats%5$s"
+msgstr "We hebben %1$s afbeeldingen geoptimaliseerd en je hebt zojuist %2$s bespaard van %3$s. %4$sCheck je status%5$s"
+
+#: views/notice-bulk-optimization-complete.php:15
+msgid "The bulk optimization is now complete."
+msgstr "De bulk optimalisatie is nu afgerond."
+
+#. translators: %s is the name of the hook to be cancelled.
+#: inc/Dependencies/ActionScheduler/functions.php:219
+msgid "Caught exception while cancelling action: %s"
+msgstr "Uitzondering gedetecteerd tijdens het annuleren van de actie: %s"
+
+#. translators: %d refers to the total number of taskes completed
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:183
+msgid "%d scheduled task completed."
+msgid_plural "%d scheduled tasks completed."
+msgstr[0] "%d geplande taak afgerond."
+msgstr[1] "%d geplande taken afgerond."
+
+#. translators: %s refers to the exception error message
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:166
+msgid "There was an error running the action scheduler: %s"
+msgstr "Er is een fout opgetreden bij het uitvoeren van de actieplanner: %s"
+
+#. translators: %d refers to the total number of batches executed
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:147
+msgid "%d batch executed."
+msgid_plural "%d batches executed."
+msgstr[0] "%d batch uitgevoerd."
+msgstr[1] "%d batches uitgevoerd."
+
+#. translators: %d refers to how many scheduled taks were found to run
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:130
+msgid "Found %d scheduled task"
+msgid_plural "Found %d scheduled tasks"
+msgstr[0] "Gevonden %d geplande taak"
+msgstr[1] "Gevonden %d geplande taken"
+
+#. translators: %s refers to the schema name
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:30
+msgid "Registered schema for %s"
+msgstr "Geregistreerd schema voor %s"
+
+#. translators: 1: action ID 2: exception message
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:170
+msgid "Error processing action %1$s: %2$s"
+msgstr "Fout bij verwerken van actie %1$s: %2$s"
+
+#. translators: 1: action ID 2: hook name
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:155
+msgid "Completed processing action %1$s with hook: %2$s"
+msgstr "Afgeronde verwerkingsactie %1$s met hook: %2$s"
+
+#. translators: %s refers to the action ID
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:138
+msgid "Started processing action %s"
+msgstr "Verwerking van actie %s begonnen"
+
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:113
+msgid "The claim has been lost. Aborting current batch."
+msgstr "De claim is verloren gegaan. Huidige batch afbreken."
+
+#. translators: %d: amount of actions
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:93
+msgid "Running %d action"
+msgid_plural "Running %d actions"
+msgstr[0] "Actie %d uitvoeren"
+msgstr[1] "%d acties uitvoeren"
+
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:61
+msgid "There are too many concurrent batches."
+msgstr "Er zijn te veel batches tegelijk."
+
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:59
+msgid "There are too many concurrent batches, but the run is forced to continue."
+msgstr "Er zijn te veel batches tegelijk, maar de uitvoering wordt gedwongen door te gaan."
+
+#. translators: %s php class name
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:33
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ProgressBar.php:47
+msgid "The %s class can only be run within WP CLI."
+msgstr "De klasse %s kan alleen worden uitgevoerd binnen WP CLI."
+
+#. translators: 1: source action ID 2: source store class 3: destination action
+#. ID 4: destination store class
+#: inc/Dependencies/ActionScheduler/classes/migration/Runner.php:107
+msgid "Migrated action with ID %1$d in %2$s to ID %3$d in %4$s"
+msgstr "Actie met ID %1$d gemigreerd in %2$s naar ID %3$d in %4$s"
+
+#. translators: %d: amount of actions
+#: inc/Dependencies/ActionScheduler/classes/migration/Runner.php:82
+msgid "Migrating %d action"
+msgid_plural "Migrating %d actions"
+msgstr[0] "%d actie wordt gemigreerd"
+msgstr[1] "%d acties worden gemigreerd"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Controller.php:162
+msgid "Action Scheduler migration in progress. The list of scheduled actions may be incomplete."
+msgstr "Migratie van Action Scheduler wordt uitgevoerd. De lijst met geplande acties kan onvolledig zijn."
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:118
+msgid "Destination logger must be configured before running a migration"
+msgstr "Bestemming logger moet geconfigureerd worden voordat er gemigreerd wordt"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:96
+msgid "Destination store must be configured before running a migration"
+msgstr "Bestemming winkel moet geconfigureerd worden voordat er gemigreerd wordt"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:74
+msgid "Source logger must be configured before running a migration"
+msgstr "Bron logger moet worden geconfigureerd voordat een migratie wordt uitgevoerd"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:52
+msgid "Source store must be configured before running a migration"
+msgstr "Bron opslag moet worden geconfigureerd voordat een migratie wordt uitgevoerd"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/ActionMigrator.php:95
+msgid "Unable to remove source migrated action %s"
+msgstr "Kan bron gemigreerde actie %s niet verwijderen"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
+msgid "Action Group"
+msgstr "Actiegroep"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "No actions found in trash"
+msgstr "Geen acties gevonden in de prullenbak"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+msgid "No actions found"
+msgstr "Geen acties gevonden"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "Search Scheduled Actions"
+msgstr "Zoek geplande acties"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "View Action"
+msgstr "Actie bekijken"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "New Scheduled Action"
+msgstr "Nieuwe geplande actie"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Edit Scheduled Action"
+msgstr "Geplande actie bewerken"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:35
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Add New Scheduled Action"
+msgstr "Nieuwe geplande actie toevoegen"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Add"
+msgstr "Toevoegen"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:32
+msgctxt "Admin menu name"
+msgid "Scheduled Actions"
+msgstr "Geplande acties"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:31
+msgid "Scheduled Action"
+msgstr "Geplande actie"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:20
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr "Geplande acties zijn hooks die op een bepaalde datum en tijd worden geactiveerd."
+
+#. translators: %s: count
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:53
+msgid "In-Progress <span class=\"count\">(%s)</span>"
+msgid_plural "In-Progress <span class=\"count\">(%s)</span>"
+msgstr[0] "In uitvoering <span class=\"count\">(%s)</span>"
+msgstr[1] "In uitvoering <span class=\"count\">(%s)</span>"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:51
+msgctxt "post"
+msgid "In-Progress"
+msgstr "In behandeling"
+
+#. translators: %s: count
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:38
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "Mislukt <span class=\"count\">(%s)</span>"
+msgstr[1] "Mislukt <span class=\"count\">(%s)</span>"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:36
+msgctxt "post"
+msgid "Failed"
+msgstr "Mislukt"
+
+#. translators: %s is the error message
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:1055
+msgid "%s Support for strings longer than this will be removed in a future version."
+msgstr "%s ondersteuning voor strings langer dan deze, wordt in een toekomstige versie verwijderd."
+
+#. translators: %s: action ID
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:878
+msgid "Unable to mark failure on action %s. Database error."
+msgstr "Kan fout bij actie %s niet markeren. Database fout."
+
+#. translators: %s: action ID
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:852
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr "Kan claim voor actie %s niet ontgrendelen. Database fout."
+
+#. translators: %s: claim ID
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:824
+msgid "Unable to unlock claim %s. Database error."
+msgstr "Kan claim %s niet ontgrendelen. Database fout."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:318
+msgid "Invalid schedule. Cannot save action."
+msgstr "Ongeldige planning. Kan actie niet opslaan."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:101
+msgid "Unable to save action."
+msgstr "Kan actie niet opslaan."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1076
+msgid "Unknown status found for action."
+msgstr "Onbekende status gevonden voor actie."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1074
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:904
+msgid "Invalid action ID. No status found."
+msgstr "Ongeldige actie ID. Geen status gevonden."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:864
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:696
+msgid "Unable to claim actions. Database error."
+msgstr "Kan geen acties claimen. Database fout."
+
+#. translators: %s: group name
+#. translators: %s is the group name
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:844
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:717
+msgid "The group \"%s\" does not exist."
+msgstr "De groep \"%s\" bestaat niet."
+
+#. translators: %s: action ID
+#. translators: %s is the action ID
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:632
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:724
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:755
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1001
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1044
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:515
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:534
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:564
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:974
+msgid "Unidentified action %s"
+msgstr "Niet-geïdentificeerde actie %s"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:471
+msgid "Unknown partial args matching value."
+msgstr "Onbekende gedeeltelijke argumenten die overeenkomen met de waarde."
+
+#. translators: %s: provided value type
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:450
+msgid "The value type for the JSON partial matching is not supported. Must be either integer, boolean, double or string. %s type provided."
+msgstr "Het waardetype voor de JSON gedeeltelijke matching wordt niet ondersteund. Moet integer, booleaans, dubbel of string zijn. %s type verstrekt."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:433
+msgid "JSON partial matching not supported in your environment. Please check your MySQL/MariaDB version."
+msgstr "JSON gedeeltelijke matching niet ondersteund in je omgeving. Controleer je MySQL/MariaDB versie."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:375
+msgid "Invalid value for select or count parameter. Cannot query actions."
+msgstr "Ongeldige waarde voor parameter voor selecteren of aantal. Kan acties niet aanvragen."
+
+#. translators: %s: error message
+#. translators: %s: action error message
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:118
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:49
+#: inc/Dependencies/ActionScheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+msgid "Error saving action: %s"
+msgstr "Fout bij het opslaan van actie: %s"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:110
+msgid "Database error."
+msgstr "Database fout."
+
+#. translators: 1: next cleanup message 2: github issue URL
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_WPCommentCleaner.php:108
+msgid "Action Scheduler has migrated data to custom tables; however, orphaned log entries exist in the WordPress Comments table. %1$s <a href=\"%2$s\">Learn more &raquo;</a>"
+msgstr "Action Scheduler heeft gegevens gemigreerd naar aangepaste tabellen; er zijn echter verweesde log vermeldingen in de tabel met WordPress reacties. %1$s <a href=\"%2$s\">Meer informatie &raquo;</a>"
+
+#. translators: %s: date interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_WPCommentCleaner.php:103
+msgid "This data will be deleted in %s."
+msgstr "Deze gegevens zullen worden gewist in %s."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:126
+msgid "Newest Scheduled Date"
+msgstr "Nieuwste geplande datum"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:125
+msgid "Oldest Scheduled Date"
+msgstr "Oudste geplande datum"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:124
+msgid "Count"
+msgstr "Tellen"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:122
+msgid "Action Status"
+msgstr "Actie status"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:118
+msgid "Data store:"
+msgstr "Gegevensopslag:"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:114
+msgid "Version:"
+msgstr "Versie:"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:111
+msgid "This section shows details of Action Scheduler."
+msgstr "Deze sectie toont details van de Action Scheduler."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:111
+msgid "Action Scheduler"
+msgstr "Actieplanner"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_QueueRunner.php:215
+msgid "Every minute"
+msgstr "Iedere minuut"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:648
+msgid "Search hook, args and claim ID"
+msgstr "Zoek hook, args en claim ID"
+
+#. translators: %s: date interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:488
+msgid " (%s)"
+msgstr " (%s)"
+
+#. translators: %s: date interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:485
+msgid " (%s ago)"
+msgstr " (%s geleden)"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:471
+msgid "async"
+msgstr "async"
+
+#. translators: 1: action HTML 2: action ID 3: error message
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:435
+msgid "Could not process change for action: \"%1$s\" (ID: %2$d). Error: %3$s"
+msgstr "Kan wijziging niet verwerken van actie: \"%1$s\" (ID: %2$d). Fout: %3$s"
+
+#. translators: %s: action HTML
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:429
+msgid "Successfully processed change for action: %s"
+msgstr "Wijziging voor actie succesvol verwerkt: %s"
+
+#. translators: %s: action HTML
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:425
+msgid "Successfully canceled action: %s"
+msgstr "Actie succesvol geannuleerd: %s"
+
+#. translators: %s: action HTML
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:421
+msgid "Successfully executed action: %s"
+msgstr "Actie succesvol uitgevoerd: %s"
+
+#. translators: %d: seconds
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:400
+msgid "The next queue will begin processing in approximately %d seconds."
+msgstr "De volgende wachtrij begint over circa %d seconden met verwerken."
+
+#. translators: %s: process URL
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:397
+msgid "A new queue has begun processing. <a href=\"%s\">View actions in-progress &raquo;</a>"
+msgstr "Een nieuwe wachtrij is begonnen met verwerken. <a href=\"%s\">Bekijk acties in werking &raquo;</a>\""
+
+#. translators: %s: amount of claims
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:380
+msgid "Maximum simultaneous queues already in progress (%s queue). No additional queues will begin processing until the current queues are complete."
+msgid_plural "Maximum simultaneous queues already in progress (%s queues). No additional queues will begin processing until the current queues are complete."
+msgstr[0] "Maximale aantal gelijktijdige wachtrijen die al worden verwerkt (%s wachtrij). Er beginnen geen extra wachtrijen met verwerken totdat de huidige wachtrijen zijn afgerond."
+msgstr[1] "Maximale aantal gelijktijdige wachtrijen die al worden verwerkt (%s wachtrijen). Er beginnen geen extra wachtrijen met verwerken totdat de huidige wachtrijen zijn afgerond."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:364
+msgid "It appears one or more database tables were missing. Attempting to re-create the missing table(s)."
+msgstr "Het lijkt erop dat er een of meer databasetabellen ontbreken. Er wordt geprobeerd de ontbrekende tabellen opnieuw aan te maken."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:266
+msgid "Non-repeating"
+msgstr "Niet herhalend"
+
+#. translators: %s: time interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:260
+msgid "Every %s"
+msgstr "Elke %s"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:224
+msgid "Now!"
+msgstr "Nu!"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:174
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s seconde"
+msgstr[1] "%s seconden"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:169
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minuten"
+msgstr[1] "%s minuten"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:164
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s uur"
+msgstr[1] "%s uur"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:159
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s dag"
+msgstr[1] "%s dagen"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:154
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s week"
+msgstr[1] "%s weken"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:149
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s maand"
+msgstr[1] "%s maanden"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:144
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s jaar"
+msgstr[1] "%s jaren"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:134
+msgid "Cancel the action now to avoid it being run in future"
+msgstr "Annuleer de actie nu om te voorkomen dat deze in de toekomst wordt uitgevoerd"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:130
+msgid "Process the action now as if it were run as part of a queue"
+msgstr "Verwerk de actie nu alsof deze wordt uitgevoerd als onderdeel van een wachtrij"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:129
+msgid "Run"
+msgstr "Uitvoeren"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:122
+msgid "Claim ID"
+msgstr "Claim ID"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:101
+msgid "Scheduled Date"
+msgstr "Geplande datum"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:92
+msgid "Delete"
+msgstr "Verwijder"
+
+#. translators: 1: action ID 2: arguments
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_InvalidActionException.php:40
+msgid "Action [%1$s] has invalid arguments. It cannot be JSON decoded to an array. $args = %2$s"
+msgstr "Actie [%1$s] heeft ongeldige argumenten. Het kan niet door JSON worden gedecodeerd naar een array. $args = %2$s"
+
+#. translators: 1: action ID 2: schedule
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_InvalidActionException.php:21
+msgid "Action [%1$s] has an invalid schedule: %2$s"
+msgstr "Actie [%1$s] heeft een ongeldig schema: %2$s"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_DataController.php:137
+msgid "Attempting to reduce used memory..."
+msgstr "Poging om gebruikt geheugen te verminderen …"
+
+#. translators: %d: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_DataController.php:133
+msgid "Stopped the insanity for %d second"
+msgid_plural "Stopped the insanity for %d seconds"
+msgstr[0] "Stopte de waanzin voor %d seconde"
+msgstr[1] "Stopte de waanzin voor %d seconden"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Activity log for the action."
+msgstr "Activiteiten log voor de actie."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:247
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:102
+msgid "Log"
+msgstr "Log"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:246
+msgid "The date/time the action is/was scheduled to run."
+msgstr "De datum/tijd waarop de actie gepland is/was om uit te voeren."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:246
+msgid "Scheduled"
+msgstr "Gepland"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:245
+msgid "The action's schedule frequency."
+msgstr "Het aantal keren dat de actie is gepland."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:245
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:100
+msgid "Recurrence"
+msgstr "Herhaling"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:244
+msgid "Optional action group."
+msgstr "Optionele actiegroep."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:244
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:99
+msgid "Group"
+msgstr "Groep"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:243
+msgid "Optional data array passed to the action hook."
+msgstr "Optionele gegevensreeks doorgegeven aan de actie hook."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:243
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:98
+msgid "Arguments"
+msgstr "Argumenten"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:242
+msgid "Action statuses are Pending, Complete, Canceled, Failed"
+msgstr "Actie statussen zijn in behandeling, afgerond, geannuleerd, mislukt"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:241
+msgid "Name of the action hook that will be triggered."
+msgstr "Naam van de actie hook die wordt geactiveerd."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:241
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:96
+msgid "Hook"
+msgstr "Hook"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:239
+msgid "Scheduled Action Columns"
+msgstr "Geplande actie kolommen"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:237
+msgid "Columns"
+msgstr "Kolommen"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:229
+msgid "Action Scheduler is a scalable, traceable job queue for background processing large sets of actions. Action Scheduler works by triggering an action hook to run at some time in the future. Scheduled actions can also be scheduled to run on a recurring schedule."
+msgstr "Action Scheduler is een schaalbare, traceerbare taak wachtrij om grote hoeveelheden acties op de achtergrond te verwerken. Action Scheduler werkt door het activeren van een actie hook die op een bepaald moment in de toekomst moet worden uitgevoerd. Geplande acties kunnen ook gepland worden om in een terugkerend schema te worden uitgevoerd."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:227
+msgid "About Action Scheduler %s"
+msgstr "Over Action Scheduler %s"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:225
+msgid "About"
+msgstr "Over"
+
+#. translators: 1) is the number of affected actions, 2) is a link to an admin
+#. screen.
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:195
+msgid "<strong>Action Scheduler:</strong> %1$d <a href=\"%2$s\">past-due action</a> found; something may be wrong. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Read documentation &raquo;</a>"
+msgid_plural "<strong>Action Scheduler:</strong> %1$d <a href=\"%2$s\">past-due actions</a> found; something may be wrong. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Read documentation &raquo;</a>"
+msgstr[0] "<strong>Actieplanner:</strong> %1$d <a href=\"%2$s\">achterstallige actie</a> gevonden; er kan iets mis zijn. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Lees documentatie »</a>"
+msgstr[1] "<strong>Actieplanner:</strong> %1$d <a href=\"%2$s\">achterstallige acties</a> gevonden; er kan iets mis zijn. <a href=\"https://actionscheduler.org/faq/#my-site-has-past-due-actions-what-can-i-do\" target=\"_blank\">Lees documentatie »</a>"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:60
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:75
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:76
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:89
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:19
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:30
+msgid "Scheduled Actions"
+msgstr "Geplande acties"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ActionFactory.php:226
+msgid "Invalid action - must be a recurring action."
+msgstr "Ongeldige actie - moet een terugkerende actie zijn."
+
+#. translators: 1: action hook.
+#: inc/Dependencies/ActionScheduler/classes/actions/ActionScheduler_Action.php:37
+msgid "Scheduled action for %1$s will not be executed as no callbacks are registered."
+msgstr "Geplande actie voor %1$s zal niet worden uitgevoerd omdat er geen callbacks zijn geregistreerd."
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:409
+msgid "Canceled"
+msgstr "Geannuleerd"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:408
+msgid "Failed"
+msgstr "Mislukt"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:407
+msgid "In-progress"
+msgstr "In behandeling"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:406
+msgid "Pending"
+msgstr "In afwachting"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:405
+msgid "Complete"
+msgstr "Compleet"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:329
+msgid "ActionScheduler_Action::$args too long. To ensure the args column can be indexed, action args should not be more than %d characters when encoded as JSON."
+msgstr "ActionScheduler_Action::$args te lang. Om de args kolom te kunnen indexeren, mogen actie args niet meer dan %d tekens bevatten wanneer gecodeerd als JSON."
+
+#. translators: %s: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:156
+msgid "There was a failure scheduling the next instance of this action: %s"
+msgstr "Er is een fout opgetreden bij het plannen van de volgende keer dat deze actie wordt uitgevoerd: %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:148
+msgid "There was a failure fetching this action"
+msgstr "Er was een fout bij het ophalen van deze actie"
+
+#. translators: %s: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:146
+msgid "There was a failure fetching this action: %s"
+msgstr "Er is een fout opgetreden bij het ophalen van deze actie: %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:131
+msgid "action ignored"
+msgstr "actie genegeerd"
+
+#. translators: %s: context
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:129
+msgid "action ignored via %s"
+msgstr "actie genegeerd via %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:123
+msgid "action reset"
+msgstr "actie reset"
+
+#. translators: 1: error message 2: filename 3: line
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:118
+msgid "unexpected shutdown: PHP Fatal error %1$s in %2$s on line %3$s"
+msgstr "onverwacht afgesloten: Fatale PHP fout %1$s in %2$s op de lijn %3$s"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:112
+msgid "action marked as failed after %s seconds. Unknown error occurred. Check server, PHP and database error logs to diagnose cause."
+msgstr "actie gemarkeerd als mislukt na %s seconden. Onbekende fout opgetreden. Controleer server, PHP en database fout logs om de oorzaak te achterhalen."
+
+#. translators: %s: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:105
+msgid "action failed: %s"
+msgstr "actie mislukt: %s"
+
+#. translators: 1: context 2: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:102
+msgid "action failed via %1$s: %2$s"
+msgstr "actie mislukt via %1$s: %2$s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:94
+msgid "action complete"
+msgstr "actie afgerond"
+
+#. translators: %s: context
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:92
+msgid "action complete via %s"
+msgstr "actie afgerond via %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:84
+msgid "action started"
+msgstr "actie gestart"
+
+#. translators: %s: context
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:82
+msgid "action started via %s"
+msgstr "actie gestart via %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:76
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBLogger.php:142
+msgid "action canceled"
+msgstr "actie geannuleerd"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:72
+msgid "action created"
+msgstr "actie gemaakt"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:96
+msgid "This action appears to be consistently failing. A new instance will not be scheduled."
+msgstr "Deze actie lijkt steeds te mislukken. Er wordt geen nieuwe actie gepland."
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:755
+msgid "Search"
+msgstr "Zoeken"
+
+#. translators: %s: search query
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:650
+msgid "Search results for \"%s\""
+msgstr "Zoekresultaten voor \"%s\""
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:523
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler.php:195
+msgid "%s() was called before the Action Scheduler data store was initialized"
+msgstr "%s() is aangeroepen voordat de actieplanner gegevensopslag was geïnitialiseerd"
+
+#. Author of the plugin
+msgid "Imagify – Optimize Images & Convert WebP"
+msgstr "Imagify – Optimize Images & Convert WebP"
+
+#. translators: %s is an optimization level.
+#: views/button/re-optimize.php:36
+msgid "Re-Optimize with %s compression"
+msgstr "Optimaliseer opnieuw met %s compressie"
+
+#: inc/functions/common.php:385 views/button/re-optimize.php:21
+msgid "Lossless"
+msgstr "Lossless"
+
+#: inc/functions/common.php:383 views/button/re-optimize.php:22
+#: views/button/re-optimize.php:23
+msgid "Smart"
+msgstr "Slim"
+
+#. translators: %1$s is a formatted percentage, %2$s is a subscription plan
+#. name.
+#: views/part-discount-banner.php:10
+msgid "%1$s OFF on %2$s subscriptions"
+msgstr "%1$s Korting op %2$s abonnementen"
+
+#: views/part-bulk-optimization-overquota-alert.php:13
+msgid "To continue optimizing your images, you can upgrade your subscription."
+msgstr "Om door te gaan met het optimaliseren van je afbeeldingen, kun je je abonnement opwaarderen."
+
+#: inc/functions/i18n.php:148
+msgid "This coupon is not valid with this plan."
+msgstr "Deze waardebon is niet geldig bij dit abonnement."
+
+#: inc/classes/class-imagify-settings.php:401
+msgid "Please consider writing more inclusive code."
+msgstr "Overweeg om meer inclusieve code te schrijven."
+
+#: inc/functions/api.php:202
+msgid "Our server returned an invalid response."
+msgstr "Onze server gaf een ongeldige reactie terug."
+
+#: views/part-settings-library.php:53
+msgid "Resizing is done only during optimization."
+msgstr "Het aanpassen van de afmetingen gebeurt alleen tijdens de optimalisatie."
+
+#: views/part-settings-library.php:51
+msgid "Resizing is done on upload or during optimization."
+msgstr "Het aanpassen van de afmetingen gebeurt tijdens het uploaden of tijdens de optimalisatie."
+
+#: classes/Optimization/File.php:192
+msgid "No threshold provided for resizing."
+msgstr "Geen drempel voorzien voor het wijzigen van de grootte."
+
+#. Author URI of the plugin
+msgid "https://imagify.io"
+msgstr "https://imagify.io"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:229
+msgid "This media does not have the right optimization status."
+msgstr "Deze media heeft niet de correcte optimalisatie status."
+
+#: views/button/delete-webp.php:25
+msgid "Delete WebP images"
+msgstr "Verwijder WebP afbeeldingen"
+
+#: views/button/delete-webp.php:17
+msgid "Deleting..."
+msgstr "Verwijderen..."
+
+#. translators: %s is a file path.
+#: classes/Optimization/Process/AbstractProcess.php:1475
+msgid "The file %s could not be deleted."
+msgstr "Het bestand %s kon niet verwijderd worden."
+
+#: classes/Optimization/Process/AbstractProcess.php:1439
+msgid "Could not get the path to the WebP file."
+msgstr "Kon het pad naar het WebP bestand niet ophalen."
+
+#: classes/Optimization/Process/AbstractProcess.php:1432
+msgid "Path to non-WebP file not provided."
+msgstr "Pad naar het niet-WepP bestand is niet aangegeven."
+
+#. translators: %s is a formatted number, don’t use %d.
+#: classes/Optimization/Process/AbstractProcess.php:1411
+msgid "%s file could not be deleted."
+msgid_plural "%s files could not be deleted."
+msgstr[0] "%s bestand kon niet worden verwijderd."
+msgstr[1] "%s bestanden kon niet worden verwijderd."
+
+#: classes/Optimization/Process/AbstractProcess.php:265
+#: inc/classes/class-imagify-admin-ajax-post.php:240
+msgid "Previous WebP files could not be deleted."
+msgstr "Vorige WebP bestanden konden niet verwijderd worden."
+
+#: inc/functions/i18n.php:117
+msgid "Because the selected images did not have a backup copy, Imagify was unable to create WebP versions."
+msgstr "Omdat de geselecteerde afbeeldingen geen back-up kopie hadden was het niet mogelijk voor Imagify om WebP versies te maken."
+
+#: classes/Bulk/Bulk.php:247
+msgid "The path to the selected files could not be retrieved."
+msgstr "Het pad naar de geselecteerde bestanden kon niet opgehaald worden."
+
+#: classes/Optimization/Process/AbstractProcess.php:623
+msgid "This file is an animated gif: since Imagify does not support animated WebP, WebP creation for animated gif is disabled."
+msgstr "Dit bestand is een geanimeerde gif: omdat Imagify geen geanimeerde WebP ondersteund, WebP creatie voor de geanimeerd gif is uitgeschakeld."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:766
+#: classes/Optimization/Process/AbstractProcess.php:795
+msgid "The WebP version of the size %s is heavier than its non-WebP version."
+msgstr "De WebP versie heeft de grootte %s wat groter is dan de non-WebP versie."
+
+#: views/part-settings-webp.php:85
+msgid "https://cdn.example.com"
+msgstr "https://cdn.example.com"
+
+#: views/part-settings-webp.php:82
+msgid "If you use a CDN, specify the URL:"
+msgstr "Als je gebruik maakt van een CDN, specifieer de URL:"
+
+#. translators: %s is an URL.
+#: views/part-settings-webp.php:70
+msgid "Your CDN URL is set to %1$s by filter."
+msgstr "Je CDN URL is ingesteld op %1$s door filter."
+
+#. translators: 1 is an URL, 2 is a plugin name.
+#: views/part-settings-webp.php:63
+msgid "Your CDN URL is set to %1$s by %2$s."
+msgstr "Je CDN URL is ingesteld op %1$s op %2$s."
+
+#. translators: 1 is an URL, 2 is a php constant name.
+#: views/part-settings-webp.php:56
+msgid "Your CDN URL is set to %1$s by the constant %2$s."
+msgstr "Je CDN URL is ingesteld op %1$s door de constante %2$s."
+
+#. translators: 1 and 2 are <em> tag opening and closing.
+#: views/part-settings-webp.php:40
+msgid "Use &lt;picture&gt; tags %1$s(preferred)%2$s"
+msgstr "Gebruik &lt;afbeelding&gt; tags %1$s(gewenst)%2$s"
+
+#. translators: %s is the plugin name.
+#: inc/classes/class-imagify-requirements-check.php:328
+#: inc/classes/class-imagify-requirements-check.php:339
+msgid "%s Update Rollback"
+msgstr "%s Update terugzetten"
+
+#. translators: %s = Previous plugin version.
+#: inc/classes/class-imagify-requirements-check.php:270
+msgid "Re-install version %s"
+msgstr "Herïnstalleer versie %s"
+
+#: inc/classes/class-imagify-requirements-check.php:268
+msgid "If you are not able to upgrade, you can rollback to the previous version by using the button below."
+msgstr "Als je niet kunt upgraden, kan je teruggaan naar de vorige versie met behulp van de onderstaande knop."
+
+#. translators: %1$s = Plugin name, %2$s = Plugin version, $3$s is something
+#. like "PHP 5.4" or "PHP 5.4 and WordPress 4.0".
+#: inc/classes/class-imagify-requirements-check.php:266
+msgid "To function properly, %1$s %2$s requires at least %3$s."
+msgstr "Om goed te kunnen functioneren, vereist %1$s %2$s ten minste %3$s."
+
+#. translators: %1$s = Plugin name, %2$s = WordPress version required.
+#: inc/classes/class-imagify-requirements-check.php:258
+msgid "To use this %1$s version, please upgrade WordPress to version %2$s or higher."
+msgstr "Om deze %1$s versie te gebruiken, voer een upgrade uit van WordPress naar versie %2$s of hoger."
+
+#. translators: %1$s = Plugin name, %2$s = PHP version required.
+#: inc/classes/class-imagify-requirements-check.php:252
+msgid "To use this %1$s version, please ask your web host how to upgrade your server to PHP %2$s or higher."
+msgstr "Om deze %1$s versie te gebruiken, vraag je webhost hoe je je server kunt upgraden naar PHP %2$s of hoger."
+
+#: inc/functions/i18n.php:116 inc/functions/i18n.php:265
+msgid "All your optimized images already have a WebP version. Congratulations!"
+msgstr "Al je geoptimaliseerde afbeeldingen hebben reeds een WebP versie."
+
+#. translators: %s is a float number.
+#: inc/functions/api.php:258
+msgid "Request was throttled. Expected available in %s second."
+msgid_plural "Request was throttled. Expected available in %s seconds."
+msgstr[0] "Aanvraag was onderdrukt. Verwachte beschikbaarheid in %s second."
+msgstr[1] "Aanvraag was onderdrukt. Verwachte beschikbaarheid in %s seconden."
+
+#. translators: %s is an error message.
+#: inc/functions/api.php:240
+msgid "Our server returned an error (%s)."
+msgstr "Onze server heeft een fout geretourneerd (%s)."
+
+#. translators: 1: PHP class name, 2: version number.
+#: inc/functions/common.php:546
+msgid "The called class %1$s is <strong>deprecated</strong> since version %2$s!"
+msgstr "De aangeroepen klasse %1$s is <strong>verouderd</strong> sinds versie %2$s!"
+
+#. translators: 1: PHP class name, 2: version number, 3: replacement class
+#. name.
+#: inc/functions/common.php:530
+msgid "The called class %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr "De aangeroepen klasse %1$s is <strong>verouderd</strong> sinds versie %2$s! Gebruik in plaats daarvan %3$s."
+
+#. translators: 1: PHP class name, 2: PHP parent class name, 3: version number.
+#: inc/functions/common.php:510
+msgid "The called class %1$s extending %2$s is <strong>deprecated</strong> since version %3$s!"
+msgstr "De aangeroepen klasse %1$s is <strong>verouderd</strong> sinds versie %2$s! Gebruik in plaats daarvan %3$s."
+
+#. translators: 1: PHP class name, 2: PHP parent class name, 3: version number,
+#. 4: replacement class name.
+#: inc/functions/common.php:493
+msgid "The called class %1$s extending %2$s is <strong>deprecated</strong> since version %3$s! Use %4$s instead."
+msgstr "De aangeroepen klasse %1$s uitgebreid met %2$s is <strong>verouderd</strong> sinds versie %3$s. Gebruik %4$s in plaats daarvan."
+
+#: inc/admin/meta-boxes.php:59 inc/functions/admin-ui.php:481
+msgid "Processing..."
+msgstr "Aan het verwerken ..."
+
+#: inc/classes/class-imagify-files-list-table.php:631
+#: inc/functions/admin-ui.php:93
+msgid "WebP generated:"
+msgstr "WebP gegenereerd:"
+
+#: inc/classes/class-imagify-files-list-table.php:628
+#: inc/functions/admin-ui.php:92
+msgid "No"
+msgstr "Nee"
+
+#: inc/classes/class-imagify-files-list-table.php:628
+#: inc/functions/admin-ui.php:92
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:210
+msgid "File(s) could not be removed from the CDN."
+msgstr "Bestand(en) kon niet verwijderd worden van de CDN."
+
+#. translators: %s is a list of file paths.
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:147
+msgid "The following file could not be retrieved from the CDN: %s."
+msgid_plural "The following files could not be retrieved from the CDN: %s."
+msgstr[0] "Het volgende bestand kon niet van het CDN opgehaald worden: %s."
+msgstr[1] "De volgende bestanden kon niet van het CDN opgehaald worden: %s."
+
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:115
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:179
+msgid "This media could not be found on the CDN."
+msgstr "Deze media kon niet gevonden worden op de CDN."
+
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:108
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:172
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:230
+msgid "CDN is not set up."
+msgstr "CDN is niet ingesteld."
+
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:348
+msgid "Related NextGen Gallery data could not be saved."
+msgstr "Gerelateerde NextGen Gallery gegevens konden niet opgeslagen worden."
+
+#: views/button/generate-webp.php:26
+msgid "Generate WebP versions"
+msgstr "Genereer WebP versies"
+
+#: views/button/generate-webp.php:17
+msgid "Generating..."
+msgstr "Aan het genereren..."
+
+#: views/input/selector.php:13
+msgid "Current value:"
+msgstr "Huidige waarde:"
+
+#: views/part-settings-webp.php:142
+msgid "Generate missing WebP versions"
+msgstr "Geneer de ontbrekende WebP versies"
+
+#. translators: 1 is a file name, 2 is a <strong> tag opening, 3 is the
+#. <strong> tag closing.
+#: views/part-settings-webp.php:101
+msgid "The first option adds rewrite rules to your site’s configuration file (%1$s) and does not alter your pages code. %2$sThis does not work with CDN though.%3$s"
+msgstr "De eerste optie voegt herschrijf regels toe aan je site's configuratiebestand (%1$s) en past je pagina code niet aan. %2$sDit werkt niet met een CDN.%3$s"
+
+#. translators: 1 and 2 are HTML tag names, 3 is a <strong> tag opening, 4 is
+#. the <strong> tag closing.
+#: views/part-settings-webp.php:112
+msgid "The second option replaces the %1$s tags with %2$s tags. %3$sThis is the preferred solution but some themes may break%4$s, so make sure to verify that everything seems fine."
+msgstr "De tweede optie vervangt de %1$s tags met %2$s tags. %3$sDit is de beste oplossing maar sommige thema's kunnen mogelijk stukgaan%4$s, dus zorg er voor dat alles in orde is."
+
+#: views/part-settings-webp.php:38
+msgid "Use rewrite rules"
+msgstr "Gebruik herschrijf regels"
+
+#: views/part-settings-webp.php:29
+msgid "Display images in WebP format on the site"
+msgstr "Toon afbeeldingen in WebP format op de site"
+
+#: views/part-settings-webp.php:18
+msgid "Create WebP versions of images"
+msgstr "Creëer WebP versies van afbeeldingen"
+
+#: views/part-settings-webp.php:12
+msgid "WebP format"
+msgstr "Webp format"
+
+#. translators: 1 is a php class name, 2 is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:116
+msgid "The class %1$s is not present on your server, a %2$s file cannot be created nor edited."
+msgstr "De klasse %1$s is niet aanwezig op je server, een %2$s bestand kan niet aangemaakt noch bewerkt worden."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:353
+msgid "Could not write into the %s file."
+msgstr "Kon niet naar het %s bestand schrijven."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:195
+#: classes/WriteFile/AbstractWriteDirConfFile.php:320
+msgid "The %s file could not be read."
+msgstr "Het %s bestand kon niet gelezen worden."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:157
+#: classes/WriteFile/AbstractWriteDirConfFile.php:209
+msgid "The %s file is not writable."
+msgstr "Het %s bestand is niet schrijfbaar."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:146
+#: classes/WriteFile/AbstractWriteDirConfFile.php:199
+msgid "The %s file could not be created."
+msgstr "Het %s bestand kon niet worden gemaakt."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:133
+#: classes/WriteFile/AbstractWriteDirConfFile.php:189
+msgid "%s’s parent folder is not writable."
+msgstr "%s zijn hoofdmap is niet schrijfbaar."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:105
+#: classes/WriteFile/AbstractWriteDirConfFile.php:173
+msgid "Edition of the %s file is disabled."
+msgstr "Het bewerken van het %s bestand is uitgeschakeld."
+
+#. translators: 1 is a file name, 2 is an error message.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:118
+msgid "Imagify could not remove contents from the %1$s file: %2$s"
+msgstr "Imagify kon de inhoud niet verwijderen van het %1$s bestand: %2$s"
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:108
+msgid "Imagify did not remove the contents from the %s file, as its edition is disabled."
+msgstr "Imagify heeft de inhoud niet verwijderd van het %s bestand, omdat bewerking uitgeschakeld is."
+
+#. translators: 1 is a file name, 2 is an error message.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:77
+msgid "Imagify could not insert contents into the %1$s file: %2$s"
+msgstr "Imagify kon geen inhoud toevoegen aan het %1$s bestand: %2$s"
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:67
+msgid "Imagify did not add contents to the %s file, as its edition is disabled."
+msgstr "Imagify heeft de inhoud niet toegevoegd aan het %s bestand, omdat bewerking uitgeschakeld is."
+
+#. translators: %s is a file name.
+#: classes/Webp/RewriteRules/Display.php:140
+msgid "If you choose to use rewrite rules, the file %s will be created and must be included into the server’s configuration file (then restart the server)."
+msgstr "Als je kiest om de herschrijf regels te gebruiken, het bestand %s zal aangemaakt worden en moet bijgevoegd worden in het serverconfiguratiebestand (herstart daarna de server)."
+
+#. translators: %s is a file name.
+#: classes/Webp/RewriteRules/Display.php:132
+msgid "If you choose to use rewrite rules, you will have to add the following lines manually to the %s file:"
+msgstr "Als je kiest om de herschrijf regels te gebruiken moet je de volgende regels handmatig toevoegen in het %s bestand:"
+
+#. translators: %s is a file name.
+#: classes/Webp/Display.php:115
+msgid "Imagify does not seem to be able to edit or create a %s file, you will have to add the following lines manually to it:"
+msgstr "Het lijkt erop dat Imagify niet het %s bestand kan aanmaken of bewerken, je zal handmatig de volgende regels moeten toevoegen:"
+
+#: classes/Optimization/Process/AbstractProcess.php:1354
+msgid "This media does not have files that can be converted to WebP format."
+msgstr "Deze media heeft geen bestanden die geconverteerd kunnen worden naar het WebP format."
+
+#: classes/Optimization/Process/AbstractProcess.php:1338
+msgid "This media already has WebP versions."
+msgstr "Dit media heeft reeds WebP versies."
+
+#: classes/Optimization/Process/AbstractProcess.php:1334
+msgid "This media has not been optimized by Imagify yet."
+msgstr "Deze media is nog niet door Imagify geoptimaliseerd."
+
+#: classes/Optimization/Process/AbstractProcess.php:1324
+msgid "This media is not an image and cannot be converted to WebP format."
+msgstr "Deze media is geen afbeelding en kan niet geconverteerd worden naar het WebP format."
+
+#: classes/Optimization/Process/AbstractProcess.php:1243
+msgid "The image could not be replaced by the resized one."
+msgstr "De afbeelding kon niet vervangen worden met de afbeelding met aangepaste afmetingen."
+
+#. translators: %s is an error message.
+#: classes/Optimization/Process/AbstractProcess.php:1227
+msgid "Backup failed: %s"
+msgstr "Back-up mislukt: %s"
+
+#: classes/Optimization/Process/AbstractProcess.php:1186
+msgid "Imagify could not get the image dimensions."
+msgstr "Imagify kon de afbeeldingsdimensies niet achterhalen."
+
+#. translators: %s is an error message.
+#: classes/Optimization/Process/AbstractProcess.php:1185
+#: classes/Optimization/Process/AbstractProcess.php:1211
+msgid "Resizing failed: %s"
+msgstr "Grootte aanpassen mislukt: %s"
+
+#: classes/Optimization/Process/AbstractProcess.php:876
+msgid "The backup file could not be copied over the optimized one."
+msgstr "Het back-up bestand kon niet gekopieerd worden over de geoptimaliseerde."
+
+#: classes/Optimization/Process/AbstractProcess.php:824
+#: classes/Optimization/Process/AbstractProcess.php:1328
+msgid "This media has no backup file."
+msgstr "Deze media heeft geen back-up bestand."
+
+#: classes/Optimization/Process/AbstractProcess.php:574
+msgid "This file is not an image and cannot be converted to WebP format."
+msgstr "Dit bestand is geen afbeelding en kan niet geconverteerd worden naar het WebP format."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:519
+msgid "Could not create an unoptimized copy of the size %s."
+msgstr "Kon geen niet geoptimaliseerde kopie maken van de afmeting %s."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:495
+msgid "The size %s is already optimized by Imagify."
+msgstr "Deze afmeting %s is reeds door Imafigy geoptimaliseerd."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:486
+msgid "The WebP format for the size %s already exists."
+msgstr "Het WebP format voor deze grootte %s bestaat reeds."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:473
+msgid "The size %s is unknown."
+msgstr "De grootte %s is onbekend."
+
+#: classes/Optimization/Process/AbstractProcess.php:349
+msgid "No sizes given to be optimized."
+msgstr "Geen afmetingen gegeven voor optimalisatie."
+
+#: classes/Optimization/Process/AbstractProcess.php:307
+msgid "This media is already optimized with this level."
+msgstr "Deze media is reeds geoptimaliseerd met dit niveau."
+
+#: classes/Optimization/Process/AbstractProcess.php:301
+msgid "This media has not been processed yet."
+msgstr "Deze media is nog niet verwerkt."
+
+#: classes/Optimization/Process/AbstractProcess.php:256
+msgid "This media has already been optimized by Imagify."
+msgstr "Deze media is reeds door Imagify geoptimaliseerd."
+
+#: classes/Optimization/Process/WP.php:168
+msgid "The optimization level of this media seems to have disappear from the database. You should restore this media and then launch a new optimization."
+msgstr "Het optimalisatieniveau van deze media lijkt verdwenen te zijn van de database. Je zou deze media moeten herstellen en een nieuwe optimalisatie starten."
+
+#: classes/Optimization/Process/WP.php:161
+msgid "The thumbnails failed to be created."
+msgstr "Het maken van de thumbnails is mislukt."
+
+#: classes/Optimization/Process/AbstractProcess.php:354
+#: classes/Optimization/Process/AbstractProcess.php:828
+#: classes/Optimization/Process/WP.php:151
+msgid "This media is already being processed."
+msgstr "Deze media zal al verwerkt worden."
+
+#: classes/Optimization/Process/CustomFolders.php:101
+#: classes/Optimization/Process/WP.php:143
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:86
+msgid "No thumbnails seem to be missing."
+msgstr "Er lijken geen thumbnails te ontbreken."
+
+#: classes/Optimization/Process/AbstractProcess.php:1381
+#: classes/Optimization/Process/CustomFolders.php:76
+#: classes/Optimization/Process/WP.php:69
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:61
+msgid "This media is not an image."
+msgstr "Deze media is geen afbeelding."
+
+#: classes/Optimization/Process/CustomFolders.php:68
+#: classes/Optimization/Process/WP.php:61
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:53
+msgid "This media is not optimized yet."
+msgstr "Deze media is nog niet geoptimaliseerd."
+
+#. translators: %1$s is an error message, %2$s is a "More info?" link.
+#: classes/Optimization/File.php:603
+msgid "No php extensions are available to edit images on the server. ImageMagick or GD is required. The internal error is: %1$s. %2$s"
+msgstr "Er zijn geen php uitbereidingen beschikbaar voor het bewerken van afbeeldingen op de server. ImageMagick of GD is vereist. De interne fout is: %1$s. %2$s"
+
+#: classes/Optimization/File.php:391
+msgid "Error while retrieving the backups directory path."
+msgstr "Er is een fout opgetreden bij het ophalen van het back-up folder pad."
+
+#: classes/Optimization/File.php:365 classes/Optimization/File.php:545
+msgid "The file could not be moved to its final destination."
+msgstr "Het bestand kon niet verplaatst worden naar de laatste bestemming."
+
+#: classes/Optimization/File.php:341
+msgid "The thumbnail could not be created."
+msgstr "De thumbnail kon niet aangemaakt worden."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:201 classes/Optimization/File.php:325
+msgid "The file %s does not seem to be an image, and cannot be resized."
+msgstr "Het bestand %s lijkt geen afbeelding te zijn en kan dus niet in grootte aangepast worden."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:152
+msgid "The folder %s does not seem to be writable."
+msgstr "Deze map %s lijkt niet schrijfbaar te zijn."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:139
+#: classes/Optimization/Process/AbstractProcess.php:630
+#: classes/Optimization/Process/AbstractProcess.php:1451
+msgid "The file %s does not seem to be writable."
+msgstr "Het bestand %s lijkt niet schrijfbaar te zijn."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:128
+#: classes/Optimization/Process/AbstractProcess.php:1462
+msgid "This does not seem to be a file: %s."
+msgstr "Dit lijkt geen bestand te zijn: %s."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:117
+#: classes/Optimization/Process/AbstractProcess.php:616
+msgid "The file %s does not seem to exist."
+msgstr "Het bestand %s lijkt niet te bestaan."
+
+#: classes/Media/CustomFolders.php:235 classes/Media/Noop.php:242
+#: classes/Media/WP.php:210
+#: classes/Optimization/Process/AbstractProcess.php:244
+#: classes/Optimization/Process/AbstractProcess.php:289
+#: classes/Optimization/Process/AbstractProcess.php:339
+#: classes/Optimization/Process/AbstractProcess.php:452
+#: classes/Optimization/Process/AbstractProcess.php:814
+#: classes/Optimization/Process/AbstractProcess.php:1318
+#: classes/Optimization/Process/AbstractProcess.php:1375
+#: classes/Optimization/Process/CustomFolders.php:56
+#: classes/Optimization/Process/CustomFolders.php:94
+#: classes/Optimization/Process/Noop.php:139
+#: classes/Optimization/Process/Noop.php:153
+#: classes/Optimization/Process/Noop.php:168
+#: classes/Optimization/Process/Noop.php:183
+#: classes/Optimization/Process/Noop.php:196
+#: classes/Optimization/Process/Noop.php:239
+#: classes/Optimization/Process/Noop.php:299
+#: classes/Optimization/Process/WP.php:49
+#: classes/Optimization/Process/WP.php:133
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:277
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:41
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:79
+#: inc/classes/class-imagify-admin-ajax-post.php:223
+#: inc/classes/class-imagify-custom-folders.php:295
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:212
+#: inc/functions/admin-ui.php:438
+msgid "This media is not valid."
+msgstr "Deze media is niet geldig."
+
+#. translators: %s is a formatted price.
+#: views/modal-payment.php:131 views/modal-payment.php:290
+msgid "%s per<br>additional Gb"
+msgstr "%s per<br>extra Gb"
+
+#: views/modal-payment.php:71
+msgid "Based on your recent upload usage."
+msgstr "Gebaseerd op je recente uploadgebruik."
+
+#: views/modal-payment.php:69
+msgid "Our recommendation for you"
+msgstr "Onze aanbeveling voor je"
+
+#. translators: %s is a "More info?" link.
+#: inc/deprecated/deprecated.php:628 inc/functions/i18n.php:108
+#: inc/functions/i18n.php:253
+msgid "No php extensions are available to edit images on the server. ImageMagick or GD is required. %s"
+msgstr "Er zijn geen php uitbereidingen beschikbaar voor het bewerken van afbeeldingen op de server. ImageMagick of GD is vereist. %s"
+
+#. translators: %s is an error message.
+#: inc/functions/api.php:234
+msgid "An error occurred (%s)."
+msgstr "Er is een fout opgetreden (%s)."
+
+#: inc/functions/api.php:194
+msgid "Could not initialize a new cURL handle."
+msgstr "Kon de nieuwe cURL handle niet initialiseren."
+
+#: views/page-settings.php:155
+msgid "Display Partner Links"
+msgstr "Toon partner links"
+
+#: views/page-settings.php:143
+msgid "Partners"
+msgstr "Partners"
+
+#. translators: %s is a file size.
+#: views/page-bulk.php:200
+msgid "All images greater than %s (after resizing, if any) will be optimized when using a paid plan."
+msgstr "Alle afbeeldingen die groter te zijn dan %s (zelfs na eventuele formaat aanpassing) zullen geoptimaliseerd worden met een betalend abonnement."
+
+#: views/modal-settings-partners-infos.php:8
+msgid "Partner links are links to products we trust which might be displayed in the Imagify plugin or the plugin modal page.  We may earn an affiliate commission if you make a purchase via these links."
+msgstr "Partner links zijn links naar producten die we vertrouwen en worden mogelijk getoond op de Imagify plugin of de plugin modal pagina. We krijgen een partner commissie als je een aankoop doet via deze links."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:756
+msgid "No optimizable files"
+msgstr "Geen bestanden om te optimaliseren"
+
+#. translators: 1 is this plugin name, 2 is the required WP version, 3 is the
+#. current WP version.
+#: inc/deprecated/deprecated.php:354
+msgid "%1$s requires WordPress %2$s minimum, your website is actually running version %3$s."
+msgstr "%1$s vereist minimaal WordPress %2$s, je site gebruikt nu versie %3$s."
+
+#: inc/deprecated/deprecated.php:352
+msgid "Notice:"
+msgstr "Bericht:"
+
+#: views/part-settings-custom-folders.php:175
+msgid "Folders that are hidden in the folder selector window are excluded and will not be optimized even if a parent folder is selected."
+msgstr "Mappen die verborgen zijn in het mappen selecteervenster worden uitgesloten en zullen niet geoptimaliseerd worden zelfs al is de hoofdmap geselecteerd."
+
+#. translators: 1 and 2 are <strong> opening and closing tags.
+#: views/part-settings-custom-folders.php:169
+msgid "%1$sSelecting a folder will also optimize images in sub-folders.%2$s The only exception is \"Site’s root\": when selected, only images that are directly at the site’s root will be optimized (sub-folders can be selected separately)."
+msgstr "%1$sBij het selecteren van een map zullen alle afbeeldingen van een submap ook geoptimaliseerd worden.%2$s De enige uitzondering is de site root: wanneer geselecteerd zullen alleen de afbeeldingen die in de root staan geoptimaliseerd worden (submappen kunnen nog apart geselecteerd worden)."
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/functions/i18n.php:281
+msgid "%s Media File(s) Optimized"
+msgstr "%s media bestand(en) geoptimaliseerd"
+
+#: inc/functions/i18n.php:195
+msgid "Optimized File"
+msgstr "Geoptimaliseerd bestand"
+
+#: inc/functions/i18n.php:194
+msgid "Original File"
+msgstr "Origineel bestand"
+
+#. translators: %s is a formatted number, dont use %d.
+#: classes/Bulk/AbstractBulk.php:68 inc/deprecated/deprecated.php:1108
+msgid "%s Media File Optimized"
+msgid_plural "%s Media Files Optimized"
+msgstr[0] "%s media bestand geoptimaliseerd"
+msgstr[1] "%s media bestanden geoptimaliseerd"
+
+#: inc/classes/Dependencies/deliciousbrains/wp-background-processing/classes/wp-background-process.php:425
+msgid "Every %d Minutes"
+msgstr "Elke %d minuten"
+
+#: inc/classes/class-imagify-views.php:279
+msgid "Optimize your media files"
+msgstr "Optimaliseer je mediabestanden"
+
+#: inc/classes/class-imagify-files-list-table.php:658
+msgctxt "Media File"
+msgid "Not optimized"
+msgstr "Niet geoptimaliseerd"
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/classes/class-imagify-admin-ajax-post.php:752
+msgid "%s Media File"
+msgid_plural "%s Media Files"
+msgstr[0] "%s mediabestand"
+msgstr[1] "%s mediabestanden"
+
+#: inc/admin/upload.php:66 inc/classes/class-imagify-files-list-table.php:365
+msgid "All Media Files"
+msgstr "Alle mediabestanden"
+
+#: inc/admin/upload.php:61 inc/classes/class-imagify-files-list-table.php:368
+msgctxt "Media Files"
+msgid "Errors"
+msgstr "Fouten"
+
+#: inc/admin/upload.php:60 inc/classes/class-imagify-files-list-table.php:367
+msgctxt "Media Files"
+msgid "Unoptimized"
+msgstr "Niet geoptimaliseerd"
+
+#: inc/admin/upload.php:59 inc/classes/class-imagify-files-list-table.php:366
+msgctxt "Media Files"
+msgid "Optimized"
+msgstr "Geoptimaliseerd"
+
+#: classes/Optimization/Process/AbstractProcess.php:250
+#: classes/Optimization/Process/AbstractProcess.php:295
+#: classes/Optimization/Process/AbstractProcess.php:345
+#: classes/Optimization/Process/AbstractProcess.php:820
+#: classes/Optimization/Process/CustomFolders.php:62
+#: classes/Optimization/Process/CustomFolders.php:98
+#: classes/Optimization/Process/WP.php:55
+#: classes/Optimization/Process/WP.php:137
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:47
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:83
+#: inc/functions/admin-ui.php:449
+msgid "This media is not supported."
+msgstr "Deze media wordt niet ondersteund."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1334
+#: inc/functions/i18n.php:113 inc/functions/i18n.php:258
+msgid "Your API key is not valid!"
+msgstr "Je API sleutel is niet geldig!"
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:277
+#: inc/deprecated/classes/class-imagify-attachment.php:488
+#: inc/deprecated/classes/class-imagify-attachment.php:719
+msgid "This size is not authorized to be optimized. Update your Imagify settings if you want to optimize it."
+msgstr "Deze grootte is niet bevoegd voor optimalisatie. Update je Imagify instellingen als je dit wilt optimaliseren."
+
+#: inc/deprecated/classes/class-imagify-regenerate-thumbnails-deprecated.php:53
+msgid "No thumbnail sizes selected"
+msgstr "Geen thumbnail groottes geselecteerd"
+
+#: views/part-settings-files-tree-row.php:49
+msgctxt "checkbox label"
+msgid "Add Folder"
+msgstr "Voeg map toe"
+
+#: views/part-settings-files-tree-row.php:47
+msgid "Folder Added"
+msgstr "Map toegevoegd"
+
+#. translators: %s is a folder path.
+#: views/part-settings-files-tree-row.php:39
+msgid "Select the folder \"%s\"."
+msgstr "Selecteer de map \"%s\"."
+
+#. translators: %s is a folder path.
+#: views/part-settings-files-tree-row.php:17
+msgid "Open/Close the folder \"%s\"."
+msgstr "Open/sluit de map \"%s\"."
+
+#. translators: %s is a folder path.
+#: views/part-settings-files-tree-row.php:14
+#: views/part-settings-files-tree-row.php:36
+msgid "The folder \"%s\" is already selected."
+msgstr "De map \"%s\" is al geselecteerd."
+
+#: views/part-settings-custom-folders.php:178
+msgid "You changed your custom folder settings, don't forget to save your changes!"
+msgstr "Je hebt je aangepaste map instellingen gewijzigd, vergeet niet de wijzigingen op te slaan!"
+
+#: views/part-settings-custom-folders.php:146
+msgid "Add folders"
+msgstr "Voeg mappen toe"
+
+#: views/part-settings-custom-folders.php:140
+msgid "Select folders for optimization."
+msgstr "Selecteer mappen voor optimalisatie."
+
+#: views/part-settings-custom-folders.php:130
+msgid "Add the theme to optimization"
+msgid_plural "Add the themes to optimization"
+msgstr[0] "Voeg thema toe aan optimalisatie"
+msgstr[1] "Voeg thema&#39;s toe aan optimalisatie"
+
+#: views/part-settings-custom-folders.php:123
+msgid "Would you like to optimize your theme?"
+msgid_plural "Would you like to optimize your themes?"
+msgstr[0] "Wil je je thema optimaliseren?"
+msgstr[1] "Wil je je thema's optimaliseren?"
+
+#. translators: %s is a theme name.
+#: views/part-settings-custom-folders.php:114
+msgid "Add %s to optimization"
+msgstr "Voeg %s toe aan optimalisatie"
+
+#: views/part-settings-custom-folders.php:106
+msgid "Only one of your current themes is in the optimization process, would you like to also optimize the other one?"
+msgstr "Een van je huidige thema's is in het optimalisatieproces, wil je ook een andere optimaliseren?"
+
+#: views/part-settings-custom-folders.php:100
+msgid "Your theme is already in the optimization process. All Good!"
+msgid_plural "Your themes are already in the optimization process. All Good!"
+msgstr[0] "Je thema is reeds in het optimalisatie proces. Alles goed!"
+msgstr[1] "Je thema's zijn reeds in het optimalisatie proces. Alles goed!"
+
+#. translators: %s is a theme name.
+#: views/part-settings-custom-folders.php:90
+msgid "child theme of %s"
+msgstr "sub-thema van %s"
+
+#. translators: %s is a theme name.
+#: views/part-settings-custom-folders.php:84
+msgid "You’re using %s"
+msgstr "Je gebruikt %s"
+
+#: views/part-settings-custom-folders.php:71
+msgid "Custom Folders"
+msgstr "Aangepaste mappen"
+
+#: views/part-settings-account.php:104
+msgid "Enter Your API Key Below"
+msgstr "Vul je API-sleutel hieronder in"
+
+#: views/part-settings-account.php:98
+msgid "Create a Free API Key"
+msgstr "Maak een gratis API-sleutel"
+
+#: views/part-settings-account.php:96
+msgid "Don't have an API Key yet?"
+msgstr "Heb je nog geen API-sleutel?"
+
+#: views/part-settings-account.php:83
+msgid "Options page isn’t available until you enter your API Key"
+msgstr "De instellingen pagina is niet beschikbaar totdat je je API sleutel ingeeft"
+
+#: views/part-rocket-ad.php:54
+msgid "Remove the ad"
+msgstr "Verwijder de advertentie"
+
+#: views/part-rocket-ad.php:51
+msgid "Immediate results."
+msgstr "Direct resultaat."
+
+#: views/part-rocket-ad.php:50
+msgid "WooCommerce compatibility."
+msgstr "WooCommerce compatibiliteit."
+
+#: views/part-rocket-ad.php:49
+msgid "Boost your SEO."
+msgstr "Stimuleer je SEO."
+
+#: views/part-rocket-ad.php:48
+msgid "Improve your Google PageSpeed Score."
+msgstr "Verbeter je Google PageSpeed score."
+
+#. translators: %s is a percentage.
+#: views/part-rocket-ad.php:42
+msgid "Get %s OFF Now!"
+msgstr "Krijg nu %s korting!"
+
+#. translators: 1 is a "bold" tag opening, 2 is the "bold" tag closing. Please
+#. use a non-breaking space for WP Rocket.
+#: views/part-rocket-ad.php:34
+msgid "WP Rocket is a %1$sspeed optimization plugin for WordPress%2$s helping you to implement a variety of speed-boosting features to your WordPress site."
+msgstr "WP Rocket is een %1$ssnelheidsoptimalisatie plugin voor WordPress%2$s dat je helpt om verschillende snelheidverhogende functies in je WordPress site te implementeren."
+
+#: views/modal-payment.php:284 views/modal-payment.php:345
+#: views/part-rocket-ad.php:26
+msgid "We recommend for you"
+msgstr "We raden je aan"
+
+#: views/part-bulk-optimization-table.php:76
+msgid "Level Selection"
+msgstr "Niveauselectie"
+
+#: views/part-bulk-optimization-table.php:75
+msgid "Original Size"
+msgstr "Originele grootte"
+
+#: views/part-bulk-optimization-table.php:74
+msgid "Optimized Size"
+msgstr "Geoptimaliseerde grootte"
+
+#: views/part-bulk-optimization-table.php:72
+msgid "Number of images optimized"
+msgstr "Aantal afbeeldingen geoptimaliseerd"
+
+#: views/part-bulk-optimization-table.php:71
+msgid "Group name"
+msgstr "Groepnaam"
+
+#: views/part-bulk-optimization-table.php:70
+msgid "Group selection"
+msgstr "Groepselectie"
+
+#: views/part-bulk-optimization-table-row-folder-type.php:34
+msgid "Current level:"
+msgstr "Huidig niveau:"
+
+#: views/part-bulk-optimization-overquota-alert.php:19
+msgid "See our plans on the Imagify website"
+msgstr "Bekijk onze abonnementen op de Imagify site"
+
+#: views/part-bulk-optimization-newbie.php:16
+msgid "Choose your folders to optimize"
+msgstr "Kies je mappen om te optimaliseren"
+
+#: views/part-bulk-optimization-newbie.php:11
+msgid "Optimize the images from your site's folders"
+msgstr "Optimaliseer de afbeeldingen van je site mappen"
+
+#: views/part-bulk-optimization-newbie.php:6
+msgid "New Feature!"
+msgstr "Nieuwe functie!"
+
+#: views/part-bulk-optimization-infos.php:4
+msgid "Some information to know before launching the optimization."
+msgstr "Wat informatie dat je moet weten voor het starten van de optimalisatie."
+
+#: views/page-settings.php:109
+msgid "Show Toolbar Menu"
+msgstr "Toon toolbar menu"
+
+#: views/page-settings.php:42
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: views/page-bulk.php:98
+msgid "View your profile"
+msgstr "Bekijk je profiel"
+
+#: views/page-bulk.php:95 views/part-settings-account.php:82
+msgid "Your Account"
+msgstr "Je account"
+
+#: views/notice-almost-over-quota.php:34
+msgid "See our plans"
+msgstr "Bekijk onze abonnementen"
+
+#: views/notice-almost-over-quota.php:31
+msgid "You are running out of credit! Don’t forget to upgrade your Imagify’s account."
+msgstr "Je hebt bijna geen credit meer! Vergeet niet om je Imagify account te upgraden."
+
+#. translators: %s is a formatted file size.
+#: views/modal-payment.php:46
+msgid "You currently have %s of images in your library and folders."
+msgstr "Je hebt op dit moment %s afbeeldingen in je media bibliotheek en mappen."
+
+#. translators: %s is a formatted number (don't use %d).
+#: views/modal-payment.php:33
+msgid "You have %s original image"
+msgid_plural "You have %s original images"
+msgstr[0] "Je hebt %s originele afbeelding"
+msgstr[1] "Je hebt %s originele afbeeldingen"
+
+#: inc/functions/i18n.php:285
+msgid "Start the optimization"
+msgstr "Begin de optimalisatie"
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/functions/i18n.php:283
+msgid "%s Error(s)"
+msgstr "%s fout(en)"
+
+#: inc/functions/i18n.php:279
+msgid "Waiting other optimizations to finish."
+msgstr "Aan het wachten op de voltooiing van de andere optimalisaties."
+
+#: inc/functions/i18n.php:271
+msgctxt "file"
+msgid "Already Optimized"
+msgstr "Reeds geoptimaliseerd"
+
+#: inc/functions/i18n.php:119 inc/functions/i18n.php:269
+msgid "The operation failed."
+msgstr "De bewerking is mislukt."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1342
+#: inc/functions/i18n.php:114 inc/functions/i18n.php:259
+msgid "You have used all your credits!"
+msgstr "Je hebt al je credits verbruikt!"
+
+#: inc/functions/i18n.php:78
+msgid "Added! All Good!"
+msgstr "Toegevoegd! Prima!"
+
+#: inc/functions/i18n.php:76
+msgid "Choose the folders to optimize"
+msgstr "Kies de mappen om te optimaliseren"
+
+#: inc/functions/i18n.php:74
+msgid "Some folders that do not contain any images are hidden."
+msgstr "Enkele mappen zonder afbeeldingen worden niet getoond."
+
+#: inc/functions/i18n.php:73
+msgid "Select one or several folders to optimize."
+msgstr "Selecteer één of meerdere mappen om te optimaliseren."
+
+#: inc/functions/i18n.php:72 inc/functions/i18n.php:75
+msgid "Select Folders"
+msgstr "Selecteer mappen"
+
+#: inc/functions/i18n.php:71 views/part-settings-row-custom-folder.php:7
+msgctxt "custom folder"
+msgid "Remove"
+msgstr "Verwijder"
+
+#. translators: %s is a file extension.
+#: inc/functions/api.php:252
+msgid "%s is not a valid extension."
+msgstr "%s is geen geldige extensie."
+
+#: inc/functions/api.php:224
+msgid "Invalid or corrupted file."
+msgstr "Ongeldig of beschadigd bestand."
+
+#: inc/deprecated/deprecated.php:619 inc/functions/api.php:203
+#: inc/functions/i18n.php:105 inc/functions/i18n.php:250
+msgid "cURL is not available on the server."
+msgstr "cURL is niet beschikbaar op de server."
+
+#: classes/Bulk/AbstractBulk.php:83 inc/deprecated/deprecated.php:1125
+msgid "Original Filesize"
+msgstr "Originele bestandsgrootte"
+
+#: classes/Bulk/AbstractBulk.php:79 inc/deprecated/deprecated.php:1119
+msgid "Optimized Filesize"
+msgstr "Geoptimaliseerde bestandsgrootte"
+
+#: classes/Bulk/AbstractBulk.php:75 inc/deprecated/deprecated.php:1113
+msgid "View Errors"
+msgstr "Bekijk fouten"
+
+#: classes/Optimization/Process/AbstractProcess.php:545
+msgid "With no extension, this file cannot be optimized."
+msgstr "Zonder de extensie, kon dit bestand niet geoptimaliseerd worden."
+
+#. translators: 1 is the opening of a link, 2 is the closing of this link.
+#: inc/classes/class-imagify-views.php:338
+msgid "You can re-optimize your media files more finely directly in the %1$smedia management%2$s."
+msgstr "Je kan je media bestanden opnieuw optimaliseren op een fijnere manier direct in het %1$smedia management%2$s."
+
+#: inc/classes/class-imagify-views.php:336
+msgid "Custom folders"
+msgstr "Aangepaste mappen"
+
+#. translators: 1 is the opening of a link, 2 is the closing of this link.
+#: inc/classes/class-imagify-views.php:323
+msgid "You can also re-optimize your media files from your %1$sMedia Library%2$s screen."
+msgstr "Je kan ook je media bestanden via je %1$sMediabibliotheek%2$s scherm opnieuw optimaliseren."
+
+#: inc/classes/class-imagify-views.php:321 views/part-settings-library.php:10
+msgid "Media Library"
+msgstr "Mediabibliotheek"
+
+#: inc/classes/class-imagify-views.php:175
+#: inc/classes/class-imagify-views.php:211
+msgid "Other Media"
+msgstr "Andere media"
+
+#: inc/classes/class-imagify-views.php:175
+#: inc/classes/class-imagify-views.php:211 views/part-files-list-header.php:5
+msgid "Other Media optimized by Imagify"
+msgstr "Andere media geoptimaliseerd door Imagify"
+
+#: inc/classes/class-imagify-settings.php:643
+msgid "Unselect All"
+msgstr "Deselecteer alles"
+
+#: inc/classes/class-imagify-settings.php:635
+msgid "Select All"
+msgstr "Selecteer alles"
+
+#: inc/classes/class-imagify-files-scan.php:42
+msgid "This folder does not exist."
+msgstr "Deze map bestaat niet."
+
+#: inc/classes/class-imagify-files-scan.php:36
+msgid "Invalid folder."
+msgstr "Ongeldige map."
+
+#: views/button/refresh-status.php:17
+msgid "Refreshing status..."
+msgstr "Status verversen..."
+
+#: inc/classes/class-imagify-files-list-table.php:669
+msgid "The file has changed"
+msgstr "Het bestand is gewijzigd"
+
+#: inc/classes/class-imagify-files-list-table.php:666
+msgid "No changes found"
+msgstr "Geen wijzigingen gevonden"
+
+#: inc/classes/class-imagify-files-list-table.php:586
+msgid "This folder is not selected for bulk optimization."
+msgstr "Deze map is niet geselecteerd voor bulk optimalisatie."
+
+#: inc/classes/class-imagify-files-list-table.php:500
+msgctxt "checkbox label"
+msgid "Select file"
+msgstr "Selecteer bestand"
+
+#: inc/classes/class-imagify-files-list-table.php:443
+msgid "Actions"
+msgstr "Acties"
+
+#: inc/classes/class-imagify-files-list-table.php:440
+#: views/page-settings.php:95
+msgid "Optimization"
+msgstr "Optimalisatie"
+
+#: inc/classes/class-imagify-files-list-table.php:439
+msgid "Folder"
+msgstr "Map"
+
+#: inc/classes/class-imagify-files-list-table.php:438
+msgid "File"
+msgstr "Bestand"
+
+#: inc/classes/class-imagify-files-list-table.php:422
+#: views/button/refresh-status.php:25
+msgid "Refresh status"
+msgstr "Ververs status"
+
+#: inc/classes/class-imagify-files-list-table.php:404
+msgctxt "verb"
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/classes/class-imagify-files-list-table.php:387
+msgid "All Folders"
+msgstr "Alle mappen"
+
+#: inc/classes/class-imagify-files-list-table.php:384
+msgid "Filter by folder"
+msgstr "Filter op map"
+
+#. translators: 1 is a link tag start, 2 is the link tag end.
+#: inc/classes/class-imagify-files-list-table.php:289
+msgid "To see things appear here, you must select folders in the settings page first :)"
+msgstr "Om dingen hier te zien verschijnen, moet je eerst mappen selecteren op de instellingenpagina :)"
+
+#. translators: 1 and 2 are link tag starts, 3 is a link tag end.
+#: inc/classes/class-imagify-files-list-table.php:278
+msgid "No files yet. Do you want to %1$sscan your selected folders%3$s for new files or launch a %2$sbulk optimization%3$s directly?"
+msgstr "Nog geen bestanden. Wil je een %1$sscan uitvoeren op je geselecteerde mappen%3$s voor nieuwe bestanden of een %2$sbulk optimalisatie%3$s direct beginnen?"
+
+#. translators: 1 and 2 are link tag starts, 3 is a link tag end.
+#: inc/classes/class-imagify-files-list-table.php:265
+msgid "No files yet. Do you want to %1$sscan this folder%3$s for new files or launch a %2$sbulk optimization%3$s directly?"
+msgstr "Nog geen bestanden. Wil je %1$sdeze map scannen%3$s op nieuwe bestanden of een %2$sbulk optimalisatie%3$s direct beginnen?"
+
+#: inc/classes/class-imagify-files-list-table.php:247
+msgid "No errors, hurray!"
+msgstr "Geen fouten, hoera!"
+
+#: inc/classes/class-imagify-files-list-table.php:243
+msgid "No unoptimized files, hurray!"
+msgstr "Geen niet-geoptimaliseerde bestanden, hoera!"
+
+#. translators: 1 is a link tag start, 2 is the link tag end.
+#: inc/classes/class-imagify-files-list-table.php:239
+msgid "No optimized files. Have you tried the %1$sbulk optimization%2$s yet?"
+msgstr "Geen geoptimaliseerde bestanden. Heb je de %1$sbulk optimalisatie%2$s al geprobeerd?"
+
+#: inc/classes/class-imagify-files-list-table.php:90
+msgid "Number of files per page"
+msgstr "Aantal bestanden per pagina"
+
+#: inc/classes/class-imagify-files-list-table.php:73
+msgid "List View"
+msgstr "Lijstweergave"
+
+#: inc/deprecated/classes/class-imagify-file-attachment.php:703
+msgid "The backup file does not exist."
+msgstr "Het backup-bestand bestaat niet."
+
+#: inc/deprecated/classes/class-imagify-file-attachment.php:626
+msgid "This file is already optimized with this level."
+msgstr "Dit bestand is reeds geoptimaliseerd met dit niveau."
+
+#: inc/classes/class-imagify-custom-folders.php:390
+msgid "The file has been modified or was not optimized: its folder not being selected in the settings, the entry has been deleted from the database."
+msgstr "Dit bestand is aangepast of niet geoptimaliseerd: deze map is nog niet geselecteerd in de instellingen, de ingave is nog niet verwijderd van de database."
+
+#: inc/classes/class-imagify-custom-folders.php:329
+msgid "The file was missing or its path could not be retrieved from the database. The entry has been deleted from the database."
+msgstr "Dit bestand ontbreekt of het pad kon niet opgehaald worden in de database. Dit record  is verwijderd uit de database."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:718
+#: inc/classes/class-imagify-admin-ajax-post.php:721
+#: inc/classes/class-imagify-files-list-table.php:333
+#: inc/classes/class-imagify-files-list-table.php:579
+#: views/part-settings-custom-folders.php:26
+msgid "Site's root"
+msgstr "Site's root"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:706
+#: inc/classes/class-imagify-files-scan.php:50
+msgid "This folder is not allowed."
+msgstr "Deze map is niet toegestaan."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:700
+#: inc/classes/class-imagify-files-scan.php:46
+msgid "This file is not a folder."
+msgstr "Dit bestand is geen map."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:696
+msgid "This folder doesn't exist."
+msgstr "Deze map bestaat niet."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1050
+msgid "Couldn't get user data."
+msgstr "Kon gebruikersgegevens niet ophalen."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:627
+msgid "This folder is not in the database."
+msgstr "Deze map zit niet in de database."
+
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:126
+msgid "Invalid file ID"
+msgstr "Ongeldig bestand ID"
+
+#. translators: 1 is the opening of a link, 2 is the closing of this link.
+#: inc/3rd-party/nextgen-gallery/inc/admin/bulk.php:84
+msgid "You can also re-optimize your images more finely directly in each %1$sgallery%2$s."
+msgstr "Je kan direct je afbeeldingen ook opnieuw fijner optimaliseren in elke %1$sgallerij%2$s."
+
+#: inc/3rd-party/nextgen-gallery/inc/admin/bulk.php:82
+msgid "NextGen Galleries"
+msgstr "NextGen Galleries"
+
+#: inc/functions/api.php:210
+msgid "This account already exists."
+msgstr "Dit account bestaat al."
+
+#: classes/Optimization/Process/CustomFolders.php:72
+#: classes/Optimization/Process/WP.php:65
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:57
+#: inc/deprecated/classes/class-imagify-attachment.php:585
+msgid "This file has no backup file."
+msgstr "Dit bestand heeft geen back-up bestand."
+
+#: views/part-bulk-optimization-infos.php:42
+#: views/part-documentation-link.php:11
+msgid "Check our documentation."
+msgstr "Bekijk onze documentatie."
+
+#: views/part-bulk-optimization-infos.php:41
+#: views/part-documentation-link.php:10
+msgid "Need help or have questions?"
+msgstr "Hulp nodig of heb je vragen?"
+
+#: inc/functions/admin-ui.php:454
+msgid "This media lacks the required metadata and cannot be optimized."
+msgstr "De vereiste meta gegevens ontbreken voor deze media en kan niet geoptimaliseerd worden."
+
+#: inc/classes/class-imagify-views.php:243 inc/common/admin-bar.php:50
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: inc/functions/admin-ui.php:442
+msgid "You are not allowed to optimize this file."
+msgstr "Je hebt geen toestemming om dit bestand te optimaliseren."
+
+#: inc/functions/i18n.php:214
+msgid "Optimize Missing Sizes"
+msgstr "Optimaliseer ontbrekende groottes"
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/functions/api.php:246
+msgid "Custom One Time plan starts from %s MB."
+msgstr "Aangepast One Time abonnement start vanaf %s MB."
+
+#: inc/functions/api.php:222
+msgid "You have consumed all your data. You have to upgrade your account to continue."
+msgstr "Je hebt al je gegevens geconsumeerd. Je moet je account upgraden om voor te gaan."
+
+#: inc/functions/api.php:221
+msgid "You are not authorized to perform this action."
+msgstr "Je bent niet gemachtigd om deze bewerking uit te voeren."
+
+#: inc/functions/api.php:220
+msgid "WELL DONE. This media file is already optimized, no further optimization is required."
+msgstr "Goed gedaan. Elk media bestand is reeds geoptimaliseerd of er zijn geen verdere optimalisaties vereist."
+
+#: inc/functions/api.php:219
+msgid "User not valid."
+msgstr "Gebruiker niet geldig."
+
+#: inc/functions/api.php:218
+msgid "Unable to regenerate access token."
+msgstr "Het opnieuw generen van toegangstoken lukt niet."
+
+#: inc/functions/api.php:217
+msgid "Too many requests, please be patient."
+msgstr "Te veel aanvragen, even geduld."
+
+#: inc/functions/api.php:216
+msgid "This user does not exist."
+msgstr "Deze gebruiker bestaat niet."
+
+#: inc/functions/api.php:215
+msgid "This email is already registered, you should try another email."
+msgstr "Dit e-mailadres is al geregistreerd, probeer een ander e-mailadres."
+
+#: inc/functions/api.php:214
+msgid "Unable to retrieve the token from Data Storage API."
+msgstr "Het ophalen van de token van Data Storage API lukt niet."
+
+#: inc/functions/api.php:213
+msgid "Unable to connect to Data Storage API."
+msgstr "Het connecteren naar Data Storage API lukt niet."
+
+#: inc/functions/api.php:212
+msgid "Unable to connect to Data Storage API to get the token."
+msgstr "Het connecteren naar Data Storage API om een token te verkrijgen lukt niet."
+
+#: inc/functions/api.php:211
+msgid "Error uploading to Data Storage."
+msgstr "Fout uploaden naar Data Storage."
+
+#: inc/functions/api.php:209
+msgid "Email field should not be empty."
+msgstr "E-mailveld mag niet leeg zijn."
+
+#: inc/functions/api.php:208
+msgid "Coupon does not exist."
+msgstr "Waardebon bestaat niet."
+
+#: inc/functions/api.php:207
+msgid "Confirm your account to continue optimizing files."
+msgstr "Bevestig je account om het optimaliseren van bestanden voort te zetten."
+
+#: inc/functions/api.php:206
+msgid "Cannot create client token."
+msgstr "Het maken van een client token lukt niet."
+
+#: inc/functions/api.php:205
+msgid "Authentication not provided."
+msgstr "Authenticatie niet verstrekt."
+
+#: inc/functions/api.php:201
+msgid "Your file is too big to be uploaded on our server."
+msgstr "Je bestand is te groot om te uploaden naar onze server."
+
+#. translators: %s is the plugin name.
+#: inc/functions/admin.php:323
+msgid "%s Failure Notice"
+msgstr "%s fout bericht"
+
+#. translators: This sentense already exists in WordPress.
+#: inc/functions/admin.php:318
+msgid "Go back"
+msgstr "Ga terug"
+
+#. translators: This sentense already exists in WordPress.
+#: inc/functions/admin.php:286
+msgid "Sorry, you are not allowed to do that."
+msgstr "Je hebt geen toestemming om dat te doen."
+
+#. translators: 1 is the number of thumbnails to optimize, 2 is the opening of
+#. a HTML tag that will be hidden on small screens, 3 is the closing tag.
+#: views/button/optimize-missing-sizes.php:28
+msgid "%2$sOptimize %3$s%1$d missing thumbnail"
+msgid_plural "%2$sOptimize %3$s%1$d missing thumbnails"
+msgstr[0] "%2$sOptimaliseer %3$s%1$d ontbrekende thumbnail"
+msgstr[1] "%2$sOptimaliseer %3$s%1$d ontbrekende thumbnails"
+
+#. translators: %d is a number of thumbnails.
+#: inc/deprecated/classes/class-imagify-attachment.php:611
+msgid "%d thumbnail failed to be created"
+msgid_plural "%d thumbnails failed to be created"
+msgstr[0] "Maken van %d thumbnail is mislukt."
+msgstr[1] "Maken van %d thumbnails is mislukt."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:951
+msgid "Coupon is empty."
+msgstr "Waardebon is leeg."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:928
+msgid "Wrongly formatted response from our server."
+msgstr "Foutieve geformatteerde reactie van onze server."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:817
+msgid "Empty API key."
+msgstr "Lege API-sleutel."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:786
+msgid "Not a valid email address."
+msgstr "Geen geldig e-mailadres."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:780
+msgid "Empty email address."
+msgstr "Leeg e-mailadres."
+
+#: classes/Bulk/Bulk.php:517 classes/Bulk/Bulk.php:540
+#: classes/Bulk/Bulk.php:564 inc/classes/class-imagify-admin-ajax-post.php:273
+#: inc/classes/class-imagify-admin-ajax-post.php:306
+#: inc/classes/class-imagify-admin-ajax-post.php:339
+#: inc/classes/class-imagify-admin-ajax-post.php:372
+#: inc/classes/class-imagify-admin-ajax-post.php:405
+#: inc/classes/class-imagify-admin-ajax-post.php:438
+#: inc/classes/class-imagify-admin-ajax-post.php:485
+#: inc/classes/class-imagify-admin-ajax-post.php:515
+#: inc/classes/class-imagify-admin-ajax-post.php:547
+#: inc/classes/class-imagify-admin-ajax-post.php:578
+#: inc/classes/class-imagify-admin-ajax-post.php:688
+#: inc/classes/class-imagify-admin-ajax-post.php:1098
+#: inc/classes/class-imagify-admin-ajax-post.php:1104
+#: inc/classes/class-imagify-admin-ajax-post.php:1112
+#: inc/classes/class-imagify-admin-ajax-post.php:1123
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:120
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:195
+#: inc/deprecated/classes/class-imagify-regenerate-thumbnails-deprecated.php:49
+msgid "Invalid request"
+msgstr "Ongeldige aanvraag"
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:415
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:419
+msgid "The main image could not be retrieved from Amazon S3."
+msgstr "De hoofdafbeelding kon niet opgehaald worden van Amazon S3."
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:401
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:405
+msgid "Files could not be sent to Amazon S3."
+msgstr "Bestanden konden niet verstuurd worden naar Amazon S3."
+
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:216
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:351
+#: inc/deprecated/classes/class-imagify-attachment.php:572
+#: inc/deprecated/classes/class-imagify-attachment.php:691
+#: inc/deprecated/classes/class-imagify-file-attachment.php:619
+#: inc/deprecated/classes/class-imagify-file-attachment.php:696
+msgid "This type of file is not supported."
+msgstr "Dit bestandstype wordt niet ondersteund."
+
+#: classes/Optimization/File.php:420 inc/deprecated/deprecated.php:791
+msgid "The file could not be saved."
+msgstr "Het bestand kon niet opgeslagen worden."
+
+#: classes/Optimization/File.php:109 inc/deprecated/deprecated.php:747
+msgid "Filesystem error."
+msgstr "Bestandssysteemfout."
+
+#: inc/deprecated/deprecated.php:768
+msgid "Error while retrieving the uploads directory path."
+msgstr "Er is een fout opgetreden bij het ophalen van het uploads folder pad."
+
+#: classes/Optimization/File.php:398 inc/deprecated/deprecated.php:760
+msgid "The backup directory is not writable."
+msgstr "De back-up folder is niet beschrijfbaar."
+
+#: inc/deprecated/deprecated.php:752
+msgid "The file to backup does not exist."
+msgstr "Het bestand om te back-uppen bestaat niet."
+
+#: inc/deprecated/classes/class-imagify-file-attachment.php:709
+#: inc/deprecated/deprecated.php:740
+msgid "The file path is empty."
+msgstr "Het bestandspad is leeg."
+
+#. translators: %s is a number. Don't use %d.
+#: inc/functions/i18n.php:276
+msgid "%s error(s)"
+msgstr "%s fout(en)"
+
+#. translators: %s is a number. Don't use %d.
+#: inc/functions/i18n.php:273
+msgid "%s file(s)"
+msgstr "%s bestand(en)"
+
+#: inc/functions/i18n.php:274
+msgctxt "noun"
+msgid "Notice"
+msgstr "Bericht"
+
+#: inc/functions/i18n.php:270
+msgctxt "adjective"
+msgid "Complete"
+msgstr "Afgerond"
+
+#: inc/functions/i18n.php:267
+msgid "Optimizing"
+msgstr "Optimaliseren"
+
+#: views/part-settings-library.php:90
+msgid "Choose the sizes to optimize"
+msgstr "Kies de grootten om te optimaliseren"
+
+#. translators: %s is a file path.
+#: views/page-settings.php:68
+msgid "The backup folder %s cannot be created or is not writable by the server, original images cannot be saved!"
+msgstr "De back-up map %s kan niet aangemaakt worden of is niet schrijfbaar door de server, de originele afbeeldingen zullen niet opgeslagen worden!"
+
+#. translators: %s is a file path.
+#: views/notice-backup-folder-not-writable.php:15
+msgid "The backup folder %s cannot be created. Is its parent directory writable by the server? Original images cannot be saved!"
+msgstr "De back-up map %s kon niet aangemaakt worden. Is de hoofdfolder schrijfbaar op de server? Originele afbeeldingen kunnen niet opgeslagen worden!"
+
+#. translators: %s is a file path.
+#: views/notice-backup-folder-not-writable.php:12
+msgid "The backup folder %s is not writable by the server, original images cannot be saved!"
+msgstr "De back-up map %s is niet schrijfbaar door de server, originele afbeeldingen konden niet opgeslagen worden!"
+
+#. translators: %s is a formatted number, dont use %d.
+#: classes/Bulk/AbstractBulk.php:74 inc/deprecated/deprecated.php:1112
+msgid "%s Error"
+msgid_plural "%s Errors"
+msgstr[0] "%s fout"
+msgstr[1] "%s fouten"
+
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:354
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:945
+msgid "%n thumbnail could not be restored."
+msgid_plural "%n thumbnails could not be restored."
+msgstr[0] "%n thumbnail kon niet teruggezet worden."
+msgstr[1] "%n thumbnails kon niet teruggezet worden."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:939
+msgid "Related data could not be saved."
+msgstr "Gerelateerde gegevens konden niet opgeslagen worden."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:792
+msgid "Restoration failed."
+msgstr "Terugzetten mislukt."
+
+#: classes/Optimization/Process/AbstractProcess.php:852
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:778
+msgid "The image to replace is not writable."
+msgstr "De afbeelding om te vervangen is niet beschrijfbaar."
+
+#: classes/Optimization/Process/AbstractProcess.php:839
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:774
+msgid "Image path and backup path are identical."
+msgstr "Afbeeldingspad en back-up pad zijn identiek."
+
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:284
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:764
+msgid "Image not found in NextGen Gallery data."
+msgstr "Afbeelding niet gevonden in de NextGen Gallery gegevens."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:758
+msgid "Backup image not found."
+msgstr "Back-up afbeelding niet gevonden."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:753
+msgid "Mime type not supported."
+msgstr "Mime type niet ondersteund."
+
+#. translators: 1 is a data quota, 2 is a date.
+#: inc/classes/class-imagify-admin-ajax-post.php:863
+msgid "You have consumed all your credit for this month. You will have <strong>%1$s back on %2$s</strong>."
+msgstr "Je hebt al je tegoed voor deze maand opgebruikt. Je hebt <strong>%1$s terug op %2$s</strong>."
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:260
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:289
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:465
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:470
+msgid "This size could not be retrieved from Amazon S3."
+msgstr "Deze grootte kon niet opgehaald worden van Amazon S3."
+
+#: inc/classes/class-imagify-abstract-cron.php:163
+msgid "Once Weekly"
+msgstr "Eens per week"
+
+#. translators: 1 and 2 are optimization levels: "Original", "Normal",
+#. "Aggressive", or "Ultra".
+#: views/modal-settings-visual-comparison.php:13
+msgid "I want to compare %1$s and %2$s"
+msgstr "Ik wil %1$s en %2$s vergelijken"
+
+#. translators: %s is a percentage.
+#: views/page-bulk.php:76
+msgid "You optimized %s of your website's images"
+msgstr "Je hebt %s van je site's afbeeldingen geoptimaliseerd."
+
+#. translators: %s is a formatted date.
+#: views/part-discount-banner.php:20
+msgid "Special Offer<br><strong>Until %s</strong>"
+msgstr "Speciale aanbieding<br><strong>tot %s</strong>"
+
+#. translators: 1 is a percentage, 2 is a coupon code.
+#: inc/functions/i18n.php:145
+msgctxt "coupon validated"
+msgid "%1$s off with %2$s"
+msgstr "%1$s korting met %2$s"
+
+#: inc/functions/i18n.php:143
+msgid "Error with checking this coupon."
+msgstr "Fout bij het controleren van deze waardebon."
+
+#: inc/functions/i18n.php:146
+msgid "Something went wrong with getting our updated offers. Please retry later."
+msgstr "Er ging iets fout met het ophalen van onze geupdate aanbiedingen. Probeer later opnieuw."
+
+#: views/modal-payment.php:222
+msgid "Choose a plan"
+msgstr "Kies een abonnement"
+
+#: views/modal-payment.php:200
+msgid "OK"
+msgstr "OK"
+
+#: views/modal-payment.php:199
+msgid "Coupon Code"
+msgstr "Kortingscode"
+
+#: inc/functions/i18n.php:147 views/modal-payment.php:196
+msgid "If you have a <strong>coupon code</strong><br> use it here:"
+msgstr "Heb je een <strong>waardebon</strong><br> gebruik het hier:"
+
+#: views/modal-payment.php:194
+msgid "Checking Coupon"
+msgstr "Waardebon controleren"
+
+#: views/modal-payment.php:70
+msgid "The free plan is enough to optimize your images"
+msgstr "Het gratis plan voldoet voor het optimaliseren van je afbeeldingen"
+
+#: views/modal-payment.php:22
+msgid "Analyzing"
+msgstr "Analyseren"
+
+#: views/modal-payment.php:19
+msgid "We are analyzing your images"
+msgstr "We analyseren je afbeeldingen"
+
+#: inc/functions/i18n.php:48
+msgid "You need to specify your API key!"
+msgstr "Je moet je API sleutel opgeven!"
+
+#: views/modal-payment.php:425
+msgid "This is secure 128-bits SSL encrypted payment"
+msgstr "Dit is een beveiligde, met 128-bits SSL versleutelde betaling"
+
+#: views/modal-payment.php:424
+msgid "Secure Credit Card Payment"
+msgstr "Beveiligde betaling met creditkaart"
+
+#: views/modal-payment.php:392
+msgid "What do our users think about Imagify"
+msgstr "Wat andere gebruikers denken over Imagify"
+
+#: views/modal-payment.php:380
+msgid "Thank you for being awesome!"
+msgstr "Bedankt je dat je geweldig bent!"
+
+#: views/modal-payment.php:319
+msgid "One Time plans are useful if you have a lots of existing images which need to be optimized. You can use it for bulk optimizing all your past images. You will pay only once."
+msgstr "One Time abonnementen zijn handig als je veel bestaande afbeeldingen hebt die geoptimaliseerd moeten worden. Je kan het gebruiken voor bulk optimalisatie van alle oude afbeeldingen. Je hoeft maar een keer te betalen."
+
+#: views/modal-payment.php:312
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: views/modal-payment.php:308
+msgid "for special needs"
+msgstr "voor speciale noden"
+
+#: views/modal-payment.php:307
+msgid "Need more?"
+msgstr "Meer nodig?"
+
+#: views/modal-payment.php:299 views/modal-payment.php:349
+msgid "Choose plan"
+msgstr "Kies een abonnement"
+
+#: views/modal-payment.php:241
+msgid "Monthly plans come with credits which is renewed every months. The billing happens automatically each month or year depending the billing period you choose."
+msgstr "Maandelijkse abonnementen komen met credits die elke maand vernieuwd worden. De facturatie gebeurd elke maand of jaar afhankelijk van je gekozen facturatieperiode."
+
+#: views/modal-payment.php:231
+msgid "One Time Plans"
+msgstr "Eenmalige abonnementen "
+
+#: views/modal-payment.php:226
+msgid "Monthly Plans"
+msgstr "Maandelijkse abonnementen "
+
+#: views/modal-payment.php:211
+msgid "Monthly plans come with credits which are renewed every month. The billing happens automatically each month or year, depending on which billing period you choose."
+msgstr "Maandelijkse abonnementen komen met credits die elke maand hernieuwd worden. De facturatie gebeurd elke maand of elk jaar automatisch, afhankelijk van je gekozen facturatieperiode."
+
+#: views/modal-payment.php:206
+msgid "Checkout"
+msgstr "Afrekenen"
+
+#: views/modal-payment.php:149
+msgid "Optimize the images you already have with a One Time plan"
+msgstr "Optimaliseer de afbeeldingen die je reeds gedaan hebt met een One Time abonnement."
+
+#: views/modal-payment.php:139 views/modal-payment.php:182
+msgid "Choose another plan"
+msgstr "Kies een ander abonnement "
+
+#. translators: %s is a formatted number (don't use %d).
+#: views/modal-payment.php:102 views/modal-payment.php:165
+#: views/modal-payment.php:268 views/modal-payment.php:333
+msgid "approx: %s images"
+msgstr "ongeveer: %s afbeeldingen"
+
+#: views/modal-payment.php:96 views/modal-payment.php:123
+#: views/modal-payment.php:262 views/modal-payment.php:280
+msgid "/month"
+msgstr "/maand"
+
+#: views/modal-payment.php:85 views/modal-payment.php:251
+msgid "2 months free"
+msgstr "2 maanden gratis"
+
+#: views/modal-payment.php:85 views/modal-payment.php:251
+msgid "Yearly"
+msgstr "Jaarlijks"
+
+#: views/modal-payment.php:82 views/modal-payment.php:248
+msgid "Monthly"
+msgstr "Maandelijks"
+
+#: views/modal-payment.php:78
+msgid "Subscribe to a yearly plan"
+msgstr "Abboneer op een jaarlijks plan"
+
+#: views/modal-payment.php:77
+msgid "Subscribe to a monthly plan"
+msgstr "Abboneer op een maandelijks plan"
+
+#. translators: %s is a formatted file size.
+#: views/modal-payment.php:56
+msgid "You upload around %s of images per month."
+msgstr "Je upload ongeveer %s afbeeldingen per maand."
+
+#: views/modal-payment.php:18
+msgid "We analyzed your images"
+msgstr "We hebben je afbeeldingen geanalyseerd"
+
+#: views/page-bulk.php:142 views/part-settings-account.php:60
+msgid "Let us help you by analyzing your existing images and determine the best plan for you."
+msgstr "Laat ons je helpen om het abonnement te kiezen dat bij je past aan de hand van het analyseren van je bestaande afbeeldingen."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1061 views/page-bulk.php:138
+#: views/part-settings-account.php:55
+msgid "You're new to Imagify?"
+msgstr "Je bent nieuw bij Imagify?"
+
+#: views/page-bulk.php:146 views/part-settings-account.php:64
+msgid "What plan do I need?"
+msgstr "Welk abonnement heb ik nodig?"
+
+#: views/part-settings-footer.php:17
+msgid "Save & Go to Bulk Optimizer"
+msgstr "Opslaan & naar Bulk Optimizer gaan"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:133
+#: inc/functions/i18n.php:57
+msgid "Cancel"
+msgstr "Annuleren"
+
+#. translators: %s is a formatted number. Don't use %d.
+#: views/part-bulk-optimization-infos.php:32
+msgid "If you have more than %s images, you will need to launch the bulk optimization several times."
+msgstr "Als je meer dan %s afbeeldingen hebt, zal je de bulk optimalisatie verschillende keren moeten starten."
+
+#. translators: 1 is a "bold" tag start, 2 is the "bold" tag end, 3 is a
+#. formatted number (don't use %3$d).
+#: views/notice-rating.php:12
+msgid "%1$sCongratulations%2$s, you have optimized %1$s%3$s images%2$s and improved your website's speed by reducing your images size."
+msgstr "%1$sGefeliciteerd%2$s, je hebt %1$s%3$s afbeeldingen%2$s geoptimaliseerd en de snelheid van je site verbeterd door je afbeeldingen kleiner te maken"
+
+#: inc/functions/i18n.php:196 views/button/compare-images.php:12
+msgid "Compare Original VS Optimized"
+msgstr "Vergelijk origineel versus geoptimaliseerd"
+
+#: inc/functions/i18n.php:121 inc/functions/i18n.php:278
+msgid "An unknown error occurred when we tried to get all your unoptimized media files. Try again and if the issue still persists, please contact us!"
+msgstr "Er is een onbekende fout opgetreden toen we probeerden al je niet-geoptimaliseerde mediabestanden op te halen. Probeer het opnieuw en als het probleem zich blijft voordoen, neem dan contact met ons op!"
+
+#: inc/functions/i18n.php:120 inc/functions/i18n.php:277
+msgid "Oops, There is something wrong!"
+msgstr "Er is iets mis!"
+
+#. Description of the plugin
+msgid "Dramatically reduce image file sizes without losing quality, make your website load faster, boost your SEO and save money on your bandwidth using Imagify, the new most advanced image optimization tool."
+msgstr "Verminder de afbeelding bestandgroottes drastisch zonder het verliezen van afbeeldingskwaliteit, zorg er voor dat je site sneller laad, verbeter je SEO en spaar geld op het gebruik van bandbreedte door Imagify, de nieuwe meest geavanceerde afbeeldingsoptimalisatie tool, te gebruiken."
+
+#. Plugin URI of the plugin
+#. translators: Plugin URI of the plugin/theme
+#: inc/functions/common.php:232
+msgid "https://wordpress.org/plugins/imagify/"
+msgstr "https://wordpress.org/plugins/imagify/"
+
+#. translators: %s is a file path.
+#: inc/deprecated/deprecated.php:652
+msgid "%s is not writable."
+msgstr "%s is niet schrijfbaar."
+
+#. translators: %s is a file path.
+#: inc/deprecated/deprecated.php:646
+msgid "Could not find %s."
+msgstr "Kan %s niet vinden."
+
+#: classes/Optimization/File.php:105 inc/deprecated/deprecated.php:614
+msgid "File path is empty."
+msgstr "Bestandspad is leeg."
+
+#: classes/Optimization/File.php:466 inc/deprecated/deprecated.php:635
+#: inc/functions/i18n.php:111 inc/functions/i18n.php:256
+msgid "External HTTP requests are blocked."
+msgstr "Externe HTTP verzoeken zijn geblokkeerd."
+
+#: inc/deprecated/deprecated.php:640 inc/functions/i18n.php:112
+#: inc/functions/i18n.php:257
+msgid "Sorry, our servers are temporarily unavailable. Please, try again in a couple of minutes."
+msgstr "Sorry, onze servers zijn tijdelijk niet beschikbaar. Probeer het over een paar minuten opnieuw."
+
+#. translators: %s is a file extension.
+#: classes/Optimization/Process/AbstractProcess.php:552
+msgid "%s cannot be optimized."
+msgstr "%s kan niet geoptimaliseerd worden."
+
+#: views/button/retry-optimize.php:42
+msgid "Try again"
+msgstr "Opnieuw proberen"
+
+#: inc/admin/meta-boxes.php:56 inc/functions/admin-ui.php:478
+#: views/button/restore.php:17
+msgid "Restoring..."
+msgstr "Terugzetten..."
+
+#: inc/functions/admin-ui.php:99
+msgid "Overall Saving:"
+msgstr "Totale besparing:"
+
+#: inc/functions/admin-ui.php:98
+msgid "Thumbnails Optimized:"
+msgstr "Thumbnails geoptimaliseerd:"
+
+#: inc/classes/class-imagify-files-list-table.php:604
+#: inc/functions/admin-ui.php:86
+msgid "Original Filesize:"
+msgstr "Originele bestandsgrootte:"
+
+#: inc/functions/admin-ui.php:78 inc/functions/admin-ui.php:79
+msgid "View details"
+msgstr "Bekijk details"
+
+#: inc/functions/admin-ui.php:78
+msgid "Close details"
+msgstr "Sluit details"
+
+#: inc/classes/class-imagify-files-list-table.php:609
+#: inc/functions/admin-ui.php:49
+msgid "New Filesize:"
+msgstr "Nieuwe bestandsgrootte:"
+
+#: inc/common/admin-bar.php:77 views/part-settings-custom-folders.php:148
+#: views/part-settings-files-tree-row.php:21
+msgid "Loading..."
+msgstr "Laden…"
+
+#. translators: %s is WordPress.org.
+#: inc/common/admin-bar.php:62
+msgid "Rate Imagify on %s"
+msgstr "Beoordeel Imagify op %s"
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:607
+msgid "The size %s is not authorized to be optimized. Update your Imagify settings if you want to optimize it."
+msgstr "De grootte %s is niet bevoegd om te optimaliseren. Update je Imagify instellingen als je het wilt optimaliseren."
+
+#: inc/admin/upload.php:64 inc/classes/class-imagify-files-list-table.php:395
+msgid "Filter by status"
+msgstr "Filter op status"
+
+#: views/part-bulk-optimization-table.php:73
+msgid "Errors"
+msgstr "Fouten"
+
+#: inc/classes/class-imagify-files-list-table.php:613
+#: inc/functions/admin-ui.php:69 inc/functions/i18n.php:192
+#: views/modal-settings-visual-comparison.php:80
+#: views/modal-settings-visual-comparison.php:100
+#: views/modal-settings-visual-comparison.php:121
+msgid "Original Saving:"
+msgstr "Originele besparing:"
+
+#: inc/functions/i18n.php:191 views/modal-settings-visual-comparison.php:66
+#: views/modal-settings-visual-comparison.php:76
+#: views/modal-settings-visual-comparison.php:96
+#: views/modal-settings-visual-comparison.php:117
+msgid "File Size:"
+msgstr "Bestandsgrootte:"
+
+#: inc/functions/admin-ui.php:89 views/modal-settings-visual-comparison.php:62
+#: views/modal-settings-visual-comparison.php:72
+#: views/modal-settings-visual-comparison.php:92
+#: views/modal-settings-visual-comparison.php:113
+msgid "Level:"
+msgstr "Niveau:"
+
+#. translators: %s is a formatted file size.
+#: views/modal-settings-visual-comparison.php:40
+#: views/modal-settings-visual-comparison.php:48
+#: views/modal-settings-visual-comparison.php:56
+msgid "Optimized photography about %s"
+msgstr "Het formaat van de geoptimaliseerde foto's is ongeveer %s"
+
+#. translators: %s is a formatted file size.
+#: views/modal-settings-visual-comparison.php:32
+msgid "Original photography about %s"
+msgstr "Het formaat van de originele foto is ongeveer %s"
+
+#: inc/functions/i18n.php:193 views/modal-payment.php:385
+#: views/modal-settings-infos.php:52 views/modal-settings-partners-infos.php:13
+#: views/modal-settings-visual-comparison.php:135
+msgid "Close"
+msgstr "Sluit"
+
+#: views/modal-settings-infos.php:19
+msgid "Note: the file size reduction will be less, compared to aggressive mode."
+msgstr "Opmerking: deze afbeeldings grootte zal minder zijn, vergeleken met de aggresievere modus."
+
+#: views/modal-settings-infos.php:16
+msgid "If you want the perfect quality for your images, we recommend you that mode."
+msgstr "Als je de beste afbeeldingskwaliteit wenst voor je afbeeldingen raden we je deze modus aan."
+
+#: views/modal-settings-infos.php:13
+msgid "This mode provides lossless optimization, your images will be optimized without any visible change."
+msgstr "Deze modus biedt een verliesloze optimalisatie, je afbeeldingen zullen geoptimaliseerd worden zonder enige visuele verandering."
+
+#: views/modal-settings-infos.php:32
+msgid "If you want the maximum weight reduction, we recommend using this mode."
+msgstr "Als je de maximale afname in bestandsgrootte wilt, stellen we het gebruik van deze modus voor."
+
+#: views/modal-settings-infos.php:29
+msgid "This will provide a drastic savings on the initial weight, with a small reduction in image quality. Most of the time it's not even noticeable."
+msgstr "Dit zal zorgen voor een drastische besparing op de initiële bestandsgrootte, met een klein verlies van in de kwaliteit van de afbeelding. In de meeste gevallen is deze kwaliteitsvermindering niet eens merkbaar."
+
+#: views/modal-settings-infos.php:26
+msgid "This mode provides perfect optimization of your images without any significant quality loss."
+msgstr "Deze mode zorgt voor een perfecte optimalisatie van je afbeeldingen zonder een merkwaarde kwaliteitsverlies."
+
+#: views/modal-settings-infos.php:45
+msgid "If you want the maximum weight reduction, and you agree to lose some quality on the images we recommend using this mode."
+msgstr "Als je de maximale afname in bestandsgrootte wilt, en kwaliteitsverlies van de afbeeldingen is geen probleem, dan stellen we het gebruik van deze modus voor."
+
+#: views/modal-settings-infos.php:42
+msgid "This will provide a huge savings on the initial weight. Sometimes the image quality could be degraded a little."
+msgstr "Dit zal voor een grote besparing zorgen op de initiële bestandsgrootte. Het is mogelijk dat sommige afbeeldingen wat van hun kwaliteit verliezen."
+
+#: views/modal-settings-infos.php:39
+msgid "This mode will apply all available optimizations for maximum image compression."
+msgstr "Deze modus zal van toepassing zijn op alle beschikbare optimalisaties voor de maximale afbeelding compressie."
+
+#: views/modal-settings-infos.php:8
+msgid "You can choose three levels of compression"
+msgstr "Je kan kiezen tussen drie compressieniveaus"
+
+#: views/page-settings.php:116
+msgid "I want this awesome quick access menu on my Toolbar."
+msgstr "Ik wil deze snelle toegang menu in mijn toolbar."
+
+#: views/page-settings.php:107
+msgid "Display Options"
+msgstr "Weergave opties"
+
+#: views/part-settings-library.php:79
+msgid "Remember each additional image size will affect your Imagify monthly usage!"
+msgstr "Onthoud dat elke extra afbeeldingsgrootte van invloed is op je maandelijkse gebruik van Imagify!"
+
+#. translators: 1 is a "bold" tag start, 2 is the "bold" tag end.
+#: views/part-settings-library.php:73
+msgid "The %1$soriginal size%2$s is %1$sautomatically optimized%2$s by Imagify."
+msgstr "De %1$soriginele grootte%2$s is %1$sautomatisch geoptimaliseered%2$s door Imagify."
+
+#: views/part-settings-library.php:66
+msgid "You can choose to optimize different image sizes created by WordPress here."
+msgstr "Je kan hier de een keuze maken voor de verschillende afbeeldingsformaten te optimaliseren, die gemaakt zijn door WordPress."
+
+#: views/part-settings-library.php:63
+msgid "Files optimization"
+msgstr "Bestanden optimalisatie"
+
+#. translators: 1 is a number of pixels.
+#: views/part-settings-library.php:44
+msgid "This option is recommended to reduce larger images. You can save up to 80%% after resizing. The new width should not be less than your largest thumbnail width, which is actually %dpx."
+msgstr "Deze optie wordt aanbevolen om grotere afbeeldingen te verkleinen. Je kunt maximaal 80%% opslaan nadat je de grootte hebt aangepast. De nieuwe breedte mag niet kleiner zijn dan je grootste thumbnail breedte, die eigenlijk %dpx is."
+
+#. translators: 1 is a text input for a number of pixels (don't use %d).
+#: views/part-settings-library.php:32
+msgid "to maximum %s pixels width"
+msgstr "voor maximale %s pixels breedte"
+
+#: views/part-settings-library.php:17
+msgid "Resize larger images"
+msgstr "Pas het formaat aan van grotere afbeeldingen"
+
+#: views/page-settings.php:59
+msgid "Keep your original images in a separate folder before optimization process."
+msgstr "Hoe je originele afbeeldingen in een aparte map voor het optimalisatie proces."
+
+#: views/page-settings.php:58
+msgid "Backup original images"
+msgstr "Back-up de originele afbeeldingen"
+
+#: views/page-settings.php:49
+msgid "Automatically optimize every image you upload to WordPress."
+msgstr "Optimaliseer automatisch elke afbeelding die je uploadt naar WordPress."
+
+#: views/page-settings.php:48
+msgid "Auto-Optimize images on upload"
+msgstr "Automatische optimalisatie afbeeldingen bij upload"
+
+#. translators: %s is a "More info?" link.
+#: classes/Optimization/File.php:605 inc/deprecated/deprecated.php:629
+#: inc/functions/i18n.php:109 inc/functions/i18n.php:254
+#: views/page-settings.php:147
+msgid "More info?"
+msgstr "Meer informatie?"
+
+#: inc/classes/class-imagify-files-list-table.php:442
+msgid "Optimization Level"
+msgstr "Optimalisatie niveau"
+
+#: views/part-settings-account.php:77 views/part-settings-account.php:104
+msgid "API Key"
+msgstr "API-sleutel"
+
+#. translators: 1 is a "bold" tag start, 2 is the "bold" tag end + a line break
+#. tag, 3 is a link tag start, 4 is the link tag end.
+#: views/notice-rating.php:23 views/part-settings-header.php:25
+msgid "%1$sDo you like this plugin?%2$s Please take a few seconds to %3$srate it on WordPress.org%4$s!"
+msgstr "%1$sVindt je deze plugin leuk?%2$s Neem enkele seconden om een %3$s waardering te geven op WordPress.org%4$s!"
+
+#: views/notice-wp-rocket.php:19
+msgid "Get WP Rocket now"
+msgstr "Koop WP Rocket nu"
+
+#: views/notice-wp-rocket.php:15
+msgid "Discover the best caching plugin to speed up your website."
+msgstr "Ontdek de beste caching plugin om je website te versnellen."
+
+#: views/notice-grid-view.php:9
+msgid "Switch to the List View"
+msgstr "Wissel naar de lijst view"
+
+#: views/notice-grid-view.php:8
+msgid "Use the List view to optimize images with Imagify."
+msgstr "Gebruik de lijst view om met Imagify afbeeldingen te optimaliseren."
+
+#: views/notice-grid-view.php:5
+msgid "You're missing out!"
+msgstr "Je loopt iets mis!"
+
+#: views/notice-http-block-external.php:14
+msgid "Click on the field and press Ctrl-A to select all."
+msgstr "Klik op het veld en druk op CTRL-A om alles te selecteren."
+
+#: views/notice-http-block-external.php:13
+msgid "To optimize your images, you have to put the following code in your <code>wp-config.php</code> file so that it works correctly."
+msgstr "Om je afbeeldingen te optimaliseren, moet je de volgende code in je <code>wp-config.php</code> bestand toevoegen voor de perfecte werking."
+
+#: views/notice-http-block-external.php:10
+msgid "You defined the <code>WP_HTTP_BLOCK_EXTERNAL</code> constant in the <code>wp-config.php</code> to block all external HTTP requests."
+msgstr "Je hebt de <code>WP_HTTP_BLOCK_EXTERNAL</code> constante in het <code>wp-config.php</code> bestand om alle externe HTTP aanvragen te blokkeren."
+
+#: views/notice-http-block-external.php:5
+msgid "The external HTTP requests are blocked!"
+msgstr "De externe HTTP aanvragen zijn geblokkeerd!"
+
+#: views/notice-plugins-to-deactivate.php:17
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: views/notice-plugins-to-deactivate.php:10
+msgid "The following plugin is not compatible with this plugin and may cause unexpected results:"
+msgid_plural "The following plugins are not compatible with this plugin and may cause unexpected results:"
+msgstr[0] "De volgende plugin is niet compatibel met deze plugin en kunnen tot onverwachte resultaten leiden:"
+msgstr[1] "De volgende plugins zijn niet compatibel met deze plugin en kunnen tot onverwachte resultaten leiden:"
+
+#. translators: 1 and 2 are link tag starts, 3 is a link tag end.
+#: views/notice-wrong-api-key.php:14
+msgid "Go to your Imagify account page to get your API Key and specify it on %1$syour settings%3$s or %2$screate an account for free%3$s if you don't have one yet."
+msgstr "Ga naar je Imagify account pagina en neem je API-sleutel en specificeer het in je %1$s instellingen%3$s of %2$smaak een gratis account%3$s als je er nog geen hebt."
+
+#: views/notice-wrong-api-key.php:5 views/part-settings-account.php:119
+msgid "Your API key isn't valid!"
+msgstr "Je API-sleutel is ongeldig!"
+
+#: views/notice-welcome-steps.php:50
+msgid "Go to Settings"
+msgstr "Ga naar instellingen"
+
+#: views/notice-welcome-steps.php:49
+msgid "It’s almost done! You have just to configure your optimization settings."
+msgstr "Het is bijna klaar! Je moet alleen nog je optimalisatie instellingen configureren."
+
+#: views/notice-welcome-steps.php:48
+msgid "Configure it"
+msgstr "Configureer het"
+
+#: views/notice-welcome-steps.php:41
+msgid "I have my API key"
+msgstr "Ik heb mijn API-sleutel"
+
+#. translators: 1 is a link tag start, 2 is the link tag end.
+#: views/notice-welcome-steps.php:33
+msgid "Save your API Key you have received by email or you can get it on your %1$sImagify account page%2$s."
+msgstr "Bewaar je API-sleutel die je per e-mail hebt ontvangen, of je kunt deze verkrijgen op je %1$sImagify accountpagina%2$s."
+
+#: views/notice-welcome-steps.php:28
+msgid "Enter your API Key"
+msgstr "Voer je API sleutel in"
+
+#: views/notice-welcome-steps.php:21
+msgid "Sign up, It's FREE!"
+msgstr "Meld je aan, het is GRATIS!"
+
+#: views/notice-welcome-steps.php:18
+msgid "Don't have an Imagify account yet? Optimize your images by creating an account in a few seconds!"
+msgstr "Heb je nog geen Imagify account? Optimaliseer je afbeeldingen door binnen enkele seconden een account te maken!"
+
+#: views/notice-welcome-steps.php:17
+msgid "Create an Account"
+msgstr "Account aanmaken"
+
+#: views/notice-footer.php:6 views/notice-welcome-steps.php:10
+msgid "Dismiss this notice"
+msgstr "Negeer dit bericht"
+
+#: views/notice-welcome-steps.php:8
+msgid "Welcome to Imagify, the best way to easily optimize your images!"
+msgstr "Welkom bij Imagify, de beste manier om gemakkelijk je afbeeldingen te optimaliseren!"
+
+#: views/modal-settings-visual-comparison.php:22
+#: views/modal-settings-visual-comparison.php:27
+#: views/modal-settings-visual-comparison.php:63
+msgid "Original"
+msgstr "Oorspronkelijk"
+
+#: inc/classes/class-imagify-files-list-table.php:441
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:242
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:97
+msgid "Status"
+msgstr "Toestand"
+
+#: views/notice-bulk-optimization-complete.php:14
+#: views/part-bulk-optimization-success.php:17
+msgid "Well done!"
+msgstr "Goed gedaan!"
+
+#. translators: %s is a line break.
+#: views/page-bulk.php:56
+msgid "that's the size you saved %sby using Imagify"
+msgstr "is de grootte die je bespaard hebt %sdoor Imagify te gebruiken"
+
+#: views/page-bulk.php:42
+msgid "Optimized size"
+msgstr "Geoptimaliseerde grootte"
+
+#: views/page-bulk.php:37
+msgid "Original size"
+msgstr "Originele grootte"
+
+#. translators: you can use %s to include a line break.
+#: views/page-bulk.php:28
+msgid "that's the number of original images%s you optimized with Imagify"
+msgstr "dat is het aantal originele afbeeldingen%s die je geoptimaliseerd hebt met Imagify"
+
+#: views/page-bulk.php:19
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: views/page-bulk.php:14
+msgid "Overview"
+msgstr "Overzicht"
+
+#: views/page-bulk.php:191
+msgid "Imagif’em all"
+msgstr "Imagif’em alles"
+
+#: views/modal-settings-infos.php:11
+#: views/modal-settings-visual-comparison.php:23
+#: views/modal-settings-visual-comparison.php:35
+#: views/modal-settings-visual-comparison.php:73
+msgid "Normal"
+msgstr "Normaal"
+
+#: views/modal-settings-infos.php:24
+#: views/modal-settings-visual-comparison.php:24
+#: views/modal-settings-visual-comparison.php:43
+#: views/modal-settings-visual-comparison.php:93
+msgid "Aggressive"
+msgstr "Agressief"
+
+#: views/modal-settings-infos.php:37
+#: views/modal-settings-visual-comparison.php:25
+#: views/modal-settings-visual-comparison.php:51
+#: views/modal-settings-visual-comparison.php:114
+msgid "Ultra"
+msgstr "Ultra"
+
+#: views/part-bulk-optimization-infos.php:27
+msgid "Please be aware that optimizing a large number of images can take a while depending on your server and network speed."
+msgstr "Houd er rekening mee dat het optimaliseren van een groot aantal afbeeldingen even kan duren, afhankelijk van je server- en netwerksnelheid."
+
+#: inc/functions/i18n.php:284
+msgid "Information"
+msgstr "Informatie"
+
+#: views/part-bulk-optimization-overquota-alert.php:10
+msgid "Upgrade your account to continue optimizing your images."
+msgstr "Upgrade je account om door te gaan met het optimaliseren van je afbeeldingen."
+
+#: inc/classes/class-imagify-views.php:214
+#: inc/classes/class-imagify-views.php:245 inc/common/admin-bar.php:32
+#: views/part-settings-header.php:5 views/part-settings-header.php:14
+msgid "Settings"
+msgstr "Instellingen"
+
+#: inc/classes/class-imagify-settings.php:410
+msgid "<strong>ERROR</strong>: options page not found."
+msgstr "<strong>FOUT</strong>: de opties pagina is niet gevonden."
+
+#: inc/admin/meta-boxes.php:43
+#: inc/classes/class-imagify-files-list-table.php:710
+#: inc/functions/admin-ui.php:463
+msgid "Check your Settings"
+msgstr "Controleer je instellingen"
+
+#: inc/admin/meta-boxes.php:40
+#: inc/classes/class-imagify-files-list-table.php:709
+#: inc/functions/admin-ui.php:461 inc/functions/api.php:223
+msgid "Invalid API key"
+msgstr "Ongeldige API-sleutel"
+
+#. Plugin Name of the plugin
+#: inc/admin/meta-boxes.php:38 inc/admin/meta-boxes.php:68
+#: inc/admin/upload.php:16
+msgid "Imagify"
+msgstr "Imagify"
+
+#: inc/3rd-party/nextgen-gallery/inc/admin/menu.php:18
+#: inc/classes/class-imagify-views.php:163
+#: inc/classes/class-imagify-views.php:208
+#: inc/classes/class-imagify-views.php:218
+#: inc/classes/class-imagify-views.php:244 inc/common/admin-bar.php:41
+#: views/part-bulk-optimization-header.php:3
+#: views/part-bulk-optimization-header.php:13
+msgid "Bulk Optimization"
+msgstr "Bulk optimalisatie"
+
+#: inc/functions/i18n.php:264
+msgid "All your media files have been optimized by Imagify. Congratulations!"
+msgstr "Al je afbeeldingen zijn geoptimaliseerd door Imagify. Gefeliciteerd!"
+
+#: inc/functions/i18n.php:115 inc/functions/i18n.php:262
+msgid "Hold on!"
+msgstr "Wacht even!"
+
+#: inc/functions/i18n.php:77 inc/functions/i18n.php:118
+#: inc/functions/i18n.php:248 inc/functions/i18n.php:268
+msgid "Error"
+msgstr "Fout"
+
+#: inc/functions/i18n.php:246
+msgid "Unoptimized"
+msgstr "Niet geoptimaliseerd"
+
+#: inc/functions/i18n.php:247
+msgid "Optimized"
+msgstr "Geoptimaliseerd"
+
+#: inc/functions/i18n.php:261
+msgid "We are trying to get your unoptimized media files, it may take time depending on the number of files."
+msgstr "We proberen je niet geoptimaliseerde media bestanden op te halen, dit kan even duren afhankelijk van het aantal bestanden."
+
+#: inc/functions/i18n.php:260
+msgid "Please wait..."
+msgstr "Gelieve te wachten..."
+
+#: inc/functions/i18n.php:215 inc/functions/i18n.php:326
+#: views/button/restore.php:25
+msgid "Restore Original"
+msgstr "Herstel origineel"
+
+#: inc/functions/i18n.php:70
+msgid "If you keep this option deactivated, you won't be able to re-optimize your images to another compression level and restore your original images in case of need."
+msgstr "Als je deze optie gedeactiveerd laat, zal je je afbeeldingen niet opnieuw kunnen optimaliseren naar een ander compressie niveau of je originele afbeelding, indien nodig, kunnen herstellen."
+
+#: inc/functions/i18n.php:69
+msgid "Don't Need a Parachute?"
+msgstr "Heb je een parachute nodig?"
+
+#: inc/functions/i18n.php:65 views/part-settings-account.php:111
+msgid "Your API key is valid."
+msgstr "Je API sleutel is geldig."
+
+#: inc/functions/i18n.php:50 inc/functions/i18n.php:68
+msgid "Your API key is valid. You can now configure the Imagify settings to optimize your images."
+msgstr "Je API-sleutel is geldig. Je kan nu de Imagify instellingen configureren om je afbeeldingen te optimaliseren."
+
+#: inc/functions/i18n.php:66
+msgid "Check in progress..."
+msgstr "Bezig met controleren..."
+
+#: inc/functions/i18n.php:47
+msgid "Connect me"
+msgstr "Verbind me"
+
+#: inc/functions/i18n.php:46
+msgid "Paste your API key below:"
+msgstr "Plak je API-sleutel hieronder:"
+
+#. translators: Don't use escaped HTML entities here (like &nbsp;).
+#: inc/functions/i18n.php:45
+msgid "Connect to Imagify!"
+msgstr "Verbind met Imagify!"
+
+#: inc/functions/i18n.php:43
+msgid "Your account has been successfully created. Please check your mailbox, you are going to receive an email with API key."
+msgstr "Je account is succesvol aangemaakt. Controleer je postbus, je ontvangt een e-mail met een API-sleutel."
+
+#. translators: Don't use escaped HTML entities here (like &nbsp;).
+#: inc/functions/i18n.php:42 inc/functions/i18n.php:49
+#: inc/functions/i18n.php:67
+msgid "Congratulations!"
+msgstr "Gefeliciteerd!"
+
+#: inc/functions/i18n.php:40
+msgid "You need to specify an email!"
+msgstr "Je moet een e-mailadres opgeven!"
+
+#: inc/functions/i18n.php:39
+msgid "Sign Up"
+msgstr "Registreren"
+
+#: inc/functions/i18n.php:38
+msgid "Enter your email to get an API key:"
+msgstr "Voer je e-mailadres in om een API sleutel te krijgen:"
+
+#. translators: Don't use escaped HTML entities here (like &nbsp;).
+#: inc/functions/i18n.php:37
+msgid "Let's get you started!"
+msgstr "Laten we beginnen!"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:900
+msgid "View my subscription"
+msgstr "Bekijk mijn abonnement"
+
+#. translators: %s is a data quota.
+#: inc/classes/class-imagify-admin-ajax-post.php:889
+#: views/notice-almost-over-quota.php:18 views/page-bulk.php:111
+#: views/part-bulk-optimization-infos.php:11
+msgid "You have %s space credit left"
+msgstr "Je hebt nog %s ruimte over"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:881
+msgid "Your subscription:"
+msgstr "Je abonnement:"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:880
+msgid "Account status"
+msgstr "Account status"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:867
+msgid "Upgrade My Subscription"
+msgstr "Upgrade mijn abonnement"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:860
+#: inc/classes/class-imagify-admin-ajax-post.php:1057 views/page-bulk.php:134
+#: views/part-settings-account.php:51
+msgid "Oops, It's Over!"
+msgstr "Oeps, het is afgelopen!"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:854
+msgid "View My Subscription"
+msgstr "Bekijk mijn abonnement"
+
+#. translators: %s is a line break.
+#: inc/classes/class-imagify-admin-ajax-post.php:853
+msgid "You have almost used all your credit.%sDon't forget to upgrade your subscription to continue optimizing your images."
+msgstr "Je hebt bijna al je credits opgebruikt.%sVergeet niet om je abonnement te upgraden om je afbeeldingen te blijven optimaliseren."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:851
+#: inc/classes/class-imagify-admin-ajax-post.php:1059 views/page-bulk.php:136
+#: views/part-settings-account.php:53
+msgid "Oops, It's almost over!"
+msgstr "Oeps, het is bijna afgelopen!"
+
+#: inc/admin/meta-boxes.php:77 inc/functions/i18n.php:197
+#: inc/functions/i18n.php:213 inc/functions/i18n.php:325
+#: views/button/optimize.php:24
+msgid "Optimize"
+msgstr "Optimalizeren"
+
+#: inc/admin/meta-boxes.php:53
+#: inc/classes/class-imagify-files-list-table.php:717
+#: inc/functions/admin-ui.php:475 views/button/optimize-missing-sizes.php:17
+#: views/button/optimize.php:17 views/button/re-optimize.php:17
+#: views/button/retry-optimize.php:17
+msgid "Optimizing..."
+msgstr "Optimaliseren..."

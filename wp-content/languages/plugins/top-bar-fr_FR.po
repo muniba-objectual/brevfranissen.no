@@ -1,0 +1,98 @@
+# Translation of Plugins - Top Bar - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Top Bar - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-19 09:27:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Top Bar - Development (trunk)\n"
+
+#: inc/topbar-settings.php:53
+msgid "General"
+msgstr "Générales"
+
+#: inc/topbar-settings.php:57
+msgid "Status"
+msgstr "État "
+
+#: inc/topbar-settings.php:75
+msgid "Position"
+msgstr "Position"
+
+#: inc/topbar-settings.php:86
+msgid "If set to Fixed, your Top Bar will remain visible as the user scrolls."
+msgstr "Si défini sur « Fixe », votre barre du haut restera visible pendant que l’utilisateur défile sur votre page."
+
+#: inc/topbar-settings.php:79 inc/topbar-settings.php:82
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/topbar-settings.php:80 inc/topbar-settings.php:83
+msgid "Fixed"
+msgstr "Fixe"
+
+#: inc/topbar-settings.php:112
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/topbar-settings.php:136
+msgid "Adds a button to your Top Bar."
+msgstr "Ajoute un bouton à votre barre du haut."
+
+#: inc/topbar-settings.php:150
+msgid "Button URL"
+msgstr "URL du bouton"
+
+#. Plugin Name of the plugin
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#. Author URI of the plugin
+msgid "https://wpdarko.com"
+msgstr "https://wpdarko.com"
+
+#. Author of the plugin
+msgid "WP Darko"
+msgstr "WP Darko"
+
+#. Plugin URI of the plugin
+msgid "https://wpdarko.com/top-bar/"
+msgstr "https://wpdarko.com/top-bar/"
+
+#: inc/topbar-settings.php:151
+msgid "eg. https://wpdarko.com"
+msgstr "p. ex. https://wpdarko.com"
+
+#: inc/topbar-settings.php:146
+msgid "eg. See product"
+msgstr "p. ex. Voir produit"
+
+#: inc/topbar-settings.php:122
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/topbar-settings.php:145
+msgid "Button text"
+msgstr "Texte du bouton"
+
+#: inc/topbar-settings.php:117
+msgid "eg. Check out our new product right now!"
+msgstr "p. ex. Découvrez notre nouveau produit dès maintenant !"
+
+#: inc/topbar-settings.php:116
+msgid "Message"
+msgstr "Texte"
+
+#: inc/topbar-settings.php:62 inc/topbar-settings.php:64
+#: inc/topbar-settings.php:68
+msgid "Inactive"
+msgstr "Inactif"
+
+#: inc/topbar-settings.php:61 inc/topbar-settings.php:65
+#: inc/topbar-settings.php:67
+msgid "Active"
+msgstr "Actif"

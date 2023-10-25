@@ -1,0 +1,136 @@
+# Translation of Plugins - Request Form for Zendesk - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Request Form for Zendesk - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-22 16:10:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Request Form for Zendesk - Development (trunk)\n"
+
+#. Plugin Name of the plugin
+msgid "Request Form for Zendesk"
+msgstr "Aanvraagformulier voor Zendesk"
+
+#: zendesk-request-form.php:666
+msgid "Please enter a valid URL"
+msgstr "Voer een geldige URL in"
+
+#: zendesk-request-form.php:446
+msgid "Last name"
+msgstr "Achternaam"
+
+#: zendesk-request-form.php:439
+msgid "First name"
+msgstr "Voornaam"
+
+#: zendesk-request-form.php:165
+msgid "Allowed file types:"
+msgstr "Toegestane bestandstypen:"
+
+#: zendesk-request-form.php:164
+msgid "Maximum size:"
+msgstr "Maximale grootte:"
+
+#: zendesk-request-form.php:611
+msgid "You can only upload a maximum of %s files."
+msgstr "Je kunt maar maximaal %s bestanden uploaden."
+
+#: zendesk-request-form.php:634
+msgid "Uploaded file type is not allowed."
+msgstr "Het geüploade bestandstype is niet toegestaan."
+
+#: zendesk-request-form.php:163
+msgid "Upload a file"
+msgstr "Een bestand uploaden"
+
+#: zendesk-request-form.php:624 inc/action.php:179
+msgid "Uploaded file is too large."
+msgstr "Het geüploade bestand is te groot."
+
+#: zendesk-request-form.php:162
+msgid "Priority of your message"
+msgstr "Prioriteit van je bericht"
+
+#: zendesk-request-form.php:532
+msgid "No description set in ticket"
+msgstr "Er is geen beschrijving in het ticket"
+
+#: inc/action.php:130 inc/action.php:134
+msgid "No email address entered."
+msgstr "Geen e-mailadres ingevuld."
+
+#: zendesk-request-form.php:328 zendesk-request-form.php:485
+msgid "Select an option"
+msgstr "Kies een optie"
+
+#: inc/action.php:27
+msgid "Request not submitted. Please contact the Admin of this website so they can check the settings for this form."
+msgstr "Vraag niet ingediend. Neem contact op met de beheerder van deze website, zodat ze de instellingen voor dit formulier kunnen controleren."
+
+#. Author URI of the plugin
+msgid "https://www.pipdig.co/"
+msgstr "https://www.pipdig.co/"
+
+#. Author of the plugin
+msgid "pipdig"
+msgstr "pipdig"
+
+#. Description of the plugin
+msgid "Add a Zendesk request form on any post/page via a shortcode. Submitted messages will create a new ticket in your Zendesk account."
+msgstr "Voeg een Zendesk aanvraagformulier op elk bericht / pagina toe via een shortcode. Ingezonden berichten zullen een nieuw ticket in je Zendesk account aan te maken."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/zendesk-request-form/"
+msgstr "https://nl.wordpress.org/plugins/zendesk-request-form/"
+
+#: zendesk-request-form.php:161
+msgid "Submit"
+msgstr "Verstuur"
+
+#: zendesk-request-form.php:160
+msgid "Your Message"
+msgstr "Je bericht"
+
+#: zendesk-request-form.php:159
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: zendesk-request-form.php:158
+msgid "Your Email"
+msgstr "Je e-mailadres"
+
+#: zendesk-request-form.php:157
+msgid "Your Name"
+msgstr "Je naam"
+
+#: zendesk-request-form.php:184
+msgid "Your ticket number is %s."
+msgstr "Je ticketnummer is %s."
+
+#: zendesk-request-form.php:179 inc/settings.php:153
+msgid "Your message has been sent successfully."
+msgstr "Je bericht is verzonden."
+
+#: inc/action.php:383 inc/action.php:387
+msgid "Your message has been received. We will get back to you as soon as possible."
+msgstr "Je bericht is ontvangen. We zullen zo spoedig mogelijk reageren."
+
+#: inc/action.php:350
+msgid "Ticket not created."
+msgstr "Ticket niet aangemaakt."
+
+#: inc/action.php:105 inc/action.php:123
+msgid "No name entered."
+msgstr "Geen naam ingevuld."
+
+#: inc/action.php:74
+msgid "Spam check failed."
+msgstr "Spamcontrole mislukt."
+
+#: inc/action.php:8
+msgid "Please try again by clicking the back button on your browser."
+msgstr "Ga terug en probeer het opnieuw."

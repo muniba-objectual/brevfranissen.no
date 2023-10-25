@@ -1,0 +1,17 @@
+# This file was updated by Duplicator on 2023-06-09 10:00:05.
+# See the original_files_ folder for the original source_site_htaccess file.
+# BEGIN WordPress
+# Instruksjonene (linjene) mellom "BEGIN WordPress" and "END WordPress" er
+# dynamisk generert og bør bare endres via WordPress-filtre.
+# Enhver endring av instruksjonene mellom disse markørene vil bli overskrevet.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /braven/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /braven/index.php [L]
+</IfModule>
+
+# END WordPress

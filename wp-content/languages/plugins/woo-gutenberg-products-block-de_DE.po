@@ -1,0 +1,2943 @@
+# Translation of Plugins - WooCommerce Blocks - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - WooCommerce Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-25 17:07:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.10\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - WooCommerce Blocks - Stable (latest release)\n"
+
+#: assets/js/blocks/customer-account/block.json
+#: build/customer-account/block.json
+msgctxt "block keyword"
+msgid "My Account"
+msgstr "Mein Konto"
+
+#: templates/notices/error.php:35
+msgid "The following problems were found:"
+msgstr "Die folgenden Probleme wurden gefunden:"
+
+#: assets/js/atomic/blocks/product-elements/button/block.json
+#: assets/js/blocks/mini-cart/mini-cart-contents/inner-blocks/mini-cart-cart-button-block/block.json
+#: assets/js/blocks/mini-cart/mini-cart-contents/inner-blocks/mini-cart-checkout-button-block/block.json
+#: assets/js/blocks/mini-cart/mini-cart-contents/inner-blocks/mini-cart-shopping-button-block/block.json
+#: build/inner-blocks/mini-cart-cart-button-block/block.json
+#: build/inner-blocks/mini-cart-checkout-button-block/block.json
+#: build/inner-blocks/mini-cart-shopping-button-block/block.json
+#: build/product-button/block.json
+msgctxt "block style label"
+msgid "Outline"
+msgstr "Kontur"
+
+#: assets/js/atomic/blocks/product-elements/button/block.json
+#: assets/js/blocks/mini-cart/mini-cart-contents/inner-blocks/mini-cart-cart-button-block/block.json
+#: assets/js/blocks/mini-cart/mini-cart-contents/inner-blocks/mini-cart-checkout-button-block/block.json
+#: assets/js/blocks/mini-cart/mini-cart-contents/inner-blocks/mini-cart-shopping-button-block/block.json
+#: build/inner-blocks/mini-cart-cart-button-block/block.json
+#: build/inner-blocks/mini-cart-checkout-button-block/block.json
+#: build/inner-blocks/mini-cart-shopping-button-block/block.json
+#: build/product-button/block.json
+msgctxt "block style label"
+msgid "Fill"
+msgstr "Füllen"
+
+#: assets/js/atomic/blocks/product-elements/product-reviews/block.json
+#: build/product-reviews/block.json
+msgctxt "block description"
+msgid "A block that shows the reviews for a product."
+msgstr "Block, der die Bewertungen für ein Produkt zeigt."
+
+#: assets/js/atomic/blocks/product-elements/product-reviews/block.json
+#: build/product-reviews/block.json
+msgctxt "block title"
+msgid "Product Reviews"
+msgstr "Produktbewertungen"
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:313
+msgid "List of available payment method IDs that can be used to process the order."
+msgstr "Liste der verfügbaren Zahlungsmethoden-IDs, die zur Abwicklung der Bestellung verwendet werden können."
+
+#: assets/js/atomic/blocks/product-elements/product-meta/block.json
+#: build/product-meta/block.json
+msgctxt "block title"
+msgid "Product Meta"
+msgstr "Produkt-Metadaten"
+
+#: assets/js/atomic/blocks/product-elements/related-products/block.json
+#: build/related-products/block.json
+msgctxt "block description"
+msgid "Display related products."
+msgstr "Verwandte Produkte anzeigen."
+
+#: assets/js/atomic/blocks/product-elements/related-products/block.json
+#: build/related-products/block.json
+msgctxt "block title"
+msgid "Related Products"
+msgstr "Ähnliche Produkte"
+
+#: assets/js/atomic/blocks/product-elements/product-details/block.json
+#: build/product-details/block.json
+msgctxt "block title"
+msgid "Product Details"
+msgstr "Produktdetails"
+
+#: assets/js/atomic/blocks/product-elements/add-to-cart-form/block.json
+#: build/add-to-cart-form/block.json
+msgctxt "block description"
+msgid "Display a button so the customer can add a product to their cart. Options will also be displayed depending on product type. e.g. quantity, variation."
+msgstr "Zeigt eine Schaltfläche an, über die der Kunde ein Produkt in seinen Warenkorb legen kann. Je nach Produkttyp werden auch Optionen angezeigt, z.B. Menge, Variation."
+
+#: src/BlockTemplatesController.php:742
+msgid "Shop"
+msgstr "Shop"
+
+#: patterns/product-search-form.php:9
+msgctxt "placeholder for search field"
+msgid "Search products…"
+msgstr "Produkte suchen …"
+
+#: patterns/no-products-found.php:11
+msgctxt "Message explaining that there are no products returned from a search"
+msgid "No products were found matching your selection."
+msgstr "Es wurden keine Produkte gefunden, die deiner Auswahl entsprechen."
+
+#: assets/js/atomic/blocks/product-elements/product-image-gallery/block.json
+#: build/product-image-gallery/block.json
+msgctxt "block description"
+msgid "Display a product's images."
+msgstr "Zeige die Bilder eines Produkts an."
+
+#: assets/js/atomic/blocks/product-elements/product-image-gallery/block.json
+#: build/product-image-gallery/block.json
+msgctxt "block title"
+msgid "Product Image Gallery"
+msgstr "Produktbilder Galerie"
+
+#: assets/js/blocks/store-notices/block.json build/store-notices/block.json
+msgctxt "block description"
+msgid "Display shopper-facing notifications generated by WooCommerce or extensions."
+msgstr "Zeige Benachrichtigungen für Käufer an, die von WooCommerce oder Erweiterungen generiert wurden."
+
+#: assets/js/blocks/store-notices/block.json build/store-notices/block.json
+msgctxt "block title"
+msgid "Store Notices"
+msgstr "Shop-Mitteilungen"
+
+#: assets/js/blocks/product-results-count/block.json
+#: build/product-results-count/block.json
+msgctxt "block description"
+msgid "Display the number of products on the archive page or search result page."
+msgstr "Zeige die Anzahl der Produkte auf der Archivseite oder der Suchergebnisseite an."
+
+#: assets/js/blocks/product-results-count/block.json
+#: build/product-results-count/block.json
+msgctxt "block title"
+msgid "Product Results Count"
+msgstr "Anzahl der Produktergebnisse"
+
+#: assets/js/blocks/catalog-sorting/block.json build/catalog-sorting/block.json
+msgctxt "block description"
+msgid "Enable customers to change the sorting order of the products."
+msgstr "Erlaube Kunden, die Sortierreihenfolge der Produkte zu ändern"
+
+#: assets/js/blocks/catalog-sorting/block.json build/catalog-sorting/block.json
+msgctxt "block title"
+msgid "Catalog Sorting"
+msgstr "Katalogsortierung"
+
+#: assets/js/blocks/breadcrumbs/block.json build/breadcrumbs/block.json
+msgctxt "block description"
+msgid "Enable customers to keep track of their location within the store and navigate back to parent pages."
+msgstr "Erlaube Kunden, ihren Standort innerhalb des Shops zu verfolgen und zu übergeordneten Seiten zurückzunavigieren."
+
+#: assets/js/blocks/breadcrumbs/block.json build/breadcrumbs/block.json
+msgctxt "block title"
+msgid "Store Breadcrumbs"
+msgstr "Shop-Breadcrumbs"
+
+#. translators: %s: List of invalid parameters.
+#: src/StoreApi/Routes/V1/CartUpdateCustomer.php:104
+msgid "Invalid parameter(s): %s"
+msgstr "Ungültige(r) Parameter: %s"
+
+#: src/StoreApi/Routes/V1/CartUpdateCustomer.php:82
+#: src/StoreApi/Routes/V1/CartUpdateCustomer.php:93
+msgid "Invalid parameter."
+msgstr "Ungültiger Parameter."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-methods-block/block.json
+#: build/inner-blocks/checkout-shipping-methods-block/block.json
+msgctxt "block description"
+msgid "Display shipping options and rates for your store."
+msgstr "Zeige Versandoptionen und -kosten für deinen Shop an."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-method-block/block.json
+#: build/inner-blocks/checkout-shipping-method-block/block.json
+msgctxt "block description"
+msgid "Select between shipping or local pickup."
+msgstr "Wähle zwischen Versand und Abholung vor Ort aus."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-method-block/block.json
+#: build/inner-blocks/checkout-shipping-method-block/block.json
+msgctxt "block title"
+msgid "Shipping Method"
+msgstr "Versandmethode"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-pickup-options-block/block.json
+#: build/inner-blocks/checkout-pickup-options-block/block.json
+msgctxt "block description"
+msgid "Shows local pickup options."
+msgstr "Zeigt Optionen für die Abholung vor Ort."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-pickup-options-block/block.json
+#: build/inner-blocks/checkout-pickup-options-block/block.json
+msgctxt "block title"
+msgid "Pickup Method"
+msgstr "Abholmethode"
+
+#. translators: %d: shipping package number
+#: src/StoreApi/Utilities/CartController.php:864
+msgctxt "shipping packages"
+msgid "Shipment %d"
+msgstr "Sendung %d"
+
+#: src/StoreApi/Routes/V1/CartSelectShippingRate.php:68
+msgid "Invalid Rate ID."
+msgstr "Ungültige Tarif-ID."
+
+#: src/StoreApi/Routes/V1/CartSelectShippingRate.php:39
+msgid "The ID of the package being shipped. Leave blank to apply to all packages."
+msgstr "Die ID des zu versendenden Pakets. Lass das Feld leer, um es auf alle Pakete anzuwenden."
+
+#: src/Shipping/ShippingController.php:265
+#: build/wc-shipping-method-pickup-location.js:83
+msgid "Optional cost to charge for local pickup."
+msgstr "Optionale Kosten für die Abholung vor Ort."
+
+#: src/Shipping/ShippingController.php:260
+#: build/wc-shipping-method-pickup-location.js:83
+msgid "If a cost is defined, this controls if taxes are applied to that cost."
+msgstr "Wenn Kosten definiert sind, kontrolliert dies, ob Steuern auf diese Kosten angewendet werden."
+
+#: src/Shipping/ShippingController.php:256
+msgid "This controls the title which the user sees during checkout."
+msgstr "Dies kontrolliert den Titel, den der Benutzer während des Checkouts sieht."
+
+#: src/Shipping/ShippingController.php:251
+msgid "If enabled, this method will appear on the block based checkout."
+msgstr "Wenn aktiviert, wird diese Methode im blockbasierten Checkout angezeigt."
+
+#: src/Shipping/PickupLocation.php:146
+msgid "Pickup address"
+msgstr "Abholadresse"
+
+#: src/Shipping/PickupLocation.php:144
+#: build/wc-shipping-method-pickup-location.js:232
+#: build/wc-shipping-method-pickup-location.js:237
+msgid "Pickup location"
+msgstr "Abholort"
+
+#: src/Shipping/PickupLocation.php:31 build/checkout.js:21
+msgid "Allow customers to choose a local pickup location during checkout."
+msgstr "Erlaubt es Kunden, während des Checkouts eine lokale Abholstelle auszuwählen."
+
+#: assets/js/blocks/customer-account/block.json
+#: build/customer-account/block.json
+msgctxt "block description"
+msgid "A block that allows your customers to log in and out of their accounts in your store."
+msgstr "Ein Block, der es deinen Kunden ermöglicht, sich in ihrem Konto in deinem Shop einzuloggen und auszuloggen."
+
+#: assets/js/blocks/customer-account/block.json
+#: build/customer-account/block.json
+msgctxt "block title"
+msgid "Customer account"
+msgstr "Kundenkonto"
+
+#: src/BlockTypes/CustomerAccount.php:107
+msgid "Login"
+msgstr "Anmelden"
+
+#: src/BlockTypes/CustomerAccount.php:106 build/customer-account.js:1
+msgid "My Account"
+msgstr "Mein Kundenkonto"
+
+#: assets/js/blocks/active-filters/block.json build/active-filters/block.json
+msgctxt "block title"
+msgid "Active Filters Controls"
+msgstr "Steuerungen für aktive Filter"
+
+#: src/BlockTypes/ProductStockIndicator.php:66 build/all-products.js:11
+#: build/product-stock-indicator-frontend.js:2
+#: build/product-stock-indicator.js:2
+msgid "Out of stock"
+msgstr "Nicht auf Lager"
+
+#: src/BlockTypes/ProductStockIndicator.php:64 build/all-products.js:11
+#: build/product-stock-indicator-frontend.js:2
+#: build/product-stock-indicator.js:2
+msgid "In stock"
+msgstr "Auf Lager"
+
+#: patterns/store-info-alt-image-and-text.php:79
+msgid "We specialize in limited collections of handmade tableware. We collaborate with restaurants and cafes to create unique items that complement the menu perfectly. Please get in touch if you want to know more about our process and pricing."
+msgstr "Wir sind spezialisiert auf limitierte Kollektionen von handgefertigtem Geschirr. Wir arbeiten mit Restaurants und Cafés zusammen, um einzigartige Artikel zu kreieren, die perfekt zum Menü passen. Bitte kontaktiere uns, wenn du mehr über unseren Prozess und unsere Preise erfahren möchtest."
+
+#: patterns/store-info-alt-image-and-text.php:57
+msgid "Unique, one-of-a-kind pieces."
+msgstr "Einzigartige Unikate."
+
+#: patterns/store-info-alt-image-and-text.php:53
+msgid "Enduring quality."
+msgstr "Dauerhafte Qualität."
+
+#: patterns/store-info-alt-image-and-text.php:49
+msgid "Earthy, organic feel."
+msgstr "Natürliche, organische Atmosphäre."
+
+#: patterns/store-info-alt-image-and-text.php:45
+msgid "Timeless style."
+msgstr "Zeitloser Stil."
+
+#: patterns/store-info-alt-image-and-text.php:40
+msgid "All items are 100% hand-made, using the potter’s wheel or traditional techniques."
+msgstr "Alle Artikel werden zu 100% von Hand gefertigt, unter Verwendung des Töpferrads oder traditioneller Techniken."
+
+#: patterns/product-hero-2-col-2-row.php:76
+msgid "42% Cupro 34% Linen 24% Viscose"
+msgstr "42% Cupro 34% Leinen 24% Viskose"
+
+#: patterns/product-hero-2-col-2-row.php:72
+msgid "Normal Fit"
+msgstr "Normale Passform"
+
+#: patterns/product-hero-2-col-2-row.php:66
+msgid "Button-down front for any type of mood or look."
+msgstr "Knopfleiste vorne für jeden Stimmung oder Look."
+
+#: patterns/product-hero-2-col-2-row.php:62
+msgid "Versatile"
+msgstr "Vielseitig"
+
+#: patterns/product-hero-2-col-2-row.php:54
+msgid "Half tuck into your pants or layer over."
+msgstr "Halb in die Hose gesteckt oder darüber geschichtet."
+
+#: patterns/product-hero-2-col-2-row.php:50
+msgid "Fits your wardrobe"
+msgstr "Passt in deine Garderobe"
+
+#: patterns/product-hero-2-col-2-row.php:44
+msgid "Reflect your fashionable style."
+msgstr "Spiegelt deinen modischen Stil wider."
+
+#: patterns/product-hero-2-col-2-row.php:40
+msgid "100% Woolen"
+msgstr "100% Wolle"
+
+#: patterns/product-hero-2-col-2-row.php:27
+msgid "View product"
+msgstr "Produkt anzeigen"
+
+#: patterns/product-hero-2-col-2-row.php:22
+msgid "Perfect for any look featuring a mid-rise, relax fitting silhouette."
+msgstr "Perfekt für jeden Look, entspannte Silhouette mit mittlerer Leibhöhe."
+
+#: patterns/product-hero-2-col-2-row.php:15
+msgid "The Eden Jacket"
+msgstr "Die Eden-Jacke"
+
+#: src/Utils/BlockTemplateUtils.php:358
+msgid "Displays products filtered by an attribute."
+msgstr "Zeigt nach einem Attribut gefilterte Produkte an."
+
+#: src/Utils/BlockTemplateUtils.php:357
+msgctxt "Template name"
+msgid "Products by Attribute"
+msgstr "Produkte nach Attribut"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:257
+msgid "List of attributes (taxonomy terms) assigned to the product. For variable products, these are mapped to variations (see the `variations` field)."
+msgstr "Liste der Attribute (Taxonomie-Begriffe), die dem Produkt zugewiesen sind. Bei variablen Produkten sind diese den Variationen zugeordnet (siehe das Feld `Variationen`)."
+
+#: assets/js/blocks/rating-filter/block.json build/rating-filter/block.json
+msgctxt "block title"
+msgid "Filter by Rating Controls"
+msgstr "Filtersteuerungen nach Bewertungen"
+
+#: assets/js/blocks/stock-filter/block.json build/stock-filter/block.json
+msgctxt "block title"
+msgid "Filter by Stock Controls"
+msgstr "Steuerungselemente für die Lagerbestandsfilterung"
+
+#: assets/js/blocks/rating-filter/block.json build/rating-filter/block.json
+msgctxt "block description"
+msgid "Enable customers to filter the product grid by rating."
+msgstr "Ermögliche es Kunden, das Produkt-Raster nach Bewertungen zu filtern."
+
+#: assets/js/blocks/price-filter/block.json build/price-filter/block.json
+msgctxt "block title"
+msgid "Filter by Price Controls"
+msgstr "Steuerungselemente für die Preisfilterung"
+
+#: assets/js/blocks/attribute-filter/block.json
+#: build/attribute-filter/block.json
+msgctxt "block title"
+msgid "Filter by Attribute Controls"
+msgstr "Steuerungselemente für die Attributfilterung"
+
+#: patterns/filters.php:61 build/filter-wrapper.js:1
+msgid "Filter by rating"
+msgstr "Nach Bewertung filtern"
+
+#: assets/js/blocks/cart/inner-blocks/cart-cross-sells-products/block.json
+#: build/inner-blocks/cart-cross-sells-products-block/block.json
+msgctxt "block description"
+msgid "Shows the Cross-Sells products."
+msgstr "Zeigt die Cross-Sells-Produkte (Querverkäufe) an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-cross-sells-products/block.json
+#: build/inner-blocks/cart-cross-sells-products-block/block.json
+msgctxt "block title"
+msgid "Cart Cross-Sells Products"
+msgstr "Warenkorb Cross-Sells-Produkte (Querverkäufe)"
+
+#: assets/js/blocks/cart/inner-blocks/cart-cross-sells-block/block.json
+#: build/inner-blocks/cart-cross-sells-block/block.json
+msgctxt "block description"
+msgid "Shows the Cross-Sells block."
+msgstr "Zeigt den Cross-Sells-Block an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-cross-sells-block/block.json
+#: build/inner-blocks/cart-cross-sells-block/block.json
+msgctxt "block title"
+msgid "Cart Cross-Sells"
+msgstr "Warenkorb-Cross-Sells (Querverkäufe)"
+
+#: src/BlockTypes/Cart.php:68 build/cart.js:12
+msgid "You may be interested in…"
+msgstr "Vielleicht interessierst du dich auch für..."
+
+#: assets/js/blocks/price-filter/block.json build/price-filter/block.json
+msgctxt "block description"
+msgid "Enable customers to filter the product grid by choosing a price range."
+msgstr "Ermögliche es Kunden, das Produkt-Raster zu filtern, indem sie einen Preisbereich auswählen."
+
+#: assets/js/blocks/featured-items/featured-product/block.json
+#: build/featured-product/block.json
+msgctxt "block description"
+msgid "Highlight a product or variation."
+msgstr "Hebe ein Produkt oder eine Variante hervor."
+
+#: assets/js/blocks/attribute-filter/block.json
+#: build/attribute-filter/block.json
+msgctxt "block description"
+msgid "Enable customers to filter the product grid by selecting one or more attributes, such as color."
+msgstr "Ermögliche es Kunden, das Produktraster durch Auswählen eines oder mehrerer Attribute, wie Farbe, zu filtern."
+
+#: assets/js/blocks/active-filters/block.json build/active-filters/block.json
+msgctxt "block description"
+msgid "Display the currently active filters."
+msgstr "Zeige die derzeit aktiven Filter an."
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:58
+msgid "“New Account” emails are sent when a customer signs up via the checkout flow."
+msgstr "\"Neue-Konto\"-E-Mails werden gesendet, wenn sich ein Kunde über den Bestellvorgang registriert."
+
+#: src/Domain/Bootstrap.php:184
+msgid "The WooCommerce Blocks plugin requires a more recent version of WooCommerce and has been deactivated. Please update to the latest version of WooCommerce."
+msgstr "Das WooCommerce Blocks-Plugin erfordert eine neuere Version von WooCommerce und wurde deaktiviert. Bitte aktualisiere auf die neueste Version von WooCommerce."
+
+#: assets/js/blocks/stock-filter/block.json build/stock-filter/block.json
+msgctxt "block description"
+msgid "Enable customers to filter the product grid by stock status."
+msgstr "Ermögliche es Kunden, das Produktraster nach Lagerbestand zu filtern."
+
+#: assets/js/blocks/filter-wrapper/block.json build/filter-wrapper/block.json
+msgctxt "block title"
+msgid "Filter Block"
+msgstr "Filter-Block"
+
+#: assets/js/blocks/product-categories/block.json
+#: build/product-categories/block.json
+msgctxt "block description"
+msgid "Show all product categories as a list or dropdown."
+msgstr "Zeige alle Produktkategorien als Liste oder Dropdown-Menü an."
+
+#: assets/js/blocks/product-categories/block.json
+#: build/product-categories/block.json
+msgctxt "block title"
+msgid "Product Categories List"
+msgstr "Liste der Produktkategorien"
+
+#. translators: %1s: file name; %2s: slug value found.
+#: src/BlockPatterns.php:131
+msgid "Could not register file \"%s\" as a block pattern (\"Title\" field missing)"
+msgstr "Konnte die Datei \"%s\" nicht als Blockmuster registrieren (\"Titel\"-Feld fehlt)."
+
+#. translators: %1s: file name; %2s: slug value found.
+#: src/BlockPatterns.php:110
+msgid "Could not register file \"%1$s\" as a block pattern (invalid slug \"%2$s\")"
+msgstr "Konnte die Datei \"%1$s\" nicht als Blockmuster registrieren (Titelform \"%2$s\" ungültigt)"
+
+#. translators: %s: file name.
+#: src/BlockPatterns.php:95
+msgid "Could not register file \"%s\" as a block pattern (\"Slug\" field missing)"
+msgstr "Konnte die Datei \"%s\" nicht als Blockmuster registrieren (\"Titelform\"-Feld fehlt)."
+
+#: assets/js/blocks/products/all-products/block.json
+#: build/all-products/block.json
+msgctxt "block description"
+msgid "Display products from your store in a grid layout."
+msgstr "Zeige Produkte aus deinem Shop in einem Rasterlayout an."
+
+#: assets/js/blocks/products/all-products/block.json
+#: build/all-products/block.json
+msgctxt "block title"
+msgid "All Products"
+msgstr "Alle Produkte"
+
+#: assets/js/blocks/product-category/block.json
+#: build/product-category/block.json
+msgctxt "block description"
+msgid "Display a grid of products from your selected categories."
+msgstr "Ein Raster von Produkten deiner ausgewählten Kategorien anzeigen."
+
+#: assets/js/blocks/product-category/block.json
+#: build/product-category/block.json
+msgctxt "block title"
+msgid "Products by Category"
+msgstr "Produkte nach Kategorie"
+
+#: assets/js/blocks/product-best-sellers/block.json
+#: build/product-best-sellers/block.json
+msgctxt "block description"
+msgid "Display a grid of your all-time best selling products."
+msgstr "Zeige ein Raster deinen meistverkauften Produkten an."
+
+#: assets/js/blocks/product-best-sellers/block.json
+#: build/product-best-sellers/block.json
+msgctxt "block title"
+msgid "Best Selling Products"
+msgstr "Meistverkaufte Produkte"
+
+#: src/Utils/BlockTemplateUtils.php:362
+msgid "Displays search results for your store."
+msgstr "Zeigt Suchergebnisse für deinen Shop an."
+
+#: src/Utils/BlockTemplateUtils.php:354
+msgid "Displays products filtered by a tag."
+msgstr "Zeigt nach einem Schlagwort gefilterte Produkte an."
+
+#: src/Utils/BlockTemplateUtils.php:350
+msgid "Displays products filtered by a category."
+msgstr "Zeigt nach einer Kategorie gefilterte Produkte an."
+
+#: src/Utils/BlockTemplateUtils.php:346
+msgid "Displays your products."
+msgstr "Zeigt deine Produkte an."
+
+#: src/Utils/BlockTemplateUtils.php:342
+msgid "Displays a single product."
+msgstr "Zeigt ein Einzelprodukt an."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:165
+msgid "List of cross-sells items related to cart items."
+msgstr "Liste der Cross-Selling-Artikel, die mit Warenkorb-Artikeln in Verbindung stehen."
+
+#: src/Utils/BlockTemplateUtils.php:361
+msgctxt "Template name"
+msgid "Product Search Results"
+msgstr "Produktsuchergebnisse"
+
+#: src/Utils/BlockTemplateUtils.php:353
+msgctxt "Template name"
+msgid "Products by Tag"
+msgstr "Produkte nach Schlagwort"
+
+#: src/Utils/BlockTemplateUtils.php:349
+msgctxt "Template name"
+msgid "Products by Category"
+msgstr "Produkte nach Kategorie"
+
+#: src/Utils/BlockTemplateUtils.php:345
+msgctxt "Template name"
+msgid "Product Catalog"
+msgstr "Produktkatalog"
+
+#: src/Utils/BlockTemplateUtils.php:341
+msgctxt "Template name"
+msgid "Single Product"
+msgstr "Einzelnes Produkt"
+
+#: woocommerce-gutenberg-products-block.php:281
+msgid "You have WooCommerce Blocks installed, but the WooCommerce bundled version is running because it is more up-to-date. This may cause unexpected compatibility issues. Please update the WooCommerce Blocks plugin."
+msgstr "Du hast WooCommerce Blocks installiert, aber die WooCommerce-Paketversion wird ausgeführt, weil diese aktueller ist. Dadurch können unerwartete Kompatibilitätsprobleme auftreten. Aktualisiere bitte das WooCommerce Blocks-Plugin."
+
+#: assets/js/blocks/products-by-attribute/block.json
+#: build/products-by-attribute/block.json
+msgctxt "block description"
+msgid "Display a grid of products with selected attributes."
+msgstr "Zeige ein Raster mit Produkten mit ausgewählten Attributen an."
+
+#: assets/js/blocks/products-by-attribute/block.json
+#: build/products-by-attribute/block.json
+msgctxt "block title"
+msgid "Products by Attribute"
+msgstr "Produkte nach Attribut"
+
+#: assets/js/blocks/product-tag/block.json build/product-tag/block.json
+msgctxt "block description"
+msgid "Display a grid of products with selected tags."
+msgstr "Zeige ein Raster mit Produkten mit ausgewählten Schlagworten an."
+
+#: assets/js/blocks/product-tag/block.json build/product-tag/block.json
+msgctxt "block title"
+msgid "Products by Tag"
+msgstr "Produkte nach Schlagwort"
+
+#: assets/js/blocks/handpicked-products/block.json
+#: build/handpicked-products/block.json
+msgctxt "block description"
+msgid "Display a selection of hand-picked products in a grid."
+msgstr "Zeige eine Auswahl handverlesener Produkte in einem Raster an."
+
+#: assets/js/blocks/handpicked-products/block.json
+#: build/handpicked-products/block.json
+msgctxt "block keyword"
+msgid "Handpicked Products"
+msgstr "Handverlesene Produkte"
+
+#: assets/js/blocks/handpicked-products/block.json
+#: build/handpicked-products/block.json
+msgctxt "block title"
+msgid "Hand-picked Products"
+msgstr "Handverlesene Produkte"
+
+#: assets/js/blocks/featured-items/featured-product/block.json
+#: build/featured-product/block.json
+msgctxt "block title"
+msgid "Featured Product"
+msgstr "Hervorgehobenes Produkt"
+
+#: assets/js/blocks/featured-items/featured-category/block.json
+#: build/featured-category/block.json
+msgctxt "block description"
+msgid "Visually highlight a product category and encourage prompt action."
+msgstr "Eine Produkt-Kategorie visuell hervorheben und zum sofortigen Handeln auffordern."
+
+#: assets/js/blocks/featured-items/featured-category/block.json
+#: build/featured-category/block.json
+msgctxt "block title"
+msgid "Featured Category"
+msgstr "Hervorgehobene Kategorie"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-cart-items/block.json
+#: build/inner-blocks/checkout-order-summary-cart-items-block/block.json
+msgctxt "block description"
+msgid "Shows cart items."
+msgstr "Warenkorbartikel anzeigen."
+
+#: assets/js/blocks/cart/inner-blocks/cart-items-block/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-cart-items/block.json
+#: build/inner-blocks/cart-items-block/block.json
+#: build/inner-blocks/checkout-order-summary-cart-items-block/block.json
+msgctxt "block title"
+msgid "Cart Items"
+msgstr "Warenkorbartikel"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-taxes/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-taxes/block.json
+#: build/inner-blocks/cart-order-summary-taxes-block/block.json
+#: build/inner-blocks/checkout-order-summary-taxes-block/block.json
+msgctxt "block description"
+msgid "Shows the cart taxes row."
+msgstr "Zeigt die Warenkorbsteuerzeile an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-taxes/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-taxes/block.json
+#: build/inner-blocks/cart-order-summary-taxes-block/block.json
+#: build/inner-blocks/checkout-order-summary-taxes-block/block.json
+msgctxt "block title"
+msgid "Taxes"
+msgstr "Steuern"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-subtotal/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-subtotal/block.json
+#: build/inner-blocks/cart-order-summary-subtotal-block/block.json
+#: build/inner-blocks/checkout-order-summary-subtotal-block/block.json
+msgctxt "block description"
+msgid "Shows the cart subtotal row."
+msgstr "Zeigt die Zwischensummenzeile des Einkaufswagens an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-subtotal/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-subtotal/block.json
+#: build/inner-blocks/cart-order-summary-subtotal-block/block.json
+#: build/inner-blocks/checkout-order-summary-subtotal-block/block.json
+msgctxt "block title"
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-shipping/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-shipping/block.json
+#: build/inner-blocks/cart-order-summary-shipping-block/block.json
+#: build/inner-blocks/checkout-order-summary-shipping-block/block.json
+msgctxt "block description"
+msgid "Shows the cart shipping row."
+msgstr "Zeigt die Warenkorb-Versandzeile an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-shipping/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-shipping/block.json
+#: build/inner-blocks/cart-order-summary-shipping-block/block.json
+#: build/inner-blocks/checkout-order-summary-shipping-block/block.json
+msgctxt "block title"
+msgid "Shipping"
+msgstr "Versand"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-heading/block.json
+#: build/inner-blocks/cart-order-summary-heading-block/block.json
+msgctxt "block description"
+msgid "Shows the heading row."
+msgstr "Zeigt die Überschriftenzeile an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-heading/block.json
+#: build/inner-blocks/cart-order-summary-heading-block/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "Überschrift"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-fee/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-fee/block.json
+#: build/inner-blocks/cart-order-summary-fee-block/block.json
+#: build/inner-blocks/checkout-order-summary-fee-block/block.json
+msgctxt "block description"
+msgid "Shows the cart fee row."
+msgstr "Zeigt die Warenkorbgebührenzeile an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-fee/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-fee/block.json
+#: build/inner-blocks/cart-order-summary-fee-block/block.json
+#: build/inner-blocks/checkout-order-summary-fee-block/block.json
+msgctxt "block title"
+msgid "Fees"
+msgstr "Gebühren"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-discount/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-discount/block.json
+#: build/inner-blocks/cart-order-summary-discount-block/block.json
+#: build/inner-blocks/checkout-order-summary-discount-block/block.json
+msgctxt "block description"
+msgid "Shows the cart discount row."
+msgstr "Zeigt die Warenkorbrabattzeile an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-discount/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-discount/block.json
+#: build/inner-blocks/cart-order-summary-discount-block/block.json
+#: build/inner-blocks/checkout-order-summary-discount-block/block.json
+msgctxt "block title"
+msgid "Discount"
+msgstr "Rabatt"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-coupon-form/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-coupon-form/block.json
+#: build/inner-blocks/cart-order-summary-coupon-form-block/block.json
+#: build/inner-blocks/checkout-order-summary-coupon-form-block/block.json
+msgctxt "block description"
+msgid "Shows the apply coupon form."
+msgstr "Zeigt das Antragsformular für Gutscheine an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-coupon-form/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-coupon-form/block.json
+#: build/inner-blocks/cart-order-summary-coupon-form-block/block.json
+#: build/inner-blocks/checkout-order-summary-coupon-form-block/block.json
+msgctxt "block title"
+msgid "Coupon Form"
+msgstr "Gutscheinformular"
+
+#: src/StoreApi/Routes/V1/AbstractCartRoute.php:308
+msgid "Nonce is invalid."
+msgstr "Nonce ist ungültig."
+
+#: src/StoreApi/Routes/V1/AbstractCartRoute.php:304
+msgid "Missing the Nonce header. This endpoint requires a valid nonce."
+msgstr "Der Nonce-Header fehlt. Dieser Endpunkt erfordert eine gültige Nonce."
+
+#: assets/js/atomic/blocks/product-elements/add-to-cart-form/block.json
+#: assets/js/atomic/blocks/product-elements/average-rating/block.json
+#: assets/js/atomic/blocks/product-elements/button/block.json
+#: assets/js/atomic/blocks/product-elements/product-details/block.json
+#: assets/js/atomic/blocks/product-elements/product-image-gallery/block.json
+#: assets/js/atomic/blocks/product-elements/product-meta/block.json
+#: assets/js/atomic/blocks/product-elements/product-reviews/block.json
+#: assets/js/atomic/blocks/product-elements/rating-counter/block.json
+#: assets/js/atomic/blocks/product-elements/rating-stars/block.json
+#: assets/js/atomic/blocks/product-elements/rating/block.json
+#: assets/js/atomic/blocks/product-elements/related-products/block.json
+#: assets/js/blocks/active-filters/block.json
+#: assets/js/blocks/attribute-filter/block.json
+#: assets/js/blocks/breadcrumbs/block.json
+#: assets/js/blocks/catalog-sorting/block.json
+#: assets/js/blocks/checkout/block.json
+#: assets/js/blocks/collection-filters/block.json
+#: assets/js/blocks/customer-account/block.json
+#: assets/js/blocks/featured-items/featured-category/block.json
+#: assets/js/blocks/featured-items/featured-product/block.json
+#: assets/js/blocks/filter-wrapper/block.json
+#: assets/js/blocks/handpicked-products/block.json
+#: assets/js/blocks/mini-cart/block.json
+#: assets/js/blocks/order-confirmation/additional-information/block.json
+#: assets/js/blocks/order-confirmation/billing-address/block.json
+#: assets/js/blocks/order-confirmation/billing-wrapper/block.json
+#: assets/js/blocks/order-confirmation/downloads-wrapper/block.json
+#: assets/js/blocks/order-confirmation/downloads/block.json
+#: assets/js/blocks/order-confirmation/shipping-address/block.json
+#: assets/js/blocks/order-confirmation/shipping-wrapper/block.json
+#: assets/js/blocks/order-confirmation/status/block.json
+#: assets/js/blocks/order-confirmation/summary/block.json
+#: assets/js/blocks/order-confirmation/totals-wrapper/block.json
+#: assets/js/blocks/order-confirmation/totals/block.json
+#: assets/js/blocks/page-content-wrapper/block.json
+#: assets/js/blocks/price-filter/block.json
+#: assets/js/blocks/product-best-sellers/block.json
+#: assets/js/blocks/product-categories/block.json
+#: assets/js/blocks/product-category/block.json
+#: assets/js/blocks/product-collection/block.json
+#: assets/js/blocks/product-gallery/block.json
+#: assets/js/blocks/product-gallery/inner-blocks/product-gallery-large-image-next-previous/block.json
+#: assets/js/blocks/product-gallery/inner-blocks/product-gallery-large-image/block.json
+#: assets/js/blocks/product-gallery/inner-blocks/product-gallery-pager/block.json
+#: assets/js/blocks/product-gallery/inner-blocks/product-gallery-thumbnails/block.json
+#: assets/js/blocks/product-new/block.json
+#: assets/js/blocks/product-results-count/block.json
+#: assets/js/blocks/product-tag/block.json
+#: assets/js/blocks/product-template/block.json
+#: assets/js/blocks/product-top-rated/block.json
+#: assets/js/blocks/products-by-attribute/block.json
+#: assets/js/blocks/products/all-products/block.json
+#: assets/js/blocks/rating-filter/block.json
+#: assets/js/blocks/single-product/block.json
+#: assets/js/blocks/stock-filter/block.json
+#: assets/js/blocks/store-notices/block.json build/active-filters/block.json
+#: build/add-to-cart-form/block.json build/all-products/block.json
+#: build/attribute-filter/block.json build/breadcrumbs/block.json
+#: build/catalog-sorting/block.json build/checkout/block.json
+#: build/collection-filters/block.json build/customer-account/block.json
+#: build/featured-category/block.json build/featured-product/block.json
+#: build/filter-wrapper/block.json build/handpicked-products/block.json
+#: build/mini-cart/block.json
+#: build/order-confirmation-additional-information/block.json
+#: build/order-confirmation-billing-address/block.json
+#: build/order-confirmation-billing-wrapper/block.json
+#: build/order-confirmation-downloads-wrapper/block.json
+#: build/order-confirmation-downloads/block.json
+#: build/order-confirmation-shipping-address/block.json
+#: build/order-confirmation-shipping-wrapper/block.json
+#: build/order-confirmation-status/block.json
+#: build/order-confirmation-summary/block.json
+#: build/order-confirmation-totals-wrapper/block.json
+#: build/order-confirmation-totals/block.json
+#: build/page-content-wrapper/block.json build/price-filter/block.json
+#: build/product-average-rating/block.json
+#: build/product-best-sellers/block.json build/product-button/block.json
+#: build/product-categories/block.json build/product-category/block.json
+#: build/product-collection/block.json build/product-details/block.json
+#: build/product-gallery-large-image-next-previous/block.json
+#: build/product-gallery-large-image/block.json
+#: build/product-gallery-pager/block.json
+#: build/product-gallery-thumbnails/block.json build/product-gallery/block.json
+#: build/product-image-gallery/block.json build/product-meta/block.json
+#: build/product-new/block.json build/product-rating-counter/block.json
+#: build/product-rating-stars/block.json build/product-rating/block.json
+#: build/product-results-count/block.json build/product-reviews/block.json
+#: build/product-tag/block.json build/product-template/block.json
+#: build/product-top-rated/block.json build/products-by-attribute/block.json
+#: build/rating-filter/block.json build/related-products/block.json
+#: build/single-product/block.json build/stock-filter/block.json
+#: build/store-notices/block.json
+msgctxt "block keyword"
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: assets/js/blocks/checkout/block.json build/checkout/block.json
+msgctxt "block description"
+msgid "Display a checkout form so your customers can submit orders."
+msgstr "Zeige ein Bezahlformular an, damit deine Kunden Bestellungen aufgeben können."
+
+#: assets/js/blocks/checkout/block.json build/checkout/block.json
+msgctxt "block title"
+msgid "Checkout"
+msgstr "Kasse"
+
+#. Translators: %s amount.
+#: src/StoreApi/Utilities/QuantityLimits.php:102
+msgid "The minimum quantity that can be added to the cart is %s"
+msgstr "Die Mindestmenge, die zum Warenkorb hinzugefügt werden kann, ist %s"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:429
+msgid "The maximum quantity that can be added to the cart."
+msgstr "Die Höchstmenge, die zum Warenkorb hinzugefügt werden kann."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:423
+msgid "The minimum quantity that can be added to the cart."
+msgstr "Die Mindestmenge, die zum Warenkorb hinzugefügt werden kann."
+
+#. translators: %s: rating
+#. translators: %s is referring to the average rating value
+#. translators: %s is the rating value wrapped in HTML strong tags.
+#: src/BlockTypes/ProductRating.php:150
+#: src/BlockTypes/ProductRatingStars.php:119 build/active-filters-frontend.js:8
+#: build/active-filters-wrapper-frontend.js:8 build/active-filters.js:8
+#: build/all-reviews.js:3 build/rating-filter-frontend.js:3
+#: build/rating-filter-wrapper-frontend.js:9 build/rating-filter.js:3
+#: build/reviews-by-category.js:13 build/reviews-by-product.js:10
+#: build/reviews-frontend.js:3
+msgid "Rated %s out of 5"
+msgstr "Bewertet mit %s von 5"
+
+#. Translators: %s amount.
+#: src/StoreApi/Utilities/QuantityLimits.php:124
+msgid "The quantity added to the cart must be a multiple of %s"
+msgstr "Die in den Warenkorb gelegte Menge muss ein Vielfaches von %s sein "
+
+#: src/StoreApi/Utilities/QuantityLimits.php:93
+msgid "This item is already in the cart and its quantity cannot be edited"
+msgstr "Dieser Artikel befindet sich bereits im Warenkorb und seine Menge kann nicht geändert werden"
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:53
+#: src/StoreApi/Schemas/V1/ProductSchema.php:435
+msgid "The amount that quantities increment by. Quantity must be an multiple of this value."
+msgstr "Der Betrag, um den sich die Mengen erhöhen. Die Menge muss ein Vielfaches dieses Wertes sein."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:35
+msgid "How the quantity of this item should be controlled, for example, any limits in place."
+msgstr "Wie die Menge dieses Artikels kontrolliert werden soll, z. B. durch Höchstmengen."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:45
+msgid "Quantity of this item to add to the cart."
+msgstr "Menge dieses Artikels, die dem Warenkorb hinzugefügt werden soll."
+
+#: src/Utils/BlockTemplateUtils.php:146
+msgid "No theme is defined for this template."
+msgstr "Für dieses Template ist kein Theme definiert."
+
+#: assets/js/blocks/cart/inner-blocks/cart-accepted-payment-methods-block/block.json
+#: build/inner-blocks/cart-accepted-payment-methods-block/block.json
+msgctxt "block description"
+msgid "Display accepted payment methods."
+msgstr "Akzeptierte Zahlungsarten anzeigen."
+
+#: assets/js/blocks/cart/inner-blocks/cart-accepted-payment-methods-block/block.json
+#: build/inner-blocks/cart-accepted-payment-methods-block/block.json
+msgctxt "block title"
+msgid "Accepted Payment Methods"
+msgstr "Akzeptierte Zahlungsarten"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:313
+msgid "If this is a default attribute"
+msgstr "Wenn dies ein Standardattribut ist"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-totals-block/block.json
+#: build/inner-blocks/checkout-totals-block/block.json
+msgctxt "block description"
+msgid "Column containing the checkout totals."
+msgstr "Spalte mit der Gesamtsumme."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-totals-block/block.json
+#: build/inner-blocks/checkout-totals-block/block.json
+msgctxt "block title"
+msgid "Checkout Totals"
+msgstr "Gesamtsumme"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-terms-block/block.json
+#: build/inner-blocks/checkout-terms-block/block.json
+msgctxt "block description"
+msgid "Ensure that customers agree to your Terms & Conditions and Privacy Policy."
+msgstr "Stelle sicher, dass Kunden deinen Geschäftsbedingungen und deiner Datenschutzrichtlinie zustimmen."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-terms-block/block.json
+#: build/inner-blocks/checkout-terms-block/block.json
+msgctxt "block title"
+msgid "Terms and Conditions"
+msgstr "Allgemeine Geschäftsbedingungen"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-methods-block/block.json
+#: build/inner-blocks/checkout-shipping-methods-block/block.json
+msgctxt "block title"
+msgid "Shipping Options"
+msgstr "Versandoptionen"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-address-block/block.json
+#: build/inner-blocks/checkout-shipping-address-block/block.json
+msgctxt "block description"
+msgid "Collect your customer's shipping address."
+msgstr "Die Lieferadresse deines Kunden."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-address-block/block.json
+#: assets/js/blocks/order-confirmation/shipping-address/block.json
+#: build/inner-blocks/checkout-shipping-address-block/block.json
+#: build/order-confirmation-shipping-address/block.json
+msgctxt "block title"
+msgid "Shipping Address"
+msgstr "Lieferanschrift"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-payment-block/block.json
+#: build/inner-blocks/checkout-payment-block/block.json
+msgctxt "block description"
+msgid "Payment options for your store."
+msgstr "Zahlungsmöglichkeiten für deinen Shop."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-payment-block/block.json
+#: build/inner-blocks/checkout-payment-block/block.json
+msgctxt "block title"
+msgid "Payment Options"
+msgstr "Zahlungsoptionen"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-note-block/block.json
+#: build/inner-blocks/checkout-order-note-block/block.json
+msgctxt "block description"
+msgid "Allow customers to add a note to their order."
+msgstr "Erlaube deinen Kunden, deren Bestellung eine Notiz hinzuzufügen."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-note-block/block.json
+#: build/inner-blocks/checkout-order-note-block/block.json
+msgctxt "block title"
+msgid "Order Note"
+msgstr "Bestellhinweis"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-fields-block/block.json
+#: build/inner-blocks/checkout-fields-block/block.json
+msgctxt "block description"
+msgid "Column containing checkout address fields."
+msgstr "Spalte mit der Rechnungsadresse."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-fields-block/block.json
+#: build/inner-blocks/checkout-fields-block/block.json
+msgctxt "block title"
+msgid "Checkout Fields"
+msgstr "Bezahlfelder"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-contact-information-block/block.json
+#: build/inner-blocks/checkout-contact-information-block/block.json
+msgctxt "block description"
+msgid "Collect your customer's contact information."
+msgstr "Die Kontaktinformation deines Kunden."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-contact-information-block/block.json
+#: build/inner-blocks/checkout-contact-information-block/block.json
+msgctxt "block title"
+msgid "Contact Information"
+msgstr "Kontaktinformationen"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-billing-address-block/block.json
+#: build/inner-blocks/checkout-billing-address-block/block.json
+msgctxt "block description"
+msgid "Collect your customer's billing address."
+msgstr "Die Rechnungsadresse deines Kunden."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-billing-address-block/block.json
+#: assets/js/blocks/order-confirmation/billing-address/block.json
+#: build/inner-blocks/checkout-billing-address-block/block.json
+#: build/order-confirmation-billing-address/block.json
+msgctxt "block title"
+msgid "Billing Address"
+msgstr "Rechnungsadresse"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-actions-block/block.json
+#: build/inner-blocks/checkout-actions-block/block.json
+msgctxt "block description"
+msgid "Allow customers to place their order."
+msgstr "Ermögliche deinen  Kunden, deren Bestellung aufzugeben."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-actions-block/block.json
+#: build/inner-blocks/checkout-actions-block/block.json
+msgctxt "block title"
+msgid "Actions"
+msgstr "Aktionen"
+
+#: assets/js/blocks/cart/inner-blocks/proceed-to-checkout-block/block.json
+#: build/inner-blocks/proceed-to-checkout-block/block.json
+msgctxt "block description"
+msgid "Allow customers proceed to Checkout."
+msgstr "Kunden erlauben, zur Kasse zu gehen."
+
+#: assets/js/blocks/cart/inner-blocks/proceed-to-checkout-block/block.json
+#: build/inner-blocks/proceed-to-checkout-block/block.json
+msgctxt "block title"
+msgid "Proceed to Checkout"
+msgstr "Weiter zur Kasse"
+
+#: assets/js/blocks/cart/inner-blocks/filled-cart-block/block.json
+#: build/inner-blocks/filled-cart-block/block.json
+msgctxt "block description"
+msgid "Contains blocks that are displayed when the cart contains products."
+msgstr "Enthält Blöcke, die angezeigt werden, wenn der Warenkorb Produkte enthält."
+
+#: assets/js/blocks/cart/inner-blocks/filled-cart-block/block.json
+#: build/inner-blocks/filled-cart-block/block.json
+msgctxt "block title"
+msgid "Filled Cart"
+msgstr "Gefüllter Warenkorb"
+
+#: assets/js/blocks/cart/inner-blocks/empty-cart-block/block.json
+#: build/inner-blocks/empty-cart-block/block.json
+msgctxt "block description"
+msgid "Contains blocks that are displayed when the cart is empty."
+msgstr "Enthält Blöcke, die angezeigt werden, wenn keine Produkte im Warenkorb liegen."
+
+#: assets/js/blocks/cart/inner-blocks/empty-cart-block/block.json
+#: build/inner-blocks/empty-cart-block/block.json
+msgctxt "block title"
+msgid "Empty Cart"
+msgstr "Leerer Warenkorb"
+
+#: assets/js/blocks/cart/inner-blocks/cart-totals-block/block.json
+#: build/inner-blocks/cart-totals-block/block.json
+msgctxt "block description"
+msgid "Column containing the cart totals."
+msgstr "Spalte mit der Warenkorb-Summe."
+
+#: assets/js/blocks/cart/inner-blocks/cart-totals-block/block.json
+#: build/inner-blocks/cart-totals-block/block.json
+msgctxt "block title"
+msgid "Cart Totals"
+msgstr "Warenkorb-Summe"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-block/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-block/block.json
+#: build/inner-blocks/cart-order-summary-block/block.json
+#: build/inner-blocks/checkout-order-summary-block/block.json
+msgctxt "block description"
+msgid "Show customers a summary of their order."
+msgstr "Zeige deinen Kunden eine Zusammenfassung deren Bestellung an."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-block/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-block/block.json
+#: assets/js/blocks/order-confirmation/summary/block.json
+#: build/inner-blocks/cart-order-summary-block/block.json
+#: build/inner-blocks/checkout-order-summary-block/block.json
+#: build/order-confirmation-summary/block.json
+msgctxt "block title"
+msgid "Order Summary"
+msgstr "Bestellübersicht"
+
+#: assets/js/blocks/cart/inner-blocks/cart-line-items-block/block.json
+#: build/inner-blocks/cart-line-items-block/block.json
+msgctxt "block description"
+msgid "Block containing current line items in Cart."
+msgstr "Block mit aktuellen Posten im Warenkorb."
+
+#: assets/js/blocks/cart/inner-blocks/cart-line-items-block/block.json
+#: build/inner-blocks/cart-line-items-block/block.json
+msgctxt "block title"
+msgid "Cart Line Items"
+msgstr "Posten im Warenkorb"
+
+#: assets/js/blocks/cart/inner-blocks/cart-items-block/block.json
+#: build/inner-blocks/cart-items-block/block.json
+msgctxt "block description"
+msgid "Column containing cart items."
+msgstr "Spalte mit den Warenkorb-Posten."
+
+#: assets/js/blocks/cart/inner-blocks/cart-express-payment-block/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-express-payment-block/block.json
+#: build/inner-blocks/cart-express-payment-block/block.json
+#: build/inner-blocks/checkout-express-payment-block/block.json
+msgctxt "block title"
+msgid "Express Checkout"
+msgstr "Express-Zahlung"
+
+#: src/StoreApi/Utilities/OrderController.php:459 build/cart-frontend.js:2
+#: build/cart.js:2 build/checkout-frontend.js:2 build/checkout.js:2
+msgid "Sorry, this order requires a shipping option."
+msgstr "Für diese Bestellung ist leider eine Versandoption erforderlich."
+
+#: patterns/filters.php:32 build/filter-wrapper.js:1
+#: build/product-category.js:11 build/product-new.js:11
+#: build/product-on-sale.js:11 build/product-tag.js:8
+#: build/product-top-rated.js:11 build/products-by-attribute.js:11
+#: build/stock-filter.js:10
+msgid "Filter by stock status"
+msgstr "Nach Lagerbestand filtern"
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:107
+msgid "Status"
+msgstr "Status"
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:99
+msgid "Returns number of products with each stock status."
+msgstr "Gibt die Anzahl der Produkte mit dem jeweiligen Lagerstatus zurück."
+
+#: src/StoreApi/Routes/V1/ProductCollectionData.php:141
+msgid "If true, calculates stock counts for products in the collection."
+msgstr "Wenn „wahr“, wird der Lagerbestand für Produkte in der Sammlung berechnet."
+
+#: src/BlockTypes/Checkout.php:321
+msgid "Locations outside all other zones"
+msgstr "Standorte außerhalb aller anderen Zonen"
+
+#: src/BlockTypes/Checkout.php:320
+msgid "International"
+msgstr "International"
+
+#: src/StoreApi/Routes/V1/CartExtensions.php:50
+msgid "Additional data to pass to the extension"
+msgstr "Zusätzliche Daten, die an die Erweiterung übergeben werden sollen"
+
+#: src/StoreApi/Routes/V1/CartExtensions.php:46
+msgid "Extension's name - this will be used to ensure the data in the request is routed appropriately."
+msgstr "Name der Erweiterung: wird verwendet, um sicherzustellen, dass die Daten in der Anfrage richtig weitergeleitet werden."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:291
+#: src/StoreApi/Schemas/V1/OrderSchema.php:230
+msgid "The rate at which tax is applied."
+msgstr "Der angewandte Steuersatz."
+
+#: src/StoreApi/Routes/V1/Batch.php:105
+msgid "Invalid path provided."
+msgstr "Ungültiger Pfad angegeben."
+
+#: src/BlockTypes/AbstractBlock.php:111
+msgid "Block name is required."
+msgstr "Der Name des Blocks wird benötigt."
+
+#. translators: %s: Integration name.
+#: src/Integrations/IntegrationRegistry.php:100
+msgid "Integration \"%s\" is not registered."
+msgstr "Die Integration „%s“ ist nicht registriert."
+
+#. translators: %s: Integration name.
+#: src/Integrations/IntegrationRegistry.php:69
+msgid "\"%s\" is already registered."
+msgstr "„%s“ ist bereits registriert."
+
+#: src/Integrations/IntegrationRegistry.php:35
+msgid "Integration registry requires an identifier."
+msgstr "Zur Registrierung der Integration ist eine Kennung erforderlich."
+
+#. translators: 1: The first n-1 items of a list 2: the last item in the list.
+#: src/StoreApi/Utilities/ArrayUtils.php:29
+msgid "%1$s and %2$s"
+msgstr "%1$s und %2$s"
+
+#: src/StoreApi/Utilities/CartController.php:404
+msgid "There was an error with an item in your cart."
+msgstr "Bei einem Artikel in deinem Warenkorb ist ein Fehler aufgetreten."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:390
+msgid "There are not enough %s in stock. Please reduce the quantities in your cart."
+msgstr "Es sind nicht genügend %s auf Lager. Bitte reduziere die Mengen im Warenkorb."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:385
+msgid "There is not enough %s in stock. Please reduce the quantity in your cart."
+msgstr "Es ist nicht genügend %s auf Lager. Bitte reduziere die Menge im Warenkorb."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:378
+msgid "There are too many %s in the cart. Only 1 of each can be purchased. Please reduce the quantities in your cart."
+msgstr "Es sind zu viele %s im Warenkorb. Du kannst nur je 1 kaufen. Bitte reduziere die Menge im Warenkorb."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:373
+msgid "There are too many %s in the cart. Only 1 can be purchased. Please reduce the quantity in your cart."
+msgstr "Es sind zu viele %s im Warenkorb. Nur 1 kann gekauft werden. Bitte reduziere die Menge im Warenkorb."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:366
+msgid "%s cannot be purchased. Please remove them from your cart."
+msgstr "%s kann nicht gekauft werden. Bitte entferne diese Artikel aus dem Warenkorb."
+
+#. translators: %s: product name.
+#: src/StoreApi/Utilities/CartController.php:361
+msgid "%s cannot be purchased. Please remove it from your cart."
+msgstr "%s kann nicht gekauft werden. Bitte entferne diesen Artikel aus dem Warenkorb."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:354
+msgid "%s are out of stock and cannot be purchased. Please remove them from your cart."
+msgstr "%s sind ausverkauft und können nicht gekauft werden. Bitte entferne diese Artikel aus dem Warenkorb."
+
+#. translators: %s: product name.
+#: src/StoreApi/Utilities/CartController.php:349
+msgid "%s is out of stock and cannot be purchased. Please remove it from your cart."
+msgstr "%s ist ausverkauft und kann nicht gekauft werden. Bitte entferne diesen Artikel aus dem Warenkorb."
+
+#. translators: %s file handle name.
+#: src/Assets/Api.php:246
+msgid "Script with handle %s had a dependency on itself which has been removed. This is an indicator that your JS code has a circular dependency that can cause bugs."
+msgstr "Für das Skript mit dem Handle %s war eine Abhängigkeit zu sich selbst vorhanden, die entfernt wurde. Das deutet auf eine Ringabhängigkeit in deinem JS-Code hin, die Fehler verursachen kann."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:319
+#: src/StoreApi/Schemas/V1/OrderSchema.php:288
+msgid "List of required payment gateway features to process the order."
+msgstr "Liste der Funktionen für den Zahlungs-Gateway, die zur Verarbeitung der Bestellung erforderlich sind."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:177
+msgid "Optionally, how the metadata value should be displayed to the user."
+msgstr "Optional: So sollten Metadatenwerte für Benutzer angezeigt werden."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:171
+msgid "Value of the metadata."
+msgstr "Wert der Metadaten."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:165
+msgid "Name of the metadata."
+msgstr "Name der Metadaten."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:193
+msgid "List of cart fees."
+msgstr "Liste der Warenkorbgebühren."
+
+#: src/StoreApi/Schemas/V1/CartFeeSchema.php:56
+#: src/StoreApi/Schemas/V1/OrderFeeSchema.php:56
+msgid "Total tax amount for this fee."
+msgstr "Gesamtsteuerbetrag für diese Gebühr."
+
+#: src/StoreApi/Schemas/V1/CartFeeSchema.php:50
+#: src/StoreApi/Schemas/V1/OrderFeeSchema.php:50
+msgid "Total amount for this fee."
+msgstr "Gesamtbetrag für diese Gebühr."
+
+#: src/StoreApi/Schemas/V1/CartFeeSchema.php:42
+#: src/StoreApi/Schemas/V1/OrderFeeSchema.php:42
+msgid "Fee total amounts provided using the smallest unit of the currency."
+msgstr "Gesamtgebühren in der kleinsten Währungseinheit."
+
+#: src/StoreApi/Schemas/V1/CartFeeSchema.php:36
+msgid "Fee name."
+msgstr "Gebührenbezeichnung."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:150
+msgid "The provided postcode / ZIP is not valid"
+msgstr "Die eingegebene Postleitzahl ist ungültig"
+
+#. translators: %1$s given state, %2$s valid states
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:140
+msgid "The provided state (%1$s) is not valid. Must be one of: %2$s"
+msgstr "Das angegebene Bundesland (%1$s) ist ungültig. Wähle einen der folgenden Werte aus: %2$s"
+
+#. translators: %s valid country codes
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:128
+msgid "Invalid country code provided. Must be one of: %s"
+msgstr "Ungültigen Ländercode eingegeben. Wähle aus: %s"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:157
+msgid "The provided phone number is not valid"
+msgstr "Die angegebene Telefonnummer ist ungültig"
+
+#: src/StoreApi/Schemas/V1/BillingAddressSchema.php:77
+msgid "The provided email address is not valid"
+msgstr "Die angegebene E-Mail-Adresse ist ungültig"
+
+#. translators: %s Field label.
+#: src/StoreApi/Utilities/OrderController.php:403
+msgid "%s is required"
+msgstr "%s ist erforderlich"
+
+#: src/StoreApi/Utilities/OrderController.php:316
+msgid "billing address"
+msgstr "Rechnungsadresse"
+
+#: src/StoreApi/Utilities/OrderController.php:316
+msgid "shipping address"
+msgstr "Lieferanschrift"
+
+#. translators: %s Address type.
+#: src/StoreApi/Utilities/OrderController.php:315
+msgid "There was a problem with the provided %s:"
+msgstr "Es gab ein Problem mit der Angabe für %s:"
+
+#. translators: %s country code.
+#: src/StoreApi/Utilities/OrderController.php:284
+msgid "Sorry, we do not allow orders from the provided country (%s)"
+msgstr "Wir akzeptieren leider keine Bestellungen aus dem angegebenen Land (%s)"
+
+#. translators: %s country code.
+#: src/StoreApi/Utilities/OrderController.php:269
+msgid "Sorry, we do not ship orders to the provided country (%s)"
+msgstr "Wir liefern leider keine Bestellungen in das angegebene Land (%s)"
+
+#. translators: %s provided email.
+#: src/StoreApi/Utilities/OrderController.php:244
+msgid "The provided email address (%s) is not valid—please provide a valid email address"
+msgstr "Die angegebene E-Mail-Adresse (%s) ist ungültig. Bitte gib eine gültige E-Mail-Adresse an."
+
+#: src/StoreApi/Utilities/OrderController.php:234
+msgid "A valid email address is required"
+msgstr "Eine gültige E-Mail-Adresse ist erforderlich"
+
+#: src/StoreApi/Routes/V1/Checkout.php:522
+msgid "An account is already registered with your email address. Please log in before proceeding."
+msgstr "Für deine E-Mail-Adresse existiert bereits ein Kundenkonto. Bitte melde dich an, ehe du fortfährst."
+
+#: src/StoreApi/Routes/V1/Checkout.php:379
+msgid "Unable to create order"
+msgstr "Die Bestellung konnte nicht erstellt werden"
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:302
+msgid "Whether the product is visible in the catalog"
+msgstr "Ob das Produkt im Katalog sichtbar ist"
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:253
+#: src/StoreApi/Schemas/V1/OrderSchema.php:204
+msgid "Total tax on shipping. If shipping has not been calculated, a null response will be sent."
+msgstr "Gesamtsteuer auf Versandkosten. Wenn der Versand nicht berechnet wurde, wird eine Null-Antwort gesendet."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:247
+msgid "Total price of shipping. If shipping has not been calculated, a null response will be sent."
+msgstr "Gesamtpreis des Versands. Wenn der Versand nicht berechnet wurde, wird eine Null-Antwort gesendet."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:187
+msgid "True if the cart meets the criteria for showing shipping costs, and rates have been calculated and included in the totals."
+msgstr "„Wahr“, wenn der Warenkorb die Kriterien zur Anzeige der Versandkosten erfüllt, und die Preise berechnet wurden und im Gesamtbetrag inbegriffen sind."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:136
+#: src/StoreApi/Schemas/V1/OrderSchema.php:259
+msgid "Current set billing address for the customer."
+msgstr "Aktuell eingerichtete Versandadresse des Kunden."
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:41
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:36
+msgid "The discount type for the coupon (e.g. percentage or fixed amount)"
+msgstr "Der Rabatttyp für den Gutschein (z. B. Prozente oder fester Betrag)"
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:32
+msgid "The coupon's unique code."
+msgstr "Der eindeutige Gutscheincode."
+
+#. translators: %s: extension namespace
+#: src/StoreApi/Schemas/ExtendSchema.php:335
+#: src/StoreApi/Schemas/ExtendSchema.php:343
+msgid "Extension data registered by %s"
+msgstr "Erweiterungsdaten registriert durch %s"
+
+#: templates/emails/plain/customer-new-account-blocks.php:24
+msgid "To set your password, visit the following address: "
+msgstr "Unter der folgenden Adresse kannst du dein Passwort festlegen:"
+
+#. translators: %s: Customer username
+#: templates/emails/plain/customer-new-account-blocks.php:19
+msgid "Hi %s,"
+msgstr "Hallo %s,"
+
+#: templates/emails/customer-new-account-blocks.php:27
+msgid "Click here to set your new password."
+msgstr "Klicke hier, um dein neues Passwort festzulegen."
+
+#. translators: %1$s: Site title, %2$s: Username, %3$s: My account link
+#: templates/emails/customer-new-account-blocks.php:25
+#: templates/emails/plain/customer-new-account-blocks.php:21
+msgid "Thanks for creating an account on %1$s. Your username is %2$s. You can access your account area to view orders, change your password, and more at: %3$s"
+msgstr "Vielen Dank für die Erstellung eines Kontos auf %1$s. Dein Benutzername lautet %2$s. Unter folgendem Link kannst du auf dein Konto zugreifen, um Bestellungen anzuzeigen, dein Passwort zu ändern usw.: %3$s"
+
+#. translators: %s: Customer username
+#: templates/emails/customer-new-account-blocks.php:23
+msgid "Hello %s,"
+msgstr "Hallo %s,"
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:133
+msgid "Whether to create a new user account as part of order processing."
+msgstr "Ob das Erstellen eines neuen Benutzerkontos Teil des Bestellprozesses ist."
+
+#: src/StoreApi/Routes/V1/Checkout.php:516
+msgid "Please provide a valid email address."
+msgstr "Bitte gib eine gültige E-Mail-Adresse ein."
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:172
+msgid "We look forward to seeing you soon."
+msgstr "Wir freuen uns darauf, dich bald wiederzusehen."
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:84
+msgid "Welcome to {site_title}"
+msgstr "Willkommen bei {site_title}"
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:74
+msgid "Your {site_title} account has been created!"
+msgstr "Dein {site_title} Kundenkonto wurde erstellt!"
+
+#: src/Domain/Services/Email/CustomerNewAccount.php:57
+msgid "New account"
+msgstr "Neues Konto"
+
+#. translators: %1$s is referring to a php constant name, %2$s is referring to
+#. the wp-config.php file.
+#: woocommerce-gutenberg-products-block.php:106
+msgid "WooCommerce Blocks development mode requires the %1$s constant to be defined and true in your %2$s file. Otherwise you are loading the blocks package from WooCommerce core."
+msgstr "Für den Entwicklungsmodus für WooCommerce-Blöcke muss die %1$s-Konstante in deiner %2$s-Datei definiert und wahr sein. Ansonsten lädst du das Blockpaket von WooCommerce Core."
+
+#: src/BlockTypes/ProductStockIndicator.php:62 build/all-products.js:11
+#: build/cart-blocks/cart-line-items-frontend.js:7 build/cart.js:8
+#: build/checkout-blocks/order-summary-cart-items-frontend.js:2
+#: build/checkout.js:23
+#: build/mini-cart-contents-block/products-table-frontend.js:7
+#: build/mini-cart-contents.js:9 build/product-stock-indicator-frontend.js:2
+#: build/product-stock-indicator.js:2
+msgid "Available on backorder"
+msgstr "Verfügbar bei Nachbestellung"
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:168
+msgid "Taxes applied to this shipping rate using the smallest unit of the currency."
+msgstr "Auf diese Versandkosten wurden Steuern unter Verwendung der kleinsten Währungseinheit angewendet."
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:42
+msgid "The attribute taxonomy name."
+msgstr "Taxonomiename des Attributs."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:417
+msgid "Add to cart URL."
+msgstr "„In den Warenkorb“-URL."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:381
+msgid "Is the product stock backordered? This will also return false if backorder notifications are turned off."
+msgstr "Wurde der Produktbestand nachbestellt? Hiermit wird „false“ zurückgegeben, wenn Benachrichtigungen zu Nachbestellungen deaktiviert sind."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:363
+msgid "Does the product have additional options before it can be added to the cart?"
+msgstr "Sind zusätzliche Optionen für das Produkt verfügbar, bevor es zum Warenkorb hinzugefügt werden kann?"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:351
+msgid "The assigned attribute."
+msgstr "Das zugewiesene Attribut."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:338
+msgid "List of variation attributes."
+msgstr "Liste der Variantenattribute"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:307
+msgid "The term slug."
+msgstr "Die Begriffs-Titelform"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:301
+msgid "The term name."
+msgstr "Name des Begriffs."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:295
+msgid "The term ID, or 0 if the attribute is not a global attribute."
+msgstr "Die Begriffs-ID oder 0, wenn das Attribut kein globales Attribut ist."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:288
+msgid "List of assigned attribute terms."
+msgstr "Liste zugewiesener Attributbegriffe"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:282
+msgid "True if this attribute is used by product variations."
+msgstr "Wahr, wenn dieses Attribut von Produktvarianten verwendet wird."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:276
+msgid "The attribute taxonomy, or null if the attribute is not taxonomy based."
+msgstr "Die Attributstaxonomie oder Null, wenn das Attribut auf keiner Taxonomie basiert."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:270
+#: src/StoreApi/Schemas/V1/ProductSchema.php:345
+msgid "The attribute name."
+msgstr "Der Attributname."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:264
+#: src/StoreApi/Schemas/V1/ProductSchema.php:332
+msgid "The attribute ID, or 0 if the attribute is not taxonomy based."
+msgstr "Die Attribut-ID oder 0, wenn das Attribut auf keiner Taxonomie basiert."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:248
+msgid "Tag link"
+msgstr "Schlagwort-Link"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:223
+msgid "List of tags, if applicable."
+msgstr "Liste von Schlagwörtern, falls verfügbar"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:214
+msgid "Category link"
+msgstr "Kategorie-Link"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:202
+msgid "Category name"
+msgstr "Kategoriename"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:189
+msgid "List of categories, if applicable."
+msgstr "Liste von Kategorien, falls verfügbar"
+
+#: src/BlockTypes/Cart.php:60 assets/js/blocks/cart/index.js:22
+#: build/cart.js:33
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: src/BlockTypes/Cart.php:87 build/cart.js:20
+msgid "New in store"
+msgstr "Neu im Shop"
+
+#: src/BlockTypes/Cart.php:77 src/BlockTypes/MiniCart.php:575
+#: assets/js/blocks/checkout/empty-cart/index.js:23 build/cart.js:20
+#: build/checkout-frontend.js:2
+msgid "Your cart is currently empty!"
+msgstr "Dein Warenkorb ist derzeit leer!"
+
+#: src/BlockTypes/Cart.php:78 assets/js/blocks/checkout/empty-cart/index.js:37
+#: build/checkout-frontend.js:2
+msgid "Browse store"
+msgstr "Shop durchstöbern"
+
+#: src/Shipping/PickupLocation.php:30 src/Shipping/PickupLocation.php:162
+#: build/cart-frontend.js:2 build/cart.js:2 build/checkout-frontend.js:2
+#: build/checkout.js:2 build/mini-cart-contents.js:1 build/wc-blocks-data.js:7
+msgid "Local pickup"
+msgstr "Abholung vor Ort"
+
+#. translators: %s location.
+#: src/BlockTypes/OrderConfirmation/ShippingAddress.php:42
+#: build/7138-frontend.js:8 build/cart.js:27 build/checkout.js:11
+msgid "Shipping to %s"
+msgstr "Versand nach %s"
+
+#: src/BlockTypes/OrderConfirmation/Status.php:222
+#: build/checkout-blocks/contact-information-frontend.js:1 build/checkout.js:4
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#. translators: %d is number of items in stock for product
+#. translators: %d stock amount (number of items in stock for product)
+#: src/BlockTypes/ProductStockIndicator.php:58 build/all-products.js:11
+#: build/cart-blocks/cart-line-items-frontend.js:8 build/cart.js:9
+#: build/checkout-blocks/order-summary-cart-items-frontend.js:3
+#: build/checkout.js:24
+#: build/mini-cart-contents-block/products-table-frontend.js:8
+#: build/mini-cart-contents.js:10 build/product-stock-indicator-frontend.js:2
+#: build/product-stock-indicator.js:2
+msgid "%d left in stock"
+msgstr "%d vorrätig"
+
+#: src/StoreApi/Utilities/OrderController.php:382 build/wc-settings.js:1
+msgid "State/County"
+msgstr "Bundesland"
+
+#: src/StoreApi/Utilities/OrderController.php:374 build/wc-settings.js:1
+msgid "Country/Region"
+msgstr "Land/Region"
+
+#: src/BlockTypes/OrderConfirmation/Totals.php:39 build/7138-frontend.js:5
+#: build/cart-blocks/cart-express-payment-frontend.js:3
+#: build/cart-blocks/cart-line-items-frontend.js:11 build/cart.js:12
+#: build/cart.js:19 build/cart.js:24
+#: build/checkout-blocks/express-payment-frontend.js:3
+#: build/checkout-blocks/payment-frontend.js:3 build/checkout.js:8
+#: build/checkout.js:18 build/legacy-template.js:7
+#: build/mini-cart-contents-block/products-table-frontend.js:11
+#: build/mini-cart-contents.js:13 build/order-confirmation-totals.js:1
+msgid "Total"
+msgstr "Gesamtsumme"
+
+#. translators: If your word count is based on single characters (e.g. East
+#. Asian characters), enter 'characters_excluding_spaces' or
+#. 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate
+#. into your own language.
+#: src/BlockTypes/AbstractBlock.php:444
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#. translators: %s: number of orders
+#: src/Domain/Services/DraftOrders.php:109
+msgid "Drafts <span class=\"count\">(%s)</span>"
+msgid_plural "Drafts <span class=\"count\">(%s)</span>"
+msgstr[0] "Entwurf <span class=\"count\">(%s)</span>"
+msgstr[1] "Entwürfe <span class=\"count\">(%s)</span>"
+
+#: src/Domain/Services/DraftOrders.php:79
+#: src/Domain/Services/DraftOrders.php:103
+msgctxt "Order status"
+msgid "Draft"
+msgstr "Entwurf"
+
+#: src/BlockTypes/Checkout.php:455
+msgid "Credit card"
+msgstr "Kreditkarte"
+
+#. translators: %1$s table name, %2$s database user, %3$s database name.
+#: src/Installer.php:114
+msgid "WooCommerce %1$s table creation failed. Does the %2$s user have CREATE privileges on the %3$s database?"
+msgstr "Erstellen der WooCommerce %1$s-Tabelle fehlgeschlagen. Hat der %2$s-Benutzer in der %3$s-Datenbank die Berechtigung zum Erstellen?"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:325
+msgid "List of variation IDs, if applicable."
+msgstr "Liste der IDs von Variationen, falls verfügbar."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:162
+msgid "Price string formatted as HTML."
+msgstr "Preiszeichenfolge im HTML-Format."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:113
+msgid "Price data provided using the smallest unit of the currency."
+msgstr "Preisdaten in der kleinsten Währungseinheit angegeben."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:68
+msgid "ID of the parent product, if applicable."
+msgstr "ID des übergeordneten Produkts, falls zutreffend."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:165
+msgid "A URL to redirect the customer after checkout. This could be, for example, a link to the payment processors website."
+msgstr "Eine URL zur Weiterleitung des Kunden nach dem Bezahlen. Dies könnte z. B. ein Link zur Website des Zahlungsabwicklers sein."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:149
+msgid "An array of data being returned from the payment gateway."
+msgstr "Ein Daten-Array, das vom Zahlungs-Gateway zurückgegeben werden."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:144
+msgid "Status of the payment returned by the gateway. One of success, pending, failure, error."
+msgstr "Status der Zahlung, der vom Gateway zurückgegeben wird. Entweder Erfolg, Ausstehend, Fehlgeschlagen oder Fehler."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:138
+msgid "Result of payment processing, or false if not yet processed."
+msgstr "Ergebnis der Zahlungsverarbeitung oder falsch, falls noch nicht verarbeitet."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:125
+msgid "The ID of the payment method being used to process the payment."
+msgstr "Die ID der Zahlungsmethode, die zum Verarbeiten der Zahlung verwendet wird."
+
+#: src/StoreApi/Routes/V1/CartUpdateCustomer.php:51
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:115
+msgid "Shipping address."
+msgstr "Lieferanschrift."
+
+#: src/StoreApi/Routes/V1/CartUpdateCustomer.php:44
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:104
+msgid "Billing address."
+msgstr "Rechnungsadresse."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:98
+msgid "Customer ID if registered. Will return 0 for guests."
+msgstr "Kunden-ID, wenn registriert. Wird 0 für Gäste zurückgeben."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:93
+msgid "Note added to the order by the customer during checkout."
+msgstr "Vom Kunden während des Bezahlvorgangs hinzugefügte Notiz."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:81
+msgid "Order key used to check validity or protect access to certain order data."
+msgstr "Bestellschlüssel, der verwendet wird, um die Gültigkeit zu überprüfen oder den Zugriff auf bestimmte Auftragsdaten zu schützen."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:75
+msgid "Order status. Payment providers will update this value after payment."
+msgstr "Bestellstatus. Die Zahlungsanbieter aktualisieren diesen Wert nach der Zahlung."
+
+#: src/StoreApi/Schemas/V1/CheckoutSchema.php:69
+msgid "The order ID to process during checkout."
+msgstr "Die Bestell-ID zur Verarbeitung während des Bezahlvorgangs."
+
+#: src/StoreApi/Utilities/CartController.php:867
+msgctxt "shipping packages"
+msgid "Shipment 1"
+msgstr "Sendung 1"
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:208
+msgid "True if this is the rate currently selected by the customer for the cart."
+msgstr "„Wahr“, wenn dies der Preis ist, den der Kunde derzeit für den Warenkorb ausgewählt hat."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:186
+msgid "Meta data attached to the shipping rate."
+msgstr "Metadaten zu diesen Versandkosten."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:180
+msgid "Instance ID of the shipping method that provided the rate."
+msgstr "Instanz-ID der Versandmethode, für die diese Kosten gelten."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:174
+msgid "ID of the shipping method that provided the rate."
+msgstr "ID der Versandmethode, für die diese Kosten gelten."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:162
+msgid "Price of this shipping rate using the smallest unit of the currency."
+msgstr "Preis dieser Versandkosten in der kleinsten Währungseinheit."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:156
+msgid "Delivery time estimate text, e.g. 3-5 business days."
+msgstr "Voraussichtliche Versanddauer, z. B. 3–5 Werktage."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:150
+msgid "Description of the shipping rate, e.g. Dispatched via USPS."
+msgstr "Beschreibung der Versandkosten, z. B. Versand durch USPS."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:144
+msgid "Name of the shipping rate, e.g. Express shipping."
+msgstr "Bezeichnung der Versandkosten, z. B. Express-Versand."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:138
+msgid "ID of the shipping rate."
+msgstr "ID der Versandkosten."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:117
+msgid "List of shipping rates."
+msgstr "Liste der Versandkosten."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:108
+msgid "Quantity of the item in the current package."
+msgstr "Anzahl der Artikel im aktuellen Paket."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:102
+msgid "Name of the item."
+msgstr "Bezeichnung des Artikels."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:88
+msgid "List of cart items the returned shipping rates apply to."
+msgstr "Liste der Warenkorbartikel, für die die angegebenen Versandkosten gelten."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:44
+msgid "Shipping destination address."
+msgstr "Versandadresse."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:38
+msgid "Name of the package."
+msgstr "Name des Pakets."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:32
+msgid "The ID of the package the shipping rates belong to."
+msgstr "Die ID des Pakets, für das diese Versandkosten gelten."
+
+#: src/StoreApi/Schemas/V1/ProductCategorySchema.php:59
+msgid "Number of reviews for products in this category."
+msgstr "Anzahl der Produktbewertungen in dieser Kategorie."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:293
+msgid "Line total tax."
+msgstr "Steuer insgesamt."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:287
+msgid "Line total (the price of the product after coupon discounts have been applied)."
+msgstr "Gesamtbetrag (der Preis des Produkts nach Abzug der Gutscheinrabatte)."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:281
+msgid "Line subtotal tax."
+msgstr "Steuerzwischensumme."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:275
+msgid "Line subtotal (the price of the product before coupon discounts have been applied)."
+msgstr "Zwischensumme (der Preis des Produkts vor Abzug der Gutscheinrabatte)."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:267
+msgid "Item total amounts provided using the smallest unit of the currency."
+msgstr "Gesamtbeträge für die Artikel werden in der kleinsten Währungseinheit angegeben."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:238
+msgid "Decimal precision of the returned prices."
+msgstr "Dezimalgenauigkeit der zurückgegebenen Preise."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:232
+msgid "Raw unrounded product prices used in calculations. Provided using a higher unit of precision than the currency."
+msgstr "Rohpreis für ungerundete Produkte, die in Berechnungen verwendet werden. Wird mit einer höheren Genauigkeit als die Währung bereitgestellt."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:186
+msgid "Price data for the product in the current line item, including or excluding taxes based on the \"display prices during cart and checkout\" setting. Provided using the smallest unit of the currency."
+msgstr "Preisdaten für den Artikel in der aktuellen Zeile, inklusive oder exklusive Steuern, je nach Einstellungen der Preisanzeige im Warenkorb und beim Bezahlen. In der kleinsten Währungseinheit angegeben."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:111
+#: src/StoreApi/Schemas/V1/ProductSchema.php:393
+msgid "If true, only one item of this product is allowed for purchase in a single order."
+msgstr "Wenn wahr, kann nur ein Artikel dieses Produkts bei einer einzelnen Bestellung gekauft werden."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:99
+msgid "True if backorders are allowed past stock availability."
+msgstr "Wahr, wenn mehr Bestellungen aufgegeben können, als Waren vorrätig sind."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:93
+#: src/StoreApi/Schemas/V1/ProductSchema.php:387
+msgid "Quantity left in stock if stock is low, or null if not applicable."
+msgstr "Vorrätige Anzahl ist niedrig oder beträgt null, falls nicht zutreffend."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:81
+#: src/StoreApi/Schemas/V1/ProductSchema.php:97
+msgid "Product full description in HTML format."
+msgstr "Vollständige Produktbeschreibung im HTML-Format."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:75
+#: src/StoreApi/Schemas/V1/ProductSchema.php:92
+msgid "Product short description in HTML format."
+msgstr "Kurze Produktbeschreibung im HTML-Format."
+
+#. Translators: %s amount.
+#: src/StoreApi/Utilities/QuantityLimits.php:113
+msgid "The maximum quantity that can be added to the cart is %s"
+msgstr "Die maximale Menge, die dem Warenkorb hinzugefügt werden kann, ist %s"
+
+#: src/StoreApi/Schemas/V1/ErrorSchema.php:36
+msgid "Error message"
+msgstr "Fehlermeldung"
+
+#: src/StoreApi/Schemas/V1/ErrorSchema.php:30
+msgid "Error code"
+msgstr "Fehlercode"
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:303
+#: src/StoreApi/Schemas/V1/OrderSchema.php:278
+msgid "List of cart item errors, for example, items in the cart which are out of stock."
+msgstr "Liste der Warenkorbartikelfehler, zum Beispiel Artikel im Warenkorb, die nicht vorrätig sind."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:285
+#: src/StoreApi/Schemas/V1/OrderSchema.php:224
+msgid "The amount of tax charged."
+msgstr "Der berechnete Steuerbetrag."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:279
+#: src/StoreApi/Schemas/V1/OrderSchema.php:218
+msgid "The name of the tax."
+msgstr "Bezeichnung der Steuer."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:271
+#: src/StoreApi/Schemas/V1/OrderSchema.php:210
+msgid "Lines of taxes applied to items and shipping."
+msgstr "Steuerpositionen, die auf Artikel und Versand angewendet werden."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:265
+msgid "Total tax applied to items and shipping."
+msgstr "Gesamtsteuer für Artikel und Versand."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:259
+#: src/StoreApi/Schemas/V1/OrderSchema.php:174
+msgid "Total price the customer will pay."
+msgstr "Vom Kunden zu zahlender Gesamtpreis."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:241
+#: src/StoreApi/Schemas/V1/OrderSchema.php:198
+msgid "Total tax removed due to discount from applied coupons."
+msgstr "Aufgrund eingelöster Gutscheine abgezogene Gesamtsteuer."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:235
+#: src/StoreApi/Schemas/V1/OrderSchema.php:144
+msgid "Total discount from applied coupons."
+msgstr "Gesamtrabatt durch eingelöste Gutscheine."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:229
+#: src/StoreApi/Schemas/V1/OrderSchema.php:192
+msgid "Total tax on fees."
+msgstr "Gesamtsteuer auf Gebühren."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:223
+#: src/StoreApi/Schemas/V1/OrderSchema.php:156
+msgid "Total price of any applied fees."
+msgstr "Gesamtpreis aller erhobenen Gebühren."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:217
+msgid "Total tax on items in the cart."
+msgstr "Gesamtsteuer auf die Artikel im Warenkorb."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:211
+msgid "Total price of items in the cart."
+msgstr "Gesamtpreis der Artikel im Warenkorb."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:203
+msgid "Cart total amounts provided using the smallest unit of the currency."
+msgstr "Gesamtbetrag des Warenkorbs in der kleinsten Währungseinheit."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:175
+#: src/StoreApi/Schemas/V1/OrderSchema.php:266
+msgid "True if the cart needs payment. False for carts with only free products and no shipping costs."
+msgstr "„Wahr“, wenn der Warenkorb bezahlt werden muss. „Falsch“, wenn der Warenkorb nur kostenlose Produkte enthält und keine Versandkosten anfallen."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:129
+#: src/StoreApi/Schemas/V1/OrderSchema.php:252
+msgid "Current set shipping address for the customer."
+msgstr "Aktuell eingerichtete Lieferanschrift des Kunden."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:119
+msgid "List of available shipping rates for the cart."
+msgstr "Liste der verfügbaren Versandkosten für den Warenkorb."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:109
+#: src/StoreApi/Schemas/V1/OrderSchema.php:242
+msgid "List of applied cart coupons."
+msgstr "Liste der eingelösten Warenkorbgutscheine."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:53
+msgid "Returns number of products within attribute terms."
+msgstr "Gibt die Anzahl der Produkte innerhalb der Attributsbegriffe zurück."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:30
+msgid "Min and max prices found in collection of products, provided using the smallest unit of the currency."
+msgstr "Mindest- und Höchstpreise der Produktsammlung in der kleinsten Währungseinheit angegeben."
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:54
+msgid "Parent term ID, if applicable."
+msgstr "ID des übergeordneten Begriffs, falls verfügbar."
+
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:346
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:352
+msgid "Price prefix for the currency which can be used to format returned prices."
+msgstr "Preispräfix für die Währung, das zur Formatierung zurückgegebener Preise verwendet werden kann."
+
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:340
+msgid "Thousand separator for the currency which can be used to format returned prices."
+msgstr "Tausendertrennzeichen für die Währung, das zur Formatierung der zurückgegebenen Preise verwendet werden kann."
+
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:334
+msgid "Decimal separator for the currency which can be used to format returned prices."
+msgstr "Dezimaltrennzeichen für die Währung, das zur Formatierung der zurückgegebenen Preise verwendet werden kann."
+
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:328
+msgid "Currency minor unit (number of digits after the decimal separator) for returned prices."
+msgstr "Kleinste Währungseinheit (Anzahl der Ziffern nach dem Dezimaltrennzeichen) für zurückgegebene Preise."
+
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:322
+msgid "Currency symbol for the currency which can be used to format returned prices."
+msgstr "Währungssymbol für die Währung, das zur Formatierung zurückgegebener Preise verwendet werden kann."
+
+#: src/StoreApi/Schemas/V1/AbstractSchema.php:316
+msgid "Currency code (in ISO format) for returned prices."
+msgstr "Währungscode (im ISO-Format) für zurückgegebene Preise."
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:63
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:56
+msgid "Total tax removed due to discount applied by this coupon."
+msgstr "Aufgrund des eingelösten Gutscheins abgezogene Gesamtsteuer."
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:57
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:50
+msgid "Total discount applied by this coupon."
+msgstr "Gesamtrabatt durch Einlösen dieses Gutscheins."
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:49
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:42
+msgid "Total amounts provided using the smallest unit of the currency."
+msgstr "Gesamtbetrag in der kleinsten Währungseinheit angegeben."
+
+#: src/StoreApi/Schemas/V1/OrderCouponSchema.php:30
+msgid "The coupons unique code."
+msgstr "Der eindeutige Code des Gutscheins."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:75
+#: build/checkout-blocks/billing-address-frontend.js:3
+#: build/checkout-blocks/shipping-address-frontend.js:3 build/checkout.js:2
+#: build/checkout.js:28
+msgid "Phone"
+msgstr "Telefon"
+
+#: src/StoreApi/Schemas/V1/BillingAddressSchema.php:38
+#: build/legacy-template.js:7
+msgid "Email"
+msgstr "E-Mail"
+
+#. translators: Placeholders are class and method names
+#: src/StoreApi/Schemas/V1/BillingAddressSchema.php:122
+#: src/StoreApi/Schemas/V1/ShippingAddressSchema.php:64
+msgid "%1$s requires an instance of %2$s or %3$s for the address"
+msgstr "%1$s erfordert eine Instanz von %2$s oder %3$s für die Adresse"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:69
+msgid "Country/Region code in ISO 3166-1 alpha-2 format."
+msgstr "Länder-/Regionalcode im ISO 3166-1-Format (Alpha-2)."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:63
+#: src/StoreApi/Utilities/OrderController.php:386 build/wc-settings.js:1
+msgid "Postal code"
+msgstr "Postleitzahl"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:57
+msgid "State/County code, or name of the state, county, province, or district."
+msgstr "Kürzel von Bundesstaat/Bundesland/County oder Name des Bundesstaats, Bundeslands, Distrikts oder der Provinz."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:51
+#: src/StoreApi/Utilities/OrderController.php:378 build/wc-settings.js:1
+#: build/wc-shipping-method-pickup-location.js:232
+msgid "City"
+msgstr "Stadt"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:45
+#: src/StoreApi/Utilities/OrderController.php:370 build/checkout.js:28
+#: build/wc-settings.js:1
+msgid "Apartment, suite, etc."
+msgstr "Wohnung, Suite usw."
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:39
+#: src/StoreApi/Utilities/OrderController.php:366 build/wc-settings.js:1
+#: build/wc-shipping-method-pickup-location.js:232
+msgid "Address"
+msgstr "Adresse"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:33
+#: src/StoreApi/Utilities/OrderController.php:362 build/checkout.js:28
+#: build/wc-settings.js:1
+msgid "Company"
+msgstr "Firma"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:27
+#: src/StoreApi/Utilities/OrderController.php:358 build/wc-settings.js:1
+msgid "Last name"
+msgstr "Nachname"
+
+#: src/StoreApi/Schemas/V1/AbstractAddressSchema.php:21
+#: src/StoreApi/Utilities/OrderController.php:354 build/wc-settings.js:1
+msgid "First name"
+msgstr "Vorname"
+
+#: src/StoreApi/Routes/V1/Products.php:344
+msgid "Limit result set to products based on a maximum price, provided using the smallest unit of the currency."
+msgstr "Ergebnisse auf Basis eines Höchstpreises begrenzen, angegeben in der kleinsten Währungseinheit."
+
+#: src/StoreApi/Routes/V1/Products.php:337
+msgid "Limit result set to products based on a minimum price, provided using the smallest unit of the currency."
+msgstr "Ergebnisse auf Basis eines Mindestpreises begrenzen, angegeben in der kleinsten Währungseinheit."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:80
+msgid "ISO code for the country of the address being shipped to."
+msgstr "ISO-Code für das Land der Versandadresse."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:74
+msgid "Zip or Postcode of the address being shipped to."
+msgstr "Postleitzahl der Versandadresse."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:68
+msgid "ISO code, or name, for the state, province, or district of the address being shipped to."
+msgstr "ISO-Code oder Name des Bundesstaats, der Provinz oder des Distrikts der Versandadresse."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:62
+msgid "City of the address being shipped to."
+msgstr "Stadt der Versandadresse."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:56
+msgid "Second line of the address being shipped to."
+msgstr "Zweite Zeile der Versandadresse."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:50
+msgid "First line of the address being shipped to."
+msgstr "Erste Zeile der Versandadresse."
+
+#: src/StoreApi/Routes/V1/CartCouponsByCode.php:73
+#: src/StoreApi/Routes/V1/CartCouponsByCode.php:88
+msgid "Coupon does not exist in the cart."
+msgstr "Der Gutschein befindet sich nicht im Warenkorb."
+
+#: src/StoreApi/Routes/V1/AbstractRoute.php:263
+msgid "Scope under which the request is made; determines fields present in response."
+msgstr "Geltungsbereich der Anfrage; ermittelt in der Antwort vorhandene Felder."
+
+#: src/StoreApi/Routes/V1/AbstractRoute.php:169
+#: src/StoreApi/Routes/V1/AbstractRoute.php:182
+#: src/StoreApi/Routes/V1/AbstractRoute.php:195
+#: src/StoreApi/Routes/V1/AbstractRoute.php:208
+msgid "Method not implemented"
+msgstr "Methode nicht implementiert"
+
+#: src/StoreApi/Routes/V1/CartUpdateItem.php:41
+msgid "New quantity of the item in the cart."
+msgstr "Neue Anzahl des Artikels im Warenkorb."
+
+#: src/StoreApi/Routes/V1/CartUpdateItem.php:37
+msgid "Unique identifier (key) for the cart item to update."
+msgstr "Eindeutiger Identifikator (Schlüssel) für den zu aktualisierenden Warenkorbartikel."
+
+#. Translators: %s Payment method ID.
+#: src/StoreApi/Routes/V1/CheckoutOrder.php:247
+msgid "The %s payment gateway is not available."
+msgstr "Das Zahlungs-Gateway %s ist nicht verfügbar."
+
+#: src/StoreApi/Routes/V1/Checkout.php:463
+#: src/StoreApi/Routes/V1/CheckoutOrder.php:235
+msgid "No payment method provided."
+msgstr "Keine Zahlungsmethode angegeben."
+
+#: src/StoreApi/Utilities/CheckoutTrait.php:85
+msgid "Invalid payment result received from payment method."
+msgstr "Ungültiges Zahlungsergebnis von Zahlungsmethode erhalten."
+
+#: src/StoreApi/Routes/V1/Checkout.php:82
+#: src/StoreApi/Routes/V1/CheckoutOrder.php:61
+msgid "Data to pass through to the payment method when processing payment."
+msgstr "Daten, die bei der Zahlungsverarbeitung an die Zahlungsmethode weitergegeben werden."
+
+#: src/StoreApi/Routes/V1/CartSelectShippingRate.php:64
+msgid "Shipping is disabled."
+msgstr "Versand ist deaktiviert."
+
+#: src/StoreApi/Routes/V1/CartSelectShippingRate.php:44
+msgid "The chosen rate ID for the package."
+msgstr "Die gewählte Tarif-ID für das Paket."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:94
+msgid "If true, empty terms will not be returned."
+msgstr "Wenn wahr, werden leere Begriffe nicht zurückgegeben."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:82
+msgid "Sort by term property."
+msgstr "Nach Begriffseigenschaft ordnen."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:74
+msgid "Sort ascending or descending."
+msgstr "Aufsteigend oder absteigend anordnen."
+
+#: src/StoreApi/Routes/V1/ProductCategoriesById.php:73
+msgid "Invalid category ID."
+msgstr "Ungültige Kategorie-ID."
+
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:70
+msgid "Coupon cannot be removed because it is not already applied to the cart."
+msgstr "Der Gutschein kann nicht entfernt werden, da er noch nicht für den Warenkorb eingelöst wurde."
+
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:66
+msgid "Invalid coupon code."
+msgstr "Ungültiger Gutscheincode."
+
+#: src/StoreApi/Routes/V1/CartApplyCoupon.php:58
+#: src/StoreApi/Routes/V1/CartCoupons.php:97
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:58
+msgid "Coupons are disabled."
+msgstr "Gutscheine sind deaktiviert."
+
+#: src/StoreApi/Routes/V1/CartApplyCoupon.php:39
+#: src/StoreApi/Routes/V1/CartCouponsByCode.php:42
+#: src/StoreApi/Routes/V1/CartRemoveCoupon.php:39
+msgid "Unique identifier for the coupon within the cart."
+msgstr "Eindeutige Kennung für den Gutschein im Warenkorb."
+
+#: src/StoreApi/Routes/V1/CartRemoveItem.php:64
+msgid "Cart item no longer exists or is invalid."
+msgstr "Warenkorbartikel existiert nicht mehr oder ist ungültig."
+
+#: src/StoreApi/Routes/V1/CartRemoveItem.php:42
+msgid "Unique identifier (key) for the cart item."
+msgstr "Eindeutiger Identifikator (Schlüssel) für den Warenkorbartikel."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:216
+msgid "Limit result set to reviews from specific category IDs."
+msgstr "Ergebnisse auf Bewertungen zu bestimmten Kategorie-IDs begrenzen."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:38
+#: src/StoreApi/Routes/V1/ProductReviews.php:177
+#: src/StoreApi/Routes/V1/Products.php:128
+msgid "Maximum number of items to be returned in result set. Defaults to no limit if left blank."
+msgstr "Maximale Anzahl an im Ergebnis zurückgegebenen Artikeln eingerichtet. Keine Grenze als Standardeinstellung, wenn leer."
+
+#. translators: %s: product name
+#: src/StoreApi/Utilities/CartController.php:1115
+msgid "&quot;%s&quot; is not available for purchase."
+msgstr "„%s“ ist nicht zum Kauf verfügbar."
+
+#. translators: %1$s coupon code, %2$s reason.
+#: src/StoreApi/Utilities/CartController.php:1025
+msgid "The \"%1$s\" coupon has been removed from your cart: %2$s"
+msgstr "Der Gutschein „%1$s“ wurde aus deinem Warenkorb entfernt: %2$s"
+
+#. translators: %s: coupon code
+#: src/StoreApi/Utilities/CartController.php:964
+msgid "\"%s\" has already been applied and cannot be used in conjunction with other coupons."
+msgstr "„%s“ wurde bereits eingelöst und kann nicht zusammen mit anderen Gutscheinen verwendet werden."
+
+#. translators: %s coupon code
+#: src/StoreApi/Utilities/CartController.php:920
+msgid "Coupon code \"%s\" has already been applied."
+msgstr "Gutscheincode „%s“ wurde bereits eingelöst."
+
+#. translators: %s coupon code
+#: src/StoreApi/Utilities/CartController.php:908
+msgid "\"%s\" is an invalid coupon code."
+msgstr "„%s“ ist ein ungültiger Gutscheincode."
+
+#: src/StoreApi/Utilities/CartController.php:197
+msgid "Cart item is invalid."
+msgstr "Warenkorbartikel ist ungültig."
+
+#. translators: %s Coupon codes.
+#: src/StoreApi/Utilities/OrderController.php:211
+msgid "Invalid coupons were removed from the cart: \"%s\""
+msgstr "Ungültige Gutscheine wurden aus dem Warenkorb entfernt: „%s“"
+
+#: src/StoreApi/Utilities/OrderController.php:24
+msgid "Cannot create order from empty cart."
+msgstr "Bestellung kann nicht mit leerem Warenkorb erstellt werden."
+
+#. translators: %s number of products in cart.
+#. translators: %d is the count of products.
+#: src/BlockTypes/ProductCategories.php:397
+#: assets/js/editor-components/product-category-control/index.js:89
+#: build/featured-category.js:12 build/featured-product.js:12
+#: build/product-best-sellers.js:11 build/product-category.js:11
+#: build/product-collection.js:10 build/product-new.js:11
+#: build/product-on-sale.js:11 build/product-query.js:10
+#: build/product-top-rated.js:11 build/products-by-attribute.js:10
+#: build/reviews-by-category.js:11
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] "%d Produkt"
+msgstr[1] "%d Produkte"
+
+#: src/BlockTypes/ProductCategories.php:237
+msgid "List of categories with their product counts"
+msgstr "Liste der Kategorien mit jeweiliger Produktanzahl"
+
+#: src/BlockTypes/AbstractProductGrid.php:623
+#: src/BlockTypes/ProductSaleBadge.php:117 build/all-products.js:10
+#: build/cart-blocks/cart-cross-sells-products-frontend.js:2 build/cart.js:12
+#: build/product-image-frontend.js:2 build/product-image.js:2
+#: build/product-sale-badge-frontend.js:1 build/product-sale-badge.js:1
+msgid "Product on sale"
+msgstr "Produkt im Angebot"
+
+#: src/StoreApi/Routes/V1/ProductCollectionData.php:159
+msgid "Filter condition\t being performed which may affect counts. Valid values include \"and\" and \"or\"."
+msgstr "Ausgeführter Abfragetyp, der sich auf die Anzahlen auswirken kann. Gültige Werte sind etwa „und“ und „oder“."
+
+#: src/StoreApi/Routes/V1/ProductCollectionData.php:153
+msgid "Taxonomy name."
+msgstr "Name der Taxonomie."
+
+#: patterns/filters.php:22 build/filter-wrapper.js:1 build/price-filter.js:5
+msgid "Filter by price"
+msgstr "Nach Preis filtern"
+
+#: patterns/filters.php:12 build/active-filters.js:8 build/filter-wrapper.js:1
+msgid "Active filters"
+msgstr "Aktive Filter"
+
+#: patterns/filters.php:42 build/attribute-filter.js:19
+#: build/filter-wrapper.js:1
+msgid "Filter by attribute"
+msgstr "Nach Attribut filtern"
+
+#: patterns/store-info-alt-image-and-text.php:86
+#: assets/js/blocks/products/edit-utils.js:36 build/all-products.js:25
+#: build/attribute-filter.js:19 build/classic-shortcode.js:1
+#: build/price-filter.js:5 build/wc-shipping-method-pickup-location.js:232
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+#: src/BlockTypes/AbstractProductGrid.php:622
+#: src/BlockTypes/ProductImage.php:111 src/BlockTypes/ProductSaleBadge.php:115
+#: build/all-products.js:10
+#: build/cart-blocks/cart-cross-sells-products-frontend.js:2 build/cart.js:12
+#: build/product-image-frontend.js:2 build/product-image.js:2
+#: build/product-sale-badge-frontend.js:1 build/product-sale-badge.js:1
+msgid "Sale"
+msgstr "Angebot"
+
+#: woocommerce-gutenberg-products-block.php:69
+msgid "The WooCommerce Blocks feature plugin requires a more recent version of WordPress and has been paused. Please update WordPress to continue enjoying WooCommerce Blocks."
+msgstr "Für WooCommerce Blocks ist eine aktuellere Version von WordPress erforderlich. Das Plugin wurde beendet. Aktualisiere WordPress, um WooCommerce Blocks weiterhin zu nutzen."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:65
+#: src/StoreApi/Schemas/V1/ItemSchema.php:148
+msgid "Variation attribute value."
+msgstr "Wert des Variantenattributs."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:60
+#: src/StoreApi/Schemas/V1/ItemSchema.php:142
+msgid "Variation attribute name."
+msgstr "Variantenattributsname"
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:53
+#: src/StoreApi/Schemas/V1/ItemSchema.php:134
+msgid "Chosen attributes (for variations)."
+msgstr "Ausgewählte Attribute (für Varianten)."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:87
+msgid "Stock keeping unit, if applicable."
+msgstr "Artikelnummer, falls zutreffend."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:39
+msgid "The cart item product or variation ID."
+msgstr "Die Nummer des Warenkorbprodukts oder der Variante."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:159
+msgid "Total weight (in grams) of all products in the cart."
+msgstr "Gesamtgewicht (in Gramm) aller Produkte im Warenkorb."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:181
+#: src/StoreApi/Schemas/V1/OrderSchema.php:272
+msgid "True if the cart needs shipping. False for carts with only digital goods or stores with no shipping methods set-up."
+msgstr "„Wahr“, wenn Warenkorb versendet werden muss. „Falsch“ bei Warenkörben mit ausschließlich digitalen Waren oder Shops, für die keine Versandmethoden eingerichtet wurden."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:143
+msgid "List of cart items."
+msgstr "Liste der Warenkorbartikel."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:153
+msgid "Number of items in the cart."
+msgstr "Anzahl der Artikel im Warenkorb."
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:60
+msgid "If this attribute has term archive pages."
+msgstr "Wenn dieses Attribut Begriffsarchivseiten aufweist"
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:54
+msgid "How terms in this attribute are sorted by default."
+msgstr "Wie Begriffe in diesem Attribut standardmäßig sortiert werden"
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:48
+msgid "Attribute type."
+msgstr "Attributtyp"
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:60
+msgid "Number of objects (posts of any type) assigned to the term."
+msgstr "Anzahl der Objekte (Beiträge jeglicher Art), die dem Begriff zugeordnet wurden."
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:48
+msgid "Term description."
+msgstr "Begriffsbeschreibung."
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:42
+msgid "String based identifier for the term."
+msgstr "Zeichenfolgenbasierte Kennung für den Begriff."
+
+#: src/StoreApi/Schemas/V1/TermSchema.php:36
+msgid "Term name."
+msgstr "Name des Begriffs."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:218
+#: src/StoreApi/Schemas/V1/ItemSchema.php:224
+#: src/StoreApi/Schemas/V1/ProductSchema.php:145
+#: src/StoreApi/Schemas/V1/ProductSchema.php:151
+msgid "Price amount."
+msgstr "Preisbetrag."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:212
+#: src/StoreApi/Schemas/V1/ProductSchema.php:139
+msgid "Price range, if applicable."
+msgstr "Preisbereich, falls zutreffend."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:206
+#: src/StoreApi/Schemas/V1/ItemSchema.php:256
+#: src/StoreApi/Schemas/V1/ProductSchema.php:133
+msgid "Sale product price, if applicable."
+msgstr "Angebotspreis, falls zutreffend."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:200
+#: src/StoreApi/Schemas/V1/ItemSchema.php:250
+#: src/StoreApi/Schemas/V1/ProductSchema.php:127
+msgid "Regular product price."
+msgstr "Regulärer Produktpreis."
+
+#: src/StoreApi/Utilities/CartController.php:1281
+msgid "No matching variation found."
+msgstr "Keine passende Variante gefunden."
+
+#. translators: %s: Attribute name.
+#: src/StoreApi/Utilities/CartController.php:1254
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s ist ein Pflichtfeld"
+msgstr[1] "%s sind Pflichtfelder"
+
+#. translators: %s: Attribute name.
+#: src/StoreApi/Utilities/CartController.php:1254
+msgid "Missing variation data for variable product."
+msgstr "Fehlende Variantendaten für Variantenprodukt."
+
+#. translators: %1$s: Attribute name, %2$s: Allowed values.
+#: src/StoreApi/Utilities/CartController.php:1234
+msgid "Invalid value posted for %1$s. Allowed values: %2$s"
+msgstr "Ungültiger Wert eingegeben für %1$s. Zulässige Werte: %2$s"
+
+#: src/StoreApi/Routes/V1/ProductAttributesById.php:73
+msgid "Invalid attribute ID."
+msgstr "Ungültige Attribut-ID."
+
+#: src/StoreApi/Routes/V1/CartAddItem.php:89
+#: src/StoreApi/Routes/V1/CartItems.php:95
+msgid "Cannot create an existing cart item."
+msgstr "Ein bestehender Warenkorbartikel kann nicht erstellt werden."
+
+#: src/StoreApi/Routes/V1/CartItemsByKey.php:81
+#: src/StoreApi/Routes/V1/CartItemsByKey.php:119
+#: src/StoreApi/Utilities/CartController.php:191
+msgid "Cart item does not exist."
+msgstr "Warenkorbartikel ist nicht vorhanden."
+
+#: src/StoreApi/Routes/V1/CartItemsByKey.php:42
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:96
+msgid "Unique identifier for the item within the cart."
+msgstr "Eindeutige Kennung für den Artikel im Warenkorb."
+
+#: src/StoreApi/Routes/V1/ProductAttributeTerms.php:60
+msgid "Attribute does not exist."
+msgstr "Attribut ist nicht vorhanden."
+
+#: src/StoreApi/Routes/V1/ProductAttributeTerms.php:35
+msgid "Unique identifier for the attribute."
+msgstr "Eindeutige Kennung für das Attribut."
+
+#: src/StoreApi/Routes/V1/Products.php:417
+msgid "Limit result set to products with a certain average rating."
+msgstr "Ergebnismenge auf Produkte mit einer bestimmten durchschnittlichen Bewertung begrenzen."
+
+#: src/StoreApi/Routes/V1/Products.php:400
+msgid "The logical relationship between attributes when filtering across multiple at once."
+msgstr "Die logische Beziehung zwischen Attributen, wenn mehrere auf einmal gefiltert werden."
+
+#: src/StoreApi/Routes/V1/Products.php:382
+msgid "List of attribute slug(s). If a term ID is provided, this will be ignored."
+msgstr "Liste der Attribut-Titelform(en). Wenn eine Begriffs-ID angegeben ist, wird diese ignoriert."
+
+#: src/StoreApi/Routes/V1/Products.php:374
+msgid "List of attribute term IDs."
+msgstr "Liste der Attributsbegriffs-IDs."
+
+#: src/StoreApi/Routes/V1/Products.php:369
+msgid "Attribute taxonomy name."
+msgstr "Taxonomiename des Attributs."
+
+#: src/StoreApi/Routes/V1/Products.php:363
+msgid "Limit result set to products with selected global attributes."
+msgstr "Ergebnismenge auf Produkte mit ausgewählten globalen Attributen begrenzen."
+
+#: src/StoreApi/Routes/V1/Products.php:351
+msgid "Limit result set to products with specified stock status."
+msgstr "Ergebnismenge auf Produkte mit einem bestimmten Lagerstatus beschränken."
+
+#: src/StoreApi/Routes/V1/Products.php:330
+msgid "Limit result set to products on sale."
+msgstr "Beschränkt Ergebnismenge auf Produkte im Angebot."
+
+#: src/StoreApi/Routes/V1/Products.php:314
+msgid "Limit result set to products assigned a specific tag ID."
+msgstr "Beschränkt Ergebnismenge auf Produkte, die einer bestimmten Tag-ID zugewiesen sind."
+
+#: src/StoreApi/Routes/V1/Products.php:276
+#: src/StoreApi/Routes/V1/Products.php:295
+msgid "Limit result set to products assigned a specific category ID."
+msgstr "Beschränke Ergebnismenge auf Produkte einer bestimmten Kategorie-ID."
+
+#: src/StoreApi/Routes/V1/Products.php:269
+msgid "Limit result set to featured products."
+msgstr "Beschränke Ergebnismenge auf hervorgehobene Produkte."
+
+#: src/StoreApi/Routes/V1/Products.php:262
+msgid "Limit result set to products with specific SKU(s). Use commas to separate."
+msgstr "Beschränkt Ergebnismenge auf Produkte mit bestimmten Artikelnummern. Verwende Kommas zum Trennen."
+
+#: src/StoreApi/Routes/V1/Products.php:254
+msgid "Limit result set to products assigned a specific type."
+msgstr "Beschränkt Ergebnismenge auf Produkte eines bestimmten Typs."
+
+#: src/StoreApi/Routes/V1/Products.php:244
+msgid "Limit result set to all items except those of a particular parent ID."
+msgstr "Ergebnissatz auf alle Elemente begrenzen, außer denen mit einer bestimmten Eltern-ID."
+
+#: src/StoreApi/Routes/V1/Products.php:234
+msgid "Limit result set to those of particular parent IDs."
+msgstr "Beschränkt Ergebnismenge auf bestimmte Eltern-IDs. "
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:64
+#: src/StoreApi/Routes/V1/Products.php:189
+msgid "Limit result set to specific ids."
+msgstr "Beschränkt das Ergebnis auf bestimmte IDs."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:54
+#: src/StoreApi/Routes/V1/Products.php:179
+msgid "Ensure result set excludes specific IDs."
+msgstr "Sicherstellen, dass das Ergebnis bestimmte IDs ausschließt."
+
+#: src/StoreApi/Routes/V1/Products.php:166
+msgid "When limiting response using after/before, which date column to compare against."
+msgstr "Mit welcher Datumsspalte Angaben verglichen werden sollen, wenn die Antwort mit „nachher/vorher“ begrenzt wird."
+
+#: src/StoreApi/Routes/V1/Products.php:159
+msgid "Limit response to resources created before a given ISO8601 compliant date."
+msgstr "Antwort auf Ressourcen begrenzen, die vor einem bestimmten Datum (nach ISO8601-Standard) erstellt wurden."
+
+#: src/StoreApi/Routes/V1/Products.php:152
+msgid "Limit response to resources created after a given ISO8601 compliant date."
+msgstr "Antwort auf Ressourcen begrenzen, die nach einem bestimmten ISO8601-konformen Datum erstellt worden sind."
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:47
+#: src/StoreApi/Routes/V1/Products.php:138
+msgid "Limit results to those matching a string."
+msgstr "Zeigt nur die Ergebnisse an, die zu einer Zeichenkette passen. "
+
+#: src/StoreApi/Routes/V1/AbstractTermsRoute.php:29
+#: src/StoreApi/Routes/V1/ProductReviews.php:168
+#: src/StoreApi/Routes/V1/Products.php:119
+msgid "Current page of the collection."
+msgstr "Aktuelle Seite der Sammlung."
+
+#: src/StoreApi/Routes/V1/ProductsById.php:73
+msgid "Invalid product ID."
+msgstr "Ungültige Produkt-ID."
+
+#: src/StoreApi/Utilities/CartController.php:728
+msgid "Unable to retrieve cart."
+msgstr "Warenkorb kann nicht abgerufen werden."
+
+#: src/StoreApi/Routes/V1/ProductCollectionData.php:171
+msgid "If true, calculates rating counts for products in the collection."
+msgstr "Wenn wahr, werden Bewertungsanzahlen für Produkte in der Sammlung berechnet."
+
+#: src/StoreApi/Routes/V1/ProductCollectionData.php:147
+msgid "If requested, calculates attribute term counts for products in the collection."
+msgstr "Berechnet auf Anfrage die Anzahl der Attributbegriffe für Produkte in der Sammlung."
+
+#: src/StoreApi/Routes/V1/ProductCollectionData.php:135
+msgid "If true, calculates the minimum and maximum product prices for the collection."
+msgstr "Wenn wahr, werden die niedrigsten und höchsten Produktpreise für die Sammlung berechnet."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:84
+#: assets/js/blocks/products/edit.js:46 build/all-products-frontend.js:4
+#: build/all-products.js:24 build/all-products.js:25
+msgid "Average rating"
+msgstr "Durchschnittliche Bewertung"
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:76
+msgid "Returns number of products with each average rating."
+msgstr "Gibt die Anzahl der Produkte mit jeweils durchschnittlicher Bewertung zurück."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:67
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:90
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:113
+msgid "Number of products."
+msgstr "Anzahl der Produkte."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:61
+msgid "Term ID"
+msgstr "Begriffs-ID"
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:44
+msgid "Max price found in collection of products."
+msgstr "Höchster Preis, der in Produktsammlung gefunden wurde."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:38
+msgid "Min price found in collection of products."
+msgstr "Niedrigster Preis, der in Produktsammlung gefunden wurde."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:411
+msgid "Button description."
+msgstr "Button-Beschreibung."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:405
+msgid "Button text."
+msgstr "Button-Text."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:399
+msgid "Add to cart button parameters."
+msgstr "Parameter für „In den Warenkorb“-Button"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:375
+msgid "Is the product in stock?"
+msgstr "Ist das Produkt vorrätig?"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:369
+msgid "Is the product purchasable?"
+msgstr "Kann dieses Produkt gekauft werden?"
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:52
+msgid "Thumbnail sizes for responsive images."
+msgstr "Größe des Vorschaubildes bei responsiven Bildern."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:47
+msgid "Thumbnail srcset for responsive images."
+msgstr "Srcset des Vorschaubildes bei responsiven Bildern."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:41
+msgid "Thumbnail URL."
+msgstr "Vorschaubild-URL."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:35
+msgid "Full size image URL."
+msgstr "Vollbild-URL"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:102
+msgid "Is the product on sale?"
+msgstr "Ist das Produkt im Angebot?"
+
+#. translators: 1: product name 2: quantity in stock
+#: src/StoreApi/Utilities/CartController.php:244
+msgid "You cannot add that amount of &quot;%1$s&quot; to the cart because there is not enough stock (%2$s remaining)."
+msgstr "Du kannst die Menge von „%1$s“ nicht dem Warenkorb hinzufügen, weil diese nicht vorrätig sind (%2$s auf Lager)."
+
+#. translators: %s: product name
+#: src/StoreApi/Utilities/CartController.php:228
+msgid "You cannot add &quot;%s&quot; to the cart because the product is out of stock."
+msgstr "Du kannst „%s“ deinem Warenkorb nicht hinzufügen, weil das Produkt derzeit nicht vorrätig ist. "
+
+#: src/StoreApi/Utilities/CartController.php:1075
+#: src/StoreApi/Utilities/CartController.php:1358
+msgid "This product cannot be added to the cart."
+msgstr "Dieses Produkt kann nicht zum Warenkorb hinzugefügt werden."
+
+#: src/StoreApi/Schemas/V1/CartFeeSchema.php:30
+msgid "Unique identifier for the fee within the cart."
+msgstr "Eindeutige Kennung für die Gebühr im Warenkorb."
+
+#: src/BlockTypes/ProductSearch.php:44 build/legacy-template.js:5
+#: build/product-search.js:1
+msgid "Search products…"
+msgstr "Produkte suchen …"
+
+#: patterns/footer-simple-menu-and-cart.php:18
+#: patterns/footer-with-3-menus.php:50 src/BlockTypes/ProductSearch.php:43
+#: src/BlockTypes/ProductSearch.php:111 build/legacy-template.js:5
+#: build/product-search.js:1
+msgid "Search"
+msgstr "Suche"
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:223
+msgid "Limit result set to reviews from specific product IDs."
+msgstr "Ergebnisse auf Bewertungen zu bestimmten Produkt-IDs begrenzen."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:202
+#: src/StoreApi/Routes/V1/Products.php:214
+msgid "Sort collection by object attribute."
+msgstr "Sortiere Liste nach Objektattribut."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:194
+#: src/StoreApi/Routes/V1/Products.php:206
+msgid "Order sort attribute ascending or descending."
+msgstr "Sortiert Attribute aufsteigend oder absteigend."
+
+#: src/StoreApi/Routes/V1/ProductReviews.php:187
+#: src/StoreApi/Routes/V1/Products.php:199
+msgid "Offset the result set by a specific number of items."
+msgstr "Versieht die Ergebnismenge mit einem Offset."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:144
+msgid "Avatar URLs for the object reviewer."
+msgstr "Avatar-URLs für den Objektbewerter."
+
+#. translators: %d: avatar image size in pixels
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:137
+msgid "Avatar URL with image size of %d pixels."
+msgstr "Avatar-URL mit einer Bildgröße von %d Pixeln."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:123
+msgid "Shows if the reviewer bought the product or not."
+msgstr "Zeigt an, ob der Bewertende das Produkt gekauft hat oder nicht."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:117
+msgid "Review rating (0 to 5)."
+msgstr "Bewertung (von 0 bis 5)."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:108
+msgid "The content of the review."
+msgstr "Der Inhalt der Bewertung."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:102
+msgid "Reviewer name."
+msgstr "Name des Bewertenden."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:95
+msgid "Image of the product that the review belongs to."
+msgstr "Bild des Produkts, zu dem die Bewertung gehört."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:89
+msgid "Permalink of the product that the review belongs to."
+msgstr "Permalink des Produkts, zu dem die Bewertung gehört."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:83
+msgid "Name of the product that the review belongs to."
+msgstr "Name des Produkts, zu dem die Bewertung gehört."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:77
+msgid "Unique identifier for the product that the review belongs to."
+msgstr "Eindeutiger Bezeichner für das Produkt, zu dem die Bewertung gehört."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:64
+msgid "The date the review was created, in the site's timezone in human-readable format."
+msgstr "Das Datum, an dem die Bewertung erstellt wurde, in der Zeitzone der Website in einem für Menschen lesbaren Format."
+
+#: src/StoreApi/Schemas/V1/ProductCategorySchema.php:65
+msgid "Category URL."
+msgstr "Kategorie URL."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:80
+msgid "Product variation attributes, if applicable."
+msgstr "Produktvarianten-Attribute, falls zutreffend."
+
+#: src/StoreApi/Routes/V1/Products.php:409
+msgid "Determines if hidden or visible catalog products are shown."
+msgstr "Bestimmt, ob versteckte oder sichtbare Katalogprodukte angezeigt werden."
+
+#: src/StoreApi/Routes/V1/Products.php:321
+msgid "Operator to compare product tags."
+msgstr "Operator zum Vergleichen von Produkt-Schlagwörtern."
+
+#. translators: 1: composer command. 2: plugin directory
+#: woocommerce-gutenberg-products-block.php:132
+#: woocommerce-gutenberg-products-block.php:150
+msgid "Your installation of the WooCommerce Blocks feature plugin is incomplete. Please run %1$s within the %2$s directory."
+msgstr "Deine Installation des WooCommerce Blocks Feature-Plugins ist nicht abgeschlossen. Bitte führe %1$s im Verzeichnis %2$s aus."
+
+#: src/BlockTypes/ProductCategories.php:257
+msgid "Go to category"
+msgstr "Zur Kategorie gehen"
+
+#: src/BlockTypes/ProductCategories.php:245
+#: src/BlockTypes/ProductCategories.php:249 build/featured-category.js:14
+msgid "Select a category"
+msgstr "Wähle eine Kategorie aus"
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:66
+msgid "Number of terms in the attribute taxonomy."
+msgstr "Anzahl der Begriffe im Attribut Taxonomie."
+
+#: src/BlockTypes/OrderConfirmation/Totals.php:38
+#: assets/js/blocks/reviews/edit-utils.js:131 build/all-reviews.js:3
+#: build/cart-blocks/cart-line-items-frontend.js:11 build/cart.js:12
+#: build/legacy-template.js:7
+#: build/mini-cart-contents-block/products-table-frontend.js:11
+#: build/mini-cart-contents.js:13 build/order-confirmation-downloads.js:1
+#: build/order-confirmation-totals.js:1 build/reviews-by-category.js:13
+#: build/reviews-by-product.js:13 build/single-product.js:8
+msgid "Product"
+msgstr "Produkt"
+
+#. translators: %1$s is the install command, %2$s is the build command, %3$s is
+#. the watch command.
+#: src/Domain/Bootstrap.php:219
+msgid "WooCommerce Blocks development mode requires files to be built. From the plugin directory, run %1$s to install dependencies, %2$s to build the files or %3$s to build the files and watch for changes."
+msgstr "WooCommerce Block-Entwicklermodus erfordert die Erzeugung von Dateien. Führe vom Plugin-Verzeichnis %1$s aus, um Abhängigkeiten zu installieren, %2$s um Dateien zu erzeugen oder %3$s um die Dateien zu erzeugen und Änderungen zu beobachten."
+
+#: patterns/hero-product-3-split.php:34 patterns/hero-product-split.php:24
+#: build/featured-category.js:14 build/featured-product.js:14
+msgid "Shop now"
+msgstr "Jetzt einkaufen"
+
+#: src/StoreApi/Routes/V1/Products.php:390
+msgid "Operator to compare product attribute terms."
+msgstr "Operator um Produkteigenschaftsbegriffe zu vergleichen."
+
+#: src/StoreApi/Routes/V1/Products.php:283
+#: src/StoreApi/Routes/V1/Products.php:303
+msgid "Operator to compare product category terms."
+msgstr "Operator zum Vergleich der Begriffe der Produkt-Kategorie."
+
+#: src/BlockTypes/ProductButton.php:138 assets/js/previews/products.js:59
+#: assets/js/previews/products.js:60 build/all-products.js:2
+#: build/all-products.js:3 build/all-products.js:21
+#: build/cart-blocks/cart-cross-sells-products-frontend.js:7 build/cart.js:17
+#: build/featured-product.js:14 build/product-add-to-cart-frontend.js:2
+#: build/product-add-to-cart.js:2 build/product-button-frontend.js:2
+#: build/product-button.js:2
+msgid "Add to cart"
+msgstr "In den Warenkorb"
+
+#. Description of the plugin
+msgid "WooCommerce blocks for the Gutenberg editor."
+msgstr "WooCommerce Blöcke für den Gutenberg Editor."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Blocks"
+msgstr "WooCommerce Blocks"
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:199
+msgid "Meta value."
+msgstr "Meta-Wert."
+
+#: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:193
+msgid "Meta key."
+msgstr "Meta-Schlüssel."
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:36
+msgid "Attribute name."
+msgstr "Name des Attributs."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:62
+msgid "Image alternative text."
+msgstr "Bild-Alternativ-Text."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:57
+msgid "Image name."
+msgstr "Bild-Name."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:70
+msgid "The date the review was created, as GMT."
+msgstr "Das Datum, an dem die Bewertung erstellt wurde, als GMT."
+
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:57
+msgid "The date the review was created, in the site's timezone."
+msgstr "Das Datum, an dem die Bewertung erstellt wurde (in der Zeitzone der Seite)."
+
+#: src/StoreApi/Schemas/V1/ImageAttachmentSchema.php:30
+msgid "Image ID."
+msgstr "Bild-ID."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:124
+#: src/StoreApi/Schemas/V1/ProductSchema.php:180
+msgid "List of images."
+msgstr "Liste der Bilder."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:242
+msgid "Tag slug"
+msgstr "Schlagwort-Titelform"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:236
+msgid "Tag name"
+msgstr "Schlagwort-Name"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:230
+msgid "Tag ID"
+msgstr "Schlagwort-ID"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:208
+msgid "Category slug"
+msgstr "Kategorie-Titelform"
+
+#: src/StoreApi/Schemas/V1/ProductCategorySchema.php:52
+msgid "Category image."
+msgstr "Kategoriebild."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:196
+msgid "Category ID"
+msgstr "Kategorie-ID"
+
+#: src/BlockTypes/ProductCategories.php:236
+msgid "List of categories"
+msgstr "Liste der Kategorien"
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:174
+msgid "Amount of reviews that the product has."
+msgstr "Anzahl der Bewertungen, die das Produkt hat."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:168
+msgid "Reviews average rating."
+msgstr "Durchschnittliche Kundenbewertung."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:105
+msgid "True if the product is on backorder."
+msgstr "Wahr, wenn das Produkt nachbestellt wurde."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:194
+#: src/StoreApi/Schemas/V1/ItemSchema.php:244
+#: src/StoreApi/Schemas/V1/ProductSchema.php:121
+msgid "Current product price."
+msgstr "Aktueller Produkt-Preis."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:108
+msgid "Unique identifier."
+msgstr "Eindeutige Kennung."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:74
+msgid "Product type."
+msgstr "Produkttyp."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:117
+#: src/StoreApi/Schemas/V1/ProductSchema.php:85
+msgid "Product URL."
+msgstr "Produkt-URL."
+
+#: src/StoreApi/Schemas/V1/ProductSchema.php:63
+msgid "Product slug."
+msgstr "Produkt-Titelform."
+
+#: src/StoreApi/Schemas/V1/ItemSchema.php:69
+#: src/StoreApi/Schemas/V1/ProductSchema.php:58
+msgid "Product name."
+msgstr "Produktname."
+
+#: src/StoreApi/Routes/V1/ProductAttributesById.php:42
+#: src/StoreApi/Routes/V1/ProductCategoriesById.php:42
+#: src/StoreApi/Routes/V1/ProductsById.php:42
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:30
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:51
+#: src/StoreApi/Schemas/V1/ProductSchema.php:52
+#: src/StoreApi/Schemas/V1/TermSchema.php:30
+msgid "Unique identifier for the resource."
+msgstr "Eindeutige Kennung für die Ressource."
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+msgstr "https://github.com/woocommerce/woocommerce-gutenberg-products-block"

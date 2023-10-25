@@ -1,0 +1,413 @@
+# Translation of Plugins - Cookie banner plugin for WordPress – Cookiebot CMP by Usercentrics - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Cookie banner plugin for WordPress – Cookiebot CMP by Usercentrics - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-23 10:46:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Cookie banner plugin for WordPress – Cookiebot CMP by Usercentrics - Stable (latest release)\n"
+
+#: src/addons/config/Settings_Config.php:592
+msgid "The theme is not installed."
+msgstr "Temaet er ikke installeret."
+
+#: src/addons/config/Settings_Config.php:599
+msgid "The theme is not activated."
+msgstr "Temaet er ikke aktiveret."
+
+#: src/addons/config/Settings_Config.php:644
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#. translators: the placeholder strings denote the positions of <b> and </b>
+#. HTML tags
+#: src/view/admin/settings/support-page.php:85
+msgid "Go to the %1$s\"Your scripts\"%2$s tab"
+msgstr "Gå til %1$s\"Dine scripts\"%2$s sektionen"
+
+#: src/lib/helper.php:254
+msgid "necessary"
+msgstr "Nødvendig"
+
+#: src/lib/helper.php:251 src/lib/helper.php:331
+#: src/view/admin/settings/prior-consent/available-addons/tab.php:37
+msgid "preferences"
+msgstr "Indstillinger"
+
+#: src/lib/helper.php:245 src/lib/helper.php:333
+#: src/view/admin/settings/prior-consent/available-addons/tab.php:55
+msgid "marketing"
+msgstr "marketing"
+
+#: src/view/admin/settings/multiple-configuration/page.php:53
+msgid "Domain Group ID"
+msgstr "Domæne gruppe ID"
+
+#: src/addons/controller/addons/google_site_kit/Google_Site_Kit.php:33
+msgid "Blocks Google Analytics scripts"
+msgstr "Blokere Google Analytics scripts"
+
+#: src/view/admin/settings/gtm-page.php:18
+#: src/view/admin/settings/settings-page.php:59
+msgid "Google Tag Manager"
+msgstr "Google Tag Manager"
+
+#: src/view/admin/settings/network-settings-page.php:117
+#: src/view/admin/settings/network-settings-page.php:164
+#: src/view/admin/settings/settings-page.php:238
+#: src/view/admin/settings/settings-page.php:444
+msgid "None"
+msgstr "Ingen"
+
+#: src/settings/pages/Debug_Page.php:25 src/settings/pages/Debug_Page.php:26
+#: src/view/admin/settings/debug-page.php:18
+#: src/view/admin/templates/main-tabs.php:55
+msgid "Debug info"
+msgstr "Fejlfinding info"
+
+#: src/lib/Supported_Languages.php:52
+msgid "Hungarian"
+msgstr "Ungarsk"
+
+#: src/view/admin/settings/network-settings-page.php:66
+#: src/view/admin/settings/settings-page.php:168
+msgid "Cookie-blocking mode"
+msgstr "Cookie-blokerings tilstand"
+
+#: src/view/admin/settings/prior-consent/other-addons/embed-autocorrect-extra-addon-options.php:10
+msgid "Show advanced options"
+msgstr "Vis avancerede muligheder"
+
+#: src/view/admin/widgets/cookiebot-declaration-widget-form.php:14
+msgid "Title"
+msgstr "Titel"
+
+#: src/view/admin/settings/prior-consent/other-addons/embed-autocorrect-extra-addon-options.php:23
+msgid "Regex:"
+msgstr "Regex:"
+
+#: src/view/admin/settings/prior-consent/other-addons/embed-autocorrect-extra-addon-options.php:35
+msgid "Edit regex"
+msgstr "Rediger regex"
+
+#: src/view/admin/settings/prior-consent/other-addons/embed-autocorrect-extra-addon-options.php:49
+msgid "Reset to default regex"
+msgstr "Nulstil til standard regex"
+
+#: src/widgets/Cookiebot_Declaration_Widget.php:17
+msgid "Cookiebot - Cookie Declaration"
+msgstr "Cookiebot - Cookie deklaration"
+
+#: src/view/admin/widgets/cookiebot-declaration-widget-form.php:33
+msgid "- Default -"
+msgstr "- Standard -"
+
+#: src/view/admin/settings/prior-consent/other-addons/embed-autocorrect-extra-addon-options.php:18
+msgid "This is for more advanced users."
+msgstr "Det her er for mere avanceret brugere."
+
+#: src/settings/Network_Menu_Settings.php:52
+#: src/settings/pages/Support_Page.php:18
+#: src/view/admin/settings/support-page.php:18
+#: src/view/admin/templates/main-tabs.php:48
+msgid "Support"
+msgstr "Support"
+
+#: src/settings/Network_Menu_Settings.php:51
+#: src/settings/pages/Support_Page.php:17
+msgid "Cookiebot Support"
+msgstr "Cookiebot Support"
+
+#: src/settings/Network_Menu_Settings.php:44
+#: src/settings/pages/Settings_Page.php:23
+#: src/view/admin/settings/settings-page.php:44
+#: src/view/admin/templates/main-tabs.php:30
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: src/view/admin/settings/prior-consent/available-addons/tab.php:78
+#: src/view/admin/settings/prior-consent/jetpack-widgets/tab.php:71
+msgid "+ Add language"
+msgstr "+ Tilføj sprog"
+
+#: src/view/admin/settings/prior-consent/partials/placeholder-submitbox-default.php:9
+#: src/view/admin/settings/prior-consent/partials/placeholder-submitboxes.php:18
+#: src/view/admin/widgets/cookiebot-declaration-widget-form.php:26
+msgid "Language"
+msgstr "Sprog"
+
+#: src/view/admin/settings/settings-page.php:143
+msgid "Default (Autodetect)"
+msgstr "Standard (Autodetekter)"
+
+#: src/lib/Supported_Languages.php:50
+msgid "Finnish"
+msgstr "Finsk"
+
+#: src/lib/Supported_Languages.php:49
+msgid "Serbian"
+msgstr "Serbisk"
+
+#: src/lib/Supported_Languages.php:48
+msgid "Swedish"
+msgstr "Svensk"
+
+#: src/lib/Supported_Languages.php:47
+msgid "Spanish"
+msgstr "Spansk"
+
+#: src/lib/Supported_Languages.php:46
+msgid "Slovak"
+msgstr "Slovakisk"
+
+#: src/lib/Supported_Languages.php:45
+msgid "Hindi"
+msgstr "Hindi"
+
+#: src/lib/Supported_Languages.php:44
+msgid "Japanese"
+msgstr "Japansk"
+
+#: src/lib/Supported_Languages.php:43
+msgid "Russian"
+msgstr "Russisk"
+
+#: src/lib/Supported_Languages.php:42
+msgid "Slovenian"
+msgstr "Slovensk"
+
+#: src/lib/Supported_Languages.php:41
+msgid "Malay"
+msgstr "Malaysisk"
+
+#: src/lib/Supported_Languages.php:40
+msgid "Irish"
+msgstr "Irsk"
+
+#: src/lib/Supported_Languages.php:39
+msgid "Portuguese"
+msgstr "Portugisisk"
+
+#: src/lib/Supported_Languages.php:38
+msgid "Estonian"
+msgstr "Estisk"
+
+#: src/lib/Supported_Languages.php:37
+msgid "Macedonian"
+msgstr "Makedonsk"
+
+#: src/lib/Supported_Languages.php:36
+msgid "Indonesian"
+msgstr "Indonesisk"
+
+#: src/lib/Supported_Languages.php:35
+msgid "French"
+msgstr "Fransk"
+
+#: src/lib/Supported_Languages.php:34
+msgid "Latvian"
+msgstr "Lettisk"
+
+#: src/lib/Supported_Languages.php:33
+msgid "Polish"
+msgstr "Polsk"
+
+#: src/lib/Supported_Languages.php:32
+msgid "Lithuanian"
+msgstr "Litauisk"
+
+#: src/lib/Supported_Languages.php:31
+msgid "Greek"
+msgstr "Græsk"
+
+#: src/lib/Supported_Languages.php:30
+msgid "Thai"
+msgstr "Thailandsk"
+
+#: src/lib/Supported_Languages.php:29
+msgid "Croatian"
+msgstr "Kroatisk"
+
+#: src/lib/Supported_Languages.php:28
+msgid "Arabic"
+msgstr "Arabisk"
+
+#: src/lib/Supported_Languages.php:27
+msgid "English"
+msgstr "Engelsk"
+
+#: src/lib/Supported_Languages.php:26
+msgid "Chinese"
+msgstr "Kinesisk"
+
+#: src/lib/Supported_Languages.php:25
+msgid "Ukrainian"
+msgstr "Ukrainsk"
+
+#: src/lib/Supported_Languages.php:24
+msgid "Bulgarian"
+msgstr "Bulgarsk"
+
+#: src/lib/Supported_Languages.php:23
+msgid "Catalan"
+msgstr "Katalansk"
+
+#: src/lib/Supported_Languages.php:22
+msgid "Sinhala"
+msgstr "Singalesisk"
+
+#: src/lib/Supported_Languages.php:21
+msgid "Romanian"
+msgstr "Rumænsk"
+
+#: src/lib/Supported_Languages.php:20
+msgid "Icelandic"
+msgstr "Islandsk"
+
+#: src/lib/Supported_Languages.php:19
+msgid "Tamil"
+msgstr "Tamilsk"
+
+#: src/lib/Supported_Languages.php:18
+msgid "Vietnamese"
+msgstr "Vietnamesisk"
+
+#: src/lib/Supported_Languages.php:17
+msgid "Dutch"
+msgstr "Hollandsk"
+
+#: src/lib/Supported_Languages.php:16
+msgid "Italian"
+msgstr "Italiensk"
+
+#: src/lib/Supported_Languages.php:15
+msgid "Korean"
+msgstr "Koreansk"
+
+#: src/lib/Supported_Languages.php:14
+msgid "Hebrew"
+msgstr "Hebraisk"
+
+#: src/lib/Supported_Languages.php:13
+msgid "Albanian"
+msgstr "Albansk"
+
+#: src/lib/Supported_Languages.php:12
+msgid "Danish"
+msgstr "Dansk"
+
+#: src/lib/Supported_Languages.php:11
+msgid "Czech"
+msgstr "Tjekkisk"
+
+#: src/lib/Supported_Languages.php:10
+msgid "German"
+msgstr "Tysk"
+
+#: src/lib/Supported_Languages.php:9
+msgid "Turkish"
+msgstr "Tyrkisk"
+
+#: src/lib/Supported_Languages.php:8
+msgid "Norwegian Bokmål"
+msgstr "Norsk - Bokmål"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.cookiebot.com/"
+msgstr "https://cookiebot.com/"
+
+#: src/shortcode/Cookiebot_Declaration_Shortcode.php:53
+msgid "Please add your Cookiebot ID to show Cookie Declarations"
+msgstr "Tilføj dit Cookiebot ID for at vise Cookie deklarationen"
+
+#: src/view/admin/settings/support-page.php:202
+msgid "Update your script tags this way:"
+msgstr "Opdater dine script tags på denne måde:"
+
+#: src/view/admin/settings/support-page.php:191
+msgid "Helper function to update your scripts"
+msgstr "Hjælperfunktion til at opdatere dine scripts"
+
+#: src/view/admin/settings/support-page.php:147
+msgid "Update your script tags"
+msgstr "Opdater dine script tags"
+
+#: src/view/admin/settings/support-page.php:91
+msgid "Copy the value inside the data-cid parameter - eg.: abcdef12-3456-7890-abcd-ef1234567890"
+msgstr "Kopier værdien i data-cid parameteren - f.eks.: abcdef12-3456-7890-abcd-ef1234567890"
+
+#: src/view/admin/settings/support-page.php:57
+msgid "How to find my Cookiebot™ ID"
+msgstr "Hvordan finder jeg mit Cookiebot ID"
+
+#: src/settings/Network_Menu_Settings.php:43
+#: src/settings/pages/Settings_Page.php:22
+msgid "Cookiebot Settings"
+msgstr "Cookiebot indstillinger"
+
+#: src/settings/Network_Menu_Settings.php:35
+#: src/settings/pages/Dashboard_Page.php:20
+msgid "Cookiebot"
+msgstr "Cookiebot"
+
+#: src/widgets/Dashboard_Widget_Cookiebot_Status.php:44
+msgid "Your Cookiebot is working!"
+msgstr "Din Cookiebot virker!"
+
+#: src/widgets/Dashboard_Widget_Cookiebot_Status.php:41
+msgid "Update your Cookiebot ID"
+msgstr "Opdater dit Cookiebot ID"
+
+#: src/widgets/Dashboard_Widget_Cookiebot_Status.php:39
+msgid "You need to enter your Cookiebot ID."
+msgstr "Du skal indtaste et Cookiebot ID."
+
+#: src/widgets/Dashboard_Widget_Cookiebot_Status.php:23
+msgid "Cookiebot Status"
+msgstr "Cookiebot Status"
+
+#: src/view/admin/settings/prior-consent/available-addons/tab.php:67
+#: src/view/admin/settings/prior-consent/jetpack-widgets/tab.php:53
+msgid "Display a placeholder"
+msgstr "Vis en placeholder"
+
+#: src/view/admin/settings/support-page.php:136
+#: src/view/admin/settings/support-page.php:180
+msgid "Watch video demonstration"
+msgstr "Se videoguide"
+
+#: src/addons/config/Settings_Config.php:589
+msgid "The plugin is not installed."
+msgstr "Plugin'et er ikke installeret"
+
+#: src/addons/config/Settings_Config.php:596
+msgid "The plugin is not activated."
+msgstr "Plugin'et er deaktiveret."
+
+#: src/settings/pages/Iab_Page.php:13 src/settings/pages/Iab_Page.php:14
+#: src/view/admin/settings/settings-page.php:67
+msgid "IAB"
+msgstr "IAB"
+
+#: src/addons/config/Settings_Config.php:125
+#: src/view/admin/settings/prior-consent/partials/placeholder-submitboxes.php:24
+msgid "Remove language"
+msgstr "Fjern sprog"
+
+#: src/view/admin/settings/prior-consent/jetpack-widgets/tab.php:15
+msgid "Enable"
+msgstr "Aktiver"
+
+#: src/view/admin/settings/prior-consent/available-addons/tab.php:28
+#: src/view/admin/settings/prior-consent/jetpack-widgets/tab.php:25
+msgid "Check one or multiple cookie types:"
+msgstr "Marker en eller flere cookie typer:"
+
+#: src/addons/controller/addons/jetpack/widget/Facebook_Jetpack_Widget.php:71
+msgid "Facebook widget."
+msgstr "Facebook widget."

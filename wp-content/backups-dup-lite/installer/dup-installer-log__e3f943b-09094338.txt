@@ -1,0 +1,2359 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 09:52:27
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |WINNT
+PHP VERSION_________: 8.0.28                                |8.1.2
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.2 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.2
+DOC ROOT____________: "E:/xampp/htdocs/braven"
+REQUEST URL_________: "http://localhost/braven"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "E:/xampp/htdocs/braven"
+URL_NEW_____________: "http://localhost/braven"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "E:/xampp/htdocs/braven/20230609_brevfranissen_[HASH]_20230609094338_archive.zip"
+ARCHIVE SIZE________: 482.33MB
+CREATED_____________: 2023-06-09 09:43:38
+WP VERSION__________: 6.2.2
+DUP VERSION_________: 1.5.4
+LICENSE_____________: Free version
+DB VERSION__________: 10.3.38
+DB FILE SIZE________: 43.33MB
+DB TABLES___________: 75
+DB ROWS_____________: 40458
+URL HOME____________: https://www.brevfranissen.no
+URL CORE____________: https://www.brevfranissen.no
+URL CONTENT_________: https://www.brevfranissen.no/wp-content
+URL UPLOAD__________: https://www.brevfranissen.no/wp-content/uploads
+URL PLUGINS_________: https://www.brevfranissen.no/wp-content/plugins
+URL MU PLUGINS______: https://www.brevfranissen.no/wp-content/mu-plugins
+URL THEMES__________: https://www.brevfranissen.no/wp-content/themes
+PATH HOME___________: /customers/4/c/4/brevfranissen.no/httpd.www
+PATH ABS____________: /customers/4/c/4/brevfranissen.no/httpd.www
+PATH WPCONFIG_______: /customers/4/c/4/brevfranissen.no/httpd.www
+PATH WPCONTENT______: /customers/4/c/4/brevfranissen.no/httpd.www/wp-content
+PATH UPLOADS________: /customers/4/c/4/brevfranissen.no/httpd.www/wp-content/uploads
+PATH PLUGINS________: /customers/4/c/4/brevfranissen.no/httpd.www/wp-content/plugins
+PATH MUPLUGINS______: /customers/4/c/4/brevfranissen.no/httpd.www/wp-content/mu-plugins
+PATH THEMES_________: /customers/4/c/4/brevfranissen.no/httpd.www/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "www.brevfranissen.no/"
+
+PLUGINS
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:false]  Akismet Anti-Spam
+PLUGIN [SLUG:auto-install-free-ssl/auto-install-free-ssl.php   ][ON:true ]  Auto-Install Free SSL
+PLUGIN [SLUG:cookiebot/cookiebot.php                           ][ON:true ]  Cookie banner plugin for WordPress – Cookiebot CMP by Usercentrics
+PLUGIN [SLUG:cookie-notice/cookie-notice.php                   ][ON:false]  Cookie Notice & Compliance for GDPR / CCPA
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:easy-wp-smtp/easy-wp-smtp.php                     ][ON:true ]  Easy WP SMTP
+PLUGIN [SLUG:facebook-messenger-customer-chat/facebook-messenger-customer-chat.php][ON:true ]  Facebook Chat Plugin - Live Chat Plugin for WordPress
+PLUGIN [SLUG:facebook-for-woocommerce/facebook-for-woocommerce.php][ON:true ]  Facebook for WooCommerce
+PLUGIN [SLUG:flexible-product-fields/flexible-product-fields.php][ON:true ]  Flexible Product Fields
+PLUGIN [SLUG:icegram/icegram.php                               ][ON:true ]  Icegram Engage - Popups, Optins, CTAs & lot more...
+PLUGIN [SLUG:imagify/imagify.php                               ][ON:false]  Imagify
+PLUGIN [SLUG:klaviyo/klaviyo.php                               ][ON:false]  Klaviyo
+PLUGIN [SLUG:loco-translate/loco.php                           ][ON:true ]  Loco Translate
+PLUGIN [SLUG:mailgun/mailgun.php                               ][ON:false]  Mailgun
+PLUGIN [SLUG:onecom-themes-plugins/onecom-themes-plugins.php   ][ON:true ]  one.com
+PLUGIN [SLUG:onecom-spam-protection/onecom-spam-protection.php ][ON:true ]  one.com Spam Protection
+PLUGIN [SLUG:onecom-vcache/vcaching.php                        ][ON:true ]  Performance Cache
+PLUGIN [SLUG:pixelyoursite/facebook-pixel-master.php           ][ON:true ]  PixelYourSite
+PLUGIN [SLUG:popup-builder/popup-builder.php                   ][ON:true ]  Popup Builder
+PLUGIN [SLUG:really-simple-ssl/rlrsssl-really-simple-ssl.php   ][ON:true ]  Really Simple SSL
+PLUGIN [SLUG:zendesk-request-form/zendesk-request-form.php     ][ON:false]  Request Form for Zendesk
+PLUGIN [SLUG:google-site-kit/google-site-kit.php               ][ON:true ]  Site Kit by Google
+PLUGIN [SLUG:ultimate-social-media-icons/ultimate_social_media_icons.php][ON:false]  Social Media and Share Icons (Ultimate Social Media)
+PLUGIN [SLUG:top-bar/topbar.php                                ][ON:true ]  Top Bar
+PLUGIN [SLUG:topbar-call-to-action/st-topbar-cta.php           ][ON:true ]  TopBar Call To Action
+PLUGIN [SLUG:use-any-font/use-any-font.php                     ][ON:false]  Use Any Font
+PLUGIN [SLUG:wc-disable-zoom-lightbox-features/wc-disable-zoom-lbox.php][ON:true ]  WC Disable Zoom / Lightbox features
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:woo-gutenberg-products-block/woocommerce-gutenberg-products-block.php][ON:false]  WooCommerce Blocks
+PLUGIN [SLUG:woo-order-test/wc-ot.php                          ][ON:true ]  WooCommerce Order Test - WP Fix It
+PLUGIN [SLUG:print-invoices-packing-slip-labels-for-woocommerce/print-invoices-packing-slip-labels-for-woocommerce.php][ON:true ]  WooCommerce PDF Invoices, Packing Slips, Delivery Notes and Shipping Labels
+PLUGIN [SLUG:woocommerce-gateway-stripe/woocommerce-gateway-stripe.php][ON:true ]  WooCommerce Stripe Gateway
+PLUGIN [SLUG:wordfence/wordfence.php                           ][ON:false]  Wordfence Security
+PLUGIN [SLUG:wp-google-fonts/google-fonts.php                  ][ON:false]  WP Google Fonts
+PLUGIN [SLUG:wp-mail-logging/wp-mail-logging.php               ][ON:true ]  WP Mail Logging
+PLUGIN [SLUG:wp-mail-smtp/wp_mail_smtp.php                     ][ON:false]  WP Mail SMTP
+PLUGIN [SLUG:woocommerce-menu-bar-cart/wp-menu-cart.php        ][ON:true ]  WP Menu Cart
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+PLUGIN [SLUG:zapier/zapier.php                                 ][ON:true ]  Zapier for WordPress
+
+********************************************************************************
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\ctrls\ctrl.base.php:227][DELTA:   4.12806]  MESSAGE:END RENDER PAGE
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\ctrls\ctrl.base.php:227][DELTA:   2.45490]  MESSAGE:END RENDER PAGE
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00029]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00081]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Package Size" [CLASS: DUPX_Validation_test_package_size]
+LOG-TIME[DELTA:   0.00020]  MESSAGE:TEST "Package Size" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00042]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00026]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+LOG-TIME[DELTA:   0.13717]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00062]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00022]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.05001]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.14239]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00092]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.01488]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00216]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00041]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00018]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00018]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00081]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+LOG-TIME[DELTA:   0.00099]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.06494]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00066]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00134]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00068]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00082]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00016]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 09:53:10
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Brev fra nissen"
+HOME URL NEW________: "http://localhost/braven"
+SITE URL NEW________: "http://localhost/braven/"
+CONTENT URL NEW_____: "http://localhost/braven/wp-content"
+UPLOAD URL NEW______: "http://localhost/braven/wp-content/uploads"
+PLUGINS URL NEW_____: "http://localhost/braven/wp-content/plugins"
+MUPLUGINS URL NEW___: "http://localhost/braven/wp-content/mu-plugins"
+HOME PATH NEW_______: "E:/xampp/htdocs/braven"
+SITE PATH NEW_______: "E:/xampp/htdocs/braven/"
+CONTENT PATH NEW____: "E:/xampp/htdocs/braven/wp-content"
+UPLOAD PATH NEW_____: "E:/xampp/htdocs/braven/wp-content/uploads"
+PLUGINS PATH NEW____: "E:/xampp/htdocs/braven/wp-content/plugins"
+MUPLUGINS PATH NEW__: "E:/xampp/htdocs/braven/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: false
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: false
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "E:/xampp/htdocs/braven/dup-installer"
+	FILE: "E:/xampp/htdocs/braven/20230609_brevfranissen_[HASH]_20230609094338_installer-backup.php"
+	FILE: "E:/xampp/htdocs/braven/20230609_brevfranissen_[HASH]_20230609094338_archive.zip"
+	FILE: "E:/xampp/htdocs/braven/installer.php"
+	FILE: "E:/xampp/htdocs/braven/dup-installer-bootlog__e3f943b-09094338.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20230609_brevfranissen_[HASH]_20230609094338_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.0439 sec. - Files processed: 4,241 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 4241
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0382 sec. - Files processed: 5,151 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5151
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.9300 sec. - Files processed: 5,272 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5272
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0626 sec. - Files processed: 5,770 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 5770
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0705 sec. - Files processed: 6,368 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6368
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0222 sec. - Files processed: 6,720 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 6720
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0203 sec. - Files processed: 7,617 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 7617
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0387 sec. - Files processed: 8,640 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 8640
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0942 sec. - Files processed: 9,329 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9329
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1038 sec. - Files processed: 9,874 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 9874
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0443 sec. - Files processed: 10,518 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 10518
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0230 sec. - Files processed: 11,106 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11106
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0306 sec. - Files processed: 11,730 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 11730
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0577 sec. - Files processed: 12,475 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 12475
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0379 sec. - Files processed: 13,099 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 13099
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0211 sec. - Files processed: 14,013 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 14013
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0561 sec. - Files processed: 15,023 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15023
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0528 sec. - Files processed: 15,731 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 15731
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0645 sec. - Files processed: 16,201 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 16201
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0393 sec. - Files processed: 16,838 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 16838
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0557 sec. - Files processed: 17,497 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 17497
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.3861 sec. - Files processed: 18,473 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 18473
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0369 sec. - Files processed: 19,022 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19022
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0217 sec. - Files processed: 19,488 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19488
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 6.7077 sec. - Files processed: 19,962 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19962
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 18.9797 sec. - Files processed: 19,966 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 19966
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0207 sec. - Files processed: 20,957 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 20957
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0692 sec. - Files processed: 21,550 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 21550
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0683 sec. - Files processed: 22,171 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 22171
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0230 sec. - Files processed: 22,814 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 22814
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0482 sec. - Files processed: 23,472 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 23472
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0760 sec. - Files processed: 24,097 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 24097
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0479 sec. - Files processed: 24,527 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 24527
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0625 sec. - Files processed: 24,951 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 24951
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0429 sec. - Files processed: 25,486 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 25486
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0329 sec. - Files processed: 26,005 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 26005
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0384 sec. - Files processed: 27,370 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 27370
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0348 sec. - Files processed: 28,714 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 28714
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0409 sec. - Files processed: 30,045 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 30045
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0352 sec. - Files processed: 31,338 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 31338
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0530 sec. - Files processed: 32,649 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 32649
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0416 sec. - Files processed: 33,413 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 33413
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0217 sec. - Files processed: 34,022 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 34022
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0379 sec. - Files processed: 34,957 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 34957
+--------------------------------------
+PATHS MAPPING : "E:/xampp/htdocs/braven"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 35821
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 09:57:44 - RUNTIME: 274.6305 sec. - Files processed: 35,215 of 35,215
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 www0_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 09:57:45
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "www0_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "www0_actionscheduler_actions"____________________[ROWS:     888] [EXTRACT|REPLACE] [INST NAME: www0_actionscheduler_actions]
+TABLE "www0_actionscheduler_claims"_____________________[ROWS:      22] [EXTRACT|REPLACE] [INST NAME: www0_actionscheduler_claims]
+TABLE "www0_actionscheduler_groups"_____________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: www0_actionscheduler_groups]
+TABLE "www0_actionscheduler_logs"_______________________[ROWS:    2665] [EXTRACT|REPLACE] [INST NAME: www0_actionscheduler_logs]
+TABLE "www0_commentmeta"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_commentmeta]
+TABLE "www0_comments"___________________________________[ROWS:    1407] [EXTRACT|REPLACE] [INST NAME: www0_comments]
+TABLE "www0_duplicator_packages"________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: www0_duplicator_packages]
+TABLE "www0_imagify_files"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_imagify_files]
+TABLE "www0_imagify_folders"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_imagify_folders]
+TABLE "www0_links"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_links]
+TABLE "www0_options"____________________________________[ROWS:     972] [EXTRACT|REPLACE] [INST NAME: www0_options]
+TABLE "www0_postmeta"___________________________________[ROWS:   20411] [EXTRACT|REPLACE] [INST NAME: www0_postmeta]
+TABLE "www0_posts"______________________________________[ROWS:     790] [EXTRACT|REPLACE] [INST NAME: www0_posts]
+TABLE "www0_sgpb_subscribers"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_sgpb_subscribers]
+TABLE "www0_sgpb_subscription_error_log"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_sgpb_subscription_error_log]
+TABLE "www0_termmeta"___________________________________[ROWS:      42] [EXTRACT|REPLACE] [INST NAME: www0_termmeta]
+TABLE "www0_terms"______________________________________[ROWS:      28] [EXTRACT|REPLACE] [INST NAME: www0_terms]
+TABLE "www0_term_relationships"_________________________[ROWS:      40] [EXTRACT|REPLACE] [INST NAME: www0_term_relationships]
+TABLE "www0_term_taxonomy"______________________________[ROWS:      28] [EXTRACT|REPLACE] [INST NAME: www0_term_taxonomy]
+TABLE "www0_usermeta"___________________________________[ROWS:     342] [EXTRACT|REPLACE] [INST NAME: www0_usermeta]
+TABLE "www0_users"______________________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: www0_users]
+TABLE "www0_wc_admin_notes"_____________________________[ROWS:     156] [EXTRACT|REPLACE] [INST NAME: www0_wc_admin_notes]
+TABLE "www0_wc_admin_note_actions"______________________[ROWS:     190] [EXTRACT|REPLACE] [INST NAME: www0_wc_admin_note_actions]
+TABLE "www0_wc_category_lookup"_________________________[ROWS:       7] [EXTRACT|REPLACE] [INST NAME: www0_wc_category_lookup]
+TABLE "www0_wc_customer_lookup"_________________________[ROWS:     323] [EXTRACT|REPLACE] [INST NAME: www0_wc_customer_lookup]
+TABLE "www0_wc_download_log"____________________________[ROWS:      35] [EXTRACT|REPLACE] [INST NAME: www0_wc_download_log]
+TABLE "www0_wc_order_coupon_lookup"_____________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: www0_wc_order_coupon_lookup]
+TABLE "www0_wc_order_product_lookup"____________________[ROWS:     506] [EXTRACT|REPLACE] [INST NAME: www0_wc_order_product_lookup]
+TABLE "www0_wc_order_stats"_____________________________[ROWS:     356] [EXTRACT|REPLACE] [INST NAME: www0_wc_order_stats]
+TABLE "www0_wc_order_tax_lookup"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_wc_order_tax_lookup]
+TABLE "www0_wc_product_attributes_lookup"_______________[ROWS:       7] [EXTRACT|REPLACE] [INST NAME: www0_wc_product_attributes_lookup]
+TABLE "www0_wc_product_download_directories"____________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: www0_wc_product_download_directories]
+TABLE "www0_wc_product_meta_lookup"_____________________[ROWS:      12] [EXTRACT|REPLACE] [INST NAME: www0_wc_product_meta_lookup]
+TABLE "www0_wc_rate_limits"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_wc_rate_limits]
+TABLE "www0_wc_reserved_stock"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_wc_reserved_stock]
+TABLE "www0_wc_tax_rate_classes"________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: www0_wc_tax_rate_classes]
+TABLE "www0_wc_webhooks"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_wc_webhooks]
+TABLE "www0_wfpklist_template_data"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_wfpklist_template_data]
+TABLE "www0_woocommerce_api_keys"_______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_api_keys]
+TABLE "www0_woocommerce_attribute_taxonomies"___________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_attribute_taxonomies]
+TABLE "www0_woocommerce_downloadable_product_permissions"[ROWS:       8] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_downloadable_product_permissions]
+TABLE "www0_woocommerce_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_log]
+TABLE "www0_woocommerce_order_itemmeta"_________________[ROWS:    6821] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_order_itemmeta]
+TABLE "www0_woocommerce_order_items"____________________[ROWS:     778] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_order_items]
+TABLE "www0_woocommerce_payment_tokenmeta"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_payment_tokenmeta]
+TABLE "www0_woocommerce_payment_tokens"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_payment_tokens]
+TABLE "www0_woocommerce_sessions"_______________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_sessions]
+TABLE "www0_woocommerce_shipping_zones"_________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_shipping_zones]
+TABLE "www0_woocommerce_shipping_zone_locations"________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_shipping_zone_locations]
+TABLE "www0_woocommerce_shipping_zone_methods"__________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_shipping_zone_methods]
+TABLE "www0_woocommerce_tax_rates"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_tax_rates]
+TABLE "www0_woocommerce_tax_rate_locations"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_woocommerce_tax_rate_locations]
+TABLE "www0_wpfm_backup"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www0_wpfm_backup]
+TABLE "www0_wpmailsmtp_debug_events"____________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: www0_wpmailsmtp_debug_events]
+TABLE "www0_wpmailsmtp_tasks_meta"______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: www0_wpmailsmtp_tasks_meta]
+TABLE "www0_wpml_mails"_________________________________[ROWS:    1379] [EXTRACT|REPLACE] [INST NAME: www0_wpml_mails]
+TABLE "www0_yoast_indexable"____________________________[ROWS:      48] [EXTRACT|REPLACE] [INST NAME: www0_yoast_indexable]
+TABLE "www0_yoast_indexable_hierarchy"__________________[ROWS:      46] [EXTRACT|REPLACE] [INST NAME: www0_yoast_indexable_hierarchy]
+TABLE "www0_yoast_migrations"___________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: www0_yoast_migrations]
+TABLE "www0_yoast_primary_term"_________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: www0_yoast_primary_term]
+TABLE "www0_yoast_seo_links"____________________________[ROWS:      14] [EXTRACT|REPLACE] [INST NAME: www0_yoast_seo_links]
+TABLE "www_commentmeta"_________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www_commentmeta]
+TABLE "www_comments"____________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: www_comments]
+TABLE "www_imagify_files"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www_imagify_files]
+TABLE "www_imagify_folders"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www_imagify_folders]
+TABLE "www_links"_______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www_links]
+TABLE "www_options"_____________________________________[ROWS:     187] [EXTRACT|REPLACE] [INST NAME: www_options]
+TABLE "www_postmeta"____________________________________[ROWS:     225] [EXTRACT|REPLACE] [INST NAME: www_postmeta]
+TABLE "www_posts"_______________________________________[ROWS:      57] [EXTRACT|REPLACE] [INST NAME: www_posts]
+TABLE "www_termmeta"____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: www_termmeta]
+TABLE "www_terms"_______________________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: www_terms]
+TABLE "www_term_relationships"__________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: www_term_relationships]
+TABLE "www_term_taxonomy"_______________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: www_term_taxonomy]
+TABLE "www_usermeta"____________________________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: www_usermeta]
+TABLE "www_users"_______________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: www_users]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.22 -- Build Server: 10.3.38
+FILE SIZE:	dup-database__[HASH].sql (23.65MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE-GLOBAL:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`root`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 45562
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 696928
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 697062
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 4439659
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 6576485
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 6876850
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 6989364
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 7371361
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 7535942
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 7882624
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 8064898
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 8397315
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 8600696
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 9493444
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 9813950
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 10157548
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 10327803
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 21976660
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	39019
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "www0_actionscheduler_actions"____________________[ROWS:   890]
+TABLE "www0_actionscheduler_claims"_____________________[ROWS:    22]
+TABLE "www0_actionscheduler_groups"_____________________[ROWS:     9]
+TABLE "www0_actionscheduler_logs"_______________________[ROWS:  2669]
+TABLE "www0_commentmeta"________________________________[ROWS:     0]
+TABLE "www0_comments"___________________________________[ROWS:  1407]
+TABLE "www0_duplicator_packages"________________________[ROWS:     1]
+TABLE "www0_imagify_files"______________________________[ROWS:     0]
+TABLE "www0_imagify_folders"____________________________[ROWS:     0]
+TABLE "www0_links"______________________________________[ROWS:     0]
+TABLE "www0_options"____________________________________[ROWS:   972]
+TABLE "www0_postmeta"___________________________________[ROWS: 20411]
+TABLE "www0_posts"______________________________________[ROWS:   790]
+TABLE "www0_sgpb_subscribers"___________________________[ROWS:     0]
+TABLE "www0_sgpb_subscription_error_log"________________[ROWS:     0]
+TABLE "www0_term_relationships"_________________________[ROWS:    40]
+TABLE "www0_term_taxonomy"______________________________[ROWS:    28]
+TABLE "www0_termmeta"___________________________________[ROWS:    42]
+TABLE "www0_terms"______________________________________[ROWS:    28]
+TABLE "www0_usermeta"___________________________________[ROWS:   342]
+TABLE "www0_users"______________________________________[ROWS:     4]
+TABLE "www0_wc_admin_note_actions"______________________[ROWS:   190]
+TABLE "www0_wc_admin_notes"_____________________________[ROWS:   156]
+TABLE "www0_wc_category_lookup"_________________________[ROWS:     7]
+TABLE "www0_wc_customer_lookup"_________________________[ROWS:   323]
+TABLE "www0_wc_download_log"____________________________[ROWS:    35]
+TABLE "www0_wc_order_coupon_lookup"_____________________[ROWS:     3]
+TABLE "www0_wc_order_product_lookup"____________________[ROWS:   506]
+TABLE "www0_wc_order_stats"_____________________________[ROWS:   356]
+TABLE "www0_wc_order_tax_lookup"________________________[ROWS:     0]
+TABLE "www0_wc_product_attributes_lookup"_______________[ROWS:     7]
+TABLE "www0_wc_product_download_directories"____________[ROWS:     2]
+TABLE "www0_wc_product_meta_lookup"_____________________[ROWS:    12]
+TABLE "www0_wc_rate_limits"_____________________________[ROWS:     0]
+TABLE "www0_wc_reserved_stock"__________________________[ROWS:     0]
+TABLE "www0_wc_tax_rate_classes"________________________[ROWS:     2]
+TABLE "www0_wc_webhooks"________________________________[ROWS:     0]
+TABLE "www0_wfpklist_template_data"_____________________[ROWS:     0]
+TABLE "www0_woocommerce_api_keys"_______________________[ROWS:     2]
+TABLE "www0_woocommerce_attribute_taxonomies"___________[ROWS:     4]
+TABLE "www0_woocommerce_downloadable_product_permissions"[ROWS:     8]
+TABLE "www0_woocommerce_log"____________________________[ROWS:     0]
+TABLE "www0_woocommerce_order_itemmeta"_________________[ROWS:  6821]
+TABLE "www0_woocommerce_order_items"____________________[ROWS:   778]
+TABLE "www0_woocommerce_payment_tokenmeta"______________[ROWS:     0]
+TABLE "www0_woocommerce_payment_tokens"_________________[ROWS:     0]
+TABLE "www0_woocommerce_sessions"_______________________[ROWS:    24]
+TABLE "www0_woocommerce_shipping_zone_locations"________[ROWS:     0]
+TABLE "www0_woocommerce_shipping_zone_methods"__________[ROWS:     1]
+TABLE "www0_woocommerce_shipping_zones"_________________[ROWS:     1]
+TABLE "www0_woocommerce_tax_rate_locations"_____________[ROWS:     0]
+TABLE "www0_woocommerce_tax_rates"______________________[ROWS:     0]
+TABLE "www0_wpfm_backup"________________________________[ROWS:     0]
+TABLE "www0_wpmailsmtp_debug_events"____________________[ROWS:     6]
+TABLE "www0_wpmailsmtp_tasks_meta"______________________[ROWS:     2]
+TABLE "www0_wpml_mails"_________________________________[ROWS:  1379]
+TABLE "www0_yoast_indexable"____________________________[ROWS:    48]
+TABLE "www0_yoast_indexable_hierarchy"__________________[ROWS:    46]
+TABLE "www0_yoast_migrations"___________________________[ROWS:    24]
+TABLE "www0_yoast_primary_term"_________________________[ROWS:     5]
+TABLE "www0_yoast_seo_links"____________________________[ROWS:    14]
+TABLE "www_commentmeta"_________________________________[ROWS:     0]
+TABLE "www_comments"____________________________________[ROWS:     3]
+TABLE "www_imagify_files"_______________________________[ROWS:     0]
+TABLE "www_imagify_folders"_____________________________[ROWS:     0]
+TABLE "www_links"_______________________________________[ROWS:     0]
+TABLE "www_options"_____________________________________[ROWS:   187]
+TABLE "www_postmeta"____________________________________[ROWS:   225]
+TABLE "www_posts"_______________________________________[ROWS:    57]
+TABLE "www_term_relationships"__________________________[ROWS:     9]
+TABLE "www_term_taxonomy"_______________________________[ROWS:     2]
+TABLE "www_termmeta"____________________________________[ROWS:     0]
+TABLE "www_terms"_______________________________________[ROWS:     2]
+TABLE "www_usermeta"____________________________________[ROWS:    20]
+TABLE "www_users"_______________________________________[ROWS:     1]
+
+INSERT DATA RUNTIME: 129.4498 sec.
+STEP-2 COMPLETE @ 09:59:55 - RUNTIME: 129.4502 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /customers/4/c/4/brevfranissen.no/httpd.www REPLACE: E:/xampp/htdocs/braven/ [SCOPE: ALL]
+SEARCH ITEM[T:path |P:12] SEARCH: /customers/4/c/4/brevfranissen.no/httpd.www REPLACE: E:/xampp/htdocs/braven [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://www.brevfranissen.no REPLACE: http://localhost/braven/ [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://www.brevfranissen.no REPLACE: http://localhost/braven [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 09:59:55
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = 1], [inWpConfig = 1]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 536870912], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [www0_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_ui_view_state","duplicator_package_active","duplicator_settings","duplicator_is_pro_enable_notice_dismissed")
+DATABASE OPTIONS DELETED [ROWS:   236]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "www0_actionscheduler_actions"____________________[ROWS:   890][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_actionscheduler_actions][0]
+
+EVALUATE TABLE: "www0_actionscheduler_claims"_____________________[ROWS:    22][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_actionscheduler_groups"_____________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_actionscheduler_groups][0]
+
+EVALUATE TABLE: "www0_actionscheduler_logs"_______________________[ROWS:  2669][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_actionscheduler_logs][0]
+	CHUNK ACTION: CURRENT [search_replace][www0_actionscheduler_logs][1]
+	CHUNK ACTION: CURRENT [search_replace][www0_actionscheduler_logs][2]
+
+EVALUATE TABLE: "www0_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_comments"___________________________________[ROWS:  1407][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_comments][0]
+	CHUNK ACTION: CURRENT [search_replace][www0_comments][1]
+
+EVALUATE TABLE: "www0_duplicator_packages"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_imagify_files"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_imagify_folders"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_options"____________________________________[ROWS:   736][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_options][0]
+
+EVALUATE TABLE: "www0_postmeta"___________________________________[ROWS: 20411][PG:  21][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][13]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][14]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][15]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][16]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][17]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][18]
+	CHUNK ACTION: CURRENT [search_replace][www0_postmeta][19]
+	
+STEP-3 CHUNK STOP @ 10:00:00 - RUNTIME: 5.2781 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][www0_postmeta][20]
+
+EVALUATE TABLE: "www0_posts"______________________________________[ROWS:   790][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_posts][0]
+
+EVALUATE TABLE: "www0_sgpb_subscribers"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_sgpb_subscription_error_log"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_termmeta"___________________________________[ROWS:    42][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_termmeta][0]
+
+EVALUATE TABLE: "www0_terms"______________________________________[ROWS:    28][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_terms][0]
+
+EVALUATE TABLE: "www0_term_relationships"_________________________[ROWS:    40][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_term_taxonomy"______________________________[ROWS:    28][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_term_taxonomy][0]
+
+EVALUATE TABLE: "www0_usermeta"___________________________________[ROWS:   342][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_usermeta][0]
+
+EVALUATE TABLE: "www0_users"______________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_users][0]
+
+EVALUATE TABLE: "www0_wc_admin_notes"_____________________________[ROWS:   156][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_admin_notes][0]
+
+EVALUATE TABLE: "www0_wc_admin_note_actions"______________________[ROWS:   190][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "www0_wc_category_lookup"_________________________[ROWS:     7][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wc_customer_lookup"_________________________[ROWS:   323][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_customer_lookup][0]
+
+EVALUATE TABLE: "www0_wc_download_log"____________________________[ROWS:    35][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_download_log][0]
+
+EVALUATE TABLE: "www0_wc_order_coupon_lookup"_____________________[ROWS:     3][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wc_order_product_lookup"____________________[ROWS:   506][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wc_order_stats"_____________________________[ROWS:   356][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_order_stats][0]
+
+EVALUATE TABLE: "www0_wc_order_tax_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wc_product_attributes_lookup"_______________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_product_attributes_lookup][0]
+
+EVALUATE TABLE: "www0_wc_product_download_directories"____________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_product_download_directories][0]
+
+EVALUATE TABLE: "www0_wc_product_meta_lookup"_____________________[ROWS:    12][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "www0_wc_rate_limits"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wc_reserved_stock"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wc_tax_rate_classes"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "www0_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wfpklist_template_data"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_woocommerce_api_keys"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_api_keys][0]
+
+EVALUATE TABLE: "www0_woocommerce_attribute_taxonomies"___________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_attribute_taxonomies][0]
+
+EVALUATE TABLE: "www0_woocommerce_downloadable_product_permissions"[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_downloadable_product_permissions][0]
+
+EVALUATE TABLE: "www0_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_woocommerce_order_itemmeta"_________________[ROWS:  6821][PG:   7][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_itemmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_itemmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_itemmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_itemmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_itemmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_itemmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_itemmeta][6]
+
+EVALUATE TABLE: "www0_woocommerce_order_items"____________________[ROWS:   778][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_order_items][0]
+
+EVALUATE TABLE: "www0_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_woocommerce_sessions"_______________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_sessions][0]
+
+EVALUATE TABLE: "www0_woocommerce_shipping_zones"_________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_shipping_zones][0]
+
+EVALUATE TABLE: "www0_woocommerce_shipping_zone_locations"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_woocommerce_shipping_zone_methods"__________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_woocommerce_shipping_zone_methods][0]
+
+EVALUATE TABLE: "www0_woocommerce_tax_rates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wpfm_backup"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_wpmailsmtp_debug_events"____________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wpmailsmtp_debug_events][0]
+
+EVALUATE TABLE: "www0_wpmailsmtp_tasks_meta"______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wpmailsmtp_tasks_meta][0]
+
+EVALUATE TABLE: "www0_wpml_mails"_________________________________[ROWS:  1379][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_wpml_mails][0]
+	CHUNK ACTION: CURRENT [search_replace][www0_wpml_mails][1]
+
+EVALUATE TABLE: "www0_yoast_indexable"____________________________[ROWS:    48][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_yoast_indexable][0]
+
+EVALUATE TABLE: "www0_yoast_indexable_hierarchy"__________________[ROWS:    46][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "www0_yoast_migrations"___________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_yoast_migrations][0]
+
+EVALUATE TABLE: "www0_yoast_primary_term"_________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_yoast_primary_term][0]
+
+EVALUATE TABLE: "www0_yoast_seo_links"____________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www0_yoast_seo_links][0]
+
+EVALUATE TABLE: "www_commentmeta"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www_comments"____________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_comments][0]
+
+EVALUATE TABLE: "www_imagify_files"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www_imagify_folders"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www_links"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www_options"_____________________________________[ROWS:   187][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_options][0]
+
+EVALUATE TABLE: "www_postmeta"____________________________________[ROWS:   225][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_postmeta][0]
+
+EVALUATE TABLE: "www_posts"_______________________________________[ROWS:    57][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_posts][0]
+
+EVALUATE TABLE: "www_termmeta"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "www_terms"_______________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_terms][0]
+
+EVALUATE TABLE: "www_term_relationships"__________________________[ROWS:     9][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "www_term_taxonomy"_______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_term_taxonomy][0]
+
+EVALUATE TABLE: "www_usermeta"____________________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_usermeta][0]
+
+EVALUATE TABLE: "www_users"_______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/customers/4/c/4/brevfranissen.no/httpd.www" =====> "E:/xampp/htdocs/braven"
+	SEARCH[urlnd]  2:"https://www.brevfranissen.no" ====================> "http://localhost/braven"
+	CHUNK ACTION: CURRENT [search_replace][www_users][0]
+--------------------------------------
+SCANNED:	Tables:75 	|	 Rows:38053 	|	 Cells:214638 
+UPDATED:	Tables:11 	|	 Rows:1695 	|	 Cells:1756 
+ERRORS:		0 
+RUNTIME:	9.692000 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:E:/xampp/htdocs/braven/wp-config.php
+New htaccess file created:E:/xampp/htdocs/braven/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "http://localhost/braven/"
+	UPDATE DB_NAME ""braven""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE DISALLOW_FILE_EDIT "true"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+\n SKIP FOLDER PERMISSION AFTER EXTRACTION
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 10:00:05 - RUNTIME: 4.9387 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\src\Core\Bootstrap.php:71] RESET TIME
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - E:/xampp/htdocs/braven/wp-admin/.htaccess- E:/xampp/htdocs/braven/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+====================================
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - E:/xampp/htdocs/braven/wp-admin/.htaccess- E:/xampp/htdocs/braven/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+-----------------------
+[WARNING] Really Simple SSL [as Non-SSL installation] will be deactivated
+	SECTIONS: plugins
+	LONG MSG: The plugin 'Really Simple SSL' has been deactivated because you are migrating from SSL (HTTPS) to Non-SSL (HTTP).If it was not deactivated, you would not be able to login.
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: E:/xampp/htdocs/braven/index.php
+E_DEPRECATED strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[7053]
+	--- TRACE ---
+	FUNCTION: strpos                        FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[7053]
+	FUNCTION: wp_is_stream                  FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[2158]
+	FUNCTION: wp_normalize_path             FILE: E:\xampp\htdocs\braven\wp-includes\link-template.php[3635]
+	FUNCTION: plugins_url                   FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[56]
+	CLASS___: OCVCaching->__construct       FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[1465]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\vcaching.php[1260]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-settings.php[453]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[2165]
+	--- TRACE ---
+	FUNCTION: str_replace                   FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[2165]
+	FUNCTION: wp_normalize_path             FILE: E:\xampp\htdocs\braven\wp-includes\link-template.php[3635]
+	FUNCTION: plugins_url                   FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[56]
+	CLASS___: OCVCaching->__construct       FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[1465]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\vcaching.php[1260]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-settings.php[453]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Constant FILTER_SANITIZE_STRING is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[95]
+	--- TRACE ---
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->is_standaloneFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[53]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->registerFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Plugin.php[198]
+	CLASS___: Google\Site_Kit\Plugin->Google\Site_Kit\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[95]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->is_standaloneFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[53]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->registerFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Plugin.php[198]
+	CLASS___: Google\Site_Kit\Plugin->Google\Site_Kit\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[96]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->is_standaloneFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[53]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->registerFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Plugin.php[198]
+	CLASS___: Google\Site_Kit\Plugin->Google\Site_Kit\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Modules\Site_Verification.php[104]
+	CLASS___: Google\Site_Kit\Modules\Site_Verification->Google\Site_Kit\Modules\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Modules\Site_Verification.php[105]
+	CLASS___: Google\Site_Kit\Modules\Site_Verification->Google\Site_Kit\Modules\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-blog-header.php[13]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\REST_API\REST_Routes.php[104]
+	CLASS___: Google\Site_Kit\Core\REST_API\REST_Routes->Google\Site_Kit\Core\REST_API\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[205]
+	FUNCTION: apply_filters                 FILE: E:\xampp\htdocs\braven\wp-includes\class-wp.php[299]
+	CLASS___: WP->parse_request             FILE: E:\xampp\htdocs\braven\wp-includes\class-wp.php[780]
+	CLASS___: WP->main                      FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[1334]
+	FUNCTION: wp                            FILE: E:\xampp\htdocs\braven\wp-blog-header.php[16]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\REST_API\REST_Routes.php[104]
+	--- TRACE ---
+	FUNCTION: stripos                       FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\REST_API\REST_Routes.php[104]
+	CLASS___: Google\Site_Kit\Core\REST_API\REST_Routes->Google\Site_Kit\Core\REST_API\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[205]
+	FUNCTION: apply_filters                 FILE: E:\xampp\htdocs\braven\wp-includes\class-wp.php[299]
+	CLASS___: WP->parse_request             FILE: E:\xampp\htdocs\braven\wp-includes\class-wp.php[780]
+	CLASS___: WP->main                      FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[1334]
+	FUNCTION: wp                            FILE: E:\xampp\htdocs\braven\wp-blog-header.php[16]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Automatic conversion of false to array is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\src\Admin\DataSourcePoller.php[138]
+	--- TRACE ---
+	CLASS___: Automattic\WooCommerce\Admin\DataSourcePoller->read_specs_from_data_sourcesFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\src\Admin\DataSourcePoller.php[112]
+	CLASS___: Automattic\WooCommerce\Admin\DataSourcePoller->get_specs_from_data_sourcesFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\src\Internal\Admin\WCPayPromotion\Init.php[158]
+	CLASS___: Automattic\WooCommerce\Internal\Admin\WCPayPromotion\Init::get_specsFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\src\Internal\Admin\WCPayPromotion\Init.php[126]
+	CLASS___: Automattic\WooCommerce\Internal\Admin\WCPayPromotion\Init::get_promotionsFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\src\Internal\Admin\WCPayPromotion\Init.php[108]
+	CLASS___: Automattic\WooCommerce\Internal\Admin\WCPayPromotion\Init::get_wc_pay_promotion_specFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\src\Internal\Admin\WCPayPromotion\Init.php[78]
+	CLASS___: Automattic\WooCommerce\Internal\Admin\WCPayPromotion\Init::can_show_promotionFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\src\Internal\Admin\WCPayPromotion\Init.php[55]
+	CLASS___: Automattic\WooCommerce\Internal\Admin\WCPayPromotion\Init::possibly_register_pre_install_wc_pay_promotion_gatewayFILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[205]
+	FUNCTION: apply_filters                 FILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php[88]
+	CLASS___: WC_Payment_Gateways->init     FILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php[70]
+	CLASS___: WC_Payment_Gateways->__constructFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\includes\class-wc-payment-gateways.php[43]
+	CLASS___: WC_Payment_Gateways::instance FILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce\includes\class-woocommerce.php[932]
+	CLASS___: WooCommerce->payment_gateways FILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-intent-controller.php[47]
+	CLASS___: WC_Stripe_Intent_Controller->get_gatewayFILE: E:\xampp\htdocs\braven\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-stripe-intent-controller.php[669]
+	CLASS___: WC_Stripe_Intent_Controller->maybe_process_upe_redirectFILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[565]
+	FUNCTION: do_action_ref_array           FILE: E:\xampp\htdocs\braven\wp-includes\class-wp.php[797]
+	CLASS___: WP->main                      FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[1334]
+	FUNCTION: wp                            FILE: E:\xampp\htdocs\braven\wp-blog-header.php[16]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\index.php[17]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress backend tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: E:/xampp/htdocs/braven//wp-login.php
+E_DEPRECATED strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[7053]
+	--- TRACE ---
+	FUNCTION: strpos                        FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[7053]
+	FUNCTION: wp_is_stream                  FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[2158]
+	FUNCTION: wp_normalize_path             FILE: E:\xampp\htdocs\braven\wp-includes\link-template.php[3635]
+	FUNCTION: plugins_url                   FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[56]
+	CLASS___: OCVCaching->__construct       FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[1465]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\vcaching.php[1260]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-settings.php[453]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\wp-login.php[12]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[2165]
+	--- TRACE ---
+	FUNCTION: str_replace                   FILE: E:\xampp\htdocs\braven\wp-includes\functions.php[2165]
+	FUNCTION: wp_normalize_path             FILE: E:\xampp\htdocs\braven\wp-includes\link-template.php[3635]
+	FUNCTION: plugins_url                   FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[56]
+	CLASS___: OCVCaching->__construct       FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\onecom-addons\onecom-inc.php[1465]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\onecom-vcache\vcaching.php[1260]
+	FUNCTION: include_once                  FILE: E:\xampp\htdocs\braven\wp-settings.php[453]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\wp-login.php[12]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Constant FILTER_SANITIZE_STRING is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[95]
+	--- TRACE ---
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->is_standaloneFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[53]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->registerFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Plugin.php[198]
+	CLASS___: Google\Site_Kit\Plugin->Google\Site_Kit\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\wp-login.php[12]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[95]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->is_standaloneFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[53]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->registerFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Plugin.php[198]
+	CLASS___: Google\Site_Kit\Plugin->Google\Site_Kit\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\wp-login.php[12]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[96]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->is_standaloneFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Admin\Standalone.php[53]
+	CLASS___: Google\Site_Kit\Core\Admin\Standalone->registerFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Plugin.php[198]
+	CLASS___: Google\Site_Kit\Plugin->Google\Site_Kit\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\wp-login.php[12]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Modules\Site_Verification.php[104]
+	CLASS___: Google\Site_Kit\Modules\Site_Verification->Google\Site_Kit\Modules\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\wp-login.php[12]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED filter_input(): Passing null to parameter #4 ($options) of type array|int is deprecated
+	FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	--- TRACE ---
+	FUNCTION: filter_input                  FILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Core\Util\Input.php[64]
+	CLASS___: Google\Site_Kit\Core\Util\Input->filterFILE: E:\xampp\htdocs\braven\wp-content\plugins\google-site-kit\includes\Modules\Site_Verification.php[105]
+	CLASS___: Google\Site_Kit\Modules\Site_Verification->Google\Site_Kit\Modules\{closure}FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: E:\xampp\htdocs\braven\wp-includes\class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: E:\xampp\htdocs\braven\wp-includes\plugin.php[517]
+	FUNCTION: do_action                     FILE: E:\xampp\htdocs\braven\wp-settings.php[623]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-config.php[125]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-load.php[50]
+	FUNCTION: require                       FILE: E:\xampp\htdocs\braven\wp-login.php[12]
+	FUNCTION: require_once                  FILE: E:\xampp\htdocs\braven\wp-content\wp_test_script_e3f943b-09094338.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+====================================
+LOG-TIME[E:\xampp\htdocs\braven\dup-installer\ctrls\ctrl.base.php:227][DELTA:   0.40353]  MESSAGE:END RENDER PAGE

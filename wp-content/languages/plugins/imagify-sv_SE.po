@@ -1,0 +1,2921 @@
+# Translation of Plugins - Imagify – Optimize Images &amp; Convert WebP | Compress Images Easily - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Imagify – Optimize Images &amp; Convert WebP | Compress Images Easily - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-06 01:41:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Imagify – Optimize Images &amp; Convert WebP | Compress Images Easily - Stable (latest release)\n"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:958
+msgid "Unable to release actions from claim id %d."
+msgstr "Det gick inte att frigöra åtgärder från anspråks-ID %d."
+
+#: views/part-bulk-optimization-success.php:47
+msgid "Leave a review"
+msgstr "Lämna en recension"
+
+#: views/part-bulk-optimization-success.php:32
+msgid "How about spreading the word?"
+msgstr "Vad sägs om att sprida ordet?"
+
+#: views/page-settings.php:77
+msgid "Lossless compression"
+msgstr "Förlustfri kompression"
+
+#: views/notice-bulk-optimization-complete.php:15
+msgid "The bulk optimization is now complete."
+msgstr "Massoptimeringen är nu slutförd."
+
+#. translators: %s is the name of the hook to be cancelled.
+#: inc/Dependencies/ActionScheduler/functions.php:219
+msgid "Caught exception while cancelling action: %s"
+msgstr "Ett undantag inträffade när följande åtgärd skulle avbrytas: %s"
+
+#. translators: %d refers to the total number of taskes completed
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:183
+msgid "%d scheduled task completed."
+msgid_plural "%d scheduled tasks completed."
+msgstr[0] "%d schemalagd uppgift slutförd."
+msgstr[1] "%d schemalagda uppgift slutförda."
+
+#. translators: %s refers to the exception error message
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:166
+msgid "There was an error running the action scheduler: %s"
+msgstr "Ett fel inträffade när åtgärdsschemaläggaren kördes: %s"
+
+#. translators: %d refers to the total number of batches executed
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:147
+msgid "%d batch executed."
+msgid_plural "%d batches executed."
+msgstr[0] "%d batch har slutförts."
+msgstr[1] "%d batcher har slutförts."
+
+#. translators: %d refers to how many scheduled taks were found to run
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:130
+msgid "Found %d scheduled task"
+msgid_plural "Found %d scheduled tasks"
+msgstr[0] "Hittade %d schemalagd uppgift"
+msgstr[1] "Hittade %d schemalagda uppgifter"
+
+#. translators: %s refers to the schema name
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:30
+msgid "Registered schema for %s"
+msgstr "Registrerat schema för %s"
+
+#. translators: 1: action ID 2: exception message
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:170
+msgid "Error processing action %1$s: %2$s"
+msgstr "Fel vid bearbetning av åtgärd %1$s: %2$s"
+
+#. translators: 1: action ID 2: hook name
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:155
+msgid "Completed processing action %1$s with hook: %2$s"
+msgstr "Slutförde bearbetningsåtgärd %1$s med åtgärds-hook: %2$s"
+
+#. translators: %s refers to the action ID
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:138
+msgid "Started processing action %s"
+msgstr "Började bearbeta åtgärd %s"
+
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:113
+msgid "The claim has been lost. Aborting current batch."
+msgstr "Kravet har gått förlorat. Avbryter aktuell sats (batch)."
+
+#. translators: %d: amount of actions
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:93
+msgid "Running %d action"
+msgid_plural "Running %d actions"
+msgstr[0] "Kör %d åtgärd"
+msgstr[1] "Kör %d åtgärder"
+
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:61
+msgid "There are too many concurrent batches."
+msgstr "Det finns för många samtidiga satser (batches)."
+
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:59
+msgid "There are too many concurrent batches, but the run is forced to continue."
+msgstr "Det finns för många samtidiga satser (batches), men körningen tvingas fortsätta."
+
+#. translators: %s php class name
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:33
+#: inc/Dependencies/ActionScheduler/classes/WP_CLI/ProgressBar.php:47
+msgid "The %s class can only be run within WP CLI."
+msgstr "Klassen %s kan endast köras under WP CLI."
+
+#. translators: 1: source action ID 2: source store class 3: destination action
+#. ID 4: destination store class
+#: inc/Dependencies/ActionScheduler/classes/migration/Runner.php:107
+msgid "Migrated action with ID %1$d in %2$s to ID %3$d in %4$s"
+msgstr "Migrerade åtgärden med ID %1$d i %2$s till ID %3$d i %4$s"
+
+#. translators: %d: amount of actions
+#: inc/Dependencies/ActionScheduler/classes/migration/Runner.php:82
+msgid "Migrating %d action"
+msgid_plural "Migrating %d actions"
+msgstr[0] "Migrerar %d åtgärd"
+msgstr[1] "Migrerar %d åtgärder"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Controller.php:162
+msgid "Action Scheduler migration in progress. The list of scheduled actions may be incomplete."
+msgstr "Migrering av åtgärdsschemaläggaren pågår. Listan med schemalagda åtgärder kan vara ofullständig."
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:118
+msgid "Destination logger must be configured before running a migration"
+msgstr "Målloggaren måste konfigureras innan du kör en migrering"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:96
+msgid "Destination store must be configured before running a migration"
+msgstr "Mållagret måste konfigureras innan du kör en migrering"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:74
+msgid "Source logger must be configured before running a migration"
+msgstr "Källoggaren måste konfigureras innan du kör en migrering"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/Config.php:52
+msgid "Source store must be configured before running a migration"
+msgstr "Källagret måste konfigureras innan du kör en migrering"
+
+#: inc/Dependencies/ActionScheduler/classes/migration/ActionMigrator.php:95
+msgid "Unable to remove source migrated action %s"
+msgstr "Det går inte att ta bort den migrerade källåtgärden %s"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
+msgid "Action Group"
+msgstr "Åtgärdsgrupp"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:42
+msgid "No actions found in trash"
+msgstr "Inga åtgärder hittades i papperskorgen"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:41
+msgid "No actions found"
+msgstr "Inga åtgärder hittades"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:40
+msgid "Search Scheduled Actions"
+msgstr "Sök schemalagda åtgärder"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:38
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:39
+msgid "View Action"
+msgstr "Visa åtgärd"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:37
+msgid "New Scheduled Action"
+msgstr "Ny schemalagd åtgärd"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:36
+msgid "Edit Scheduled Action"
+msgstr "Redigera schemalagd åtgärd"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:35
+msgid "Edit"
+msgstr "Redigera"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:34
+msgid "Add New Scheduled Action"
+msgstr "Lägg till ny schemalagd åtgärd"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:33
+msgid "Add"
+msgstr "Lägg till"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:32
+msgctxt "Admin menu name"
+msgid "Scheduled Actions"
+msgstr "Schemalagda åtgärder"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:31
+msgid "Scheduled Action"
+msgstr "Schemalagd åtgärd"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:20
+msgid "Scheduled actions are hooks triggered on a cetain date and time."
+msgstr "Schemalagda åtgärder är åtgärds-hookar som utlöses vid ett visst datum och klockslag."
+
+#. translators: %s: count
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:53
+msgid "In-Progress <span class=\"count\">(%s)</span>"
+msgid_plural "In-Progress <span class=\"count\">(%s)</span>"
+msgstr[0] "Pågående <span class=\"count\">(%s)</span>"
+msgstr[1] "Pågående <span class=\"count\">(%s)</span>"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:51
+msgctxt "post"
+msgid "In-Progress"
+msgstr "Pågående"
+
+#. translators: %s: count
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:38
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "Misslyckad <span class=\"count\">(%s)</span>"
+msgstr[1] "Misslyckades <span class=\"count\">(%s)</span>"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostStatusRegistrar.php:36
+msgctxt "post"
+msgid "Failed"
+msgstr "Misslyckades"
+
+#. translators: %s is the error message
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:1055
+msgid "%s Support for strings longer than this will be removed in a future version."
+msgstr "%s Stöd för strängar längre än denna kommer att tas bort i en framtida version."
+
+#. translators: %s: action ID
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:852
+msgid "Unable to unlock claim on action %s. Database error."
+msgstr "Det gick inte att låsa upp anspråk på åtgärd %s. Databasfel."
+
+#. translators: %s: claim ID
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:824
+msgid "Unable to unlock claim %s. Database error."
+msgstr "Det gick inte att låsa upp anspråk %s. Databasfel."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:318
+msgid "Invalid schedule. Cannot save action."
+msgstr "Ogiltigt schema. Kan inte spara åtgärd."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:101
+msgid "Unable to save action."
+msgstr "Kan inte spara åtgärd."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1076
+msgid "Unknown status found for action."
+msgstr "Okänd status hittades för åtgärd."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1074
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:904
+msgid "Invalid action ID. No status found."
+msgstr "Ogiltigt åtgärds-ID. Ingen status hittades."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:864
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:696
+msgid "Unable to claim actions. Database error."
+msgstr "Det gick inte att göra anspråk på åtgärder. Databasfel."
+
+#. translators: %s: group name
+#. translators: %s is the group name
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:844
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:717
+msgid "The group \"%s\" does not exist."
+msgstr "Gruppen ”%s” finns inte."
+
+#. translators: %s: action ID
+#. translators: %s is the action ID
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:632
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:724
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:755
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1001
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:1044
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:515
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:534
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:564
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:974
+msgid "Unidentified action %s"
+msgstr "Oidentifierad åtgärd %s"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:471
+msgid "Unknown partial args matching value."
+msgstr "Okända partiella argument matchar värde."
+
+#. translators: %s: provided value type
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:450
+msgid "The value type for the JSON partial matching is not supported. Must be either integer, boolean, double or string. %s type provided."
+msgstr "Värdetypen för partiell JSON-matchning stöds inte. Värdetypen måste vara antingen heltal, boolesk, dubbel eller sträng. %s-typ tillhandahålls."
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:433
+msgid "JSON partial matching not supported in your environment. Please check your MySQL/MariaDB version."
+msgstr "Partiell JSON-matchning stöds inte i din miljö. Kontrollera din MySQL-/MariaDB-version."
+
+#. translators: %s: error message
+#. translators: %s: action error message
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:118
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore.php:49
+#: inc/Dependencies/ActionScheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+msgid "Error saving action: %s"
+msgstr "Fel när åtgärd skulle sparas: %s"
+
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBStore.php:110
+msgid "Database error."
+msgstr "Databasfel."
+
+#. translators: 1: next cleanup message 2: github issue URL
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_WPCommentCleaner.php:108
+msgid "Action Scheduler has migrated data to custom tables; however, orphaned log entries exist in the WordPress Comments table. %1$s <a href=\"%2$s\">Learn more &raquo;</a>"
+msgstr "Åtgärdsschemaläggaren har migrerat data till anpassade tabeller. Det finns dock övergivna logginlägg i WordPress-kommentarstabell. %1$s <a href=\"%2$s\">Läs mer »</a>"
+
+#. translators: %s: date interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_WPCommentCleaner.php:103
+msgid "This data will be deleted in %s."
+msgstr "Dessa data kommer att tas bort om %s."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:126
+msgid "Newest Scheduled Date"
+msgstr "Nyaste schemalagda datum"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:125
+msgid "Oldest Scheduled Date"
+msgstr "Äldsta schemalagda datum"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:124
+msgid "Count"
+msgstr "Antal"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:122
+msgid "Action Status"
+msgstr "Åtgärdsstatus"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:118
+msgid "Data store:"
+msgstr "Datalagring:"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:114
+msgid "Version:"
+msgstr "Version:"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:111
+msgid "This section shows details of Action Scheduler."
+msgstr "Denna sektion visar information om Åtgärdsschemaläggaren."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_wcSystemStatus.php:111
+msgid "Action Scheduler"
+msgstr "Åtgärdsschemaläggare"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_QueueRunner.php:215
+msgid "Every minute"
+msgstr "Varje minut"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:648
+msgid "Search hook, args and claim ID"
+msgstr "Sök åtgärds-hook, argument och anspråks-ID"
+
+#. translators: %s: date interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:488
+msgid " (%s)"
+msgstr " (%s)"
+
+#. translators: %s: date interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:485
+msgid " (%s ago)"
+msgstr " (%s sedan)"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:471
+msgid "async"
+msgstr "asynkron"
+
+#. translators: 1: action HTML 2: action ID 3: error message
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:435
+msgid "Could not process change for action: \"%1$s\" (ID: %2$d). Error: %3$s"
+msgstr "Det gick inte att behandla ändring för åtgärden: ”%1$s” (ID: %2$d). Fel: %3$s"
+
+#. translators: %s: action HTML
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:429
+msgid "Successfully processed change for action: %s"
+msgstr "Ändringen för åtgärden har bearbetats: %s"
+
+#. translators: %s: action HTML
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:425
+msgid "Successfully canceled action: %s"
+msgstr "Åtgärden avbröts: %s"
+
+#. translators: %s: action HTML
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:421
+msgid "Successfully executed action: %s"
+msgstr "Åtgärden har slutförts: %s"
+
+#. translators: %d: seconds
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:400
+msgid "The next queue will begin processing in approximately %d seconds."
+msgstr "Nästa kö kommer att börja bearbetas om ungefär %d sekunder."
+
+#. translators: %s: process URL
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:397
+msgid "A new queue has begun processing. <a href=\"%s\">View actions in-progress &raquo;</a>"
+msgstr "En ny kö har börjat bearbetas. <a href=\"%s\">Visa pågående åtgärder »</a>"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:364
+msgid "It appears one or more database tables were missing. Attempting to re-create the missing table(s)."
+msgstr "En eller flera databastabeller verkar saknas. Försöker återskapa den eller de saknade tabellerna."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:266
+msgid "Non-repeating"
+msgstr "Utan upprepning"
+
+#. translators: %s: time interval
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:260
+msgid "Every %s"
+msgstr "Var %s"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:224
+msgid "Now!"
+msgstr "Nu!"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:174
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s sekund"
+msgstr[1] "%s sekunder"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:169
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s minut"
+msgstr[1] "%s minuter"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:164
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s timme"
+msgstr[1] "%s timmar"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:159
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s dag"
+msgstr[1] "%s dagar"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:154
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s vecka"
+msgstr[1] "%s veckor"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:149
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s månad"
+msgstr[1] "%s månader"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:144
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s år"
+msgstr[1] "%s år"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:134
+msgid "Cancel the action now to avoid it being run in future"
+msgstr "Avbryt åtgärden nu för att undvika att den körs i framtiden"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:130
+msgid "Process the action now as if it were run as part of a queue"
+msgstr "Bearbeta åtgärden nu som om den kördes som en del av en kö"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:129
+msgid "Run"
+msgstr "Kör"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:122
+msgid "Claim ID"
+msgstr "Anspråks-ID"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:101
+msgid "Scheduled Date"
+msgstr "Schemalagt datum"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:92
+msgid "Delete"
+msgstr "Ta bort"
+
+#. translators: 1: action ID 2: schedule
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_InvalidActionException.php:21
+msgid "Action [%1$s] has an invalid schedule: %2$s"
+msgstr "Åtgärden [%1$s] har ett ogiltigt schema: %2$s"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_DataController.php:137
+msgid "Attempting to reduce used memory..."
+msgstr "Försöker minska mängden använt minne …"
+
+#. translators: %d: amount of time
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_DataController.php:133
+msgid "Stopped the insanity for %d second"
+msgid_plural "Stopped the insanity for %d seconds"
+msgstr[0] "Stoppade galenskapen i %d sekund"
+msgstr[1] "Stoppade galenskaperna i %d sekunder"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:247
+msgid "Activity log for the action."
+msgstr "Aktivitetslogg för åtgärden."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:247
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:102
+msgid "Log"
+msgstr "Logg"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:246
+msgid "The date/time the action is/was scheduled to run."
+msgstr "Datum/tid då åtgärden är/var schemalagd att köras."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:246
+msgid "Scheduled"
+msgstr "Schemalagt"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:245
+msgid "The action's schedule frequency."
+msgstr "Åtgärdens schemafrekvens."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:245
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:100
+msgid "Recurrence"
+msgstr "Upprepning"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:244
+msgid "Optional action group."
+msgstr "Valfri åtgärdsgrupp."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:244
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:99
+msgid "Group"
+msgstr "Grupp"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:243
+msgid "Optional data array passed to the action hook."
+msgstr "En valfri data-array skickades till åtgärds-hooken."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:243
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:98
+msgid "Arguments"
+msgstr "Argument"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:242
+msgid "Action statuses are Pending, Complete, Canceled, Failed"
+msgstr "Åtgärdsstatusarna är Väntande, Slutförd, Avbruten, Misslyckades"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:241
+msgid "Name of the action hook that will be triggered."
+msgstr "Namn på den åtgärdshook som ska utlösas."
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:241
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:96
+msgid "Hook"
+msgstr "Åtgärds-hook"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:239
+msgid "Scheduled Action Columns"
+msgstr "Schemalagda åtgärdskolumner"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:237
+msgid "Columns"
+msgstr "Kolumner"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:227
+msgid "About Action Scheduler %s"
+msgstr "Om Åtgärdsschemaläggaren %s"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:225
+msgid "About"
+msgstr "Om"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:60
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:75
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:76
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:89
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:19
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_wpPostStore_PostTypeRegistrar.php:30
+msgid "Scheduled Actions"
+msgstr "Schemalagda åtgärder"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ActionFactory.php:226
+msgid "Invalid action - must be a recurring action."
+msgstr "Ogiltig åtgärd – måste vara en återkommande åtgärd."
+
+#. translators: 1: action hook.
+#: inc/Dependencies/ActionScheduler/classes/actions/ActionScheduler_Action.php:37
+msgid "Scheduled action for %1$s will not be executed as no callbacks are registered."
+msgstr "Den schemalagda åtgärden för %1$s kommer inte att utföras eftersom inga återanrop har registrerats."
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:409
+msgid "Canceled"
+msgstr "Avbruten"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:408
+msgid "Failed"
+msgstr "Misslyckades"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:407
+msgid "In-progress"
+msgstr "Pågående"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:406
+msgid "Pending"
+msgstr "Väntande"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:405
+msgid "Complete"
+msgstr "Slutförd"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Store.php:329
+msgid "ActionScheduler_Action::$args too long. To ensure the args column can be indexed, action args should not be more than %d characters when encoded as JSON."
+msgstr "ActionScheduler_Action::$args är för långt. För att kolumnen args ska kunna indexeras får åtgärdsargumenten inte vara längre än %d tecken när de kodade som JSON."
+
+#. translators: %s: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:156
+msgid "There was a failure scheduling the next instance of this action: %s"
+msgstr "Det uppstod ett fel med att schemalägga nästa instans av denna åtgärd: %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:148
+msgid "There was a failure fetching this action"
+msgstr "Det gick inte att hämta denna åtgärd"
+
+#. translators: %s: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:146
+msgid "There was a failure fetching this action: %s"
+msgstr "Ett fel inträffade när denna åtgärd skulle hämtas: %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:131
+msgid "action ignored"
+msgstr "åtgärd ignorerad"
+
+#. translators: %s: context
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:129
+msgid "action ignored via %s"
+msgstr "åtgärd ignorerad via %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:123
+msgid "action reset"
+msgstr "åtgärd återställd"
+
+#. translators: 1: error message 2: filename 3: line
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:118
+msgid "unexpected shutdown: PHP Fatal error %1$s in %2$s on line %3$s"
+msgstr "oväntad avstängning: Allvarligt PHP-fel %1$s i %2$s på rad %3$s"
+
+#. translators: %s: amount of time
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:112
+msgid "action marked as failed after %s seconds. Unknown error occurred. Check server, PHP and database error logs to diagnose cause."
+msgstr "markerades som misslyckat efter %s sekunder. Ett okänt fel har uppstått. Kontrollera server-, PHP- och databasfelloggarna för att hitta orsaken."
+
+#. translators: %s: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:105
+msgid "action failed: %s"
+msgstr "åtgärd misslyckades: %s"
+
+#. translators: 1: context 2: exception message
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:102
+msgid "action failed via %1$s: %2$s"
+msgstr "åtgärd misslyckades via %1$s: %2$s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:94
+msgid "action complete"
+msgstr "åtgärd slutförd"
+
+#. translators: %s: context
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:92
+msgid "action complete via %s"
+msgstr "åtgärd slutförd via %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:84
+msgid "action started"
+msgstr "åtgärd startad"
+
+#. translators: %s: context
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:82
+msgid "action started via %s"
+msgstr "åtgärd startades via %s"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:76
+#: inc/Dependencies/ActionScheduler/classes/data-stores/ActionScheduler_DBLogger.php:142
+msgid "action canceled"
+msgstr "åtgärd avbruten"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Logger.php:72
+msgid "action created"
+msgstr "åtgärd skapad"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:96
+msgid "This action appears to be consistently failing. A new instance will not be scheduled."
+msgstr "Denna åtgärd verkar misslyckas konsekvent. En ny instans kommer inte att schemaläggas."
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:755
+msgid "Search"
+msgstr "Sök"
+
+#. translators: %s: search query
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:650
+msgid "Search results for \"%s\""
+msgstr "Sökresultat för ”%s”"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:523
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/Dependencies/ActionScheduler/classes/abstracts/ActionScheduler.php:195
+msgid "%s() was called before the Action Scheduler data store was initialized"
+msgstr "%s() anropades innan Action Scheduler-datahantering hade påbörjats"
+
+#. Author of the plugin
+msgid "Imagify – Optimize Images & Convert WebP"
+msgstr "Imagify – Optimize Images & Convert WebP"
+
+#. translators: %s is an optimization level.
+#: views/button/re-optimize.php:36
+msgid "Re-Optimize with %s compression"
+msgstr "Optimera om med %s-komprimering"
+
+#: inc/functions/common.php:385 views/button/re-optimize.php:21
+msgid "Lossless"
+msgstr "Förlustfri"
+
+#: inc/functions/common.php:383 views/button/re-optimize.php:22
+#: views/button/re-optimize.php:23
+msgid "Smart"
+msgstr "Smart"
+
+#: inc/functions/i18n.php:148
+msgid "This coupon is not valid with this plan."
+msgstr "Denna rabattkod är inte giltig med detta paket."
+
+#: inc/classes/class-imagify-settings.php:401
+msgid "Please consider writing more inclusive code."
+msgstr "Överväg att skriva mer inkluderande kod."
+
+#: inc/functions/api.php:202
+msgid "Our server returned an invalid response."
+msgstr "Vår server returnerade ett ogiltigt svar."
+
+#: views/part-settings-library.php:53
+msgid "Resizing is done only during optimization."
+msgstr "Storleksändring görs endast under optimering."
+
+#: views/part-settings-library.php:51
+msgid "Resizing is done on upload or during optimization."
+msgstr "Storleksändring görs vid uppladdning eller under optimering."
+
+#: classes/Optimization/File.php:192
+msgid "No threshold provided for resizing."
+msgstr "Inget tröskelvärde angett för storleksändring."
+
+#. Author URI of the plugin
+msgid "https://imagify.io"
+msgstr "https://imagify.io"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:229
+msgid "This media does not have the right optimization status."
+msgstr "Detta media har inte rätt optimeringsstatus."
+
+#: views/button/delete-webp.php:25
+msgid "Delete WebP images"
+msgstr "Ta bort WebP-bilder"
+
+#: views/button/delete-webp.php:17
+msgid "Deleting..."
+msgstr "Tar bort …"
+
+#. translators: %s is a file path.
+#: classes/Optimization/Process/AbstractProcess.php:1475
+msgid "The file %s could not be deleted."
+msgstr "Filen %s kunde inte tas bort."
+
+#: classes/Optimization/Process/AbstractProcess.php:1439
+msgid "Could not get the path to the WebP file."
+msgstr "Kunde inte få sökvägen till WebP-filen."
+
+#: classes/Optimization/Process/AbstractProcess.php:1432
+msgid "Path to non-WebP file not provided."
+msgstr "Sökvägen till icke-WebP-filen har inte angetts."
+
+#. translators: %s is a formatted number, don’t use %d.
+#: classes/Optimization/Process/AbstractProcess.php:1411
+msgid "%s file could not be deleted."
+msgid_plural "%s files could not be deleted."
+msgstr[0] "%s fil kunde inte tas bort."
+msgstr[1] "%s filer kunde inte tas bort."
+
+#: classes/Optimization/Process/AbstractProcess.php:265
+#: inc/classes/class-imagify-admin-ajax-post.php:240
+msgid "Previous WebP files could not be deleted."
+msgstr "Föregående WebP-filer kunde inte tas bort."
+
+#: inc/functions/i18n.php:117
+msgid "Because the selected images did not have a backup copy, Imagify was unable to create WebP versions."
+msgstr "Eftersom de valda bilderna inte hade en säkerhetskopia kunde Imagify inte skapa WebP-versioner."
+
+#: classes/Bulk/Bulk.php:247
+msgid "The path to the selected files could not be retrieved."
+msgstr "Sökvägen till de valda filerna kunde inte hämtas."
+
+#: classes/Optimization/Process/AbstractProcess.php:623
+msgid "This file is an animated gif: since Imagify does not support animated WebP, WebP creation for animated gif is disabled."
+msgstr "Denna fil är en animerad GIF: eftersom Imagify inte stöder animerad WebP, är skapandet av WebP för animerade GIF inaktiverat."
+
+#: views/part-settings-webp.php:85
+msgid "https://cdn.example.com"
+msgstr "https://cdn.example.com"
+
+#: views/part-settings-webp.php:82
+msgid "If you use a CDN, specify the URL:"
+msgstr "Om du använder en CDN, ange URL:en:"
+
+#. translators: %s is an URL.
+#: views/part-settings-webp.php:70
+msgid "Your CDN URL is set to %1$s by filter."
+msgstr "Din CDN-URL är inställd till %1$s av filter."
+
+#. translators: 1 is an URL, 2 is a plugin name.
+#: views/part-settings-webp.php:63
+msgid "Your CDN URL is set to %1$s by %2$s."
+msgstr "Din CDN-URL är inställd till %1$s av %2$s."
+
+#. translators: %s is the plugin name.
+#: inc/classes/class-imagify-requirements-check.php:328
+#: inc/classes/class-imagify-requirements-check.php:339
+msgid "%s Update Rollback"
+msgstr "Återställning av uppdatering av %s"
+
+#. translators: %s = Previous plugin version.
+#: inc/classes/class-imagify-requirements-check.php:270
+msgid "Re-install version %s"
+msgstr "Installera om version %s"
+
+#. translators: %1$s = Plugin name, %2$s = WordPress version required.
+#: inc/classes/class-imagify-requirements-check.php:258
+msgid "To use this %1$s version, please upgrade WordPress to version %2$s or higher."
+msgstr "För att använda denna %1$s-version, uppgradera WordPress till version %2$s eller högre."
+
+#. translators: %1$s = Plugin name, %2$s = PHP version required.
+#: inc/classes/class-imagify-requirements-check.php:252
+msgid "To use this %1$s version, please ask your web host how to upgrade your server to PHP %2$s or higher."
+msgstr "För att använda denna %1$s-version, fråga ditt webbhotell hur du kan uppgradera din server till PHP %2$s eller högre."
+
+#: inc/functions/i18n.php:116 inc/functions/i18n.php:265
+msgid "All your optimized images already have a WebP version. Congratulations!"
+msgstr "Alla dina optimerade bilder har redan en WebP-version. Grattis!"
+
+#. translators: %s is an error message.
+#: inc/functions/api.php:240
+msgid "Our server returned an error (%s)."
+msgstr "Vår server returnerade ett fel (%s)."
+
+#: inc/admin/meta-boxes.php:59 inc/functions/admin-ui.php:481
+msgid "Processing..."
+msgstr "Bearbetar …"
+
+#: inc/classes/class-imagify-files-list-table.php:631
+#: inc/functions/admin-ui.php:93
+msgid "WebP generated:"
+msgstr "Genererade WebP:"
+
+#: inc/classes/class-imagify-files-list-table.php:628
+#: inc/functions/admin-ui.php:92
+msgid "No"
+msgstr "Nej"
+
+#: inc/classes/class-imagify-files-list-table.php:628
+#: inc/functions/admin-ui.php:92
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:210
+msgid "File(s) could not be removed from the CDN."
+msgstr "Fil/filer kunde inte tas bort från CDN."
+
+#. translators: %s is a list of file paths.
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:147
+msgid "The following file could not be retrieved from the CDN: %s."
+msgid_plural "The following files could not be retrieved from the CDN: %s."
+msgstr[0] "Följande fil kunde inte hämtas från CDN: %s."
+msgstr[1] "Följande filer kunde inte hämtas från CDN: %s."
+
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:115
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:179
+msgid "This media could not be found on the CDN."
+msgstr "Detta media kunde inte hittas på CDN."
+
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:108
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:172
+#: inc/3rd-party/amazon-s3-and-cloudfront/classes/CDN/WP/AS3.php:230
+msgid "CDN is not set up."
+msgstr "CDN är inte inställt."
+
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:348
+msgid "Related NextGen Gallery data could not be saved."
+msgstr "Relaterade NextGen Gallery-data kunde inte sparas."
+
+#: views/button/generate-webp.php:26
+msgid "Generate WebP versions"
+msgstr "Generera WebP-versioner"
+
+#: views/button/generate-webp.php:17
+msgid "Generating..."
+msgstr "Genererar …"
+
+#: views/input/selector.php:13
+msgid "Current value:"
+msgstr "Nuvarande värde:"
+
+#: views/part-settings-webp.php:142
+msgid "Generate missing WebP versions"
+msgstr "Generera saknade WebP-versioner"
+
+#: views/part-settings-webp.php:38
+msgid "Use rewrite rules"
+msgstr "Använd omskrivningsregler"
+
+#: views/part-settings-webp.php:29
+msgid "Display images in WebP format on the site"
+msgstr "Visa bilder i WebP-format på webbplatsen"
+
+#: views/part-settings-webp.php:18
+msgid "Create WebP versions of images"
+msgstr "Skapa WebP-versioner av bilder"
+
+#: views/part-settings-webp.php:12
+msgid "WebP format"
+msgstr "WebP-format"
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:353
+msgid "Could not write into the %s file."
+msgstr "Kunde inte skriva i filen %s."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:195
+#: classes/WriteFile/AbstractWriteDirConfFile.php:320
+msgid "The %s file could not be read."
+msgstr "Filen %s kunde inte läsas."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:157
+#: classes/WriteFile/AbstractWriteDirConfFile.php:209
+msgid "The %s file is not writable."
+msgstr "Filen %s är inte skrivbar."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:146
+#: classes/WriteFile/AbstractWriteDirConfFile.php:199
+msgid "The %s file could not be created."
+msgstr "Filen %s kunde inte skapas."
+
+#. translators: %s is a file name.
+#: classes/WriteFile/AbstractIISDirConfFile.php:133
+#: classes/WriteFile/AbstractWriteDirConfFile.php:189
+msgid "%s’s parent folder is not writable."
+msgstr "Överordnad mapp för %s är inte skrivbar."
+
+#. translators: 1 is a file name, 2 is an error message.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:118
+msgid "Imagify could not remove contents from the %1$s file: %2$s"
+msgstr "Imagify kunde inte ta bort innehållet från filen %1$s: %2$s"
+
+#. translators: 1 is a file name, 2 is an error message.
+#: classes/WriteFile/AbstractWriteDirConfFile.php:77
+msgid "Imagify could not insert contents into the %1$s file: %2$s"
+msgstr "Imagify kunde inte infoga innehåll i filen %1$s: %2$s"
+
+#. translators: %s is a file name.
+#: classes/Webp/RewriteRules/Display.php:132
+msgid "If you choose to use rewrite rules, you will have to add the following lines manually to the %s file:"
+msgstr "Om du väljer att använda omskrivningsregler måste du lägga till följande rader manuellt till filen %s:"
+
+#. translators: %s is a file name.
+#: classes/Webp/Display.php:115
+msgid "Imagify does not seem to be able to edit or create a %s file, you will have to add the following lines manually to it:"
+msgstr "Imagify verkar inte kunna redigera eller skapa en %s-fil, du måste lägga till följande rader manuellt till den:"
+
+#: classes/Optimization/Process/AbstractProcess.php:1354
+msgid "This media does not have files that can be converted to WebP format."
+msgstr "Detta media har inte filer som kan konverteras till WebP-format."
+
+#: classes/Optimization/Process/AbstractProcess.php:1338
+msgid "This media already has WebP versions."
+msgstr "Detta media har redan WebP-versioner."
+
+#: classes/Optimization/Process/AbstractProcess.php:1334
+msgid "This media has not been optimized by Imagify yet."
+msgstr "Detta media har inte optimerats av Imagify än."
+
+#: classes/Optimization/Process/AbstractProcess.php:1324
+msgid "This media is not an image and cannot be converted to WebP format."
+msgstr "Detta media är inte en bild och kan inte konverteras till WebP-format."
+
+#: classes/Optimization/Process/AbstractProcess.php:1243
+msgid "The image could not be replaced by the resized one."
+msgstr "Bilden kunde inte ersättas av den ändrade storleken."
+
+#. translators: %s is an error message.
+#: classes/Optimization/Process/AbstractProcess.php:1227
+msgid "Backup failed: %s"
+msgstr "Säkerhetskopiering misslyckades: %s"
+
+#: classes/Optimization/Process/AbstractProcess.php:1186
+msgid "Imagify could not get the image dimensions."
+msgstr "Imagify kunde inte få bilddimensionerna."
+
+#. translators: %s is an error message.
+#: classes/Optimization/Process/AbstractProcess.php:1185
+#: classes/Optimization/Process/AbstractProcess.php:1211
+msgid "Resizing failed: %s"
+msgstr "Storleksändring misslyckades: %s"
+
+#: classes/Optimization/Process/AbstractProcess.php:876
+msgid "The backup file could not be copied over the optimized one."
+msgstr "Säkerhetskopieringsfilen kunde inte kopieras över den optimerade."
+
+#: classes/Optimization/Process/AbstractProcess.php:824
+#: classes/Optimization/Process/AbstractProcess.php:1328
+msgid "This media has no backup file."
+msgstr "Mediafilen saknar fil för säkerhetskopia."
+
+#: classes/Optimization/Process/AbstractProcess.php:574
+msgid "This file is not an image and cannot be converted to WebP format."
+msgstr "Denna fil är inte en bild och kan inte konverteras till WebP-format."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:519
+msgid "Could not create an unoptimized copy of the size %s."
+msgstr "Kunde inte skapa en ooptimerad kopia av storleken %s."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:495
+msgid "The size %s is already optimized by Imagify."
+msgstr "Storleken %s är redan optimerad av Imagify."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:486
+msgid "The WebP format for the size %s already exists."
+msgstr "WebP-formatet för storleken %s finns redan."
+
+#. translators: %s is a size name.
+#: classes/Optimization/Process/AbstractProcess.php:473
+msgid "The size %s is unknown."
+msgstr "Storleken %s är okänd."
+
+#: classes/Optimization/Process/AbstractProcess.php:349
+msgid "No sizes given to be optimized."
+msgstr "Inga storlekar angivna för att optimeras."
+
+#: classes/Optimization/Process/AbstractProcess.php:307
+msgid "This media is already optimized with this level."
+msgstr "Detta media är redan optimerat med denna nivå."
+
+#: classes/Optimization/Process/AbstractProcess.php:301
+msgid "This media has not been processed yet."
+msgstr "Detta media har inte bearbetats än."
+
+#: classes/Optimization/Process/AbstractProcess.php:256
+msgid "This media has already been optimized by Imagify."
+msgstr "Detta media har redan optimerats av Imagify."
+
+#: classes/Optimization/Process/WP.php:161
+msgid "The thumbnails failed to be created."
+msgstr "Miniatyrerna kunde inte skapas."
+
+#: classes/Optimization/Process/AbstractProcess.php:354
+#: classes/Optimization/Process/AbstractProcess.php:828
+#: classes/Optimization/Process/WP.php:151
+msgid "This media is already being processed."
+msgstr "Detta media bearbetas redan."
+
+#: classes/Optimization/Process/CustomFolders.php:101
+#: classes/Optimization/Process/WP.php:143
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:86
+msgid "No thumbnails seem to be missing."
+msgstr "Inga miniatyrer verkar vara saknade."
+
+#: classes/Optimization/Process/AbstractProcess.php:1381
+#: classes/Optimization/Process/CustomFolders.php:76
+#: classes/Optimization/Process/WP.php:69
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:61
+msgid "This media is not an image."
+msgstr "Detta media är inte en bild."
+
+#: classes/Optimization/Process/CustomFolders.php:68
+#: classes/Optimization/Process/WP.php:61
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:53
+msgid "This media is not optimized yet."
+msgstr "Detta media är inte optimerat ännu."
+
+#: classes/Optimization/File.php:391
+msgid "Error while retrieving the backups directory path."
+msgstr "Fel vid hämtning av sökvägen till katalogen för säkerhetskopiorna."
+
+#: classes/Optimization/File.php:365 classes/Optimization/File.php:545
+msgid "The file could not be moved to its final destination."
+msgstr "Filen kunde inte flyttas till sin slutdestination."
+
+#: classes/Optimization/File.php:341
+msgid "The thumbnail could not be created."
+msgstr "Miniatyren kunde inte skapas."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:201 classes/Optimization/File.php:325
+msgid "The file %s does not seem to be an image, and cannot be resized."
+msgstr "Filen %s verkar inte vara en bild och kan inte storleksändras."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:152
+msgid "The folder %s does not seem to be writable."
+msgstr "Mappen %s verkar inte vara skrivbar."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:139
+#: classes/Optimization/Process/AbstractProcess.php:630
+#: classes/Optimization/Process/AbstractProcess.php:1451
+msgid "The file %s does not seem to be writable."
+msgstr "Filen %s verkar inte vara skrivbar."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:128
+#: classes/Optimization/Process/AbstractProcess.php:1462
+msgid "This does not seem to be a file: %s."
+msgstr "Detta verkar inte vara en fil: %s."
+
+#. translators: %s is a file path.
+#: classes/Optimization/File.php:117
+#: classes/Optimization/Process/AbstractProcess.php:616
+msgid "The file %s does not seem to exist."
+msgstr "Filen %s verkar inte finnas."
+
+#: classes/Media/CustomFolders.php:235 classes/Media/Noop.php:242
+#: classes/Media/WP.php:210
+#: classes/Optimization/Process/AbstractProcess.php:244
+#: classes/Optimization/Process/AbstractProcess.php:289
+#: classes/Optimization/Process/AbstractProcess.php:339
+#: classes/Optimization/Process/AbstractProcess.php:452
+#: classes/Optimization/Process/AbstractProcess.php:814
+#: classes/Optimization/Process/AbstractProcess.php:1318
+#: classes/Optimization/Process/AbstractProcess.php:1375
+#: classes/Optimization/Process/CustomFolders.php:56
+#: classes/Optimization/Process/CustomFolders.php:94
+#: classes/Optimization/Process/Noop.php:139
+#: classes/Optimization/Process/Noop.php:153
+#: classes/Optimization/Process/Noop.php:168
+#: classes/Optimization/Process/Noop.php:183
+#: classes/Optimization/Process/Noop.php:196
+#: classes/Optimization/Process/Noop.php:239
+#: classes/Optimization/Process/Noop.php:299
+#: classes/Optimization/Process/WP.php:49
+#: classes/Optimization/Process/WP.php:133
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:277
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:41
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:79
+#: inc/classes/class-imagify-admin-ajax-post.php:223
+#: inc/classes/class-imagify-custom-folders.php:295
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:212
+#: inc/functions/admin-ui.php:438
+msgid "This media is not valid."
+msgstr "Detta media är inte giltigt."
+
+#. translators: %s is a formatted price.
+#: views/modal-payment.php:131 views/modal-payment.php:290
+msgid "%s per<br>additional Gb"
+msgstr "%s för<br>ytterligare GB"
+
+#: views/modal-payment.php:71
+msgid "Based on your recent upload usage."
+msgstr "Baserat på din senaste uppladdningsanvändning."
+
+#: views/modal-payment.php:69
+msgid "Our recommendation for you"
+msgstr "Vår rekommendation till dig"
+
+#. translators: %s is a "More info?" link.
+#: inc/deprecated/deprecated.php:628 inc/functions/i18n.php:108
+#: inc/functions/i18n.php:253
+msgid "No php extensions are available to edit images on the server. ImageMagick or GD is required. %s"
+msgstr "Inga PHP-tillägg är tillgängliga för att redigera bilder på servern. ImageMagick eller GD krävs. %s"
+
+#. translators: %s is an error message.
+#: inc/functions/api.php:234
+msgid "An error occurred (%s)."
+msgstr "Ett fel uppstod (%s)."
+
+#: views/page-settings.php:155
+msgid "Display Partner Links"
+msgstr "Visa partnerlänkar"
+
+#: views/page-settings.php:143
+msgid "Partners"
+msgstr "Partners"
+
+#. translators: %s is a file size.
+#: views/page-bulk.php:200
+msgid "All images greater than %s (after resizing, if any) will be optimized when using a paid plan."
+msgstr "Alla bilder större än %s (efter storleksändring, om det finns) kommer att optimeras när du använder ett betalt paket.."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:756
+msgid "No optimizable files"
+msgstr "Inga optimerbara filer"
+
+#. translators: 1 is this plugin name, 2 is the required WP version, 3 is the
+#. current WP version.
+#: inc/deprecated/deprecated.php:354
+msgid "%1$s requires WordPress %2$s minimum, your website is actually running version %3$s."
+msgstr "%1$s kräver minimum WordPress %2$s din webbplats kör faktiskt version %3$s."
+
+#: inc/deprecated/deprecated.php:352
+msgid "Notice:"
+msgstr "Obs:"
+
+#: views/part-settings-custom-folders.php:175
+msgid "Folders that are hidden in the folder selector window are excluded and will not be optimized even if a parent folder is selected."
+msgstr "Mappar som är dolda i mappväljarfönstret är exkluderade och kommer inte att optimeras även om en överordnad mapp är vald."
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/functions/i18n.php:281
+msgid "%s Media File(s) Optimized"
+msgstr "%s mediefil/filer optimerad"
+
+#: inc/functions/i18n.php:195
+msgid "Optimized File"
+msgstr "Optimerad fil"
+
+#: inc/functions/i18n.php:194
+msgid "Original File"
+msgstr "Originalfil"
+
+#. translators: %s is a formatted number, dont use %d.
+#: classes/Bulk/AbstractBulk.php:68 inc/deprecated/deprecated.php:1108
+msgid "%s Media File Optimized"
+msgid_plural "%s Media Files Optimized"
+msgstr[0] "%s mediefil optimerad"
+msgstr[1] "%s mediefiler optimerade"
+
+#: inc/classes/Dependencies/deliciousbrains/wp-background-processing/classes/wp-background-process.php:425
+msgid "Every %d Minutes"
+msgstr "Var %d:e minut"
+
+#: inc/classes/class-imagify-views.php:279
+msgid "Optimize your media files"
+msgstr "Optimera dina mediefiler"
+
+#: inc/classes/class-imagify-files-list-table.php:658
+msgctxt "Media File"
+msgid "Not optimized"
+msgstr "Inte optimerad"
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/classes/class-imagify-admin-ajax-post.php:752
+msgid "%s Media File"
+msgid_plural "%s Media Files"
+msgstr[0] "%s mediefil"
+msgstr[1] "%s mediefiler"
+
+#: inc/admin/upload.php:66 inc/classes/class-imagify-files-list-table.php:365
+msgid "All Media Files"
+msgstr "Alla mediefiler"
+
+#: inc/admin/upload.php:61 inc/classes/class-imagify-files-list-table.php:368
+msgctxt "Media Files"
+msgid "Errors"
+msgstr "Fel"
+
+#: inc/admin/upload.php:60 inc/classes/class-imagify-files-list-table.php:367
+msgctxt "Media Files"
+msgid "Unoptimized"
+msgstr "Ooptimerad"
+
+#: inc/admin/upload.php:59 inc/classes/class-imagify-files-list-table.php:366
+msgctxt "Media Files"
+msgid "Optimized"
+msgstr "Optimerad"
+
+#: classes/Optimization/Process/AbstractProcess.php:250
+#: classes/Optimization/Process/AbstractProcess.php:295
+#: classes/Optimization/Process/AbstractProcess.php:345
+#: classes/Optimization/Process/AbstractProcess.php:820
+#: classes/Optimization/Process/CustomFolders.php:62
+#: classes/Optimization/Process/CustomFolders.php:98
+#: classes/Optimization/Process/WP.php:55
+#: classes/Optimization/Process/WP.php:137
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:47
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:83
+#: inc/functions/admin-ui.php:449
+msgid "This media is not supported."
+msgstr "Detta media stöds inte."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1334
+#: inc/functions/i18n.php:113 inc/functions/i18n.php:258
+msgid "Your API key is not valid!"
+msgstr "Din API-nyckel är inte giltig!"
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:277
+#: inc/deprecated/classes/class-imagify-attachment.php:488
+#: inc/deprecated/classes/class-imagify-attachment.php:719
+msgid "This size is not authorized to be optimized. Update your Imagify settings if you want to optimize it."
+msgstr "Denna storlek är inte godkänd att optimeras. Uppdatera dina Imagify-inställningar om du vill optimera det."
+
+#: inc/deprecated/classes/class-imagify-regenerate-thumbnails-deprecated.php:53
+msgid "No thumbnail sizes selected"
+msgstr "Inga miniatyrstorlekar valda"
+
+#: views/part-settings-files-tree-row.php:49
+msgctxt "checkbox label"
+msgid "Add Folder"
+msgstr "Lägg till mapp"
+
+#: views/part-settings-files-tree-row.php:47
+msgid "Folder Added"
+msgstr "Mapp tillagd"
+
+#. translators: %s is a folder path.
+#: views/part-settings-files-tree-row.php:39
+msgid "Select the folder \"%s\"."
+msgstr "Välj mappen ”%s”."
+
+#. translators: %s is a folder path.
+#: views/part-settings-files-tree-row.php:17
+msgid "Open/Close the folder \"%s\"."
+msgstr "Öppna/stäng mappen ”%s”."
+
+#. translators: %s is a folder path.
+#: views/part-settings-files-tree-row.php:14
+#: views/part-settings-files-tree-row.php:36
+msgid "The folder \"%s\" is already selected."
+msgstr "Mappen ”%s” är redan vald."
+
+#: views/part-settings-custom-folders.php:178
+msgid "You changed your custom folder settings, don't forget to save your changes!"
+msgstr "Du har ändrat dina anpassade mappinställningar, glöm inte att spara dina ändringar!"
+
+#: views/part-settings-custom-folders.php:146
+msgid "Add folders"
+msgstr "Lägg till mappar"
+
+#: views/part-settings-custom-folders.php:140
+msgid "Select folders for optimization."
+msgstr "Välj mappar för optimering."
+
+#: views/part-settings-custom-folders.php:130
+msgid "Add the theme to optimization"
+msgid_plural "Add the themes to optimization"
+msgstr[0] "Lägg till temat för optimering"
+msgstr[1] "Lägg till teman för optimering"
+
+#: views/part-settings-custom-folders.php:123
+msgid "Would you like to optimize your theme?"
+msgid_plural "Would you like to optimize your themes?"
+msgstr[0] "Vill du optimera ditt tema?"
+msgstr[1] "Vill du optimera dina teman?"
+
+#. translators: %s is a theme name.
+#: views/part-settings-custom-folders.php:114
+msgid "Add %s to optimization"
+msgstr "Lägg till %s till optimering"
+
+#: views/part-settings-custom-folders.php:106
+msgid "Only one of your current themes is in the optimization process, would you like to also optimize the other one?"
+msgstr "Bara en av dina nuvarande teman är i optimeringsprocessen, vill du optimera den andra också?"
+
+#: views/part-settings-custom-folders.php:100
+msgid "Your theme is already in the optimization process. All Good!"
+msgid_plural "Your themes are already in the optimization process. All Good!"
+msgstr[0] "Ditt tema är redan i optimeringsprocessen. Allt bra!"
+msgstr[1] "Dina teman är redan i optimeringsprocessen. Allt bra!"
+
+#. translators: %s is a theme name.
+#: views/part-settings-custom-folders.php:90
+msgid "child theme of %s"
+msgstr "barntema av %s"
+
+#. translators: %s is a theme name.
+#: views/part-settings-custom-folders.php:84
+msgid "You’re using %s"
+msgstr "Du använder %s"
+
+#: views/part-settings-custom-folders.php:71
+msgid "Custom Folders"
+msgstr "Anpassade mappar"
+
+#: views/part-settings-account.php:104
+msgid "Enter Your API Key Below"
+msgstr "Ange din API-nyckel nedan"
+
+#: views/part-settings-account.php:98
+msgid "Create a Free API Key"
+msgstr "Skapa en gratis API-nyckel"
+
+#: views/part-settings-account.php:96
+msgid "Don't have an API Key yet?"
+msgstr "Har du inte en API-nyckel än?"
+
+#: views/part-settings-account.php:83
+msgid "Options page isn’t available until you enter your API Key"
+msgstr "Alternativsidan är inte tillgänglig förrän du anger din API-nyckel"
+
+#: views/part-rocket-ad.php:54
+msgid "Remove the ad"
+msgstr "Ta bort annonsen"
+
+#: views/part-rocket-ad.php:51
+msgid "Immediate results."
+msgstr "Omedelbara resultat."
+
+#: views/part-rocket-ad.php:50
+msgid "WooCommerce compatibility."
+msgstr "WooCommerce-kompatibilitet."
+
+#: views/part-rocket-ad.php:49
+msgid "Boost your SEO."
+msgstr "Förbättra din SEO."
+
+#: views/part-rocket-ad.php:48
+msgid "Improve your Google PageSpeed Score."
+msgstr "Förbättra ditt Google PageSpeed-resultat."
+
+#. translators: %s is a percentage.
+#: views/part-rocket-ad.php:42
+msgid "Get %s OFF Now!"
+msgstr "Få %s RABATT nu!"
+
+#: views/modal-payment.php:284 views/modal-payment.php:345
+#: views/part-rocket-ad.php:26
+msgid "We recommend for you"
+msgstr "Vi rekommenderar för dig"
+
+#: views/part-bulk-optimization-table.php:76
+msgid "Level Selection"
+msgstr "Nivåval"
+
+#: views/part-bulk-optimization-table.php:75
+msgid "Original Size"
+msgstr "Originalstorlek"
+
+#: views/part-bulk-optimization-table.php:74
+msgid "Optimized Size"
+msgstr "Optimerad storlek"
+
+#: views/part-bulk-optimization-table.php:72
+msgid "Number of images optimized"
+msgstr "Antal bilder optimerade"
+
+#: views/part-bulk-optimization-table.php:71
+msgid "Group name"
+msgstr "Gruppnamn"
+
+#: views/part-bulk-optimization-table.php:70
+msgid "Group selection"
+msgstr "Gruppval"
+
+#: views/part-bulk-optimization-table-row-folder-type.php:34
+msgid "Current level:"
+msgstr "Nuvarande nivå:"
+
+#: views/part-bulk-optimization-overquota-alert.php:19
+msgid "See our plans on the Imagify website"
+msgstr "Se våra paket på Imagify webbplats"
+
+#: views/part-bulk-optimization-newbie.php:16
+msgid "Choose your folders to optimize"
+msgstr "Välj dina mappar att optimera"
+
+#: views/part-bulk-optimization-newbie.php:11
+msgid "Optimize the images from your site's folders"
+msgstr "Optimera bilderna från din webbplats mappar"
+
+#: views/part-bulk-optimization-newbie.php:6
+msgid "New Feature!"
+msgstr "Ny funktion!"
+
+#: views/part-bulk-optimization-infos.php:4
+msgid "Some information to know before launching the optimization."
+msgstr "Lite information att veta innan du startar optimeringen."
+
+#: views/page-settings.php:109
+msgid "Show Toolbar Menu"
+msgstr "Visa verktygsfältmenyn"
+
+#: views/page-settings.php:42
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: views/page-bulk.php:98
+msgid "View your profile"
+msgstr "Visa din profil"
+
+#: views/page-bulk.php:95 views/part-settings-account.php:82
+msgid "Your Account"
+msgstr "Ditt konto"
+
+#: views/notice-almost-over-quota.php:34
+msgid "See our plans"
+msgstr "Se våra paket"
+
+#: views/notice-almost-over-quota.php:31
+msgid "You are running out of credit! Don’t forget to upgrade your Imagify’s account."
+msgstr "Du har snart slut på kredit! Glöm inte att uppgradera ditt Imagify-konto."
+
+#. translators: %s is a formatted file size.
+#: views/modal-payment.php:46
+msgid "You currently have %s of images in your library and folders."
+msgstr "Du har för närvarande %s av bilder i ditt bibliotek och mappar."
+
+#. translators: %s is a formatted number (don't use %d).
+#: views/modal-payment.php:33
+msgid "You have %s original image"
+msgid_plural "You have %s original images"
+msgstr[0] "Du har %s orginalbild"
+msgstr[1] "Du har %s originalbilder"
+
+#: inc/functions/i18n.php:285
+msgid "Start the optimization"
+msgstr "Starta optimeringen"
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/functions/i18n.php:283
+msgid "%s Error(s)"
+msgstr "%s fel"
+
+#: inc/functions/i18n.php:279
+msgid "Waiting other optimizations to finish."
+msgstr "Väntar att andra optimeringar ska slutföras."
+
+#: inc/functions/i18n.php:271
+msgctxt "file"
+msgid "Already Optimized"
+msgstr "Redan optimerad"
+
+#: inc/functions/i18n.php:119 inc/functions/i18n.php:269
+msgid "The operation failed."
+msgstr "Operationen misslyckades."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1342
+#: inc/functions/i18n.php:114 inc/functions/i18n.php:259
+msgid "You have used all your credits!"
+msgstr "Du har använt alla dina krediter!"
+
+#: inc/functions/i18n.php:78
+msgid "Added! All Good!"
+msgstr "Tillagd! Allt bra!"
+
+#: inc/functions/i18n.php:76
+msgid "Choose the folders to optimize"
+msgstr "Välj mapparna att optimera"
+
+#: inc/functions/i18n.php:74
+msgid "Some folders that do not contain any images are hidden."
+msgstr "Vissa mappar som inte innehåller några bilder är dolda."
+
+#: inc/functions/i18n.php:73
+msgid "Select one or several folders to optimize."
+msgstr "Välj en eller flera mappar att optimera."
+
+#: inc/functions/i18n.php:72 inc/functions/i18n.php:75
+msgid "Select Folders"
+msgstr "Välj mappar"
+
+#: inc/functions/i18n.php:71 views/part-settings-row-custom-folder.php:7
+msgctxt "custom folder"
+msgid "Remove"
+msgstr "Ta bort"
+
+#. translators: %s is a file extension.
+#: inc/functions/api.php:252
+msgid "%s is not a valid extension."
+msgstr "%s är inte ett giltigt filtillägg."
+
+#: inc/functions/api.php:224
+msgid "Invalid or corrupted file."
+msgstr "Ogiltig eller skadad fil."
+
+#: inc/deprecated/deprecated.php:619 inc/functions/api.php:203
+#: inc/functions/i18n.php:105 inc/functions/i18n.php:250
+msgid "cURL is not available on the server."
+msgstr "cURL är inte tillgängligt på servern."
+
+#: classes/Bulk/AbstractBulk.php:83 inc/deprecated/deprecated.php:1125
+msgid "Original Filesize"
+msgstr "Original filstorlek"
+
+#: classes/Bulk/AbstractBulk.php:79 inc/deprecated/deprecated.php:1119
+msgid "Optimized Filesize"
+msgstr "Optimerad filstorlek"
+
+#: classes/Bulk/AbstractBulk.php:75 inc/deprecated/deprecated.php:1113
+msgid "View Errors"
+msgstr "Visa fel"
+
+#: classes/Optimization/Process/AbstractProcess.php:545
+msgid "With no extension, this file cannot be optimized."
+msgstr "Utan filtillägg kan denna fil inte optimeras."
+
+#. translators: 1 is the opening of a link, 2 is the closing of this link.
+#: inc/classes/class-imagify-views.php:338
+msgid "You can re-optimize your media files more finely directly in the %1$smedia management%2$s."
+msgstr "Du kan återoptimera dina mediefiler mer fint direkt i %1$smediahanteringen%2$s."
+
+#: inc/classes/class-imagify-views.php:336
+msgid "Custom folders"
+msgstr "Anpassade mappar"
+
+#: inc/classes/class-imagify-views.php:321 views/part-settings-library.php:10
+msgid "Media Library"
+msgstr "Mediabibliotek"
+
+#: inc/classes/class-imagify-views.php:175
+#: inc/classes/class-imagify-views.php:211
+msgid "Other Media"
+msgstr "Annan media"
+
+#: inc/classes/class-imagify-views.php:175
+#: inc/classes/class-imagify-views.php:211 views/part-files-list-header.php:5
+msgid "Other Media optimized by Imagify"
+msgstr "Andra medier optimerade av Imagify"
+
+#: inc/classes/class-imagify-settings.php:643
+msgid "Unselect All"
+msgstr "Avmarkera alla"
+
+#: inc/classes/class-imagify-settings.php:635
+msgid "Select All"
+msgstr "Markera alla"
+
+#: inc/classes/class-imagify-files-scan.php:42
+msgid "This folder does not exist."
+msgstr "Denna mapp finns inte."
+
+#: inc/classes/class-imagify-files-scan.php:36
+msgid "Invalid folder."
+msgstr "Ogiltig mapp."
+
+#: views/button/refresh-status.php:17
+msgid "Refreshing status..."
+msgstr "Uppdaterar status …"
+
+#: inc/classes/class-imagify-files-list-table.php:669
+msgid "The file has changed"
+msgstr "Filen har ändrats"
+
+#: inc/classes/class-imagify-files-list-table.php:666
+msgid "No changes found"
+msgstr "Inga ändringar hittades"
+
+#: inc/classes/class-imagify-files-list-table.php:586
+msgid "This folder is not selected for bulk optimization."
+msgstr "Denna mapp är inte vald för massoptimering."
+
+#: inc/classes/class-imagify-files-list-table.php:500
+msgctxt "checkbox label"
+msgid "Select file"
+msgstr "Välj fil"
+
+#: inc/classes/class-imagify-files-list-table.php:443
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: inc/classes/class-imagify-files-list-table.php:440
+#: views/page-settings.php:95
+msgid "Optimization"
+msgstr "Optimering"
+
+#: inc/classes/class-imagify-files-list-table.php:439
+msgid "Folder"
+msgstr "Mapp"
+
+#: inc/classes/class-imagify-files-list-table.php:438
+msgid "File"
+msgstr "Fil"
+
+#: inc/classes/class-imagify-files-list-table.php:422
+#: views/button/refresh-status.php:25
+msgid "Refresh status"
+msgstr "Uppdatera staus"
+
+#: inc/classes/class-imagify-files-list-table.php:404
+msgctxt "verb"
+msgid "Filter"
+msgstr "Filtrera"
+
+#: inc/classes/class-imagify-files-list-table.php:387
+msgid "All Folders"
+msgstr "Alla mappar"
+
+#: inc/classes/class-imagify-files-list-table.php:384
+msgid "Filter by folder"
+msgstr "Filtrera efter mapp"
+
+#. translators: 1 is a link tag start, 2 is the link tag end.
+#: inc/classes/class-imagify-files-list-table.php:289
+msgid "To see things appear here, you must select folders in the settings page first :)"
+msgstr "För att se saker att visas här måste du välja mappar på inställningssidan först :)"
+
+#. translators: 1 and 2 are link tag starts, 3 is a link tag end.
+#: inc/classes/class-imagify-files-list-table.php:278
+msgid "No files yet. Do you want to %1$sscan your selected folders%3$s for new files or launch a %2$sbulk optimization%3$s directly?"
+msgstr "Inga filer än. Vill du %1$sskanna dina valda mappar%3$s efter nya filer eller starta en %2$smassoptimering%3$s direkt?"
+
+#. translators: 1 and 2 are link tag starts, 3 is a link tag end.
+#: inc/classes/class-imagify-files-list-table.php:265
+msgid "No files yet. Do you want to %1$sscan this folder%3$s for new files or launch a %2$sbulk optimization%3$s directly?"
+msgstr "Inga filer än. Vill du %1$sskanna denna mapp%3$s efter nya filer eller starta en %2$smassoptimering%3$s direkt?"
+
+#: inc/classes/class-imagify-files-list-table.php:247
+msgid "No errors, hurray!"
+msgstr "Inga fel, hurra!"
+
+#: inc/classes/class-imagify-files-list-table.php:243
+msgid "No unoptimized files, hurray!"
+msgstr "Inga ooptimerade filer, hurra!"
+
+#. translators: 1 is a link tag start, 2 is the link tag end.
+#: inc/classes/class-imagify-files-list-table.php:239
+msgid "No optimized files. Have you tried the %1$sbulk optimization%2$s yet?"
+msgstr "Inga optimerade filer. Har du provat %1$smassoptimering%2$s än?"
+
+#: inc/classes/class-imagify-files-list-table.php:90
+msgid "Number of files per page"
+msgstr "Antal filer per sida"
+
+#: inc/classes/class-imagify-files-list-table.php:73
+msgid "List View"
+msgstr "Listvy"
+
+#: inc/deprecated/classes/class-imagify-file-attachment.php:703
+msgid "The backup file does not exist."
+msgstr "Säkerhetskopieringsfilen finns inte."
+
+#: inc/deprecated/classes/class-imagify-file-attachment.php:626
+msgid "This file is already optimized with this level."
+msgstr "Denna fil är redan optimerad med denna nivå."
+
+#: inc/classes/class-imagify-custom-folders.php:390
+msgid "The file has been modified or was not optimized: its folder not being selected in the settings, the entry has been deleted from the database."
+msgstr "Fil har ändrats eller inte optimerats, dess mapp valdes inte i inställningarna, posten har tagits bort från databasen."
+
+#: inc/classes/class-imagify-custom-folders.php:329
+msgid "The file was missing or its path could not be retrieved from the database. The entry has been deleted from the database."
+msgstr "Fil saknades eller sökvägen kunde inte hämtas från databasen. Posten har tagits bort från databasen."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:718
+#: inc/classes/class-imagify-admin-ajax-post.php:721
+#: inc/classes/class-imagify-files-list-table.php:333
+#: inc/classes/class-imagify-files-list-table.php:579
+#: views/part-settings-custom-folders.php:26
+msgid "Site's root"
+msgstr "Webbplatsens rot"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:706
+#: inc/classes/class-imagify-files-scan.php:50
+msgid "This folder is not allowed."
+msgstr "Denna mapp är inte tillåten."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:700
+#: inc/classes/class-imagify-files-scan.php:46
+msgid "This file is not a folder."
+msgstr "Denna fil är inte en mapp."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:696
+msgid "This folder doesn't exist."
+msgstr "Denna mapp finns inte."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1050
+msgid "Couldn't get user data."
+msgstr "Kunde inte hämta användardata."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:627
+msgid "This folder is not in the database."
+msgstr "Denna mapp finns inte i databasen."
+
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:126
+msgid "Invalid file ID"
+msgstr "Ogiltigt fil-ID"
+
+#. translators: 1 is the opening of a link, 2 is the closing of this link.
+#: inc/3rd-party/nextgen-gallery/inc/admin/bulk.php:84
+msgid "You can also re-optimize your images more finely directly in each %1$sgallery%2$s."
+msgstr "Du kan också återoptimera dina bilder mer fint direkt i varje %1$sgalleri%2$s."
+
+#: inc/3rd-party/nextgen-gallery/inc/admin/bulk.php:82
+msgid "NextGen Galleries"
+msgstr "NextGen Galleries"
+
+#: inc/functions/api.php:210
+msgid "This account already exists."
+msgstr "Detta konto finns redan."
+
+#: classes/Optimization/Process/CustomFolders.php:72
+#: classes/Optimization/Process/WP.php:65
+#: inc/3rd-party/nextgen-gallery/classes/Optimization/Process/NGG.php:57
+#: inc/deprecated/classes/class-imagify-attachment.php:585
+msgid "This file has no backup file."
+msgstr "Denna fil har ingen säkerhetskopierad fil."
+
+#: views/part-bulk-optimization-infos.php:42
+#: views/part-documentation-link.php:11
+msgid "Check our documentation."
+msgstr "Kolla in vår dokumentation."
+
+#: views/part-bulk-optimization-infos.php:41
+#: views/part-documentation-link.php:10
+msgid "Need help or have questions?"
+msgstr "Behöver du hjälp eller har frågor?"
+
+#: inc/functions/admin-ui.php:454
+msgid "This media lacks the required metadata and cannot be optimized."
+msgstr "Detta media saknar obligatoriska metadata och kan inte optimeras."
+
+#: inc/classes/class-imagify-views.php:243 inc/common/admin-bar.php:50
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/functions/admin-ui.php:442
+msgid "You are not allowed to optimize this file."
+msgstr "Du har inte behörighet att optimera denna fil."
+
+#: inc/functions/i18n.php:214
+msgid "Optimize Missing Sizes"
+msgstr "Optimera saknade storlekar"
+
+#. translators: %s is a formatted number, dont use %d.
+#: inc/functions/api.php:246
+msgid "Custom One Time plan starts from %s MB."
+msgstr "Anpassat engångspaket startar från %s MB."
+
+#: inc/functions/api.php:222
+msgid "You have consumed all your data. You have to upgrade your account to continue."
+msgstr "Du har förbrukat alla dina data. Du måste uppgradera ditt konto för att fortsätta."
+
+#: inc/functions/api.php:221
+msgid "You are not authorized to perform this action."
+msgstr "Du har inte behörighet att utföra denna åtgärd."
+
+#: inc/functions/api.php:220
+msgid "WELL DONE. This media file is already optimized, no further optimization is required."
+msgstr "BRA GJORT. Denna mediefil är redan optimerad, ingen ytterligare optimering krävs."
+
+#: inc/functions/api.php:219
+msgid "User not valid."
+msgstr "Användare inte giltig."
+
+#: inc/functions/api.php:218
+msgid "Unable to regenerate access token."
+msgstr "Kan inte återskapa åtkomsttoken."
+
+#: inc/functions/api.php:217
+msgid "Too many requests, please be patient."
+msgstr "För många förfrågningar, ha tålmod."
+
+#: inc/functions/api.php:216
+msgid "This user does not exist."
+msgstr "Denna användare finns inte."
+
+#: inc/functions/api.php:215
+msgid "This email is already registered, you should try another email."
+msgstr "Denna e-post är redan registrerat, du bör försöka med en annan e-post."
+
+#: inc/functions/api.php:211
+msgid "Error uploading to Data Storage."
+msgstr "Fel vid uppladdning till datalagring."
+
+#: inc/functions/api.php:209
+msgid "Email field should not be empty."
+msgstr "E-postfält ska inte vara tomt."
+
+#: inc/functions/api.php:208
+msgid "Coupon does not exist."
+msgstr "Rabattkod finns inte."
+
+#: inc/functions/api.php:207
+msgid "Confirm your account to continue optimizing files."
+msgstr "Bekräfta ditt konto för att fortsätta optimera filer."
+
+#: inc/functions/api.php:206
+msgid "Cannot create client token."
+msgstr "Kan inte skapa klienttoken."
+
+#: inc/functions/api.php:205
+msgid "Authentication not provided."
+msgstr "Autentisering inte tillhandahållen."
+
+#: inc/functions/api.php:201
+msgid "Your file is too big to be uploaded on our server."
+msgstr "Din fil är för stor för att kunna laddas upp på vår server."
+
+#. translators: This sentense already exists in WordPress.
+#: inc/functions/admin.php:318
+msgid "Go back"
+msgstr "Gå tillbaka"
+
+#. translators: This sentense already exists in WordPress.
+#: inc/functions/admin.php:286
+msgid "Sorry, you are not allowed to do that."
+msgstr "Du har inte behörighet att göra det."
+
+#. translators: %d is a number of thumbnails.
+#: inc/deprecated/classes/class-imagify-attachment.php:611
+msgid "%d thumbnail failed to be created"
+msgid_plural "%d thumbnails failed to be created"
+msgstr[0] "%d miniatyr misslyckades att skapas"
+msgstr[1] "%d miniatyrer misslyckades att skapas"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:951
+msgid "Coupon is empty."
+msgstr "Rabattkod är tom."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:928
+msgid "Wrongly formatted response from our server."
+msgstr "Felformaterat svar från vår server."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:817
+msgid "Empty API key."
+msgstr "Tom API-nyckel."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:786
+msgid "Not a valid email address."
+msgstr "Inte en giltig e-postadress."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:780
+msgid "Empty email address."
+msgstr "Tom e-postadress."
+
+#: classes/Bulk/Bulk.php:517 classes/Bulk/Bulk.php:540
+#: classes/Bulk/Bulk.php:564 inc/classes/class-imagify-admin-ajax-post.php:273
+#: inc/classes/class-imagify-admin-ajax-post.php:306
+#: inc/classes/class-imagify-admin-ajax-post.php:339
+#: inc/classes/class-imagify-admin-ajax-post.php:372
+#: inc/classes/class-imagify-admin-ajax-post.php:405
+#: inc/classes/class-imagify-admin-ajax-post.php:438
+#: inc/classes/class-imagify-admin-ajax-post.php:485
+#: inc/classes/class-imagify-admin-ajax-post.php:515
+#: inc/classes/class-imagify-admin-ajax-post.php:547
+#: inc/classes/class-imagify-admin-ajax-post.php:578
+#: inc/classes/class-imagify-admin-ajax-post.php:688
+#: inc/classes/class-imagify-admin-ajax-post.php:1098
+#: inc/classes/class-imagify-admin-ajax-post.php:1104
+#: inc/classes/class-imagify-admin-ajax-post.php:1112
+#: inc/classes/class-imagify-admin-ajax-post.php:1123
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:120
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:195
+#: inc/deprecated/classes/class-imagify-regenerate-thumbnails-deprecated.php:49
+msgid "Invalid request"
+msgstr "Ogiltig förfrågan"
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:415
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:419
+msgid "The main image could not be retrieved from Amazon S3."
+msgstr "Huvudbilden kunde inte hämtas från Amazon S3."
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:401
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:405
+msgid "Files could not be sent to Amazon S3."
+msgstr "Filer kunde inte skickas till Amazon S3."
+
+#: inc/deprecated/classes/class-imagify-admin-ajax-post-deprecated.php:216
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:351
+#: inc/deprecated/classes/class-imagify-attachment.php:572
+#: inc/deprecated/classes/class-imagify-attachment.php:691
+#: inc/deprecated/classes/class-imagify-file-attachment.php:619
+#: inc/deprecated/classes/class-imagify-file-attachment.php:696
+msgid "This type of file is not supported."
+msgstr "Denna typ av fil stöds inte."
+
+#: classes/Optimization/File.php:420 inc/deprecated/deprecated.php:791
+msgid "The file could not be saved."
+msgstr "Filen kunde inte sparas."
+
+#: classes/Optimization/File.php:109 inc/deprecated/deprecated.php:747
+msgid "Filesystem error."
+msgstr "Filsystemfel."
+
+#: inc/deprecated/deprecated.php:768
+msgid "Error while retrieving the uploads directory path."
+msgstr "Fel vid hämtning av uppladdningskatalogens sökväg."
+
+#: classes/Optimization/File.php:398 inc/deprecated/deprecated.php:760
+msgid "The backup directory is not writable."
+msgstr "Säkerhetskopieringskatalogen är inte skrivbar."
+
+#: inc/deprecated/deprecated.php:752
+msgid "The file to backup does not exist."
+msgstr "Fil att säkerhetskopiera finns inte."
+
+#: inc/deprecated/classes/class-imagify-file-attachment.php:709
+#: inc/deprecated/deprecated.php:740
+msgid "The file path is empty."
+msgstr "Filens sökväg är tom."
+
+#. translators: %s is a number. Don't use %d.
+#: inc/functions/i18n.php:276
+msgid "%s error(s)"
+msgstr "%s fel"
+
+#. translators: %s is a number. Don't use %d.
+#: inc/functions/i18n.php:273
+msgid "%s file(s)"
+msgstr "%s fil/filer"
+
+#: inc/functions/i18n.php:274
+msgctxt "noun"
+msgid "Notice"
+msgstr "Lägg märke till"
+
+#: inc/functions/i18n.php:270
+msgctxt "adjective"
+msgid "Complete"
+msgstr "Slutförd"
+
+#: inc/functions/i18n.php:267
+msgid "Optimizing"
+msgstr "Optimerar"
+
+#: views/part-settings-library.php:90
+msgid "Choose the sizes to optimize"
+msgstr "Välj storleken att optimera"
+
+#. translators: %s is a file path.
+#: views/page-settings.php:68
+msgid "The backup folder %s cannot be created or is not writable by the server, original images cannot be saved!"
+msgstr "Säkerhetskopieringsmapp %s kan inte skapas eller är inte skrivbar av server, originalbilder kan inte sparas!"
+
+#. translators: %s is a file path.
+#: views/notice-backup-folder-not-writable.php:15
+msgid "The backup folder %s cannot be created. Is its parent directory writable by the server? Original images cannot be saved!"
+msgstr "Säkerhetskopieringsmapp %s kan inte skapas. Är dess överordnade katalog skrivbar av servern? Originalbilder kan inte sparas!"
+
+#. translators: %s is a file path.
+#: views/notice-backup-folder-not-writable.php:12
+msgid "The backup folder %s is not writable by the server, original images cannot be saved!"
+msgstr "Säkerhetskopieringsmapp %s är inte skrivbar av server, originalbilder kan inte sparas!"
+
+#. translators: %s is a formatted number, dont use %d.
+#: classes/Bulk/AbstractBulk.php:74 inc/deprecated/deprecated.php:1112
+msgid "%s Error"
+msgid_plural "%s Errors"
+msgstr[0] "%s fel"
+msgstr[1] "%s fel"
+
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:354
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:945
+msgid "%n thumbnail could not be restored."
+msgid_plural "%n thumbnails could not be restored."
+msgstr[0] "%n miniatyr kunde inte återställas."
+msgstr[1] "%n miniatyrer kunde inte återställas."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:939
+msgid "Related data could not be saved."
+msgstr "Relaterad data kunde inte sparas."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:792
+msgid "Restoration failed."
+msgstr "Återställning misslyckades."
+
+#: classes/Optimization/Process/AbstractProcess.php:852
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:778
+msgid "The image to replace is not writable."
+msgstr "Bilden som ska ersättas är inte skrivbar."
+
+#: classes/Optimization/Process/AbstractProcess.php:839
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:774
+msgid "Image path and backup path are identical."
+msgstr "Bildsökvägen och säkerhetskopieringsvägen är identiska."
+
+#: inc/3rd-party/nextgen-gallery/classes/Media/NGG.php:284
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:764
+msgid "Image not found in NextGen Gallery data."
+msgstr "Bilden hittades inte i NextGen Gallery-data."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:758
+msgid "Backup image not found."
+msgstr "Säkerhetskopierade bilden hittades inte."
+
+#: inc/deprecated/classes/class-imagify-ngg-attachment.php:753
+msgid "Mime type not supported."
+msgstr "Mime-typ stöds inte."
+
+#. translators: 1 is a data quota, 2 is a date.
+#: inc/classes/class-imagify-admin-ajax-post.php:863
+msgid "You have consumed all your credit for this month. You will have <strong>%1$s back on %2$s</strong>."
+msgstr "Du har förbrukat all din kredit för denna månad. Du kommer att få <strong>%1$s igen den %2$s</strong>."
+
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:260
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:289
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:465
+#: inc/deprecated/classes/class-imagify-as3cf-attachment.php:470
+msgid "This size could not be retrieved from Amazon S3."
+msgstr "Denna storlek kunde inte hämtas från Amazon S3."
+
+#: inc/classes/class-imagify-abstract-cron.php:163
+msgid "Once Weekly"
+msgstr "En gång i veckan"
+
+#. translators: 1 and 2 are optimization levels: "Original", "Normal",
+#. "Aggressive", or "Ultra".
+#: views/modal-settings-visual-comparison.php:13
+msgid "I want to compare %1$s and %2$s"
+msgstr "Jag vill jämföra %1$s och %2$s"
+
+#. translators: %s is a percentage.
+#: views/page-bulk.php:76
+msgid "You optimized %s of your website's images"
+msgstr "Du optimerade %s av webbplatsens bilder"
+
+#. translators: %s is a formatted date.
+#: views/part-discount-banner.php:20
+msgid "Special Offer<br><strong>Until %s</strong>"
+msgstr "Specialerbjudande<br><strong>fram till %s</strong>"
+
+#. translators: 1 is a percentage, 2 is a coupon code.
+#: inc/functions/i18n.php:145
+msgctxt "coupon validated"
+msgid "%1$s off with %2$s"
+msgstr "%1$s rabatt med %2$s"
+
+#: inc/functions/i18n.php:143
+msgid "Error with checking this coupon."
+msgstr "Fel vid kontroll av denna rabattkod."
+
+#: inc/functions/i18n.php:146
+msgid "Something went wrong with getting our updated offers. Please retry later."
+msgstr "Något gick fel med att få våra uppdaterade erbjudanden. Försök igen senare."
+
+#: views/modal-payment.php:222
+msgid "Choose a plan"
+msgstr "Välj ett paket"
+
+#: views/modal-payment.php:200
+msgid "OK"
+msgstr "OK"
+
+#: views/modal-payment.php:199
+msgid "Coupon Code"
+msgstr "Rabattkod"
+
+#: inc/functions/i18n.php:147 views/modal-payment.php:196
+msgid "If you have a <strong>coupon code</strong><br> use it here:"
+msgstr "Om du har en <strong>rabattkod</strong><br> använd den där:"
+
+#: views/modal-payment.php:194
+msgid "Checking Coupon"
+msgstr "Kontrollerar rabattkod"
+
+#: views/modal-payment.php:70
+msgid "The free plan is enough to optimize your images"
+msgstr "Gratispaketet räcker för att optimera dina bilder"
+
+#: views/modal-payment.php:22
+msgid "Analyzing"
+msgstr "Analyserar"
+
+#: views/modal-payment.php:19
+msgid "We are analyzing your images"
+msgstr "Vi analyserar dina bilder"
+
+#: inc/functions/i18n.php:48
+msgid "You need to specify your API key!"
+msgstr "Du måste specificera din API-nyckel!"
+
+#: views/modal-payment.php:425
+msgid "This is secure 128-bits SSL encrypted payment"
+msgstr "Detta är säker 128-bitars SSL-krypterad betalning"
+
+#: views/modal-payment.php:424
+msgid "Secure Credit Card Payment"
+msgstr "Säker kreditkortbetalning"
+
+#: views/modal-payment.php:392
+msgid "What do our users think about Imagify"
+msgstr "Vad tycker dina användare om Imagify"
+
+#: views/modal-payment.php:380
+msgid "Thank you for being awesome!"
+msgstr "Tack för att du är fantastisk!"
+
+#: views/modal-payment.php:319
+msgid "One Time plans are useful if you have a lots of existing images which need to be optimized. You can use it for bulk optimizing all your past images. You will pay only once."
+msgstr "Engångspaketen är användbara om du har många befintliga bilder som behöver optimeras. Du kan använda den för att optimera alla dina tidigare bilder. Du betalar bara en gång."
+
+#: views/modal-payment.php:312
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: views/modal-payment.php:308
+msgid "for special needs"
+msgstr "för speciella behov"
+
+#: views/modal-payment.php:307
+msgid "Need more?"
+msgstr "Behöver du mer?"
+
+#: views/modal-payment.php:299 views/modal-payment.php:349
+msgid "Choose plan"
+msgstr "Välj paket"
+
+#: views/modal-payment.php:241
+msgid "Monthly plans come with credits which is renewed every months. The billing happens automatically each month or year depending the billing period you choose."
+msgstr "Månadspaket kommer med krediter som förnyas varje månad. Faktureringen sker automatiskt varje månad eller år beroende på faktureringsperioden du väljer."
+
+#: views/modal-payment.php:231
+msgid "One Time Plans"
+msgstr "Engångspaket"
+
+#: views/modal-payment.php:226
+msgid "Monthly Plans"
+msgstr "Månadspaket"
+
+#: views/modal-payment.php:211
+msgid "Monthly plans come with credits which are renewed every month. The billing happens automatically each month or year, depending on which billing period you choose."
+msgstr "Månatliga paket kommer med krediter som förnyas varje månad. Faktureringen sker automatiskt varje månad eller år, beroende på vilken faktureringsperiod du väljer."
+
+#: views/modal-payment.php:206
+msgid "Checkout"
+msgstr "Till kassan"
+
+#: views/modal-payment.php:149
+msgid "Optimize the images you already have with a One Time plan"
+msgstr "Optimera de bilder du redan har, med ett engångspaket"
+
+#: views/modal-payment.php:139 views/modal-payment.php:182
+msgid "Choose another plan"
+msgstr "Välj ett annat paket"
+
+#. translators: %s is a formatted number (don't use %d).
+#: views/modal-payment.php:102 views/modal-payment.php:165
+#: views/modal-payment.php:268 views/modal-payment.php:333
+msgid "approx: %s images"
+msgstr "ungefär: %s bilder"
+
+#: views/modal-payment.php:96 views/modal-payment.php:123
+#: views/modal-payment.php:262 views/modal-payment.php:280
+msgid "/month"
+msgstr "/månad"
+
+#: views/modal-payment.php:85 views/modal-payment.php:251
+msgid "2 months free"
+msgstr "2 månader gratis"
+
+#: views/modal-payment.php:85 views/modal-payment.php:251
+msgid "Yearly"
+msgstr "Årlig"
+
+#: views/modal-payment.php:82 views/modal-payment.php:248
+msgid "Monthly"
+msgstr "Månadsvis"
+
+#: views/modal-payment.php:78
+msgid "Subscribe to a yearly plan"
+msgstr "Prenumerera på ett årligt paket"
+
+#: views/modal-payment.php:77
+msgid "Subscribe to a monthly plan"
+msgstr "Prenumerera på ett månadspaket"
+
+#. translators: %s is a formatted file size.
+#: views/modal-payment.php:56
+msgid "You upload around %s of images per month."
+msgstr "Du laddar upp cirka %s bilder per månad."
+
+#: views/modal-payment.php:18
+msgid "We analyzed your images"
+msgstr "Vi analyserade dina bilder"
+
+#: views/page-bulk.php:142 views/part-settings-account.php:60
+msgid "Let us help you by analyzing your existing images and determine the best plan for you."
+msgstr "Låt oss hjälpa dig genom att analysera dina befintliga bilder och bestämma det bästa paketet för dig."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:1061 views/page-bulk.php:138
+#: views/part-settings-account.php:55
+msgid "You're new to Imagify?"
+msgstr "Är du ny för Imagify?"
+
+#: views/page-bulk.php:146 views/part-settings-account.php:64
+msgid "What plan do I need?"
+msgstr "Vilket paket behöver jag?"
+
+#: views/part-settings-footer.php:17
+msgid "Save & Go to Bulk Optimizer"
+msgstr "Spara och gå till massoptimeraren"
+
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:133
+#: inc/functions/i18n.php:57
+msgid "Cancel"
+msgstr "Avbryt"
+
+#. translators: %s is a formatted number. Don't use %d.
+#: views/part-bulk-optimization-infos.php:32
+msgid "If you have more than %s images, you will need to launch the bulk optimization several times."
+msgstr "Om du har mer än %s bilder behöver du starta massoptimeringen flera gånger."
+
+#. translators: 1 is a "bold" tag start, 2 is the "bold" tag end, 3 is a
+#. formatted number (don't use %3$d).
+#: views/notice-rating.php:12
+msgid "%1$sCongratulations%2$s, you have optimized %1$s%3$s images%2$s and improved your website's speed by reducing your images size."
+msgstr "%1$sGrattis%2$s, du har optimerat %1$s%3$s bilder%2$s och förbättrat hastigheten på din webbplats genom att minska dina bildstorlekar."
+
+#: inc/functions/i18n.php:196 views/button/compare-images.php:12
+msgid "Compare Original VS Optimized"
+msgstr "Jämför original VS optimerad"
+
+#: inc/functions/i18n.php:121 inc/functions/i18n.php:278
+msgid "An unknown error occurred when we tried to get all your unoptimized media files. Try again and if the issue still persists, please contact us!"
+msgstr "Ett okänt fel uppstod när vi försökte få alla dina ooptimerade mediefiler. Försök igen och om problemet fortfarande kvarstår, kontakta oss!"
+
+#: inc/functions/i18n.php:120 inc/functions/i18n.php:277
+msgid "Oops, There is something wrong!"
+msgstr "Hoppsan, någonting är fel!"
+
+#. Plugin URI of the plugin
+#. translators: Plugin URI of the plugin/theme
+#: inc/functions/common.php:232
+msgid "https://wordpress.org/plugins/imagify/"
+msgstr "https://wordpress.org/plugins/imagify/"
+
+#. translators: %s is a file path.
+#: inc/deprecated/deprecated.php:652
+msgid "%s is not writable."
+msgstr "%s är inte skrivbar."
+
+#. translators: %s is a file path.
+#: inc/deprecated/deprecated.php:646
+msgid "Could not find %s."
+msgstr "Kunde inte hitta %s."
+
+#: classes/Optimization/File.php:105 inc/deprecated/deprecated.php:614
+msgid "File path is empty."
+msgstr "Filens sökväg är tom."
+
+#: classes/Optimization/File.php:466 inc/deprecated/deprecated.php:635
+#: inc/functions/i18n.php:111 inc/functions/i18n.php:256
+msgid "External HTTP requests are blocked."
+msgstr "Externa HTTP-förfrågningar är blockerade."
+
+#: inc/deprecated/deprecated.php:640 inc/functions/i18n.php:112
+#: inc/functions/i18n.php:257
+msgid "Sorry, our servers are temporarily unavailable. Please, try again in a couple of minutes."
+msgstr "Våra servrar är temporärt otillgängliga. Försök igen om några minuter."
+
+#. translators: %s is a file extension.
+#: classes/Optimization/Process/AbstractProcess.php:552
+msgid "%s cannot be optimized."
+msgstr "%s kan inte optimeras."
+
+#: views/button/retry-optimize.php:42
+msgid "Try again"
+msgstr "Försök igen"
+
+#: inc/admin/meta-boxes.php:56 inc/functions/admin-ui.php:478
+#: views/button/restore.php:17
+msgid "Restoring..."
+msgstr "Återställer …"
+
+#: inc/functions/admin-ui.php:99
+msgid "Overall Saving:"
+msgstr "Totalt sparande:"
+
+#: inc/functions/admin-ui.php:98
+msgid "Thumbnails Optimized:"
+msgstr "Miniatyrer optimerade:"
+
+#: inc/classes/class-imagify-files-list-table.php:604
+#: inc/functions/admin-ui.php:86
+msgid "Original Filesize:"
+msgstr "Original filstorlek:"
+
+#: inc/functions/admin-ui.php:78 inc/functions/admin-ui.php:79
+msgid "View details"
+msgstr "Visa detaljer"
+
+#: inc/functions/admin-ui.php:78
+msgid "Close details"
+msgstr "Stäng detaljer"
+
+#: inc/classes/class-imagify-files-list-table.php:609
+#: inc/functions/admin-ui.php:49
+msgid "New Filesize:"
+msgstr "Ny filstorlek:"
+
+#: inc/common/admin-bar.php:77 views/part-settings-custom-folders.php:148
+#: views/part-settings-files-tree-row.php:21
+msgid "Loading..."
+msgstr "Laddar in …"
+
+#. translators: %s is WordPress.org.
+#: inc/common/admin-bar.php:62
+msgid "Rate Imagify on %s"
+msgstr "Betygsätt Imagify på %s"
+
+#: inc/admin/upload.php:64 inc/classes/class-imagify-files-list-table.php:395
+msgid "Filter by status"
+msgstr "Filtrera status"
+
+#: views/part-bulk-optimization-table.php:73
+msgid "Errors"
+msgstr "Fel"
+
+#: inc/classes/class-imagify-files-list-table.php:613
+#: inc/functions/admin-ui.php:69 inc/functions/i18n.php:192
+#: views/modal-settings-visual-comparison.php:80
+#: views/modal-settings-visual-comparison.php:100
+#: views/modal-settings-visual-comparison.php:121
+msgid "Original Saving:"
+msgstr "Originalbesparing:"
+
+#: inc/functions/i18n.php:191 views/modal-settings-visual-comparison.php:66
+#: views/modal-settings-visual-comparison.php:76
+#: views/modal-settings-visual-comparison.php:96
+#: views/modal-settings-visual-comparison.php:117
+msgid "File Size:"
+msgstr "Filstorlek:"
+
+#: inc/functions/admin-ui.php:89 views/modal-settings-visual-comparison.php:62
+#: views/modal-settings-visual-comparison.php:72
+#: views/modal-settings-visual-comparison.php:92
+#: views/modal-settings-visual-comparison.php:113
+msgid "Level:"
+msgstr "Nivå:"
+
+#. translators: %s is a formatted file size.
+#: views/modal-settings-visual-comparison.php:40
+#: views/modal-settings-visual-comparison.php:48
+#: views/modal-settings-visual-comparison.php:56
+msgid "Optimized photography about %s"
+msgstr "Optimerat fotografi cirka %s"
+
+#. translators: %s is a formatted file size.
+#: views/modal-settings-visual-comparison.php:32
+msgid "Original photography about %s"
+msgstr "Originalfotografi cirka %s"
+
+#: inc/functions/i18n.php:193 views/modal-payment.php:385
+#: views/modal-settings-infos.php:52 views/modal-settings-partners-infos.php:13
+#: views/modal-settings-visual-comparison.php:135
+msgid "Close"
+msgstr "Stäng"
+
+#: views/modal-settings-infos.php:19
+msgid "Note: the file size reduction will be less, compared to aggressive mode."
+msgstr "Obs! Reduceringen av filstorleken blir mindre jämfört med aggressivt läge."
+
+#: views/modal-settings-infos.php:16
+msgid "If you want the perfect quality for your images, we recommend you that mode."
+msgstr "Om du vill ha den perfekta kvaliteten på dina bilder rekommenderar vi det läget."
+
+#: views/modal-settings-infos.php:13
+msgid "This mode provides lossless optimization, your images will be optimized without any visible change."
+msgstr "Detta läge ger förlustfri optimering, dina bilder optimeras utan någon synlig förändring."
+
+#: views/modal-settings-infos.php:32
+msgid "If you want the maximum weight reduction, we recommend using this mode."
+msgstr "Om du vill ha den maximala viktminskningen rekommenderar vi att du använder detta läge."
+
+#: views/modal-settings-infos.php:29
+msgid "This will provide a drastic savings on the initial weight, with a small reduction in image quality. Most of the time it's not even noticeable."
+msgstr "Detta kommer att ge en drastisk besparing på initialvikten, med en liten minskning av bildkvaliteten. För det mesta är det inte ens märkbart."
+
+#: views/modal-settings-infos.php:26
+msgid "This mode provides perfect optimization of your images without any significant quality loss."
+msgstr "Detta läge ger perfekt optimering av dina bilder utan någon betydande kvalitetsförlust."
+
+#: views/modal-settings-infos.php:45
+msgid "If you want the maximum weight reduction, and you agree to lose some quality on the images we recommend using this mode."
+msgstr "Om du vill ha maximal viktminskning och du godkänner att du förlorar lite kvalitet på bilderna rekommenderar vi att du använder detta läge."
+
+#: views/modal-settings-infos.php:42
+msgid "This will provide a huge savings on the initial weight. Sometimes the image quality could be degraded a little."
+msgstr "Detta kommer att ge stora besparingar på den ursprungliga vikten. Ibland kan bildkvaliteten försämras lite."
+
+#: views/modal-settings-infos.php:39
+msgid "This mode will apply all available optimizations for maximum image compression."
+msgstr "Detta läge kommer att tillämpa alla tillgängliga optimeringar för maximal bildkomprimering."
+
+#: views/modal-settings-infos.php:8
+msgid "You can choose three levels of compression"
+msgstr "Du kan välja tre nivåer av kompression"
+
+#: views/page-settings.php:116
+msgid "I want this awesome quick access menu on my Toolbar."
+msgstr "Jag vill ha denna fantastiska snabbåtkomstmeny på mitt verktygsfält."
+
+#: views/page-settings.php:107
+msgid "Display Options"
+msgstr "Visningsalternativ"
+
+#: views/part-settings-library.php:79
+msgid "Remember each additional image size will affect your Imagify monthly usage!"
+msgstr "Kom ihåg att varje ytterligare bildstorlek kommer att påverka din Imagify månadsanvändning!"
+
+#. translators: 1 is a "bold" tag start, 2 is the "bold" tag end.
+#: views/part-settings-library.php:73
+msgid "The %1$soriginal size%2$s is %1$sautomatically optimized%2$s by Imagify."
+msgstr "%1$sOriginalstorlek%2$s är %1$sautotomatiskt optimerad%2$s av Imagify."
+
+#: views/part-settings-library.php:66
+msgid "You can choose to optimize different image sizes created by WordPress here."
+msgstr "Du kan välja att optimera olika bildstorlekar skapade av WordPress här."
+
+#: views/part-settings-library.php:63
+msgid "Files optimization"
+msgstr "Filoptimering"
+
+#. translators: 1 is a text input for a number of pixels (don't use %d).
+#: views/part-settings-library.php:32
+msgid "to maximum %s pixels width"
+msgstr "till maximalt %s pixlar bred"
+
+#: views/part-settings-library.php:17
+msgid "Resize larger images"
+msgstr "Storleksändra större bilder"
+
+#: views/page-settings.php:59
+msgid "Keep your original images in a separate folder before optimization process."
+msgstr "Behåll dina originalbilder i en separat mapp före optimeringsprocessen."
+
+#: views/page-settings.php:58
+msgid "Backup original images"
+msgstr "Säkerhetskopiera originalbilder"
+
+#: views/page-settings.php:49
+msgid "Automatically optimize every image you upload to WordPress."
+msgstr "Optimera automatiskt alla bilder du laddar upp till WordPress."
+
+#: views/page-settings.php:48
+msgid "Auto-Optimize images on upload"
+msgstr "Optimera bilder automatiskt vid uppladdning"
+
+#. translators: %s is a "More info?" link.
+#: classes/Optimization/File.php:605 inc/deprecated/deprecated.php:629
+#: inc/functions/i18n.php:109 inc/functions/i18n.php:254
+#: views/page-settings.php:147
+msgid "More info?"
+msgstr "Mer information?"
+
+#: inc/classes/class-imagify-files-list-table.php:442
+msgid "Optimization Level"
+msgstr "Optimeringsnivå"
+
+#: views/part-settings-account.php:77 views/part-settings-account.php:104
+msgid "API Key"
+msgstr "API-nyckel"
+
+#. translators: 1 is a "bold" tag start, 2 is the "bold" tag end + a line break
+#. tag, 3 is a link tag start, 4 is the link tag end.
+#: views/notice-rating.php:23 views/part-settings-header.php:25
+msgid "%1$sDo you like this plugin?%2$s Please take a few seconds to %3$srate it on WordPress.org%4$s!"
+msgstr "%1$sGillar du detta tillägg?%2$s Avvara några sekunder för att %3$sbetygsätta det på WordPress.org%4$s!"
+
+#: views/notice-wp-rocket.php:19
+msgid "Get WP Rocket now"
+msgstr "Skaffa WP Rocket nu"
+
+#: views/notice-wp-rocket.php:15
+msgid "Discover the best caching plugin to speed up your website."
+msgstr "Upptäck det bästa cache-tillägget för att snabba upp din webbplats."
+
+#: views/notice-grid-view.php:9
+msgid "Switch to the List View"
+msgstr "Byt till listvy"
+
+#: views/notice-grid-view.php:8
+msgid "Use the List view to optimize images with Imagify."
+msgstr "Använd listvyn för att optimera bilder med Imagify."
+
+#: views/notice-http-block-external.php:14
+msgid "Click on the field and press Ctrl-A to select all."
+msgstr "Klicka på fältet och tryck Ctrl-A för att välja allt."
+
+#: views/notice-http-block-external.php:13
+msgid "To optimize your images, you have to put the following code in your <code>wp-config.php</code> file so that it works correctly."
+msgstr "För att optimera dina bilder måste du lägga följande kod i din <code>wp-config.php</code>-fil så att den fungerar korrekt."
+
+#: views/notice-http-block-external.php:10
+msgid "You defined the <code>WP_HTTP_BLOCK_EXTERNAL</code> constant in the <code>wp-config.php</code> to block all external HTTP requests."
+msgstr "Du definierade konstanten <code>WP_HTTP_BLOCK_EXTERNAL</code> i <code>wp-config.php</code> att blockera alla externa HTTP-förfrågningar."
+
+#: views/notice-http-block-external.php:5
+msgid "The external HTTP requests are blocked!"
+msgstr "De externa HTTP-förfrågningarna är blockerade!"
+
+#: views/notice-plugins-to-deactivate.php:17
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: views/notice-plugins-to-deactivate.php:10
+msgid "The following plugin is not compatible with this plugin and may cause unexpected results:"
+msgid_plural "The following plugins are not compatible with this plugin and may cause unexpected results:"
+msgstr[0] "Följande tillägg är inte kompatibelt med detta tillägg och kan orsaka oväntade resultat:"
+msgstr[1] "Följande tillägg är inte kompatibla med detta tillägg och kan orsaka oväntade resultat:"
+
+#. translators: 1 and 2 are link tag starts, 3 is a link tag end.
+#: views/notice-wrong-api-key.php:14
+msgid "Go to your Imagify account page to get your API Key and specify it on %1$syour settings%3$s or %2$screate an account for free%3$s if you don't have one yet."
+msgstr "Gå till din Imagify-kontosida för att få din API-nyckel och ange den på %1$sdina inställningar%3$s eller %2$sskapa ett konto gratis%3$s om du inte har ett ännu."
+
+#: views/notice-wrong-api-key.php:5 views/part-settings-account.php:119
+msgid "Your API key isn't valid!"
+msgstr "Din API-nyckel är inte giltig!"
+
+#: views/notice-welcome-steps.php:50
+msgid "Go to Settings"
+msgstr "Gå till inställningar"
+
+#: views/notice-welcome-steps.php:49
+msgid "It’s almost done! You have just to configure your optimization settings."
+msgstr "Det är nästan klart! Du måste bara konfigurera dina optimeringsinställningar."
+
+#: views/notice-welcome-steps.php:48
+msgid "Configure it"
+msgstr "Konfigurera det"
+
+#: views/notice-welcome-steps.php:41
+msgid "I have my API key"
+msgstr "Jag har min API-nyckel"
+
+#. translators: 1 is a link tag start, 2 is the link tag end.
+#: views/notice-welcome-steps.php:33
+msgid "Save your API Key you have received by email or you can get it on your %1$sImagify account page%2$s."
+msgstr "Spara din API-nyckel som du har fått via e-post eller kan du hämta den på din %1$sImagify-kontosida%2$s."
+
+#: views/notice-welcome-steps.php:28
+msgid "Enter your API Key"
+msgstr "Ange din API-nyckel"
+
+#: views/notice-welcome-steps.php:21
+msgid "Sign up, It's FREE!"
+msgstr "Registrera dig, det är GRATIS!"
+
+#: views/notice-welcome-steps.php:18
+msgid "Don't have an Imagify account yet? Optimize your images by creating an account in a few seconds!"
+msgstr "Har du inte ett Imagify-konto än? Optimera dina bilder genom att skapa ett konto på några sekunder!"
+
+#: views/notice-welcome-steps.php:17
+msgid "Create an Account"
+msgstr "Skapa ett konto"
+
+#: views/notice-footer.php:6 views/notice-welcome-steps.php:10
+msgid "Dismiss this notice"
+msgstr "Avfärda denna notis"
+
+#: views/notice-welcome-steps.php:8
+msgid "Welcome to Imagify, the best way to easily optimize your images!"
+msgstr "Välkommen till Imagify, det bästa sättet att enkelt optimera dina bilder!"
+
+#: views/modal-settings-visual-comparison.php:22
+#: views/modal-settings-visual-comparison.php:27
+#: views/modal-settings-visual-comparison.php:63
+msgid "Original"
+msgstr "Original"
+
+#: inc/classes/class-imagify-files-list-table.php:441
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_AdminView.php:242
+#: inc/Dependencies/ActionScheduler/classes/ActionScheduler_ListTable.php:97
+msgid "Status"
+msgstr "﻿Status"
+
+#: views/notice-bulk-optimization-complete.php:14
+#: views/part-bulk-optimization-success.php:17
+msgid "Well done!"
+msgstr "Bra gjort!"
+
+#. translators: %s is a line break.
+#: views/page-bulk.php:56
+msgid "that's the size you saved %sby using Imagify"
+msgstr "det är storleken du sparade %smed att använda Imagify"
+
+#: views/page-bulk.php:42
+msgid "Optimized size"
+msgstr "Optimerad storlek"
+
+#: views/page-bulk.php:37
+msgid "Original size"
+msgstr "Originalstorlek"
+
+#. translators: you can use %s to include a line break.
+#: views/page-bulk.php:28
+msgid "that's the number of original images%s you optimized with Imagify"
+msgstr "det är antalet originalbilder%s du optimerade med Imagify"
+
+#: views/page-bulk.php:19
+msgid "Statistics"
+msgstr "Statistik"
+
+#: views/page-bulk.php:14
+msgid "Overview"
+msgstr "Översikt"
+
+#: views/page-bulk.php:191
+msgid "Imagif’em all"
+msgstr "Imagifiera alla"
+
+#: views/modal-settings-infos.php:11
+#: views/modal-settings-visual-comparison.php:23
+#: views/modal-settings-visual-comparison.php:35
+#: views/modal-settings-visual-comparison.php:73
+msgid "Normal"
+msgstr "Normal"
+
+#: views/modal-settings-infos.php:24
+#: views/modal-settings-visual-comparison.php:24
+#: views/modal-settings-visual-comparison.php:43
+#: views/modal-settings-visual-comparison.php:93
+msgid "Aggressive"
+msgstr "Aggressiv"
+
+#: views/modal-settings-infos.php:37
+#: views/modal-settings-visual-comparison.php:25
+#: views/modal-settings-visual-comparison.php:51
+#: views/modal-settings-visual-comparison.php:114
+msgid "Ultra"
+msgstr "Ultra"
+
+#: views/part-bulk-optimization-infos.php:27
+msgid "Please be aware that optimizing a large number of images can take a while depending on your server and network speed."
+msgstr "Var medveten om att optimering av ett stort antal bilder kan ta ett tag beroende på din server och nätverkshastighet."
+
+#: inc/functions/i18n.php:284
+msgid "Information"
+msgstr "Information"
+
+#: views/part-bulk-optimization-overquota-alert.php:10
+msgid "Upgrade your account to continue optimizing your images."
+msgstr "Uppgradera ditt konto för att fortsätta optimera dina bilder."
+
+#: inc/classes/class-imagify-views.php:214
+#: inc/classes/class-imagify-views.php:245 inc/common/admin-bar.php:32
+#: views/part-settings-header.php:5 views/part-settings-header.php:14
+msgid "Settings"
+msgstr "Inställningar"
+
+#: inc/classes/class-imagify-settings.php:410
+msgid "<strong>ERROR</strong>: options page not found."
+msgstr "<strong>FEL</strong>: alternativsida hittades inte."
+
+#: inc/admin/meta-boxes.php:43
+#: inc/classes/class-imagify-files-list-table.php:710
+#: inc/functions/admin-ui.php:463
+msgid "Check your Settings"
+msgstr "Kontrollera dina inställningar"
+
+#: inc/admin/meta-boxes.php:40
+#: inc/classes/class-imagify-files-list-table.php:709
+#: inc/functions/admin-ui.php:461 inc/functions/api.php:223
+msgid "Invalid API key"
+msgstr "Ogiltig API-nyckel"
+
+#. Plugin Name of the plugin
+#: inc/admin/meta-boxes.php:38 inc/admin/meta-boxes.php:68
+#: inc/admin/upload.php:16
+msgid "Imagify"
+msgstr "Imagify"
+
+#: inc/3rd-party/nextgen-gallery/inc/admin/menu.php:18
+#: inc/classes/class-imagify-views.php:163
+#: inc/classes/class-imagify-views.php:208
+#: inc/classes/class-imagify-views.php:218
+#: inc/classes/class-imagify-views.php:244 inc/common/admin-bar.php:41
+#: views/part-bulk-optimization-header.php:3
+#: views/part-bulk-optimization-header.php:13
+msgid "Bulk Optimization"
+msgstr "Massoptimering"
+
+#: inc/functions/i18n.php:264
+msgid "All your media files have been optimized by Imagify. Congratulations!"
+msgstr "Alla dina mediefiler har optimerats av Imagify. Grattis!"
+
+#: inc/functions/i18n.php:115 inc/functions/i18n.php:262
+msgid "Hold on!"
+msgstr "Vänta!"
+
+#: inc/functions/i18n.php:77 inc/functions/i18n.php:118
+#: inc/functions/i18n.php:248 inc/functions/i18n.php:268
+msgid "Error"
+msgstr "Fel"
+
+#: inc/functions/i18n.php:246
+msgid "Unoptimized"
+msgstr "Ooptimerade"
+
+#: inc/functions/i18n.php:247
+msgid "Optimized"
+msgstr "Optimerad"
+
+#: inc/functions/i18n.php:261
+msgid "We are trying to get your unoptimized media files, it may take time depending on the number of files."
+msgstr "Vi försöker få dina ooptimerade mediefiler, det kan ta tid beroende på antalet filer."
+
+#: inc/functions/i18n.php:260
+msgid "Please wait..."
+msgstr "Vänta …"
+
+#: inc/functions/i18n.php:215 inc/functions/i18n.php:326
+#: views/button/restore.php:25
+msgid "Restore Original"
+msgstr "Återställ original"
+
+#: inc/functions/i18n.php:70
+msgid "If you keep this option deactivated, you won't be able to re-optimize your images to another compression level and restore your original images in case of need."
+msgstr "Om du inaktiverar detta alternativ kommer du inte att kunna återoptimera dina bilder på en annan komprimeringsnivå och återställa dina originalbilder om det behövs."
+
+#: inc/functions/i18n.php:69
+msgid "Don't Need a Parachute?"
+msgstr "Behöver du inte en fallskärm?"
+
+#: inc/functions/i18n.php:65 views/part-settings-account.php:111
+msgid "Your API key is valid."
+msgstr "Din API-nyckel är giltig."
+
+#: inc/functions/i18n.php:50 inc/functions/i18n.php:68
+msgid "Your API key is valid. You can now configure the Imagify settings to optimize your images."
+msgstr "Din API-nyckel är giltig. Du kan nu konfigurera Imagify-inställningarna för att optimera dina bilder."
+
+#: inc/functions/i18n.php:66
+msgid "Check in progress..."
+msgstr "Kontroll pågår …"
+
+#: inc/functions/i18n.php:47
+msgid "Connect me"
+msgstr "Anslut mig"
+
+#: inc/functions/i18n.php:46
+msgid "Paste your API key below:"
+msgstr "Klistra in din API-nyckel nedan:"
+
+#. translators: Don't use escaped HTML entities here (like &nbsp;).
+#: inc/functions/i18n.php:45
+msgid "Connect to Imagify!"
+msgstr "Anslut till Imagify!"
+
+#: inc/functions/i18n.php:43
+msgid "Your account has been successfully created. Please check your mailbox, you are going to receive an email with API key."
+msgstr "Ditt konto har skapats utan problem. Kontrollera din brevlåda, du kommer att få e-post med API-nyckel."
+
+#. translators: Don't use escaped HTML entities here (like &nbsp;).
+#: inc/functions/i18n.php:42 inc/functions/i18n.php:49
+#: inc/functions/i18n.php:67
+msgid "Congratulations!"
+msgstr "Grattis!"
+
+#: inc/functions/i18n.php:40
+msgid "You need to specify an email!"
+msgstr "Du måste specificera en e-post!"
+
+#: inc/functions/i18n.php:39
+msgid "Sign Up"
+msgstr "Registrera"
+
+#: inc/functions/i18n.php:38
+msgid "Enter your email to get an API key:"
+msgstr "Ange din e-post för att få en API-nyckel:"
+
+#. translators: Don't use escaped HTML entities here (like &nbsp;).
+#: inc/functions/i18n.php:37
+msgid "Let's get you started!"
+msgstr "Låt oss komma igång!"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:900
+msgid "View my subscription"
+msgstr "Visa min prenumeration"
+
+#. translators: %s is a data quota.
+#: inc/classes/class-imagify-admin-ajax-post.php:889
+#: views/notice-almost-over-quota.php:18 views/page-bulk.php:111
+#: views/part-bulk-optimization-infos.php:11
+msgid "You have %s space credit left"
+msgstr "Du har %s utrymmeskrediter kvar"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:881
+msgid "Your subscription:"
+msgstr "Din prenumeration:"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:880
+msgid "Account status"
+msgstr "Kontostatus"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:867
+msgid "Upgrade My Subscription"
+msgstr "Uppgradera min prenumeration"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:860
+#: inc/classes/class-imagify-admin-ajax-post.php:1057 views/page-bulk.php:134
+#: views/part-settings-account.php:51
+msgid "Oops, It's Over!"
+msgstr "Hoppsan, det är över!"
+
+#: inc/classes/class-imagify-admin-ajax-post.php:854
+msgid "View My Subscription"
+msgstr "Visa min prenumeration"
+
+#. translators: %s is a line break.
+#: inc/classes/class-imagify-admin-ajax-post.php:853
+msgid "You have almost used all your credit.%sDon't forget to upgrade your subscription to continue optimizing your images."
+msgstr "Du har nästan använt all din kredit.%sGlöm inte att uppgradera din prenumeration för att fortsätta optimera dina bilder."
+
+#: inc/classes/class-imagify-admin-ajax-post.php:851
+#: inc/classes/class-imagify-admin-ajax-post.php:1059 views/page-bulk.php:136
+#: views/part-settings-account.php:53
+msgid "Oops, It's almost over!"
+msgstr "Hoppsan, det är nästan över!"
+
+#: inc/admin/meta-boxes.php:77 inc/functions/i18n.php:197
+#: inc/functions/i18n.php:213 inc/functions/i18n.php:325
+#: views/button/optimize.php:24
+msgid "Optimize"
+msgstr "Optimera"
+
+#: inc/admin/meta-boxes.php:53
+#: inc/classes/class-imagify-files-list-table.php:717
+#: inc/functions/admin-ui.php:475 views/button/optimize-missing-sizes.php:17
+#: views/button/optimize.php:17 views/button/re-optimize.php:17
+#: views/button/retry-optimize.php:17
+msgid "Optimizing..."
+msgstr "Optimerar …"

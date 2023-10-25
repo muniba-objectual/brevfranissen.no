@@ -1,0 +1,1192 @@
+# Translation of Plugins - Popups, Welcome Bar, Optins and Lead Generation Plugin &#8211; Icegram - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Popups, Welcome Bar, Optins and Lead Generation Plugin &#8211; Icegram - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-14 08:15:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Popups, Welcome Bar, Optins and Lead Generation Plugin &#8211; Icegram - Stable (latest release)\n"
+
+#: lite/classes/ig-upsale-admin.php:39
+msgid "Upgrade To Premium"
+msgstr "Actualizar a Premium"
+
+#: lite/classes/feedback.php:143
+msgid "Subscription forms and CTAs??"
+msgstr "¿Formularios de suscripción y CTA?"
+
+#: lite/classes/feedback.php:147
+msgid "Yes"
+msgstr "Sí"
+
+#: lite/classes/feedback.php:148
+msgid "No"
+msgstr "No"
+
+#: lite/classes/feedback.php:154
+msgid "Send my feedback to <b>Icegram team</b>"
+msgstr "Enviar mis comentarios al <b>equipo de Icegram</b>"
+
+#: lite/classes/feedback/class-ig-feedback.php:292
+msgid "Thank You :) "
+msgstr "Gracias :)"
+
+#: lite/classes/class-icegram-campaign-admin.php:455
+msgid "Messages in this campaign will be shown when all these rules match..."
+msgstr "Los mensajes de esta campaña se mostrarán cuando todas estas reglas coincidan..."
+
+#: lite/classes/class-icegram-message-admin.php:315
+msgid "Use Email Subscribers form "
+msgstr "Usar formulario de correo electrónico para suscriptores"
+
+#: lite/classes/feedback/class-ig-feedback.php:1382
+msgid "Submit %s Deactivate"
+msgstr "Enviar %s Desactivar"
+
+#: lite/classes/feedback/class-ig-feedback.php:1384
+msgid "Skip %s Deactivate"
+msgstr "Saltar %s Desactivar"
+
+#: lite/classes/feedback/class-ig-feedback.php:1358
+msgid "Quick Feedback"
+msgstr "Respuesta rápida"
+
+#: lite/classes/feedback/class-ig-feedback.php:1349
+msgid "Other"
+msgstr "Otro"
+
+#: lite/classes/feedback/class-ig-feedback.php:1345
+msgid "It's a temporary deactivation"
+msgstr "Es una desactivación temporal."
+
+#: lite/classes/feedback/class-ig-feedback.php:1341
+msgid "I couldn't get the plugin to work"
+msgstr "No pude hacer que el plugin funcione"
+
+#: lite/classes/feedback/class-ig-feedback.php:1336
+msgid "I'm switching to a different plugin"
+msgstr "Estoy cambiando a un plugin diferente"
+
+#: lite/classes/feedback/class-ig-feedback.php:1332
+msgid "I no longer need the plugin"
+msgstr "Ya no necesito el plugin"
+
+#: lite/classes/ig-upsale-admin.php:22
+msgid "Statistics"
+msgstr "Estadísticas"
+
+#: lite/classes/feedback/class-ig-feedback.php:1359
+msgid "If you have a moment, please share why you are deactivating %s:"
+msgstr "Si tienes un momento, comparte por qué estás desactivando %s:"
+
+#: lite/classes/feedback/class-ig-feedback.php:1351
+msgid "Please share the reason"
+msgstr "Por favor, comparte el motivo"
+
+#: lite/classes/feedback/class-ig-feedback.php:1137
+msgid "Please select an option"
+msgstr "Por favor, selecciona una opción"
+
+#: lite/classes/feedback/class-ig-feedback.php:1338
+msgid "Please share which plugin"
+msgstr "Por favor, comparte el plugin"
+
+#: lite/class-icegram.php:247
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: lite/class-icegram.php:247
+msgid "I have read and agreed to our %s."
+msgstr "He leído y acepto la %s."
+
+#: lite/class-icegram.php:789
+msgid "Search Design Templates"
+msgstr "Buscar plantillas de diseño"
+
+#: lite/class-icegram.php:788
+msgid "Search Gallery Templates"
+msgstr "Buscar plantillas de galería"
+
+#: lite/class-icegram.php:787
+msgid "Add New Gallery Templates"
+msgstr "Añadir nuevas plantillas de galería"
+
+#: lite/gallery.php:820
+msgid "Would you like to personalize this template to fit your brand?"
+msgstr "¿Te gustaría personalizar esta plantilla para adaptarla a tu marca?"
+
+#: lite/gallery.php:798
+msgid "- By %s"
+msgstr "- Por %s"
+
+#: lite/gallery.php:822
+msgid "Personalize It Now"
+msgstr "Personalízalo ahora"
+
+#: lite/gallery.php:660
+msgid "Icegram design templates"
+msgstr "Plantillas de diseño de Icegram"
+
+#: lite/classes/class-icegram-message-admin.php:374
+msgid "Label"
+msgstr "Etiqueta"
+
+#: lite/classes/class-icegram-message-admin.php:362
+#: lite/classes/class-icegram-message-admin.php:363
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+#: lite/classes/class-icegram-message-admin.php:366
+msgid "Main Call To Action Button"
+msgstr "Botón principal de llamada a la acción"
+
+#: lite/gallery.php:790
+msgid "Get The Pro Plan"
+msgstr "Obtener el Plan Pro"
+
+#: lite/gallery.php:788
+msgid "Get The Max Plan"
+msgstr "Obtener el Plan Max"
+
+#: lite/gallery.php:832
+msgid "This template is available in the 'Pro Plan'"
+msgstr "Esta plantilla está disponible en el «Plan Pro»."
+
+#: lite/gallery.php:830
+msgid "This template is available in the 'Max Plan'"
+msgstr "Esta plantilla está disponible en el «Plan Máx»."
+
+#: lite/class-icegram.php:590
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: lite/class-icegram.php:987
+msgid "Show More"
+msgstr "Mostrar más"
+
+#: lite/classes/class-icegram-campaign-admin.php:131
+msgid "Display Rules"
+msgstr "Normas de visualización"
+
+#. Plugin Name of the plugin
+msgid "Icegram - Popups, Optins, CTAs & lot more..."
+msgstr "Icegram - Popups, Optins, CTAs & lot more..."
+
+#: lite/class-icegram.php:790
+msgid "Number of Gallery Templates found: %d"
+msgstr "Número de plantillas en la galería encontradas: %d"
+
+#: lite/gallery.php:838
+msgid "Collapse"
+msgstr "Cerrar"
+
+#: lite/gallery.php:836
+msgid "Collapse Sidebar"
+msgstr "Cerrar barra lateral"
+
+#: lite/gallery.php:785
+msgid "Use This"
+msgstr "Utilizar esta"
+
+#: lite/gallery.php:784
+msgctxt "Button label for a theme"
+msgid "Next"
+msgstr "Siguiente"
+
+#: lite/gallery.php:782
+msgid "Close"
+msgstr "Cerrar"
+
+#: lite/gallery.php:755
+msgid "By %s"
+msgstr "Por %s"
+
+#: lite/gallery.php:783
+msgctxt "Button label for a theme"
+msgid "Previous"
+msgstr "Anterior"
+
+#: lite/class-icegram.php:791
+msgid "No Gallery Templates found. Try a different search."
+msgstr "No hay plantillas de la galería. Intenta otra búsqueda."
+
+#: lite/class-icegram.php:781
+msgid ""
+"Are you sure you want to delete this theme?\n"
+"\n"
+"Click 'Cancel' to go back, 'OK' to confirm the delete."
+msgstr ""
+"¿Estás seguro de que quieres borrar este tema?\n"
+"\n"
+"Haz clic en «Cancelar» para volver o en «Aceptar» para borrar."
+
+#: lite/classes/class-icegram-message-admin.php:301
+#: lite/classes/class-icegram-message-admin.php:317
+msgid "Select form "
+msgstr "Seleccionar formulario"
+
+#: lite/classes/class-icegram-message-admin.php:299
+msgid "Use Rainmaker form "
+msgstr "Usa el formulario Rainmaker"
+
+#: lite/classes/class-icegram-message-admin.php:294
+#: lite/classes/class-icegram-message-admin.php:311
+msgid "Add form embed code"
+msgstr "Añadir código del formulario"
+
+#: lite/classes/class-icegram-message-admin.php:305
+#: lite/classes/class-icegram-message-admin.php:321
+msgid " or add "
+msgstr "o añadir"
+
+#: lite/classes/class-icegram-message-admin.php:294
+#: lite/classes/class-icegram-message-admin.php:311
+msgid " or easily embed using "
+msgstr "o incrustar fácilmente usando"
+
+#: lite/class-icegram.php:144
+msgid "Support"
+msgstr "Apoyar"
+
+#: lite/classes/class-icegram-message-admin.php:435
+msgid "JS"
+msgstr "JS"
+
+#: lite/classes/class-icegram-message-admin.php:439
+msgid "Add Custom javaScript for this message here..."
+msgstr "Añade aquí tu javaScript personalizado para este mensaje..."
+
+#: lite/classes/class-icegram-message-admin.php:421
+msgid "Custom Code"
+msgstr "Código a medida"
+
+#: lite/classes/class-icegram-message-admin.php:426
+msgid "CSS"
+msgstr "CSS"
+
+#: lite/classes/class-icegram-message-admin.php:422
+msgid "Add custom code for this message"
+msgstr "Añadir código personalizado para este mensaje"
+
+#: lite/about-icegram.php:204
+msgid "your audience."
+msgstr "tu audiencia."
+
+#: lite/about-icegram.php:203
+msgid "inspire, convert and engage"
+msgstr "inspirar, convertir y participar"
+
+#: lite/about-icegram.php:202
+msgid "Do read Icegram's core concepts below to understand how you can use Icegram to "
+msgstr "Lee los conceptos básicos de Icegram a para entender cómo usar Icegram para"
+
+#: lite/about-icegram.php:184
+msgid "Preview Your First Campaign"
+msgstr "Previsualiza tu primera campaña"
+
+#: lite/about-icegram.php:176
+msgid " Your sample campaign is ready!"
+msgstr "¡Tu campaña de ejemplo está lista!"
+
+#: lite/about-icegram.php:175
+msgid "Welcome to Icegram."
+msgstr "Bienvenido a Icegram."
+
+#. Author of the plugin
+msgid "icegram"
+msgstr "icegram"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.icegram.com/"
+msgstr "https://www.icegram.com/"
+
+#: lite/settings.php:28
+msgid "Share Icegram"
+msgstr "Compartir Icegram"
+
+#: lite/settings.php:41
+msgid "Turn on \"Lazy Load\" - load Icegram scripts and messages after page load to avoid caching problems."
+msgstr "Activa la «Carga diferida»: carga los scripts y mensajes de Icegram después de cargar la página para evitar problemas de almacenamiento en caché."
+
+#: lite/settings.php:24
+msgid "Icegram Settings"
+msgstr "Ajustes de Icegram"
+
+#: lite/settings.php:37
+msgid "Cache Friendly?"
+msgstr "¿Se lleva bien con la caché?"
+
+#. Description of the plugin
+msgid "All in one solution to inspire, convert and engage your audiences. Action bars, Popup windows, Messengers, Toast notifications and more. Awesome themes and powerful rules."
+msgstr "Solución todo en uno para inspirar, convertir e involucrar a tus audiencias. Barras de acción, ventanas emergentes, mensajería, avisos Toast y más. Fantásticos temas y potentes reglas."
+
+#: lite/settings.php:32
+msgid "Show \"Powered by\" link"
+msgstr "Mostrar enlace «Desarrollado por»"
+
+#: lite/classes/class-icegram-message-admin.php:751
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: lite/classes/class-icegram-message-admin.php:750
+msgid "Theme"
+msgstr "Tema"
+
+#: lite/class-icegram.php:2189 lite/classes/class-icegram-message-admin.php:749
+msgid "Type"
+msgstr "Tipo"
+
+#: lite/class-icegram.php:578
+msgid "Settings"
+msgstr "Configurar"
+
+#: lite/classes/class-icegram-message-admin.php:521
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: lite/classes/class-icegram-campaign-admin.php:140
+#: lite/classes/class-icegram-campaign-admin.php:1040 lite/gallery.php:754
+#: lite/gallery.php:843
+msgid "Preview"
+msgstr "Vista previa"
+
+#: lite/classes/class-icegram-message-admin.php:469
+#: lite/classes/class-icegram-message-admin.php:571
+msgid "Position"
+msgstr "Posición"
+
+#: lite/classes/class-icegram-message-admin.php:475
+#: lite/classes/class-icegram-message-admin.php:478
+msgid "Left"
+msgstr "Izquierda"
+
+#: lite/classes/class-icegram-message-admin.php:485
+#: lite/classes/class-icegram-message-admin.php:488
+msgid "Right"
+msgstr "Derecha"
+
+#: lite/classes/class-icegram-message-admin.php:214
+msgid "Animation"
+msgstr "Animación"
+
+#: lite/classes/class-icegram-message-admin.php:546
+msgid "Button"
+msgstr "Botón"
+
+#: lite/classes/class-icegram-campaign-admin.php:496
+msgid "Select a page&hellip;"
+msgstr "Elige una página&hellip;"
+
+#: lite/classes/class-icegram-campaign-admin.php:647
+#: lite/classes/class-icegram-campaign-admin.php:656
+msgid "Today"
+msgstr "Hoy"
+
+#: lite/class-icegram.php:1507
+msgid "Search Campaigns"
+msgstr "Buscar Campañas"
+
+#: lite/classes/class-icegram-campaign-admin.php:598
+msgid "All users"
+msgstr "Todos los usuarios"
+
+#: lite/classes/class-icegram-campaign-admin.php:554
+msgid "Schedule"
+msgstr "Programar"
+
+#: lite/classes/class-icegram-campaign-admin.php:605
+msgid "Logged in users only"
+msgstr "Sólo usuarios conectados"
+
+#: lite/class-icegram.php:2015
+msgid "Copy"
+msgstr "Copiar"
+
+#: lite/class-icegram.php:1546
+msgid "No messages found"
+msgstr "No se han encontrado mensajes"
+
+#: lite/class-icegram.php:1545
+msgid "Search Messages"
+msgstr "Buscar mensajes"
+
+#: lite/class-icegram.php:1544
+msgid "View Message"
+msgstr "Ver mensajes"
+
+#: lite/class-icegram.php:1542
+msgid "New Message"
+msgstr "Nuevo mensaje"
+
+#: lite/class-icegram.php:1540
+msgid "Create New Message"
+msgstr "Crear nuevo mensaje "
+
+#: lite/class-icegram.php:1539
+msgid "Create New"
+msgstr "Crear nuevo"
+
+#: lite/class-icegram.php:1511
+msgid "Icegram"
+msgstr "Icegram"
+
+#: lite/class-icegram.php:1509
+msgid "No campaigns found in Trash"
+msgstr "No se han encontrado campañas en la papelera."
+
+#: lite/class-icegram.php:1508
+msgid "No campaigns found"
+msgstr "No se encontraron campañas"
+
+#: lite/class-icegram.php:1506
+msgid "View Campaign"
+msgstr "Ver campañas"
+
+#: lite/class-icegram.php:1504
+msgid "New Campaign"
+msgstr "Nueva campaña"
+
+#: lite/class-icegram.php:1503
+msgid "Edit Campaign"
+msgstr "Editar campaña"
+
+#: lite/class-icegram.php:1501 lite/class-icegram.php:1502
+msgid "Add New Campaign"
+msgstr "Añadir nueva campaña"
+
+#: lite/class-icegram.php:1500
+msgid "Campaign"
+msgstr "Campaña"
+
+#: lite/class-icegram.php:948
+msgid "Powered by Icegram"
+msgstr "Desarrollado por Icegram"
+
+#: lite/class-icegram.php:425
+msgid "Done!"
+msgstr "¡Hecho!"
+
+#: lite/class-icegram.php:401
+msgid "Clean Up"
+msgstr "Limpiar"
+
+#: lite/class-icegram.php:397
+msgid "Remove all Icegram campaigns and messages"
+msgstr "Eliminar todas las campañas y mensajes de Icegram."
+
+#: lite/class-icegram.php:392
+msgid "Remove all Icegram shortcodes"
+msgstr "Eliminar todos los shortcodes de Icegram"
+
+#: lite/class-icegram.php:237
+msgid "Get add-ons and tips..."
+msgstr "Recibe extensiones y consejos ..."
+
+#: lite/class-icegram.php:230
+msgid "Free Add-ons, Proven Marketing Tricks and  Updates"
+msgstr "Extensiones gratuitas, trucos de marketing y actualizaciones"
+
+#: lite/classes/class-icegram-message-admin.php:947
+msgid "An Amazing ____ You Can Carry In Your ____"
+msgstr "Un asombroso ____ que puedes llevar en tu ____"
+
+#: lite/classes/class-icegram-message-admin.php:946
+msgid "An Open Letter To Everyone Who ____ More Than ____ Per ____"
+msgstr "Una carta abierta a todos los que ____ más de ____ por ____"
+
+#: lite/classes/class-icegram-message-admin.php:945
+msgid "Are You Ready To ____?"
+msgstr "Estas listo para ____?"
+
+#: lite/classes/class-icegram-message-admin.php:944
+msgid "Confessions Of A ____"
+msgstr "Confesiones de un ____"
+
+#: lite/classes/class-icegram-message-admin.php:943
+msgid "____ Man Reveals A Short-Cut To ____"
+msgstr "____ el hombre revela un atajo a ____"
+
+#: lite/classes/class-icegram-message-admin.php:942
+msgid "Discover The Magic ____ That Will Bring You ____ & ____!"
+msgstr "Descubre la magia ____ que te traerá ____ y ____!"
+
+#: lite/classes/class-icegram-message-admin.php:940
+msgid "Don't Try This With Any Other ____"
+msgstr "No intentes esto con ningún otro ____"
+
+#: lite/classes/class-icegram-message-admin.php:939
+msgid "FREE ____ Worth $____ for the first 100 People to take Advantage of this Offer"
+msgstr "GRATIS ____ con un valor de $ ____ para las primeras 100 personas que aprovechen esta oferta"
+
+#: lite/classes/class-icegram-message-admin.php:563
+msgid "Use theme's default colors"
+msgstr "Usa los colores por defecto del tema."
+
+#: lite/classes/class-icegram-message-admin.php:520
+#: lite/classes/class-icegram-message-admin.php:557
+msgid "Colors"
+msgstr "Colores"
+
+#: lite/classes/class-icegram-message-admin.php:543
+#: lite/classes/class-icegram-message-admin.php:549
+msgid "Text"
+msgstr "Texto"
+
+#: lite/classes/class-icegram-message-admin.php:521
+#: lite/classes/class-icegram-message-admin.php:542
+#: lite/classes/class-icegram-message-admin.php:548
+msgid "Background"
+msgstr "Fondo"
+
+#: lite/classes/class-icegram-message-admin.php:541
+msgid "Body"
+msgstr "Cuerpo"
+
+#: lite/classes/class-icegram-message-admin.php:394
+msgid "Target Link"
+msgstr "Destino del enlace"
+
+#: lite/classes/class-icegram-message-admin.php:341
+msgid "Text / HTML to show after the form"
+msgstr "Texto / HTML para mostrar después del formulario."
+
+#: lite/classes/class-icegram-message-admin.php:336
+msgid "Show labels above fields"
+msgstr "Mostrar etiquetas sobre los campos"
+
+#: lite/classes/class-icegram-message-admin.php:305
+#: lite/classes/class-icegram-message-admin.php:321
+msgid "form embed code"
+msgstr "Incrustar código del formulario"
+
+#: lite/classes/class-icegram-message-admin.php:269
+msgid "Text / HTML to show before the form"
+msgstr "Texto / HTML para mostrar antes del formulario"
+
+#: lite/classes/class-icegram-message-admin.php:522
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: lite/classes/class-icegram-message-admin.php:495
+#: lite/classes/class-icegram-message-admin.php:498
+msgid "Bottom"
+msgstr "Abajo"
+
+#: lite/classes/class-icegram-message-admin.php:195
+msgid "Message Body"
+msgstr "Cuerpo del mensaje"
+
+#: lite/classes/class-icegram-message-admin.php:177
+msgid "Upload / Select Image"
+msgstr "Subir / Seleccionar imagen"
+
+#: lite/classes/class-icegram-message-admin.php:177
+msgid "Upload / Select an image"
+msgstr "Subir / Seleccionar una imagen"
+
+#: lite/classes/class-icegram-message-admin.php:172
+msgid "This image will appear in message content."
+msgstr "Esta imagen aparecerá en el contenido del mensaje."
+
+#: lite/classes/class-icegram-message-admin.php:165
+msgid "Give Me Another Headline"
+msgstr "Dame otro titular"
+
+#: lite/classes/class-icegram-campaign-admin.php:673
+msgid " Once shown, do NOT show this campaign again for "
+msgstr "Una vez mostrada, NO muestres esta campaña de nuevo durante"
+
+#: lite/classes/class-icegram-campaign-admin.php:468
+msgid "Select pages to exclude&hellip;"
+msgstr "Elige las páginas a excluir&hellip;"
+
+#: lite/classes/class-icegram-campaign-admin.php:288
+msgid "Search to add / Create new&hellip;"
+msgstr "Buscar para añadir / Crear nueva&hellip;"
+
+#: lite/classes/class-icegram-message-admin.php:158
+msgid "Headline"
+msgstr "Titular"
+
+#: lite/classes/class-icegram-campaign-admin.php:1039
+#: lite/classes/class-icegram-message-admin.php:958
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: lite/classes/class-icegram-campaign-admin.php:653
+#: lite/classes/class-icegram-campaign-admin.php:662
+msgid "Two Years"
+msgstr "Dos años"
+
+#: lite/classes/class-icegram-campaign-admin.php:652
+#: lite/classes/class-icegram-campaign-admin.php:661
+msgid "One year"
+msgstr "Un año"
+
+#: lite/classes/class-icegram-campaign-admin.php:651
+#: lite/classes/class-icegram-campaign-admin.php:660
+msgid "Three Months "
+msgstr "Tres meses"
+
+#: lite/classes/class-icegram-campaign-admin.php:650
+#: lite/classes/class-icegram-campaign-admin.php:659
+msgid "One Month "
+msgstr "Un mes"
+
+#: lite/classes/class-icegram-campaign-admin.php:649
+#: lite/classes/class-icegram-campaign-admin.php:658
+msgid "Two weeks"
+msgstr "Dos semanas"
+
+#: lite/classes/class-icegram-campaign-admin.php:648
+#: lite/classes/class-icegram-campaign-admin.php:657
+msgid "One week"
+msgstr "Una semana"
+
+#: lite/classes/class-icegram-campaign-admin.php:646
+#: lite/classes/class-icegram-campaign-admin.php:654
+msgid "Never"
+msgstr "Nunca"
+
+#: lite/classes/class-icegram-campaign-admin.php:645
+#: lite/classes/class-icegram-campaign-admin.php:655
+msgid "Current Session"
+msgstr "Sesión actual"
+
+#: lite/classes/class-icegram-campaign-admin.php:593
+msgid "Who?"
+msgstr "¿Quien?"
+
+#: lite/classes/class-icegram-campaign-admin.php:585
+msgid "Desktop / Laptop"
+msgstr "Escritorio / Portátil"
+
+#: lite/classes/class-icegram-campaign-admin.php:577
+msgid "Mobile / Smartphones"
+msgstr "Móvil / Smartphones"
+
+#: lite/classes/class-icegram-campaign-admin.php:574
+msgid "Device?"
+msgstr "¿Dispositivo?"
+
+#: lite/classes/class-icegram-campaign-admin.php:557
+msgid "From&hellip;"
+msgstr "Desde&hellip;"
+
+#: lite/classes/class-icegram-campaign-admin.php:547
+msgid "Always"
+msgstr "Siempre"
+
+#: lite/classes/class-icegram-campaign-admin.php:542
+msgid "When?"
+msgstr "¿Cuando?"
+
+#: lite/classes/class-icegram-campaign-admin.php:527
+msgid " Add another"
+msgstr "Añadir otro"
+
+#: lite/classes/class-icegram-campaign-admin.php:511
+msgid "Specific URLs on this site"
+msgstr "URLs específicas en este sitio"
+
+#: lite/classes/class-icegram-campaign-admin.php:490
+msgid "Selected pages"
+msgstr "Páginas seleccionadas"
+
+#: lite/classes/class-icegram-campaign-admin.php:483
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: lite/classes/class-icegram-campaign-admin.php:462
+msgid "Sitewide"
+msgstr "Todo el sitio"
+
+#: lite/classes/class-icegram-campaign-admin.php:454
+msgid "Where?"
+msgstr "¿Dónde?"
+
+#: lite/classes/class-icegram-campaign-admin.php:276
+#: lite/classes/class-icegram-campaign-admin.php:413
+msgid "No messages yet. Use search / create bar above to add messages to this campaign."
+msgstr "No hay mensajes todavía. Use la barra de búsqueda / creación de arriba para añadir mensajes a esta campaña."
+
+#: lite/classes/class-icegram-campaign-admin.php:263
+#: lite/classes/class-icegram-campaign-admin.php:810
+msgid "Remove from Campaign"
+msgstr "Quitar de la campaña"
+
+#: lite/class-icegram.php:1541
+msgid "Edit Message"
+msgstr "Editar mensaje"
+
+#: lite/classes/class-icegram-campaign-admin.php:392
+#: lite/classes/class-icegram-campaign-admin.php:837
+msgid " sec"
+msgstr "segundo"
+
+#: lite/classes/class-icegram-campaign-admin.php:384
+#: lite/classes/class-icegram-campaign-admin.php:826
+msgid "Give this message a name for your own reference"
+msgstr "Dale a este mensaje un nombre para tu propia referencia"
+
+#: lite/about-icegram.php:292
+msgid "WPML / Multilingual usage..."
+msgstr "WPML / Uso multilingüe..."
+
+#: lite/about-icegram.php:289
+msgid "Can I use shortcodes in a message?"
+msgstr "¿Puedo usar shortcodes en un mensaje?"
+
+#: lite/about-icegram.php:270
+msgid "Extra Line Breaks / Paragraphs in messages..."
+msgstr "Saltos de línea extra / Párrafos en mensajes..."
+
+#: lite/about-icegram.php:267
+msgid "Messages look broken / formatting is weird..."
+msgstr "Los mensajes parecen rotos / el formato es extraño..."
+
+#: lite/about-icegram.php:264
+msgid "FAQ / Common Problems"
+msgstr "FAQ / Problemas comunes"
+
+#: lite/about-icegram.php:253
+msgid "Targeting Rules"
+msgstr "Reglas del objetivo"
+
+#: lite/about-icegram.php:242
+msgid "A campaign allows sequencing multiple messages and defining targeting rules. Create different campaigns for different marketing goals. Icegram supports showing multiple campaigns on any page."
+msgstr "Una campaña permite secuenciar múltiples mensajes y definir reglas del objetivo. Crea diferentes campañas para diferentes objetivos de marketing. Icegram es compatible con mostrar múltiples campañas en cualquier página."
+
+#: lite/about-icegram.php:241
+msgid "Campaign = Messages + Rules"
+msgstr "Campaña = Mensajes + Reglas"
+
+#: lite/about-icegram.php:239 lite/class-icegram.php:116
+#: lite/class-icegram.php:1499
+msgid "Campaigns"
+msgstr "Campañas"
+
+#: lite/about-icegram.php:297
+msgid "I can't find a way to do X..."
+msgstr "No puedo encontrar una manera de hacer X..."
+
+#: lite/about-icegram.php:247
+msgid "Multiple Messages & Sequencing"
+msgstr "Múltiples mensajes y secuenciación"
+
+#: lite/about-icegram.php:273
+msgid "How do I add custom CSS for messages?"
+msgstr "¿Cómo añado CSS personalizado para mensajes?"
+
+#: lite/class-icegram.php:1547
+msgid "No messages found in Trash"
+msgstr "No hay mensajes en la papelera"
+
+#: lite/class-icegram.php:410
+msgid "You won't be able to recover this data once you proceed. Do you really want to perform this action?"
+msgstr "No podrás recuperar estos datos una vez que procedas. ¿Realmente quieres realizar esta acción?"
+
+#: lite/class-icegram.php:388
+msgid "Housekeeping"
+msgstr "Mantenimiento interno"
+
+#: lite/classes/class-icegram-message-admin.php:941
+msgid "Do You Honestly Want To ____?"
+msgstr "¿Honestamente quieres ____? "
+
+#: lite/classes/class-icegram-message-admin.php:935
+msgid "How To ____ Even When Your Not ____"
+msgstr "Cómo ____ incluso cuando no ____"
+
+#: lite/classes/class-icegram-message-admin.php:934
+msgid "How To Discover The ____ That Lies Hidden In Your ____"
+msgstr "Cómo descubrir el ____ que se esconde en tu ____"
+
+#: lite/classes/class-icegram-message-admin.php:330
+msgid "Paste HTML / shortcode of your form here..."
+msgstr "Pega el HTML / shortcode de tu formulario aquí..."
+
+#: lite/classes/class-icegram-message-admin.php:509
+#: lite/classes/class-icegram-message-admin.php:511 lite/gallery.php:397
+msgid "Inline"
+msgstr "Integrado"
+
+#: lite/classes/class-icegram-campaign-admin.php:641
+msgid "Not Logged in users"
+msgstr "Usuarios no conectados"
+
+#: lite/classes/class-icegram-campaign-admin.php:624
+msgid "Select a user role&hellip;"
+msgstr "Selecciona un perfil de usuario&hellip;"
+
+#: lite/classes/class-icegram-campaign-admin.php:581
+msgid "Tablet"
+msgstr "Tableta"
+
+#: lite/classes/class-icegram-campaign-admin.php:560
+msgid "To&hellip;"
+msgstr "A&hellip;"
+
+#: lite/about-icegram.php:301
+msgid ", provide as much detail of the problem as you can. We will try to solve the problem ASAP."
+msgstr ", proporciona tantos detalles del problema como puedas. Intentaremos resolver el problema lo antes posible."
+
+#: lite/about-icegram.php:300
+msgid "I'm facing a problem and can't find a way out..."
+msgstr "Tengo un problema y no encuentro una solución..."
+
+#: lite/about-icegram.php:287
+msgid "Doing a browser refresh while previewing will not show your most recent changes. Click 'Preview' button to see a preview with your latest changes."
+msgstr "Aunque actualices el navegador mientras se hace una vista previa no se mostrarán los últimos cambios. Haz clic en el botón 'Previsualizar' para ver una vista previa con los últimos cambios."
+
+#: lite/about-icegram.php:286
+msgid "Preview does not work / not refreshing..."
+msgstr "La vista previa no funciona / no se actualiza..."
+
+#: lite/about-icegram.php:279
+msgid "How many messages should I show on a page?"
+msgstr "¿Cuántos mensajes puedo mostrar en una página?"
+
+#: lite/about-icegram.php:276
+msgid "Optin Forms / Mailing service integration..."
+msgstr "Formulario de aceptación / Integración de servicios de correo..."
+
+#: lite/about-icegram.php:274
+msgid "You can use custom CSS/JS inline in your message HTML. You can also use your theme's custom JS / CSS feature to add your changes."
+msgstr "Puedes usar CSS / JS personalizados integrándolos en tu mensaje HTML. También puedes usar la funciones JS / CSS personalizados de tu tema para añadir tus cambios."
+
+#: lite/about-icegram.php:271
+msgid "Go to HTML mode in content editor and pull your custom HTML code all together in one line. Don't leave blank lines between two tags. That should fix it."
+msgstr "Ve al modo HTML en el editor de contenido y pon tu código HTML personalizado en una sola línea. No dejes líneas en blanco entre dos etiquetas. Eso debería arreglarlo."
+
+#: lite/about-icegram.php:268
+msgid "This is most likely due to CSS conflicts with current theme. We suggest using simple formatting for messages. You can also write custom CSS in your theme to fix any problems."
+msgstr "Esto es probablemente sea debido a los conflictos de CSS con el tema actual. Sugerimos utilizar un formato simple para los mensajes. También puedes escribir CSS personalizado en tu tema para corregir cualquier problema."
+
+#: lite/about-icegram.php:255
+msgid "You can control who sees a campaign – and on what device, which pages does it show on, and what time period will it stay active for. You can run different campaigns with different rules to maximize engagement."
+msgstr "Puedes controlar quién ve una campaña y en qué dispositivo, en qué páginas se muestra y en qué período de tiempo permanecerá activa. Puedes ejecutar diferentes campañas con diferentes reglas para maximizar la participación."
+
+#: lite/classes/class-icegram-message-admin.php:45
+msgid "Message Settings"
+msgstr "Ajustes de mensajes"
+
+#: lite/about-icegram.php:230
+msgid "Lightbox popup windows are most widely used for lead capture, promotions and additional content display. Ask visitors to sign up to your newsletter, or like you on social networks, or tell them about a special offer..."
+msgstr "Los mensajes emergentes son lo más utilizado para captar clientes, promociones y visualización de contenido adicional. Pídeles a los visitantes que se suscriban a tu boletín informativo, o que den me gusta en las redes sociales, o infórmalos sobre una oferta especial..."
+
+#: lite/classes/class-icegram-message-admin.php:246
+msgid "Form"
+msgstr "Formulario"
+
+#: lite/classes/class-icegram-message-admin.php:171
+msgid "Icon / Avatar Image"
+msgstr "Icono / Imagen de avatar"
+
+#: lite/classes/class-icegram-message-admin.php:159
+msgid "Shown with highest prominence. Click on idea button on right to get a new headline."
+msgstr "Se muestra con mayor prominencia. Haz clic en el botón de idea a la derecha para obtener un nuevo titular."
+
+#: lite/classes/class-icegram-message-admin.php:388
+#: lite/classes/class-icegram-message-admin.php:392
+msgid "Enter destination URL here. Clicking will redirect to this link."
+msgstr "Pon la URL de destino aquí. Al hacer clic se redireccionará a este enlace."
+
+#: lite/classes/class-icegram-message-admin.php:371
+msgid "Your call to action text. Something unusual will increase conversions."
+msgstr "Texto para tu llamada a la acción. Frases llamativas aumentarán las conversiones."
+
+#: lite/classes/class-icegram-message-admin.php:656
+msgid "You may add <code>[%s]</code> where you want to show this message."
+msgstr "Puedes añadir <code>[%s]</code> donde quieras mostrar este mensaje."
+
+#: lite/class-icegram.php:580
+msgid "Docs & Support"
+msgstr "Documentación y soporte"
+
+#: lite/classes/class-icegram-campaign-admin.php:668
+msgid "Retargeting"
+msgstr "Retargeting"
+
+#: lite/classes/class-icegram-campaign-admin.php:689
+msgid "Once CTA is clicked, do NOT show this campaign again for"
+msgstr "Una vez se haya hecho clic a un CTA NO muestres de nuevo esta campaña en"
+
+#: lite/classes/class-icegram-message-admin.php:915
+msgid "Want To Be A ____?"
+msgstr "¿Quieres ser ____?"
+
+#: lite/classes/class-icegram-message-admin.php:914
+msgid "Turn your ____ into a ____"
+msgstr "Convierte tu  ____ en ____"
+
+#: lite/classes/class-icegram-message-admin.php:913
+msgid "If You're ____, You Can ____"
+msgstr "Si eres ____, puedes ____"
+
+#: lite/classes/class-icegram-message-admin.php:912
+msgid "7 Ways To ____"
+msgstr "7 maneras de ____"
+
+#: lite/classes/class-icegram-message-admin.php:910
+msgid "Warning: ____ !"
+msgstr "Advertencia: ¡ ____ !"
+
+#: lite/classes/class-icegram-message-admin.php:909
+msgid "Are You ____ ?"
+msgstr "¿Eres ____ ?"
+
+#: lite/classes/class-icegram-message-admin.php:948
+msgid "21 Secret ____ that will ____... NOW!"
+msgstr "¡21 ____ secretos que ____... AHORA!"
+
+#: lite/classes/class-icegram-message-admin.php:928
+msgid "If You Can ____ You Can ____"
+msgstr "Si puedes ____ puedes ____"
+
+#: lite/classes/class-icegram-message-admin.php:346
+msgid "Insert <code>[ig_form]</code> where you want to show this form in message body."
+msgstr "Inserta <code>[ig_form]</code> donde quieras mostrar este formulario en el cuerpo del mensaje."
+
+#: lite/classes/class-icegram-campaign-admin.php:535
+msgid "Additionally you can insert <code>[%s]</code> wherever you want to run this campaign."
+msgstr "Además, puedes insertar <code>[%s]</code> donde quieras ejecutar esta campaña."
+
+#: lite/about-icegram.php:290
+msgid "Yes! Messages support shortcodes. You may need to adjust CSS so the shortcode output looks good in your message."
+msgstr "¡Sí! Los mensajes admiten shortcodes. Es posible que debas ajustar el CSS para que la salida de shortcode se vea bien en tu mensaje."
+
+#: lite/about-icegram.php:249
+msgid "Add one or as many messages to a campaign as you want. Also choose the number of seconds after which each message should show up. Showing multiple messages for same goal, but with slightly different content / presentation, greatly improves conversions."
+msgstr "Añade uno o tantos mensajes a una campaña como quieras. También elije el número de segundos después del cual cada mensaje debe aparecer. Mostrar varios mensajes para el mismo objetivo, pero con un contenido / presentación ligeramente diferente, mejora en gran medida las conversiones."
+
+#: lite/about-icegram.php:243
+msgid "You can always preview your campaign to ensure campaign works the way you want, before making it live."
+msgstr "Siempre puedes obtener una vista previa de tu campaña para asegurarte de que la campaña funciona de la forma que quieres, antes de que esté activa."
+
+#: lite/about-icegram.php:277
+msgid "You can embed any optin / subscription form to your Icegram messages using 'Embed Form' button above text editor. Paste in form HTML code and let Icegram clean it up! You may even use a shortcode if you are using a WP plugin from your newsletter / lead capture service."
+msgstr "Puedes incrustar cualquier formulario de suscripción en tus mensajes de Icegram utilizando el botón «Incrustar formulario» encima del editor de texto. ¡Pega el código HTML del formulario y deja que Icegram lo limpie! Incluso puedes utilizar un shortcode si estás utilizando un plugin WP de tu servicio de newsletter / captura de clientes potenciales."
+
+#: lite/about-icegram.php:298
+msgid "Icegram is actively developed. If you can't find your favorite feature (or have a suggestion) contact us. We'd love to hear from you."
+msgstr "Icegram se desarrolla activamente. Si no puedes encontrar tu característica favorita (o tienes una sugerencia) ponte en contacto con nosotros. Nos encantaría saber de ti."
+
+#: lite/about-icegram.php:293
+msgid "Go to <code>Messages</code> from Icegram menu. Edit a message and translate it like any other post. Icegram will show translated message where possible. Choose <code>All posts</code> under WPML Language setting - Blog Posts to display, to fall back to default language messages."
+msgstr "Ve a <code>Mensajes</code> desde el menú Icegram. Edita un mensaje y tradúcelo como cualquier otra entrada. Icegram mostrará el mensaje traducido siempre que sea posible. Elige <code>Todas las entradas</code> en ajustes de idioma WPML - Entradas del blog para mostrar, para volver a los mensajes de idioma por defecto."
+
+#: lite/about-icegram.php:280
+msgid "While Icegram provides you lots of different message types and ability to add multiple messages to a campaign, we discourage you to go overboard. We've observed two messages on a page work well, but YMMV!"
+msgstr "Aunque Icegram te proporciona muchos tipos de mensajes diferentes y la capacidad de añadir varios mensajes a una campaña, te desaconsejamos que exageres. Hemos observado que dos mensajes en una página funcionan bien, ¡pero tu experiencia puede ser diferente!"
+
+#: lite/classes/class-icegram-message-admin.php:926
+msgid "Is The ____ Worth $x To You?"
+msgstr "¿El ____ vale x€ para ti?"
+
+#: lite/classes/class-icegram-message-admin.php:929
+msgid "I Discovered How To ____... Now I'm Revealing My Secret"
+msgstr "Descubrí cómo ____... Ahora estoy revelando mi secreto"
+
+#: lite/classes/class-icegram-message-admin.php:916
+msgid "The Ugly Truth About Your Beautiful ____"
+msgstr "La fea verdad acerca de tu hermosa ____"
+
+#: lite/classes/class-icegram-message-admin.php:908
+msgid "How ____ Made Me ____"
+msgstr "Cómo ____ me hizo ____"
+
+#: lite/classes/class-icegram-message-admin.php:907
+msgid "They Didn't Think I Could ____, But I Did"
+msgstr "No pensaron que podía ____, pero lo hice"
+
+#: lite/classes/class-icegram-message-admin.php:906
+msgid "How To ____ So You Can ____"
+msgstr "Si puedes ____ puedes ____"
+
+#: lite/classes/class-icegram-message-admin.php:936
+msgid "____ With No ____!"
+msgstr "¡____ sin ____!"
+
+#: lite/classes/class-icegram-message-admin.php:933
+msgid "How To ____ That ____"
+msgstr "Cómo ____ ese ____"
+
+#: lite/classes/class-icegram-message-admin.php:932
+msgid "How To ____ ... Legally"
+msgstr "Cómo ____ ... Legalmente"
+
+#: lite/classes/class-icegram-message-admin.php:931
+msgid "How To Take The Headache Out Of ____"
+msgstr "Cómo eliminar el dolor de cabeza de ____"
+
+#: lite/classes/class-icegram-message-admin.php:938
+msgid "Free ____ Tells How To Get Better ____"
+msgstr "Este ____ gratis cuenta cómo mejorar ____"
+
+#: lite/classes/class-icegram-message-admin.php:930
+msgid "How To Turn Your ____ Into The Most ____"
+msgstr "Cómo convertir tu ____ en el más ____"
+
+#: lite/classes/class-icegram-message-admin.php:927
+msgid "Increase your ____, reduce ____, maintain ____ and ____ with ____"
+msgstr "Aumenta tu ____, reduce ____, mantén ____ y ____ con ____"
+
+#: lite/classes/class-icegram-message-admin.php:921
+msgid "The Amazing Secret Of The ____ Genius Who Is Afraid Of ____"
+msgstr "El increíble secreto del genio de ____ que tiene miedo de ____"
+
+#: lite/classes/class-icegram-message-admin.php:920
+msgid "The Amazing Story Of ____ That Requires So Little Of ____ You Could ____"
+msgstr "La increíble historia de ____ que requiere tan poco ____ que podrías ____"
+
+#: lite/classes/class-icegram-message-admin.php:922
+msgid "The 10 Wackiest Ideas That ____... And How You Can Too!"
+msgstr "Las 10 ideas más locas que ____... ¡Y cómo tu también puedes!"
+
+#: lite/classes/class-icegram-message-admin.php:917
+msgid "The Secret to ____ Is Simply ____!"
+msgstr "¡El secreto de ____ es simplemente ____!"
+
+#: lite/classes/class-icegram-message-admin.php:905
+msgid "Get Rid Of ____ Once And For All"
+msgstr "Deshacerse de ____ de una vez por todas"
+
+#: lite/classes/class-icegram-message-admin.php:251
+msgid "Use Opt-in / Subscription / Lead capture form"
+msgstr "Usar el formulario de suscripción / suscripción / captar clientes"
+
+#: lite/classes/class-icegram-message-admin.php:924
+msgid "____ Like A ____"
+msgstr "____ Como un ____"
+
+#: lite/classes/class-icegram-message-admin.php:923
+msgid "The Inside Secrets To ____ With Crazy, Outlandish And Outrageous ____"
+msgstr "El interior de los secretos a ____ con loco, estrafalario y escandaloso ____"
+
+#: lite/classes/class-icegram-message-admin.php:937
+msgid "Greatest Goldmine of ____ Ever Jammed Into One Big ____"
+msgstr "La mejor mina de oro de la historia"
+
+#: lite/classes/class-icegram-message-admin.php:925
+msgid "Remember When You Could Have ____, And You Didn't?"
+msgstr "¿Recuerda cuando pudiste tener ____, y no lo hiciste?"
+
+#: lite/classes/class-icegram-message-admin.php:919
+msgid "The Lazy Man's Way To ____"
+msgstr "El camino del hombre perezoso a ____"
+
+#: lite/classes/class-icegram-message-admin.php:918
+msgid "The Quickest Way I Know To ____"
+msgstr "La forma más rápida que conozco ____"
+
+#: lite/classes/class-icegram-message-admin.php:911
+msgid "Do You Make These Mistakes With ____ ?"
+msgstr "¿Hace usted estos errores con ____ ?"
+
+#: lite/classes/class-icegram-message-admin.php:904
+msgid "__ Little Known Ways To ____"
+msgstr "__ formas poco conocidas que se ____"
+
+#: lite/classes/class-icegram-message-admin.php:903
+msgid "Here Is A Method That Is Helping ____ To ____"
+msgstr "Aquí hay un método que está ayudando a ____ para ____"
+
+#: lite/classes/class-icegram-campaign-admin.php:387
+#: lite/classes/class-icegram-campaign-admin.php:829
+msgid "Show After"
+msgstr "Mostrar después"
+
+#: lite/about-icegram.php:141
+msgid "Subject"
+msgstr "Asunto"
+
+#: lite/about-icegram.php:145 lite/class-icegram.php:1538
+#: lite/classes/class-icegram-campaign-admin.php:285
+#: lite/classes/class-icegram-campaign-admin.php:303
+msgid "Message"
+msgstr "Mensaje"
+
+#: lite/about-icegram.php:228 lite/gallery.php:373
+msgid "Popup"
+msgstr "Mensaje emergente"
+
+#: lite/about-icegram.php:186
+msgid "Edit & Publish it."
+msgstr "Edítalo y publícalo."
+
+#: lite/class-icegram.php:575
+msgid "Welcome to Icegram"
+msgstr "Bienvenido a Icegram"
+
+#: lite/about-icegram.php:137
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: lite/about-icegram.php:208 lite/class-icegram.php:1537
+#: lite/class-icegram.php:1543 lite/class-icegram.php:1549
+#: lite/classes/class-icegram-campaign-admin.php:200
+#: lite/classes/class-icegram-campaign-admin.php:215
+msgid "Messages"
+msgstr "Mensajes"
+
+#: lite/about-icegram.php:194 lite/about-icegram.php:301
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: lite/about-icegram.php:190
+msgid "Version: %s"
+msgstr "Versión: %s"
+
+#: lite/about-icegram.php:185
+msgid "OR"
+msgstr "O"
+
+#: lite/about-icegram.php:219 lite/gallery.php:389
+msgid "Messenger"
+msgstr "Mensajero"
+
+#: lite/about-icegram.php:216 lite/gallery.php:381
+msgid "Action Bar"
+msgstr "Barra de acción"
+
+#: lite/about-icegram.php:211
+msgid "And Icegram comes with not one, but four message types."
+msgstr "Y Icegram no incluye uno, sino cuatro tipos de mensajes."
+
+#: lite/about-icegram.php:225
+msgid "Toast Notification"
+msgstr "Aviso Toast"
+
+#: lite/about-icegram.php:221
+msgid "A messenger is best used to invoke interest while your visitor is reading your content. Users perceive it as something new, important and urgent and are highly likely to click on it."
+msgstr "La mensajería se utiliza para llamar la atención a tu visitante mientras está leyendo el contenido. Los usuarios lo perciben como algo nuevo, importante y urgente, y es muy probable que hagan clic en él."
+
+#: lite/about-icegram.php:210
+msgid "A 'Message' is a communication you want to deliver to your audience."
+msgstr "Un 'mensaje' es una comunicación que quieres entregar a tu audiencia."
+
+#: lite/about-icegram.php:218
+msgid "An action bar is a proven attention grabber. It shows up as a solid bar either at top or bottom. Use it for your most important messages or time sensitive announcements. Put longer content in it and it acts like a collapsible panel!"
+msgstr "Una barra de acción es un captador de atención comprobado. Aparece como una barra sólida en la parte superior o inferior. Utilízalo para tus mensajes más importantes o anuncios sensibles al tiempo. Pon contenido más largo en él y actúa como un desplegable!"
+
+#: lite/about-icegram.php:212
+msgid "Different message types look and behave differently, but they all have many common characteristics. For instance, most message types will allow you to set a headline, a body text, label for the ‘call to action’ button, a link for that button, theme and styling options, animation effect and position on screen where that message should show."
+msgstr "Los diferentes tipos de mensaje se ven y se comportan de forma diferente, pero todos tienen muchas características comunes. Por ejemplo, la mayoría de los tipos de mensajes te permitirán establecer un título, un texto del cuerpo, una etiqueta para el botón «llamada a la acción», un enlace para ese botón, opciones de tema y estilo, efecto de animación y posición en la pantalla donde debe mostrarse ese mensaje."
+
+#: lite/about-icegram.php:193
+msgid "Questions? Need Help?"
+msgstr "¿Preguntas? ¿Necesita ayuda?"
+
+#: lite/about-icegram.php:227
+msgid "Want to alert your visitor about some news, an update from your blog, a social proof or an offer? Use Icegram’s unique toast notification, it will catch their attention, let them click on the message, and disappear after a while."
+msgstr "¿Quieres alertar a tu visitante sobre algunas noticias, una actualización de tu blog, una prueba social o una oferta? Utiliza el aviso del sistema único de Icegram, llamará su atención, les permitirá hacer clic en el mensaje, y desaparecer después de un tiempo."
+
+#: lite/about-icegram.php:133
+msgid "Name"
+msgstr "Nombre"

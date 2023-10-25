@@ -1,0 +1,302 @@
+# Translation of Plugins - WooCommerce Blocks - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - WooCommerce Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-01 12:54:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - WooCommerce Blocks - Stable (latest release)\n"
+
+#: assets/js/blocks/checkout/block.json build/checkout/block.json
+msgctxt "block title"
+msgid "Checkout"
+msgstr "Gå til kassen"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-terms-block/block.json
+#: build/inner-blocks/checkout-terms-block/block.json
+msgctxt "block title"
+msgid "Terms and Conditions"
+msgstr "Handelsbetingelser"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-methods-block/block.json
+#: build/inner-blocks/checkout-shipping-methods-block/block.json
+msgctxt "block title"
+msgid "Shipping Options"
+msgstr "Forsendelsesmuligheder"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-address-block/block.json
+#: build/inner-blocks/checkout-shipping-address-block/block.json
+msgctxt "block description"
+msgid "Collect your customer's shipping address."
+msgstr "Indhent din kundes leveringsadresse."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-shipping-address-block/block.json
+#: build/inner-blocks/checkout-shipping-address-block/block.json
+msgctxt "block title"
+msgid "Shipping Address"
+msgstr "Leveringsadresse"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-payment-block/block.json
+#: build/inner-blocks/checkout-payment-block/block.json
+msgctxt "block description"
+msgid "Payment options for your store."
+msgstr "Betalingsmuligheder for din webshop."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-payment-block/block.json
+#: build/inner-blocks/checkout-payment-block/block.json
+msgctxt "block title"
+msgid "Payment Options"
+msgstr "Betalingsmuligheder"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-note-block/block.json
+#: build/inner-blocks/checkout-order-note-block/block.json
+msgctxt "block description"
+msgid "Allow customers to add a note to their order."
+msgstr "Lad dine kunder tilføje en note til deres ordre."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-note-block/block.json
+#: build/inner-blocks/checkout-order-note-block/block.json
+msgctxt "block title"
+msgid "Order Note"
+msgstr "Ordrenote"
+
+#: assets/js/blocks/cart/inner-blocks/empty-cart-block/block.json
+#: build/inner-blocks/empty-cart-block/block.json
+msgctxt "block title"
+msgid "Empty Cart"
+msgstr "Tøm kurven"
+
+#: assets/js/blocks/cart/inner-blocks/cart-totals-block/block.json
+#: build/inner-blocks/cart-totals-block/block.json
+msgctxt "block title"
+msgid "Cart Totals"
+msgstr "Samlet beløb i kurv"
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-block/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-block/block.json
+#: build/inner-blocks/cart-order-summary-block/block.json
+#: build/inner-blocks/checkout-order-summary-block/block.json
+msgctxt "block description"
+msgid "Show customers a summary of their order."
+msgstr "Vis kunder en ordreoversigt."
+
+#: assets/js/blocks/cart/inner-blocks/cart-order-summary-block/block.json
+#: assets/js/blocks/checkout/inner-blocks/checkout-order-summary-block/block.json
+#: build/inner-blocks/cart-order-summary-block/block.json
+#: build/inner-blocks/checkout-order-summary-block/block.json
+msgctxt "block title"
+msgid "Order Summary"
+msgstr "Ordreoversigt"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-billing-address-block/block.json
+#: build/inner-blocks/checkout-billing-address-block/block.json
+msgctxt "block title"
+msgid "Billing Address"
+msgstr "Faktureringsadresse"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-actions-block/block.json
+#: build/inner-blocks/checkout-actions-block/block.json
+msgctxt "block description"
+msgid "Allow customers to place their order."
+msgstr "Tillad kunder at afgive deres ordre."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-actions-block/block.json
+#: build/inner-blocks/checkout-actions-block/block.json
+msgctxt "block title"
+msgid "Actions"
+msgstr "Handlinger"
+
+#: assets/js/blocks/cart/inner-blocks/proceed-to-checkout-block/block.json
+#: build/inner-blocks/proceed-to-checkout-block/block.json
+msgctxt "block description"
+msgid "Allow customers proceed to Checkout."
+msgstr "Tillad kunder at fortsætte til siden Kasse."
+
+#: assets/js/blocks/cart/inner-blocks/proceed-to-checkout-block/block.json
+#: build/inner-blocks/proceed-to-checkout-block/block.json
+msgctxt "block title"
+msgid "Proceed to Checkout"
+msgstr "Gå til kassen"
+
+#: src/StoreApi/Utilities/OrderController.php:443
+msgid "Sorry, this order requires a shipping option."
+msgstr "Beklager, denne ordre kræver en forsendelsesmulighed."
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-contact-information-block/block.json
+#: build/inner-blocks/checkout-contact-information-block/block.json
+msgctxt "block title"
+msgid "Contact Information"
+msgstr "Kontaktinformation"
+
+#: assets/js/blocks/checkout/inner-blocks/checkout-billing-address-block/block.json
+#: build/inner-blocks/checkout-billing-address-block/block.json
+msgctxt "block description"
+msgid "Collect your customer's billing address."
+msgstr "Indhent din kundes faktureringsadresse."
+
+#: src/StoreApi/Schemas/V1/ProductCollectionDataSchema.php:107
+msgid "Status"
+msgstr "Status"
+
+#: src/BlockTypes/AbstractBlock.php:111
+msgid "Block name is required."
+msgstr "Bloknavn er påkrævet."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:390
+msgid "There are not enough %s in stock. Please reduce the quantities in your cart."
+msgstr "Der er ikke nok %s på lager. Prøv med et lavere antal i kurven."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:385
+msgid "There is not enough %s in stock. Please reduce the quantity in your cart."
+msgstr "Der er ikke nok %s på lager. Reducér antallet i kurven."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:378
+msgid "There are too many %s in the cart. Only 1 of each can be purchased. Please reduce the quantities in your cart."
+msgstr "Der er for mange %s i kurven. Der kan kun købes 1. Reducér antallet af enheder i kurven."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:373
+msgid "There are too many %s in the cart. Only 1 can be purchased. Please reduce the quantity in your cart."
+msgstr "Der er for mange %s i kurven. Der kan kun købes 1. Reducér antallet af enheder i kurven."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:366
+msgid "%s cannot be purchased. Please remove them from your cart."
+msgstr "%s kan ikke købes. Fjern venligst varene fra kurven."
+
+#. translators: %s: product name.
+#: src/StoreApi/Utilities/CartController.php:361
+msgid "%s cannot be purchased. Please remove it from your cart."
+msgstr "%s kan ikke købes. Fjern venligst varen fra kurven."
+
+#. translators: %s: product names.
+#: src/StoreApi/Utilities/CartController.php:354
+msgid "%s are out of stock and cannot be purchased. Please remove them from your cart."
+msgstr "%s er ikke på lager og kan derfor ikke købes. Fjern dem derfor fra kurven."
+
+#. translators: %s: product name.
+#: src/StoreApi/Utilities/CartController.php:349
+msgid "%s is out of stock and cannot be purchased. Please remove it from your cart."
+msgstr "%s er ikke på lager og kan derfor ikke købes. Fjern den derfor fra kurven."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:313
+msgid "List of required payment gateway features to process the order."
+msgstr "Liste med påkrævede betalingsløsningsfunktionaliteter for at gennemføre ordren."
+
+#: src/StoreApi/Routes/V1/Checkout.php:638
+msgid "An account is already registered with your email address. Please log in before proceeding."
+msgstr "En konto er allerede registreret med din e-mailadresse. Log in for at fortsætte. "
+
+#: src/StoreApi/Routes/V1/Checkout.php:363
+msgid "Unable to create order"
+msgstr "Ordre kan ikke oprettes"
+
+#: src/StoreApi/Schemas/V1/CartItemSchema.php:320
+msgid "Whether the product is visible in the catalog"
+msgstr "Hvad enten varen er synlig i webshoppen eller ej"
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:253
+msgid "Total tax on shipping. If shipping has not been calculated, a null response will be sent."
+msgstr "Total moms på forsendelse. Hvis forsendelse ikke er blevet beregnet, kommer der et tomt svar."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:247
+msgid "Total price of shipping. If shipping has not been calculated, a null response will be sent."
+msgstr "Total pris på forsendelse. Hvis forsendelse ikke er blevet beregnet, kommer der et tomt svar."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:187
+msgid "True if the cart meets the criteria for showing shipping costs, and rates have been calculated and included in the totals."
+msgstr "Sand hvis kurven opfylder kriterierne for visning af forsendelsespriser, og priser er blevet beregnet og inkluderet i totalbeløbet."
+
+#: src/StoreApi/Schemas/V1/CartSchema.php:136
+msgid "Current set billing address for the customer."
+msgstr "Nuværende faktureringsadresse for kunden."
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:41
+msgid "The discount type for the coupon (e.g. percentage or fixed amount)"
+msgstr "Rabattypen for rabatkuponen (fx et procenttal eller et fast beløb)"
+
+#: src/StoreApi/Schemas/V1/CartCouponSchema.php:32
+msgid "The coupon's unique code."
+msgstr "Rabatkuponens unikke kode."
+
+#. translators: %s: extension namespace
+#: src/StoreApi/Schemas/ExtendSchema.php:335
+#: src/StoreApi/Schemas/ExtendSchema.php:343
+msgid "Extension data registered by %s"
+msgstr "Udvidelsens data registreret af %s"
+
+#: templates/emails/plain/customer-new-account-blocks.php:24
+msgid "To set your password, visit the following address: "
+msgstr "For at nulstille din adgangskode gå til følgende adresse:"
+
+#: src/BlockTypes/MiniCart.php:533
+#: assets/js/blocks/checkout/empty-cart/index.js:23 build/cart.js:59
+#: build/checkout-frontend.js:3
+msgid "Your cart is currently empty!"
+msgstr "Din indkøbskurv er tom!"
+
+#: src/BlockTypes/ProductCategories.php:227
+#: src/BlockTypes/ProductCategories.php:231
+msgid "Select a category"
+msgstr "Vælg en kategori"
+
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:66
+msgid "Number of terms in the attribute taxonomy."
+msgstr "Antallet af termer i egenskabs taksonomi."
+
+#: src/StoreApi/Routes/V1/Products.php:276
+#: src/StoreApi/Routes/V1/Products.php:296
+msgid "Operator to compare product category terms."
+msgstr "Operatør for at sammenligne produkt kategori vilkår."
+
+#: src/StoreApi/Routes/V1/Products.php:383
+msgid "Operator to compare product attribute terms."
+msgstr "Operator til at sammenligne vilkår for produkt egenskaber."
+
+#: patterns/just-arrived-full-hero.php:19 build/featured-category.js:11
+#: build/featured-product.js:11
+msgid "Shop now"
+msgstr "Gå på indkøb nu"
+
+#. translators: %1$s is the install command, %2$s is the build command, %3$s is
+#. the watch command.
+#: src/Domain/Bootstrap.php:194
+msgid "WooCommerce Blocks development mode requires files to be built. From the plugin directory, run %1$s to install dependencies, %2$s to build the files or %3$s to build the files and watch for changes."
+msgstr "WooCommerce Blokke udvikler tilstand kræver filer skal bygges. Fra plugin biblioteket, skal du køre %1$s for, at installerer uafhængighederne, %2$s for at bygge filen eller %3$s for at bygge filen og se ændringerne."
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Blocks"
+msgstr "WooCommerce blokke"
+
+#. Description of the plugin
+msgid "WooCommerce blocks for the Gutenberg editor."
+msgstr "WooCommerce blokke til Gutenberg editor."
+
+#: src/StoreApi/Routes/V1/ProductAttributesById.php:42
+#: src/StoreApi/Routes/V1/ProductCategoriesById.php:42
+#: src/StoreApi/Routes/V1/ProductsById.php:42
+#: src/StoreApi/Schemas/V1/ProductAttributeSchema.php:30
+#: src/StoreApi/Schemas/V1/ProductReviewSchema.php:51
+#: src/StoreApi/Schemas/V1/ProductSchema.php:52
+#: src/StoreApi/Schemas/V1/TermSchema.php:30
+msgid "Unique identifier for the resource."
+msgstr "Entydig identifikator for ressourcen."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+msgstr "https://github.com/woocommerce/woocommerce-gutenberg-products-block"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"

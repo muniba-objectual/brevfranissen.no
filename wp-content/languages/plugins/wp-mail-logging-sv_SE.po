@@ -1,0 +1,572 @@
+# Translation of Plugins - WP Mail Logging - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WP Mail Logging - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-22 11:13:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP Mail Logging - Stable (latest release)\n"
+
+#: src/WPML_Plugin.php:424
+msgid "Warning!"
+msgstr "Varning!"
+
+#: src/WPML_Plugin.php:420
+msgid "Heads up!"
+msgstr "Observera!"
+
+#. translators: %d: Email Log ID to delete.
+#: src/WPML_Email_Log_List.php:771
+msgid "Delete log #%d"
+msgstr "Ta bort logg #%d"
+
+#. translators: %d: Email Log ID to view.
+#: src/WPML_Email_Log_List.php:757
+msgid "View log #%d"
+msgstr "Visa logg #%d"
+
+#: src/inc/Migration/Migration.php:455
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: src/inc/Migration/Migration.php:393
+msgid "Database Upgrade"
+msgstr "Databasuppgradering"
+
+#: src/inc/Migration/Migration.php:368
+msgid "Database upgrade completed."
+msgstr "Databasuppgradering slutförd."
+
+#: src/inc/Migration/Migration.php:398
+msgid "This upgrade will include the following:"
+msgstr "Denna uppgradering kommer inkludera följande:"
+
+#: src/inc/Migration/Migration.php:451
+msgid "Please create a backup of your database before performing the upgrade."
+msgstr "Skapa en säkerhetskopia av din databas innan du utför uppgraderingen."
+
+#: src/inc/Admin/EmailLogsTab.php:560
+msgid "Are you sure you want to delete this log?"
+msgstr "Är du säker på att du vill ta bort denna logg?"
+
+#: src/WPML_OptionsManager.php:425 src/WPML_OptionsManager.php:426
+#: src/WPML_Plugin.php:305
+msgid "SMTP"
+msgstr "SMTP"
+
+#: src/WPML_Email_Log_List.php:601
+msgid "Invalid request!"
+msgstr "Ogiltig förfrågan!"
+
+#: src/Model/Email_Log_Collection.php:484
+msgid "Failed"
+msgstr "Misslyckades"
+
+#: src/Model/Email_Log_Collection.php:483
+msgid "Successful"
+msgstr "Lyckad"
+
+#: src/inc/Admin/SMTPTab.php:724
+msgid "Start Setup"
+msgstr "Börja ställa in"
+
+#: src/inc/Admin/SMTPTab.php:695
+msgid "Step 2"
+msgstr "Steg 2"
+
+#: src/inc/Admin/SMTPTab.php:550
+msgid "Activate WP Mail SMTP"
+msgstr "Aktivera WP Mail SMTP"
+
+#: src/inc/Admin/SMTPTab.php:540
+msgid "WP Mail SMTP on WordPress.org"
+msgstr "WP Mail SMTP på WordPress.org"
+
+#: src/inc/Admin/SMTPTab.php:521
+msgid "Install and Activate WP Mail SMTP"
+msgstr "Installera och aktivera WP Mail SMTP"
+
+#: src/inc/Admin/SMTPTab.php:504
+msgid "Step 1"
+msgstr "Steg 1"
+
+#: src/inc/Admin/SMTPTab.php:377 src/inc/Admin/SMTPTab.php:405
+#: src/inc/Admin/SMTPTab.php:538
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: src/inc/Admin/SMTPTab.php:346 src/inc/Admin/SMTPTab.php:729
+msgid "Go to SMTP settings"
+msgstr "Gå till SMTP-inställningar"
+
+#: src/inc/Admin/SMTPTab.php:345 src/inc/Admin/SMTPTab.php:720
+msgid "Open Setup Wizard"
+msgstr "Öppna installationsguiden"
+
+#: src/inc/Admin/SMTPTab.php:339
+msgid "Go to Plugins page"
+msgstr "Gå till sidan för tillägg"
+
+#: src/inc/Admin/SMTPTab.php:696
+msgid "Set Up WP Mail SMTP"
+msgstr "Ställ in WP Mail SMTP"
+
+#: src/inc/Admin/SMTPTab.php:522
+msgid "Install WP Mail SMTP from the WordPress.org plugin repository."
+msgstr "Installera ”WP Mail SMTP” från WordPress tilläggskatalog."
+
+#: src/inc/Admin/SMTPTab.php:439
+msgid "Used by 3+ million websites."
+msgstr "Används på fler än 3 miljoner webbplatser."
+
+#: src/inc/Admin/SMTPTab.php:438
+msgid "Improves email deliverability in WordPress."
+msgstr "Förbättrar e-postleveransen i WordPress."
+
+#: src/inc/Admin/SMTPTab.php:436
+msgid "WP Mail SMTP screenshot"
+msgstr "Skärmdump av ”WP Mail SMTP”"
+
+#: src/inc/Migration/Migration.php:458 src/Renderer/Format/BaseRenderer.php:200
+#: src/WPML_Email_Log_List.php:862
+msgid "Dismiss this notice."
+msgstr "Avfärda denna notis."
+
+#: src/WPML_Email_Log_List.php:207
+msgid "Unable to delete email log."
+msgid_plural "Unable to delete email logs."
+msgstr[0] "Kan inte ta bort e-postlogg."
+msgstr[1] "Kan inte ta bort e-postloggar."
+
+#: src/inc/Admin/SMTPTab.php:338
+msgid "Download Now"
+msgstr "Ladda ner nu"
+
+#: src/inc/Admin/SMTPTab.php:337 src/inc/Admin/SMTPTab.php:550
+msgid "WP Mail SMTP Installed & Activated"
+msgstr "WP Mail SMTP installerat och aktiverat"
+
+#: src/inc/Admin/SMTPTab.php:336
+msgid "Installing..."
+msgstr "Installerar …"
+
+#: src/inc/Admin/SMTPTab.php:335
+msgid "Activating..."
+msgstr "Aktiverar …"
+
+#. translators: %s - Lite plugin download URL.
+#: src/inc/Admin/SMTPTab.php:319
+msgid "Could not activate the plugin. Please activate it on the <a href=\"%s\">Plugins page</a>."
+msgstr "Kunde inte aktivera tillägget. Aktivera det på <a href=\"%s\">tilläggssidan</a>."
+
+#. translators: %s - Lite plugin download URL.
+#: src/inc/Admin/SMTPTab.php:307
+msgid "Could not install the plugin automatically. Please <a href=\"%s\">download</a> it and install it manually."
+msgstr "Kunde inte installera tillägget automatiskt. <a href=\"%s\">Ladda ner</a> det och installera det manuellt."
+
+#: src/inc/Admin/SMTPTab.php:239
+msgid "Plugin unavailable."
+msgstr "Tillägg otillgänglig."
+
+#: src/inc/Admin/SMTPTab.php:230
+msgid "You do not have permission."
+msgstr "Du har inte behörighet."
+
+#: src/inc/Admin/SMTPTab.php:212
+msgid "Could not activate the plugin. Please activate it on the Plugins page."
+msgstr "Kunde inte aktivera tillägget. Aktivera det från tilläggssidan."
+
+#: src/inc/Admin/SMTPTab.php:209
+msgid "Plugin activated."
+msgstr "Tillägg aktiverat."
+
+#: src/inc/Admin/SMTPTab.php:197
+msgid "Plugin activation is disabled for you on this site."
+msgstr "Aktivering av tillägg är inaktiverat för dig på denna webbplats."
+
+#: src/inc/Admin/SMTPTab.php:176
+msgid "Plugin installed & activated."
+msgstr "Tillägg installerat och aktiverat."
+
+#: src/inc/Admin/SMTPTab.php:163
+msgid "Plugin installed."
+msgstr "Tillägg installerat."
+
+#: src/inc/Admin/SMTPTab.php:108
+msgid "Could not install the plugin. Please download and install it manually."
+msgstr "Kan inte installera tillägget. Ladda ner och installera det manuellt."
+
+#: src/inc/Admin/SMTPTab.php:102 src/inc/Admin/SMTPTab.php:201
+msgid "There was an error while performing your request."
+msgstr "Ett fel inträffade när din begäran genomfördes."
+
+#: src/inc/Admin/SettingsTab.php:349
+msgid "Reset to Default"
+msgstr "Återställ till standard"
+
+#: src/inc/Admin/SettingsTab.php:346
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: src/inc/Admin/EmailLogsTab.php:417
+msgid "Get WP Mail SMTP Pro"
+msgstr "Skaffa WP Mail SMTP Pro"
+
+#. Author URI of the plugin
+msgid "https://github.com/awesomemotive/wp-mail-logging"
+msgstr "https://github.com/awesomemotive/wp-mail-logging"
+
+#. Author of the plugin
+msgid "WP Mail Logging Team"
+msgstr "WP Mail Logging Team"
+
+#: src/inc/Admin/EmailLogsTab.php:351
+msgid "Email Reports"
+msgstr "E-postrapporter"
+
+#: src/inc/Admin/EmailLogsTab.php:335
+msgid "See delivery status"
+msgstr "Se leveransstatus"
+
+#: src/inc/Admin/EmailLogsTab.php:333 src/inc/Admin/EmailLogsTab.php:433
+msgid "Email Logs"
+msgstr "E-postloggar"
+
+#: src/inc/Admin/EmailLogsTab.php:280 src/inc/Admin/SMTPTab.php:532
+msgid "Install WP Mail SMTP"
+msgstr "Installera WP Mail SMTP"
+
+#: src/inc/Admin/SettingsTab.php:335
+msgid "Delete email logs after this many days."
+msgstr "Ta bort e-postloggar efter så här många dagar."
+
+#: src/inc/Admin/SettingsTab.php:267
+msgid "Display Attachments"
+msgstr "Visa bilagor"
+
+#: src/inc/Admin/EmailLogsTab.php:413
+msgid "Take Your Email Logs to the Next level"
+msgstr "Ta dina e-postloggar till nästa nivå"
+
+#: src/inc/Admin/SettingsTab.php:203
+msgid "Change your WP Mail Logging settings."
+msgstr "Ändra dina inställningar för WP Mail Logging."
+
+#: src/inc/Admin/EmailLogsTab.php:344
+msgid "Review technical details"
+msgstr "Granska tekniska detaljer"
+
+#: src/WPML_UserFeedback.php:148
+msgid "I already did"
+msgstr "Jag har redan gjort det"
+
+#: src/WPML_UserFeedback.php:146
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: src/WPML_UserFeedback.php:143
+msgid "OK, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: src/WPML_UserFeedback.php:132
+msgid "No thanks"
+msgstr "Nej tack"
+
+#: src/WPML_UserFeedback.php:127
+msgid "Give Feedback"
+msgstr "Ge feedback"
+
+#: src/WPML_UserFeedback.php:118
+msgid "Not Really"
+msgstr "Inte riktigt"
+
+#: src/WPML_Plugin.php:421 src/WPML_UserFeedback.php:116
+msgid "Yes"
+msgstr "Ja"
+
+#: src/WPML_UserFeedback.php:113
+msgid "Are you enjoying WP Mail Logging?"
+msgstr "Gillar du WP Mail Logging?"
+
+#: src/WPML_UserFeedback.php:138
+msgid "~ WP Mail Logging team"
+msgstr "~ teamet bakom WP Mail Logging"
+
+#: src/WPML_UserFeedback.php:122
+msgid "We're sorry to hear you aren't enjoying WP Mail Logging. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Vad tråkigt att du inte gillar WP Mail Logging. Vi skulle bli glada om vi fick en chans att förbättra det. Kan du ägna en minut för att låta oss veta vad vi kan göra bättre?"
+
+#: src/WPML_OptionsManager.php:406 src/WPML_OptionsManager.php:407
+#: src/WPML_Plugin.php:291
+msgid "Email Log"
+msgstr "E-postlogg"
+
+#: src/WPML_PrivacyController.php:101
+msgid "Mails"
+msgstr "E-postmeddelanden"
+
+#. Plugin Name of the plugin
+#: src/WPML_OptionsManager.php:360 src/WPML_OptionsManager.php:397
+#: src/WPML_OptionsManager.php:398 src/WPML_PrivacyController.php:54
+#: src/WPML_PrivacyController.php:62
+msgid "WP Mail Logging"
+msgstr "WP Mail Logging"
+
+#: wp-mail-logging.php:34
+msgid "Your server's PHP version: "
+msgstr "Din servers PHP-version: "
+
+#: wp-mail-logging.php:33
+msgid "Minimal version of PHP required: "
+msgstr "Minsta version av PHP som krävs: "
+
+#. translators: %s: Date time in WP format.
+#: src/inc/Admin/SettingsTab.php:220
+msgid "Use format from WordPress settings (%s)"
+msgstr "Använd format från WordPress-inställningar (%s)"
+
+#: src/inc/Admin/SettingsTab.php:202
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: src/inc/class-wp-list-table.php:720
+msgid "Select All"
+msgstr "Välj alla"
+
+#: src/inc/class-wp-list-table.php:584
+msgid "Go to the last page"
+msgstr "Gå till sista sidan"
+
+#: src/inc/class-wp-list-table.php:577
+msgid "Go to the next page"
+msgstr "Gå till nästa sida"
+
+#: src/inc/class-wp-list-table.php:573
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s av %2$s"
+
+#: src/inc/class-wp-list-table.php:567
+msgid "Current page"
+msgstr "Nuvarande sida"
+
+#: src/inc/class-wp-list-table.php:558
+msgid "Go to the previous page"
+msgstr "Gå till föregående sida"
+
+#: src/inc/class-wp-list-table.php:551
+msgid "Go to the first page"
+msgstr "Gå till första sidan"
+
+#: src/inc/class-wp-list-table.php:439
+msgid "Excerpt View"
+msgstr "Utdragsvy"
+
+#: src/inc/class-wp-list-table.php:438
+msgid "List View"
+msgstr "Listvy"
+
+#. translators: 1: month name, 2: 4-digit year
+#: src/inc/class-wp-list-table.php:422
+msgid "%1$s %2$d"
+msgstr "%1$s %2$d"
+
+#: src/inc/class-wp-list-table.php:409
+msgid "Show all dates"
+msgstr "Visa alla datum"
+
+#: src/inc/class-wp-list-table.php:325
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: src/inc/class-wp-list-table.php:315
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: src/WPML_OptionsManager.php:602
+msgid "Anyone"
+msgstr "Vem som helst"
+
+#: src/WPML_OptionsManager.php:600
+msgid "Subscriber"
+msgstr "Prenumerant"
+
+#: src/WPML_OptionsManager.php:598
+msgid "Contributor"
+msgstr "Bidragslämnare"
+
+#: src/WPML_OptionsManager.php:596
+msgid "Author"
+msgstr "Författare"
+
+#: src/WPML_OptionsManager.php:594
+msgid "Editor"
+msgstr "Redaktör"
+
+#: src/WPML_OptionsManager.php:592
+msgid "Administrator"
+msgstr "Administratör"
+
+#: src/WPML_OptionsManager.php:589
+msgid "false"
+msgstr "falskt"
+
+#: src/WPML_OptionsManager.php:587
+msgid "true"
+msgstr "sant"
+
+#: src/inc/Admin/EmailLogsTab.php:526 src/WPML_OptionsManager.php:562
+msgid "Search"
+msgstr "Sök"
+
+#: src/WPML_OptionsManager.php:509 src/WPML_OptionsManager.php:547
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte tillräckliga behörigheter för att komma åt denna sida."
+
+#: src/WPML_OptionsManager.php:374
+msgid "Entries per page"
+msgstr "Inlägg per sida"
+
+#: src/WPML_LifeCycle.php:204 src/WPML_OptionsManager.php:417
+#: src/WPML_OptionsManager.php:418 src/WPML_Plugin.php:301
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/Renderer/Format/BaseRenderer.php:53
+#: src/Renderer/WPML_ColumnManager.php:35
+msgid "Host"
+msgstr "Webbhotell"
+
+#: src/Renderer/Format/BaseRenderer.php:44
+#: src/Renderer/WPML_ColumnManager.php:39
+msgid "Error"
+msgstr "Fel"
+
+#: src/Renderer/Format/BaseRenderer.php:47
+#: src/Renderer/WPML_ColumnManager.php:38
+msgid "Attachments"
+msgstr "Bilagor"
+
+#: src/inc/Admin/EmailLogsTab.php:481 src/Renderer/Format/BaseRenderer.php:46
+#: src/WPML_Email_Log_List.php:511
+msgid "Message"
+msgstr "Meddelande"
+
+#: src/Renderer/Format/BaseRenderer.php:43
+#: src/Renderer/WPML_ColumnManager.php:37
+msgid "Subject"
+msgstr "Ämne"
+
+#: src/Renderer/Format/BaseRenderer.php:42
+#: src/Renderer/WPML_ColumnManager.php:36
+msgid "Receiver"
+msgstr "Mottagare"
+
+#: src/Renderer/Format/BaseRenderer.php:41
+#: src/Renderer/WPML_ColumnManager.php:34
+msgid "Time"
+msgstr "Tid"
+
+#: src/Renderer/WPML_ColumnManager.php:33
+msgid "ID"
+msgstr "ID"
+
+#: src/WPML_Email_Log_List.php:330
+msgid "No email found."
+msgstr "Ingen e-post hittades."
+
+#: src/Renderer/Format/BaseRenderer.php:45
+msgid "Headers"
+msgstr "Rubriker"
+
+#: src/inc/Admin/SettingsTab.php:289
+msgid "Cleanup"
+msgstr "Rensa upp"
+
+#: src/inc/Admin/SettingsTab.php:326
+msgid "Cleanup by Time"
+msgstr "Rensa upp efter tid"
+
+#: src/inc/Admin/SettingsTab.php:240
+msgid "Default Format for Message"
+msgstr "Standardformat för meddelande"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-mail-logging/"
+msgstr "https://wordpress.org/plugins/wp-mail-logging/"
+
+#: src/inc/Admin/SettingsTab.php:238
+msgid "Select your preferred display format."
+msgstr "Välj ditt föredragna visningsformat."
+
+#: wp-mail-logging.php:32
+msgid "Error: plugin \"WP Mail Logging\" requires a newer version of PHP to be running."
+msgstr "Fel: tillägget \"”WP Mail Logging” kräver en nyare version av PHP för att köras."
+
+#: src/inc/class-wp-list-table.php:191
+msgid "No items found."
+msgstr "Inga objekt hittades."
+
+#: src/inc/class-wp-list-table.php:465
+msgid "%s pending"
+msgstr "%s inväntar granskning"
+
+#: src/inc/class-wp-list-table.php:533 src/inc/class-wp-list-table.php:948
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 objekt"
+msgstr[1] "%s objekt"
+
+#: src/inc/Admin/SettingsTab.php:256
+msgid "Display Host"
+msgstr "Visa server"
+
+#. translators: %s filename of the attachment that doesn't exist.
+#: src/Renderer/Column/AttachmentsColumn.php:50
+#: src/Renderer/Column/AttachmentsColumn.php:81
+msgid "Attachment %s is not present"
+msgstr "Bilagan %s finns inte"
+
+#: src/WPML_OptionsManager.php:359
+msgid "WP Mail Log"
+msgstr "WP e-postlogg"
+
+#: src/inc/Admin/SettingsTab.php:211
+msgid "Can See Submission data"
+msgstr "Kan se insänd data"
+
+#: src/inc/Admin/SettingsTab.php:297
+msgid "Log Rotation"
+msgstr "Återanvändning av logg"
+
+#: src/inc/Admin/SettingsTab.php:298
+msgid "Save space by deleting logs regularly."
+msgstr "Spara utrymme genom att regelbundet radera loggfiler."
+
+#. Description of the plugin
+msgid "Logs each email sent by WordPress."
+msgstr "Loggar varje e-postmeddelande som WordPress skickar."
+
+#: src/inc/Admin/SettingsTab.php:435
+msgid "Off"
+msgstr "Av"
+
+#: src/inc/Admin/SettingsTab.php:434
+msgid "On"
+msgstr "På"
+
+#: src/Model/Email_Log_Collection.php:482
+msgid "All"
+msgstr "Alla"
+
+#: src/inc/Admin/SettingsTab.php:137 src/inc/Admin/SettingsTab.php:154
+msgid "Settings saved!"
+msgstr "Inställningar sparade!"
+
+#: src/WPML_Plugin.php:422
+msgid "Cancel"
+msgstr "Cancel"

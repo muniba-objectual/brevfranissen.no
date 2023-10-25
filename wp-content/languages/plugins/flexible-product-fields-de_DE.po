@@ -1,0 +1,996 @@
+# Translation of Plugins - Flexible Product Fields (WooCommerce Product Addons) &#8211; WooCommerce Product Page Editor - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Flexible Product Fields (WooCommerce Product Addons) &#8211; WooCommerce Product Page Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-13 13:29:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Flexible Product Fields (WooCommerce Product Addons) &#8211; WooCommerce Product Page Editor - Stable (latest release)\n"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:70
+msgid "Current settings and usage information of %1$s plugins"
+msgstr "Aktuelle Einstellungen und Nutzungsinformationen von %1$s Plugins"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/OptOut.php:41
+msgid "You successfully opted out of collecting usage data by %1$s. If you change your mind, you can always opt in later in the plugin's quick links."
+msgstr "Du hast dich bis %1$s erfolgreich gegen die Erfassung von Nutzungsdaten entschieden. Wenn du deine Meinung änderst, kannst du dich später über die Quicklinks des Plugins wieder anmelden."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker_With_Update_Disable.php:29
+msgid "The &#8220;%s&#8221; plugin is temporarily disabled since the required %s plugin is being upgraded."
+msgstr "Das Plugin &#8220;%s&#8221; ist vorübergehend deaktiviert, da das erforderliche %s Plugin gerade aktualisiert wird."
+
+#: vendor_prefixed/wpdesk/ltv-dashboard-widget/src/DashboardWidget.php:103
+msgid "Buy now"
+msgstr "Jetzt kaufen"
+
+#: vendor_prefixed/wpdesk/ltv-dashboard-widget/src/DashboardWidget.php:101
+msgid "More info"
+msgstr "Weitere Informationen"
+
+#: vendor_prefixed/wpdesk/ltv-dashboard-widget/src/DashboardWidget.php:18
+msgid "Grow your business with WP Desk"
+msgstr "Lass dein Business mit WP Desk wachsen"
+
+#: templates/notices/flexible-wishlist.php:44
+msgid "Do not show again"
+msgstr "Nicht noch mal anzeigen"
+
+#: templates/notices/flexible-wishlist.php:40
+msgid "Try for free"
+msgstr "Kostenlos ausprobieren"
+
+#. translators: %1$s: open strong tag, %2$s: open strong tag, %3$s: heart icon,
+#. %4$s: open anchor tag, %5$s: open anchor tag
+#: templates/notices/flexible-wishlist.php:27
+msgid "Introducing our new %1$sWooCommerce Wishlist plugin%2$s %3$s It's lightweight. It's free. Fits any theme. 100%% customizable and flexible. %4$sRead more%5$s and try it now. Uninstall any time with just one click."
+msgstr "Wir stellen unser neues %1$sWooCommerce Wishlist Plugin%2$s vor %3$s Es ist leichtgewichtig. Es ist kostenlos. Passt zu jedem Theme. 100%% anpassbar und flexibel. %4$sLies mehr%5$s und probiere es jetzt aus. Deinstalliere sie jederzeit mit nur einem Klick."
+
+#: templates/notices/flexible-wishlist.php:20
+msgid "New free plugin by WP Desk: Flexible Wishlist for WooCommerce"
+msgstr "Neues kostenloses Plugin von WP Desk: Flexible Wishlist for WooCommerce"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/templates/modal.php:122
+msgid "Skip and Deactivate"
+msgstr "Überspringen und deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/templates/modal.php:113
+msgid "Submit and Deactivate"
+msgstr "Absenden und deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/FormTemplate.php:28
+msgid "If you have a moment, please let us know why you are deactivating plugin (anonymous feedback):"
+msgstr "Wenn du einen Moment Zeit hast, lass uns bitte wissen, warum du das Plugin deaktiviert hast (anonymes Feedback):"
+
+#. translators: %1$s: plugin name
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/FormTemplate.php:25
+msgid "You are deactivating %1$s plugin"
+msgstr "Du deaktivierst %1$s das Plugin"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:285
+msgid "The &#8220;%1$s&#8221; plugin requires at least %2$s version of %3$s to work correctly. Please update it to its latest release."
+msgstr "Die &#8220;%1$s&#8221; Das Plugin benötigt mindestens die Version %2$s von %3$s, um ordnungsgemäß zu funktionieren. Bitte aktualisiere die genannte Komponente auf die aktuelle Version."
+
+#. translators: %$1s: love icon, %$2s: anchor opening tag, %$3s: anchor closing
+#. tag, %$4s: anchor opening tag, %$5s: anchor closing tag
+#: templates/views/admin-page.php:28
+msgid "Created with %1$s by Rangers from %2$sWP Desk%3$s - if you like FPF %4$srate us%5$s"
+msgstr "Erstellt mit %1$s von Rangers von %2$sWP Desk%3$s - wenn du FPF magst %4$sbewerte uns%5$s"
+
+#: templates/notices/review.php:39
+msgid "I added review, do not show again"
+msgstr "Bewertung hinzugefügt, nicht mehr anzeigen"
+
+#: templates/notices/review.php:35
+msgid "Add review"
+msgstr "Bewertung hinzufügen"
+
+#. translators: %1$s: dashicon, %2$s: break-line tag
+#: templates/notices/review.php:24
+msgid "We are glad that (with our little help %1$s) the shop is now better suited to the needs. We will be grateful for the rating and feedback. %2$sIt will take less than reading this and it will help us a lot!"
+msgstr "Wir freuen uns, dass (mit unserer kleinen Hilfe %1$s) der Shop jetzt besser auf die Bedürfnisse abgestimmt ist. Wir sind dankbar für die Bewertung und das Feedback. %2$sEs wird weniger dauern, als dies zu lesen, und es wird uns sehr helfen!"
+
+#: templates/notices/review.php:17
+msgid "Thanks for using the free version of Flexible Product Fields!"
+msgstr "Danke, dass du die kostenlose Version von Flexible Product Fields benutzt!"
+
+#: templates/fields/multi-checkbox.php:30
+msgid "Limit: %s."
+msgstr "Maximum: %s."
+
+#: templates/fields/multi-checkbox.php:27
+msgid "Minimum: %s."
+msgstr "Minimum: %s."
+
+#: templates/fields/file.php:55
+msgid "Delete"
+msgstr "Löschen"
+
+#: templates/fields/file.php:45
+msgid "Uploading..."
+msgstr "Hochladen…"
+
+#: templates/fields/file.php:42
+msgid "Select File or Drag & Drop"
+msgstr "Wähle Datei oder Drag-and-Drop"
+
+#: templates/fields/file.php:27
+msgid "An unknown error has occurred. Try again."
+msgstr "Es ist ein unbekannter Fehler aufgetreten. Bitte versuche es erneut."
+
+#: templates/config/button-save.php:27
+msgid "Save product config"
+msgstr "Produktkonfiguration speichern"
+
+#. translators: %1$s: link opening tag, %2$s: link closing tag
+#: templates/config/button-save.php:19
+msgid "This button is visible to the Store Admin and no one else. More information about generating a link to a predefined product configuration can be found in %1$s[the documentation]%2$s."
+msgstr "Diese Schaltfläche ist für den Shop-Administrator und niemanden sonst sichtbar. Weitere Informationen zum Generieren eines Links zu einer vordefinierten Produktkonfiguration findest du in %1$s[der Dokumentation]%2$s."
+
+#. translators: %s: field label
+#: src/Validation/Rule/WeekDaysExcludedRule.php:38
+msgid "%s has a date with an excluded day of the week."
+msgstr "%s hat ein Datum mit einem ausgeschlossenen Wochentag."
+
+#. translators: %1$s: field label
+#: src/Validation/Rule/UrlAddressRule.php:35
+msgid "The URL address provided is not valid for the %1$s field."
+msgstr "Die angegebene URL-Adresse ist für das Feld %1$s nicht gültig."
+
+#. translators: %s: field label
+#: src/Validation/Rule/TodayMaxHourRule.php:39
+msgid "%s has a current date that is no longer available."
+msgstr "%s hat ein aktuelles Datum, das nicht mehr verfügbar ist."
+
+#. translators: %1$s: field label, %2$s: minute step value
+#: src/Validation/Rule/TimeStepMinuteRule.php:35
+msgid "%1$s is not within the time interval of %2$s minutes."
+msgstr "%1$s liegt nicht innerhalb des Zeitintervalls von %2$s Minuten."
+
+#. translators: %s: field label
+#: src/Validation/Rule/TimeFormatRule.php:35
+msgid "%s has an invalid time format."
+msgstr "%s hat ein ungültiges Zeitformat."
+
+#. translators: %1$s: field label, %2$s: minimum of values
+#: src/Validation/Rule/SelectedMinimumRule.php:30
+msgid "The number of selected options for the %1$s is field less than required %2$s."
+msgstr "Die Anzahl der ausgewählten Optionen für das %1$s-Feld ist kleiner als die erforderlichen %2$s."
+
+#. translators: %1$s: field label, %2$s: minimum of values
+#: src/Validation/Rule/SelectedMaximumRule.php:30
+msgid "The number of selected options for the %1$s is field greater than allowed %2$s."
+msgstr "Die Anzahl der ausgewählten Optionen für das %1$s-Feld ist größer als die zulässigen %2$s."
+
+#. translators: %s: field label
+#: src/Validation/Rule/RequiredRule.php:27
+msgid "%s is required field."
+msgstr "%s ist ein Pflichtfeld."
+
+#. translators: %1$s: field label
+#: src/Validation/Rule/EmailAddressRule.php:31
+msgid "The e-mail address provided is not valid for the %1$s field."
+msgstr "Die angegebene E-Mail-Adresse ist für das Feld %1$s nicht gültig."
+
+#. translators: %s: field label
+#: src/Validation/Rule/DaysLimitRule.php:33
+msgid "%s has too many dates."
+msgstr "%s hat zu viele Daten."
+
+#. translators: %s: field label
+#: src/Validation/Rule/DaysBeforeRule.php:39
+msgid "%s has a date set too early."
+msgstr "%s hat ein zu frühes Datum."
+
+#. translators: %s: field label
+#: src/Validation/Rule/DaysAfterRule.php:39
+msgid "%s has a date set too late."
+msgstr "%s hat ein zu spätes Datum."
+
+#. translators: %s: field label
+#: src/Validation/Rule/DatesExcludedRule.php:44
+msgid "%s has an excluded date."
+msgstr "%s hat ein ausgeschlossenes Datum."
+
+#. translators: %s: field label
+#: src/Validation/Rule/DateFormatRule.php:41
+msgid "%s has an invalid date format."
+msgstr "%s hat ein ungültiges Datumsformat."
+
+#. translators: %1$s: field label
+#: src/Validation/Rule/ColorHexRule.php:30
+msgid "The value provided is not valid for the %1$s field."
+msgstr "Der angegebene Wert ist für das Feld %1$s nicht gültig."
+
+#: src/Tracker/DeactivationTracker.php:118
+msgid "Please tell us what made you click this option."
+msgstr "Bitte sag uns, warum du auf diese Option geklickt hast."
+
+#: src/Tracker/DeactivationTracker.php:109
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:21
+msgid "It's a temporary deactivation (I'm just debugging an issue)"
+msgstr "Es ist eine vorübergehende Deaktivierung (ich debugge nur ein Problem)"
+
+#: src/Tracker/DeactivationTracker.php:102
+msgid "What is the reason for that?"
+msgstr "Was ist der Grund dafür?"
+
+#: src/Tracker/DeactivationTracker.php:100
+msgid "The plugin is no longer needed"
+msgstr "Das Plugin wird nicht mehr benötigt"
+
+#: src/Tracker/DeactivationTracker.php:93
+msgid "Please write what plugin is it and what was the reason for choosing it."
+msgstr "Bitte sag uns, um welches Plugin es sich handelt und warum du es ausgewählst hast."
+
+#: src/Tracker/DeactivationTracker.php:84
+msgid "Please write what function is missing."
+msgstr "Bitte sag uns, welche Funktion fehlt."
+
+#: src/Tracker/DeactivationTracker.php:82
+msgid "The plugin does not meet all the requirements"
+msgstr "Das Plugin erfüllt nicht alle Anforderungen"
+
+#: src/Tracker/DeactivationTracker.php:75
+msgid "How can we do it better? Please write what was problematic."
+msgstr "Wie können wir es besser machen? Bitte sag uns, was problematisch war."
+
+#: src/Tracker/DeactivationTracker.php:69
+msgid "Check %1$sthe documentation%2$s or contact us on %3$sthe support forum%4$s for help."
+msgstr "Siehe %1$sdie Dokumentation%2$s oder kontaktieren uns im %3$sSupport-Forum%4$s, um Hilfe zu erhalten."
+
+#: src/Tracker/DeactivationTracker.php:67
+msgid "The plugin is difficult to use"
+msgstr "Das Plugin ist schwierig zu bedienen"
+
+#: src/Tracker/DeactivationTracker.php:60
+msgid "Please tell us what was the problem."
+msgstr "Bitte teile uns mit, was das Problem war."
+
+#: src/Tracker/DeactivationTracker.php:54
+msgid "Contact us on %1$sthe support forum%2$s or read %3$sthe plugin FAQ%4$s for help."
+msgstr "Kontaktiere uns im %1$sSupport-Forum%2$s oder lese %3$sdie Plugin-FAQ%4$s, um Hilfe zu erhalten."
+
+#: src/Tracker/DeactivationTracker.php:52
+msgid "The plugin does not work properly"
+msgstr "Das Plugin funktioniert nicht richtig"
+
+#: src/Settings/Validation/Error/InvalidOptionValueError.php:14
+msgid "Allowed characters: letters, numbers and underscore."
+msgstr "Erlaubte Zeichen: Buchstaben, Zahlen und Unterstrich."
+
+#. translators: %1$s: anchor opening tag, %2$s: anchor closing tag
+#: src/Settings/Validation/Error/GroupAssignProError.php:17
+msgid "This option is available in the PRO version. %1$sUpgrade to PRO%2$s"
+msgstr "Diese Option ist verfügbar in der PRO Version. %1$sUpgrade auf PRO%2$s"
+
+#: src/Settings/Tab/PricingTab.php:23
+msgid "Pricing"
+msgstr "Preise"
+
+#: src/Settings/Tab/GeneralTab.php:23
+msgid "General"
+msgstr "Allgemein"
+
+#: src/Settings/Tab/AdvancedTab.php:23
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: src/Settings/Route/RouteIntegration.php:76
+msgid "An unknown error occurred while processing the request."
+msgstr "Beim Verarbeiten der Anfrage ist ein unbekannter Fehler aufgetreten."
+
+#: src/Settings/Page.php:174
+msgid "The field has been added!"
+msgstr "Das Feld wurde hinzugefügt!"
+
+#. translators: %1$s: break-line tag, %2$s: anchor opening tag, %3$s: anchor
+#. closing tag
+#: src/Settings/Page.php:169
+msgid "Add fields using the settings at the bottom. Then it will be possible to edit the fields. %1$s%2$sRead the documentation%3$s"
+msgstr "Füge Felder mit den Einstellungen unten hinzu. Anschließend können die Felder bearbeitet werden. %1$s%2$sDokumentation lesen%3$s"
+
+#: src/Settings/Page.php:166
+msgid "Are you sure you want to delete this field? Deleting a field will remove it from all orders."
+msgstr "Möchtest du dieses Feld wirklich löschen? Wenn du ein Feld löschtest, wird es aus allen Bestellungen entfernt."
+
+#. translators: %1$s: break line, %2$s: anchor opening tag, %3$s: anchor
+#. closing tag
+#: src/Settings/Page.php:161
+msgid "This field is available in the PRO version.%1$s %2$sUpgrade to PRO%3$s"
+msgstr "Dieses Feld ist verfügbar in der PRO Version.%1$s %2$sUpgrade auf PRO%3$s"
+
+#: src/Settings/Page.php:158
+msgid "No options."
+msgstr "Keine Optionen."
+
+#: src/Settings/Page.php:157
+msgid "Loading..."
+msgstr "Wird geladen …"
+
+#: src/Settings/Page.php:156
+msgid "Start typing to search..."
+msgstr "Suche durch Tippen beginnen…"
+
+#: src/Settings/Page.php:154
+msgid "Field name should contains only lowercase letters, numbers and underscore sign."
+msgstr "Der Feldname sollte nur Kleinbuchstaben, Zahlen und Unterstriche enthalten."
+
+#: src/Settings/Page.php:153
+msgid "This value is too long."
+msgstr "Dieser Wert ist zu lang."
+
+#: src/Settings/Page.php:152
+#: src/Settings/Validation/Error/FieldRequiredError.php:14
+msgid "This field is required."
+msgstr "Dies ist ein Pflichtfeld."
+
+#: src/Settings/Page.php:151
+msgid "Name"
+msgstr "Name"
+
+#: src/Settings/Page.php:148
+msgid "Select color"
+msgstr "Farbe auswählen"
+
+#: src/Settings/Page.php:147
+msgid "Upload image"
+msgstr "Bild hochladen"
+
+#: src/Settings/Page.php:146
+msgid "No"
+msgstr "Nein"
+
+#: src/Settings/Page.php:144
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: src/Settings/Page.php:143
+msgid "Reset Section Settings"
+msgstr "Abschnittseinstellungen zurücksetzen"
+
+#: src/Settings/Page.php:138
+msgid "Add new field"
+msgstr "Neues Feld hinzufügen"
+
+#: src/Settings/Page.php:93
+msgid "Other Fields"
+msgstr "Weitere Felder"
+
+#: src/Settings/Page.php:89
+msgid "Picker Fields"
+msgstr "Auswahlfelder"
+
+#: src/Settings/Page.php:85
+msgid "Option Fields"
+msgstr "Optionsfelder"
+
+#: src/Settings/Page.php:81
+msgid "Text Fields"
+msgstr "Textfelder"
+
+#: src/Settings/Option/ValueStepOption.php:39
+msgid "Step value"
+msgstr "Schritt-Wert"
+
+#: src/Settings/Option/ValueOption.php:63 src/Settings/Page.php:145
+msgid "Yes"
+msgstr "Ja"
+
+#: src/Settings/Option/ValueOption.php:47
+msgid "Enter the text that will appear next to the label if the user selects this field. The text will be visible e.g. in the Cart instead of the selected box."
+msgstr "Gib den Text ein, der neben dem Label angezeigt wird, wenn der Benutzer dieses Feld auswählt. Der Text wird z.B. im Warenkorb anstelle der ausgewählten Box angezeigt."
+
+#: src/Settings/Option/ValueOption.php:40
+msgid "Label when checked"
+msgstr "Label, wenn aktiviert"
+
+#: src/Settings/Option/ValueMinOption.php:39
+msgid "Min value"
+msgstr "Mindestwert"
+
+#: src/Settings/Option/ValueMaxOption.php:39
+msgid "Max value"
+msgstr "Maximalwert"
+
+#: src/Settings/Option/TooltipOption.php:46
+msgid "Enter the hint text that will appear after hovering over the [?] icon next to the field label."
+msgstr "Gib den Hinweistext ein, der angezeigt wird, nachdem der Mauszeiger über das Symbol [?] neben dem Feldlabel bewegt wird."
+
+#: src/Settings/Option/TooltipOption.php:39
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: src/Settings/Option/SelectedMinOption.php:46
+msgid "Check the \"Required field\" option in the \"General\" tab for the following setting to work."
+msgstr "Aktiviere die Option „Pflichtfeld“ auf der Registerkarte „Allgemein“, damit die folgende Einstellung funktioniert."
+
+#: src/Settings/Option/SelectedMinOption.php:39
+msgid "Minimum of selected values"
+msgstr "Minimale Anzahl ausgewählter Werte"
+
+#: src/Settings/Option/SelectedMaxOption.php:39
+msgid "Maximum number of selected values"
+msgstr "Maximale Anzahl ausgewählter Werte"
+
+#: src/Settings/Option/PreviewWidthOption.php:39
+msgid "Single item width in px"
+msgstr "Einzelelementbreite in px"
+
+#: src/Settings/Option/PreviewLabelOption.php:39
+msgid "Hide labels for Options"
+msgstr "Label für Optionen ausblenden"
+
+#: src/Settings/Option/OptionsOption.php:53
+msgid "Enter a value and a label for each field option. The value will not be visible in the form. The label will be visible."
+msgstr "Gib für jede Feldoption einen Wert und ein Label ein. Der Wert ist im Formular nicht sichtbar. Das Label wird sichtbar."
+
+#. translators: %s row index
+#: src/Settings/Option/OptionsCheckboxOption.php:56
+#: src/Settings/Option/OptionsOption.php:63
+msgid "Option #%s"
+msgstr "Option #%s"
+
+#: src/Settings/Option/MinuteStepOption.php:39
+msgid "Step minute"
+msgstr "Minutenschritt"
+
+#: src/Settings/Option/ImageWidthOption.php:40
+msgid "Image width (in pixels)"
+msgstr "Bildbreite (in Pixel)"
+
+#: src/Settings/Option/Hour12ClockOption.php:39
+msgid "Use 12-hour clock"
+msgstr "12-Stunden-Uhr verwenden"
+
+#: src/Settings/Option/FieldNameOption.php:46
+msgid "Field name"
+msgstr "Feldname"
+
+#: src/Settings/Option/FieldLabelOption.php:40
+msgid "Field label"
+msgstr "Feldbeschriftung"
+
+#: src/Settings/Option/DefaultCheckedOption.php:39
+msgid "Checked by default"
+msgstr "Standardmäßig aktiviert"
+
+#: src/Settings/Option/CssOption.php:46
+msgid "Enter CSS classes separated by a space."
+msgstr "Gib die CSS-Klassen getrennt durch ein Leerzeichen ein."
+
+#: src/Field/Type/UrlType.php:38
+msgid "URL"
+msgstr "URL"
+
+#: src/Field/Type/TimeType.php:48
+msgid "Time"
+msgstr "Zeit"
+
+#: src/Field/Type/RadioImagesType.php:54
+msgid "Radio with images"
+msgstr "Radio Button mit Bild"
+
+#: src/Field/Type/RadioColorsType.php:54
+msgid "Radio with colors"
+msgstr "Radio Button mit Farbe"
+
+#: src/Field/Type/ParagraphType.php:33
+msgid "Paragraph"
+msgstr "Absatz"
+
+#: src/Field/Type/NumberType.php:42
+msgid "Number"
+msgstr "Nummer"
+
+#: src/Field/Type/MultiselectType.php:45
+msgid "Multi-select"
+msgstr "Mehrfachauswahl"
+
+#: src/Field/Type/MultiCheckboxType.php:43
+msgid "Multi-checkbox"
+msgstr "Merchfach-Checkbox"
+
+#: src/Field/Type/ImageType.php:35 src/Settings/Option/ImageOption.php:49
+#: src/Settings/Option/OptionsImageOption.php:49
+msgid "Image"
+msgstr "Bild"
+
+#: src/Field/Type/HtmlType.php:32
+msgid "HTML"
+msgstr "HTML"
+
+#: src/Field/Type/FileType.php:25
+msgid "File Upload"
+msgstr "Datei-Upload"
+
+#: src/Field/Type/EmailType.php:38
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: src/Field/Type/ColorType.php:46
+#: src/Settings/Option/OptionsColorOption.php:49
+msgid "Color"
+msgstr "Farbe"
+
+#: classes/views/admin-head-edit.php:19 classes/views/upgrade-now-content.php:7
+msgid "New field: File Upload"
+msgstr "Neues Feld: Datei Upload"
+
+#: classes/fpf-post-type.php:125 src/Settings/FieldsGroup.php:44
+#: src/Settings/Option/GroupAssignOption.php:56
+msgid "Tag"
+msgstr "Schlagwort"
+
+#. Description of the plugin
+msgid "The plugin allows customers to configure the product using texts, numbers, dropdowns and multi-dropdowns, radio buttons and checkboxes."
+msgstr "Das Plugin ermöglicht es Kunden, das Produkt mit Texten, Zahlen, Dropdowns und Multi-Dropdowns, Optionsfeldern und Kontrollkästchen zu konfigurieren."
+
+#. translators: %s: field label
+#: src/Validation/Rule/OptionRule.php:39
+msgid "%s has invalid value."
+msgstr "%s hat einen ungültigen Wert."
+
+#: src/Settings/Page.php:142
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:446
+msgid "The &#8220;%s&#8221; plugin requires activating %s plugin. <a href=\"%s\">Activate %s</a>"
+msgstr "Das \"%s\" Plugin erfordert die Aktivierung des %s-Plugins. <a href=\"%s\">Aktivieren %s →</a>"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:440
+msgid "The &#8220;%s&#8221; plugin requires free %s plugin. <a href=\"%s\">Install %s</a>"
+msgstr "Für das Plugin &#8222;%s&#8220; ist das kostenlose Plugin %s erforderlich. <a href=\"%s\">%s Installieren \t</a>"
+
+#: classes/views/rate-it-content.php:2
+msgid "If you want to continue using Flexible Product Fields for free, %splease add a review%s. You will help us support the free version. Thank you."
+msgstr "Wenn du Flexible Product Fields weiterhin kostenlos nutzen möchtest, %sgib bitte eine Bewertung ab%s. Du hilfst uns, die kostenlose Version zu unterstützen. Danke."
+
+#: classes/views/admin-head-edit.php:18 classes/views/upgrade-now-content.php:6
+msgid "New field: Date"
+msgstr "Neues Feld: Datum"
+
+#: classes/fpf-post-type.php:197 classes/views/admin-head-edit.php:31
+msgid "Enjoying the free version? Rate it!"
+msgstr "Nutzest du die kostenlose Version? Bewerte diese!"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:22
+msgid "We need your help to improve <strong>WP Desk plugins</strong>, so they are more useful for you and the rest of <strong>30,000+ users</strong>. By collecting data on how you use our plugins, you will help us a lot. We will not collect any sensitive data, so you can feel safe."
+msgstr "Wir benötigen deine Hilfe, um die <strong>WP-Desk-Plugins</strong> zu verbessern, so dass sie noch nützlicher für dich und den Rest der <strong>30,000+ Benutzer</strong> sind. Indem wir Daten darüber sammeln, wie du unsere Plugins verwendest, hilfst du uns sehr. Wir werden keine sensiblen Daten sammeln, da kannst du dir sicher sein."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:81
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:73
+msgid "Anonymized and non-sensitive store usage information"
+msgstr "Anonymisierte und nicht sensible Speichernutzungsinformationen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:59
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:51
+msgid "WP version, PHP info"
+msgstr "WP Version, PHP Info"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:513
+msgid "The &#8220;%s&#8221; plugin cannot run without %s PHP setting set to %s. Please contact your host and ask them to set %s."
+msgstr "Das Plugin &#8222;%s&#8220; kann nicht ausgeführt werden, ohne dass die PHP-Einstellung %s auf %s festgelegt ist. Bitte kontaktieren deinen Hoster und bitte ihn darum, %s einzustellen."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:488
+msgid "The &#8220;%s&#8221; plugin cannot run without %s PHP module installed. Please contact your host and ask them to install %s."
+msgstr "Das Plugin &#8222;%s&#8220; kann ohne das PHP-Modul %s nicht ausgeführt werden. Bitte kontaktiere deinen Hoster und bitte ihn darum, %s zu installieren."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:391
+msgid "The &#8220;%s&#8221; plugin cannot run without %s active. Please install and activate %s plugin."
+msgstr "Das Plugin &#8222;%s&#8220; funktioniert leider nicht, wenn %s nicht aktiv ist. Bitte installiere und aktiviere das Plugin %s."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:198
+msgid "The &#8220;%s&#8221; plugin cannot run without OpenSSL module version at least %s. Please update OpenSSL module."
+msgstr "Das Plugin &#8222;%s&#8220; benötigt das OpenSSL-Modul in der Mindestversion %s, um laufen zu können. Bitte aktualisiere das OpenSSL-Modul."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:195
+msgid "The &#8220;%s&#8221; plugin cannot run on WooCommerce versions older than %s. Please update WooCommerce."
+msgstr "Das Plugin &#8222;%s&#8220; kann nicht mit WooCommerce-Versionen älter als %s ausgeführt werden. Bitte aktualisiere WooCommerce."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:192
+msgid "The &#8220;%s&#8221; plugin cannot run on WordPress versions older than %s. Please update WordPress."
+msgstr "Das Plugin &#8222;%s&#8220; kann nicht mit WordPress-Versionen älter als %s ausgeführt werden. Bitte aktualisiere WordPress."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:189
+msgid "The &#8220;%s&#8221; plugin cannot run on PHP versions older than %s. Please contact your host and ask them to upgrade."
+msgstr "Das Plugin &#8222;%s&#8220; kann nicht mit PHP-Versionen älter als %s ausgeführt werden. Bitte kontaktiere deinen Hoster und bitte ihn darum, ein Upgrade zu installieren."
+
+#: src/Settings/Tab/LogicTab.php:23
+msgid "Conditional Logic"
+msgstr "Bedingte Logik"
+
+#: src/Settings/Option/LengthMaxOption.php:39
+msgid "Character Limit"
+msgstr "Zeichenbeschränkung"
+
+#: classes/views/documentation-content.php:6
+msgid "Fields Price"
+msgstr "Felder Preis"
+
+#: classes/views/documentation-content.php:5
+msgid "Fields Basic Options"
+msgstr "Felder Basis Optionen"
+
+#: classes/views/documentation-content.php:4
+msgid "Fields Group Configuration"
+msgstr "Feldgruppenkonfiguration"
+
+#: classes/views/documentation-content.php:3
+msgid "Fields Groups List"
+msgstr "Feldgruppen Liste"
+
+#: classes/views/documentation-content.php:2
+msgid "Getting Started"
+msgstr "Erste Schritte"
+
+#: classes/views/admin-head-edit.php:23
+#: classes/views/upgrade-now-content.php:11
+msgid "Upgrade now →"
+msgstr "Upgrade jetzt →"
+
+#: classes/views/admin-head-edit.php:21 classes/views/upgrade-now-content.php:9
+msgid "Assign field groups to categories"
+msgstr "Feldgruppen Kategorien zuweisen"
+
+#: classes/views/admin-head-edit.php:20 classes/views/upgrade-now-content.php:8
+msgid "Assign field groups to all products"
+msgstr "Feldgruppen allen Produkten zuweisen"
+
+#: classes/views/admin-head-edit.php:17 classes/views/upgrade-now-content.php:5
+msgid "Add price to fields"
+msgstr "Preis zu den Feldern hinzufügen"
+
+#: classes/views/admin-head-edit.php:16
+#: classes/views/documentation-content.php:7
+#: classes/views/upgrade-now-content.php:4
+msgid "Conditional logic for fields"
+msgstr "Bedingte Logik für Felder"
+
+#: classes/views/admin-head-edit.php:13 classes/views/upgrade-now-content.php:1
+msgid "Get Flexible Product Fields PRO"
+msgstr "Hol dir Flexible Product Fields PRO"
+
+#: src/Field/Type/DateType.php:32
+msgid "Date"
+msgstr "Datum"
+
+#. translators: %1$s: field label, %2$s: limit of chars
+#: src/Validation/Rule/LengthRule.php:27
+msgid "Exceeded maximum number of characters for the %1$s field. (max: %2$s)"
+msgstr "Maximale Zeichenanzahl für das Feld %1$s überschritten. (maximal: %2$s)"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-opt-out-notice.php:11
+msgid "You successfully opted out of collecting usage data by WP Desk. If you change your mind, you can always opt in later in the plugin's quick links."
+msgstr "Du hast erfolgreich angegeben, dass du keine Nutzungsdaten mit WP Desk teilen möchtest. Wenn du Ihre Meinung ändern solltest, kannst du jederzeit über den Quicklink im Plugin zustimmen."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:126
+msgid "Submit &amp; Deactivate"
+msgstr "Absenden &amp; Deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:107
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:110
+msgid "Skip &amp; Deactivate"
+msgstr "Überspringen &amp; deaktivieren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:22
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:98
+msgid "Kindly tell us the reason so we can improve"
+msgstr "Nenne uns den Grund, sodass wir uns stetig verbessern können"
+
+#: src/Tracker/DeactivationTracker.php:116
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:22
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:93
+msgid "Other"
+msgstr "Andere"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:83
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Es ist eine vorübergehende Deaktivierung. Ich debugge gerade ein Problem."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:20
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:73
+msgid "I no longer need the plugin"
+msgstr "Ich brauche das Plugin nicht mehr"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:19
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:63
+msgid "I only needed the plugin for a short period"
+msgstr "Ich brauchte das Plugin nur für einen kurzen Zeitraum"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:18
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:53
+msgid "What's the plugin's name?"
+msgstr "Wie heißt das PlugIn?"
+
+#: src/Tracker/DeactivationTracker.php:91
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:18
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:48
+msgid "I found a better plugin"
+msgstr "Ich fand ein besseres Plugin"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:17
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:38
+msgid "The plugin broke my site"
+msgstr "Das PlugIn stört meine Seite"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-deactivation-modal/src/Model/DefaultFormOptions.php:16
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:28
+msgid "The plugin suddenly stopped working"
+msgstr "Das PlugIn funktioniert plötzlich nicht mehr"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:19
+msgid " If you have a moment, please let us know why you are deactivating plugin (anonymous feedback):"
+msgstr " Wenn du einen Moment Zeit hast, lass uns bitte wissen, warum du das Plugin deaktiviert hast (anonymes Feedback):"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:11
+msgid "You are deactivating %s plugin."
+msgstr "Du deaktivierest gerade das Plugin %s."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:91
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:83
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:27
+msgid "Find out more &raquo;"
+msgstr "Mehr erfahren &raquo;"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:78
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:70
+msgid "Your Store Overview"
+msgstr "Überblick über deinen Shop"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:62
+msgid "Current settings and usage information of WP Desk plugins"
+msgstr "Aktuelle Einstellungen und Nutzungsinformationen von WP Desk Plugins"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:67
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:59
+msgid "Plugin Usage"
+msgstr "Plugin Nutzung"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:35
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:27
+msgid "Allow & Continue &rarr;"
+msgstr "Zulassen & Weiter &rarr;"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:26
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:18
+msgid "Please help us improve our plugins! If you opt-in, we will collect some non-sensitive data and usage information anonymously. If you skip this, that's okay! All plugins will work just fine."
+msgstr "Bitte hilf uns, unsere Plugins zu verbessern! Wenn du zustimmst, sammeln wir einige nicht-sensible Daten und Nutzungsinformationen. Wenn du stattdessen überspringst, ist das auch okay! Alle Plugins werden dennoch ganz normal funktionieren."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:23
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:15
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:19
+msgid "Hey %s,"
+msgstr "Hallo %s,"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:41
+msgid "Allow"
+msgstr "Erlauben"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:56
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:48
+msgid "Your Site Overview"
+msgstr "Deine Website-Übersicht"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:47
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:39
+msgid "What permissions are being granted?"
+msgstr "Welche Berechtigungen werden erteilt?"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:40
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:32
+msgid "Skip"
+msgstr "Überspringen"
+
+#: classes/tracker.php:253
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/PluginActionLinks.php:53
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: classes/tracker.php:249
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/PluginActionLinks.php:50
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#. Author URI of the plugin
+msgid "https://www.wpdesk.net/"
+msgstr "https://www.wpdesk.net/"
+
+#. Author of the plugin
+msgid "WP Desk"
+msgstr "WP Desk"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/flexible-product-fields/"
+msgstr "https://wordpress.org/plugins/flexible-product-fields/"
+
+#: classes/fpf-post-type.php:205 classes/views/admin-head-edit.php:39
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: src/Settings/Option/OptionsCheckboxOption.php:46
+#: src/Settings/Option/OptionsOption.php:46
+msgid "Options"
+msgstr "Optionen"
+
+#: src/Settings/Option/OptionsValueOption.php:51
+msgid "Value"
+msgstr "Wert"
+
+#: src/Settings/Option/PlaceholderOption.php:39
+msgid "Placeholder"
+msgstr "Platzhalter"
+
+#: src/Settings/Option/CssOption.php:39
+msgid "CSS class"
+msgstr "CSS-Klasse"
+
+#: src/Settings/Page.php:149
+msgid "Field Type"
+msgstr "Feldtyp"
+
+#: src/Settings/Option/OptionsLabelOption.php:49 src/Settings/Page.php:150
+msgid "Label"
+msgstr "Label"
+
+#: src/Settings/Page.php:155
+msgid "Select..."
+msgstr "Auswählen..."
+
+#: src/Settings/Option/GroupProductsOption.php:33
+msgid "Select products"
+msgstr "Produkte auswählen"
+
+#: src/Settings/Option/GroupSectionOption.php:32
+msgid "Section"
+msgstr "Abschnitt"
+
+#: src/Settings/Page.php:140
+msgid "Add Field"
+msgstr "Feld hinzufügen"
+
+#: classes/fpf-plugin.php:134
+msgid "Total"
+msgstr "Gesamt"
+
+#: classes/fpf-plugin.php:213
+#: vendor_prefixed/wpdesk/wp-builder/src/Plugin/AbstractPlugin.php:194
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: vendor_prefixed/wpdesk/wp-builder/src/Plugin/AbstractPlugin.php:191
+msgid "Support"
+msgstr "Support"
+
+#: src/Field/TemplateArgs.php:74 src/Settings/Option/RequiredOption.php:39
+msgid "Required field"
+msgstr "Pflichtfeld"
+
+#: classes/fpf-add-to-cart-filters.php:77
+msgid "Select options"
+msgstr "Optionen wählen"
+
+#. Plugin Name of the plugin
+#: classes/fpf-product-fields.php:182 classes/fpf-product-fields.php:185
+#: classes/fpf-product-fields.php:190 classes/fpf-product-fields.php:193
+msgid "Flexible Product Fields"
+msgstr "Flexible Product Fields"
+
+#: src/Field/Type/HeadingType.php:33
+msgid "Heading"
+msgstr "Überschrift"
+
+#: src/Field/Type/CheckboxType.php:39
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: src/Field/Type/RadioType.php:39
+msgid "Radio"
+msgstr "Radio"
+
+#: src/Field/Type/SelectType.php:40
+msgid "Select"
+msgstr "Auswahl"
+
+#: src/Field/Type/TextareaType.php:54
+msgid "Textarea"
+msgstr "Textbereich"
+
+#: src/Field/Type/TextType.php:41
+msgid "Text"
+msgstr "Text"
+
+#: classes/fpf-product-fields.php:41
+#: src/Settings/Option/GroupSectionOption.php:41
+msgid "After add to cart button"
+msgstr "Nach dem Bestellbutton"
+
+#: classes/fpf-product-fields.php:37
+#: src/Settings/Option/GroupSectionOption.php:40
+msgid "Before add to cart button"
+msgstr "Vor dem Bestellbutton"
+
+#: classes/fpf-plugin.php:212 src/Settings/Page.php:139
+#: vendor_prefixed/wpdesk/wp-builder/src/Plugin/AbstractPlugin.php:198
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: classes/fpf-post-type.php:139 src/Settings/FieldsGroup.php:49
+#: src/Settings/Option/GroupAssignOption.php:57
+msgid "All products"
+msgstr "Alle Produkte"
+
+#: classes/fpf-post-type.php:111 src/Settings/FieldsGroup.php:39
+#: src/Settings/Option/GroupAssignOption.php:55
+msgid "Category"
+msgstr "Kategorie"
+
+#: classes/fpf-post-type.php:97 src/Settings/FieldsGroup.php:34
+#: src/Settings/Option/GroupAssignOption.php:54
+msgid "Product"
+msgstr "Produkt"
+
+#: classes/fpf-post-type.php:85 src/Settings/Page.php:137
+msgid "Fields"
+msgstr "Felder"
+
+#: classes/fpf-post-type.php:84 src/Settings/Option/GroupAssignOption.php:37
+msgid "Assign to"
+msgstr "Zuweisen an"
+
+#: classes/fpf-post-type.php:61
+msgid "Product Fields."
+msgstr "Product Fields."
+
+#: classes/fpf-post-type.php:59
+msgid "Fields Group not found in trash"
+msgstr "Feldgruppe im Papierkorb nicht gefunden"
+
+#: classes/fpf-post-type.php:58
+msgid "Fields Group not found"
+msgstr "Feldgruppe nicht gefunden"
+
+#: classes/fpf-post-type.php:57
+msgid "Search Fields Group"
+msgstr "Feldgruppe suchen"
+
+#: classes/fpf-post-type.php:56
+msgid "Save Fields Group"
+msgstr "Feldgruppe speichern"
+
+#: classes/fpf-post-type.php:55
+msgid "Edit Fields Group"
+msgstr "Feldgruppe bearbeiten"
+
+#: classes/fpf-post-type.php:54 src/Settings/Page.php:141
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: classes/fpf-post-type.php:53
+msgid "Add new Fields Group"
+msgstr "Neue Feldgruppe hinzufügen"
+
+#: classes/fpf-post-type.php:52
+msgid "View Product Fields"
+msgstr "Produktfelder anzeigen"
+
+#: classes/fpf-post-type.php:48 classes/fpf-post-type.php:49
+#: classes/fpf-post-type.php:51 classes/fpf-post-type.php:229
+#: classes/fpf-post-type.php:230
+msgid "Product Fields"
+msgstr "Flexible Product Fields"
+
+#: classes/fpf-post-type.php:47
+msgid "Fields Groups"
+msgstr "Feld Gruppen"
+
+#: classes/fpf-cart.php:196
+msgid "yes"
+msgstr "ja"

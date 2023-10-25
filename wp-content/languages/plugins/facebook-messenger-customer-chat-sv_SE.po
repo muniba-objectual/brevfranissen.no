@@ -1,0 +1,113 @@
+# Translation of Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-24 12:08:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk)\n"
+
+#: options.php:313
+msgid "Saving settings..."
+msgstr "Sparar inställningar …"
+
+#: options.php:311
+msgid "Settings saved."
+msgstr "Inställningar sparade."
+
+#: options.php:300
+msgid "Product pages"
+msgstr "Produktsidor"
+
+#: options.php:175
+msgid "Custom pages"
+msgstr "Anpassade sidor"
+
+#: options.php:171
+msgid "All pages"
+msgstr "Alla sidor"
+
+#: options.php:156
+msgid "Advanced Configuration"
+msgstr "Avancerad konfiguration"
+
+#: options.php:117
+msgid "Getting Started?"
+msgstr "Komma igång?"
+
+#: facebook-messenger-customer-chat.php:211
+msgid "Submit"
+msgstr "Skicka"
+
+#: facebook-messenger-customer-chat.php:206
+msgid "Comments:"
+msgstr "Kommentarer:"
+
+#: facebook-messenger-customer-chat.php:200
+msgid "Other"
+msgstr "Annat"
+
+#: facebook-messenger-customer-chat.php:178
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: facebook-messenger-customer-chat.php:192
+msgid "We value your feedback."
+msgstr "Vi uppskattar din feedback."
+
+#: facebook-messenger-customer-chat.php:199
+msgid "This is a temporary deactivation. I’ll be back!"
+msgstr "Det är en temporär inaktivering. Jag kommer tillbaka!"
+
+#: facebook-messenger-customer-chat.php:196
+msgid "I’m unable to get the plugin to work"
+msgstr "Jag kunde inte få tillägget att fungera"
+
+#: options.php:309
+msgid "Error saving settings."
+msgstr "Fel när inställningarna skulle sparas."
+
+#: options.php:113
+msgid "Facebook Chat Plugin Settings"
+msgstr "Inställningar för Facebook Chat Plugin"
+
+#: options.php:332
+msgid "Please consult our Troubleshooting Guide."
+msgstr "Konsultera vår felsökningsguide."
+
+#: facebook-messenger-customer-chat.php:198
+msgid "I’m using a different live chat plugin"
+msgstr "Jag använder ett annat tillägg för live-chatt"
+
+#: facebook-messenger-customer-chat.php:86
+msgid "Support"
+msgstr "Support"
+
+#: facebook-messenger-customer-chat.php:80
+msgid "FAQ"
+msgstr "Vanliga frågor"
+
+#: facebook-messenger-customer-chat.php:56
+#: facebook-messenger-customer-chat.php:73
+msgid "Settings"
+msgstr "Inställningar"
+
+#: options.php:137
+msgid "Edit Chat Plugin"
+msgstr "Redigera Chat Plugin"
+
+#: options.php:135
+msgid "Setup Chat Plugin"
+msgstr "Ställ in Chat Plugin"
+
+#. Author URI of the plugin
+msgid "https://developers.facebook.com"
+msgstr "https://developers.facebook.com"
+
+#. Author of the plugin
+msgid "Facebook"
+msgstr "Facebook"

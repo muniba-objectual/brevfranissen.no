@@ -1,0 +1,1633 @@
+# Translation of Plugins - Free SSL Certificate Plugin, HTTPS Redirect, Renewal Reminder – Auto-Install Free SSL - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Free SSL Certificate Plugin, HTTPS Redirect, Renewal Reminder – Auto-Install Free SSL - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-24 11:19:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Free SSL Certificate Plugin, HTTPS Redirect, Renewal Reminder – Auto-Install Free SSL - Stable (latest release)\n"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:464
+#: FreeSSLAuto/src/Admin/HomeOptions.php:471
+msgid "Please get in touch with us after purchase. After reviewing your web hosting environment, we'll choose the best option (Bash script or Cloudflare CDN) and implement the automation. This service is applicable if you purchase without a discount."
+msgstr "Ponte en contacto con nosotros después de la compra. Después de revisar tu entorno de alojamiento web, elegiremos la mejor opción (Bash script o Cloudflare CDN) e implementaremos la automatización. Este servicio es aplicable si compras sin descuento."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:204
+msgid "Please scroll down to learn about the features and select any plugin version"
+msgstr "Por favor, haz scroll hacia abajo para aprender acerca de las características y seleccionar cualquier versión del plugin"
+
+#. translators: %1$s: Opening HTML 'a' tag; %2$s: Closing 'a' tag; (Opening and
+#. closing 'a' tags create a hyperlink with the enclosed text.)
+#: auto-install-free-ssl.php:920
+msgid "Please rate us %1$s★★★★★%2$s on %1$sWordPress.org%2$s to help us spread the word."
+msgstr "Por favor, puntúanos %1$s★★★★★%2$s en %1$sWordPress.org%2$s para ayudarnos a darnos a conocer."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:622
+msgid "No Advertisements"
+msgstr "Sin publicidad"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:441
+msgid "So, based on your web hosting environment, we'll manually handle your automation setup, including automatic SSL installation with either a bash script or Cloudflare CDN."
+msgstr "Así que, en función de tu entorno de alojamiento web, nos encargaremos manualmente de tu configuración de automatización, incluida la instalación automática del SSL con un script bash o con Cloudflare CDN."
+
+#. translators: 'cPanel' is web hosting control panel software developed by
+#. cPanel, LLC.
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:438
+msgid "The default option to automatically install SSL certificates requires cPanel API. But your web hosting control panel is not cPanel."
+msgstr "La opción por defecto para instalar automáticamente los certificados SSL requiere cPanel API. Pero tu panel de control de alojamiento web no es cPanel."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:427
+msgid "Upgrade Now"
+msgstr "Actualizar ahora"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:424
+msgid "BONUS:"
+msgstr "BONO:"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:421
+msgid "Automatic Cron Job"
+msgstr "Cron Job Automático"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:420
+msgid "Automatic Renewal of SSL"
+msgstr "Renovación automática del SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:419
+msgid "Automatic Installation of SSL"
+msgstr "Instalación automática del SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:418
+msgid "Automatic SSL Certificate Generation"
+msgstr "Generación automática de certificados SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:417
+msgid "Automatic Verification of Domain Ownership"
+msgstr "Verificación automática de la propiedad del dominio"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:412
+msgid "Enjoy 100% automation with our Premium version"
+msgstr "Disfruta de un 100% de automatización con nuestra versión Premium"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:402
+msgid "expiring soon"
+msgstr "caduca pronto"
+
+#. translators: %d: A singular number, i.e., 1
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:399
+msgid "expiring in %d day"
+msgstr "caduca en %d día"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:373
+msgid "We'll manually do the one-time setup for you (worth $49 per website)."
+msgstr "Haremos manualmente la configuración por ti (por un valor de 49 $ por web)."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:368
+msgid "We'll do the one-time setup for you if you can't do this (worth $49 per website)."
+msgstr "Haremos la configuración una sola vez por ti si no puedes hacer esto (por un valor de 49 $ por web)."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:352
+msgid "Facing difficulties verifying domain ownership and generating a free SSL certificate?"
+msgstr "¿Estás teniendo dificultades para verificar la propiedad del dominio y generar un certificado SSL gratuito?"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:327
+msgid "Facing difficulties installing the SSL certificate?"
+msgstr "¿Estás teniendo dificultades para instalar el certificado SSL?"
+
+#. translators: %s: First name of the admin user
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:314
+msgid "Hello %s, this FREE version requires manual SSL renewal every 60 days."
+msgstr "Hola %s, esta versión GRATUITA requiere la renovación manual del SSL cada 60 días."
+
+#: auto-install-free-ssl.php:963
+msgid "BONUS: we'll do the one-time setup for you (worth $49)."
+msgstr "BONO: realizaremos la configuración única por ti (por un costo de 49 $)."
+
+#: auto-install-free-ssl.php:962
+msgid "Facing difficulties? Our Premium Plugin automatically verifies your domain ownership, generates free SSL certificates, and installs & renews them."
+msgstr "¿Tienes dificultades? Nuestro plugin Premium verifica automáticamente la propiedad de tu dominio, genera certificados SSL gratuitos y los instala y renueva."
+
+#: auto-install-free-ssl.php:958
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:384
+#: FreeSSLAuto/src/Admin/HomeOptions.php:231
+msgid "40%"
+msgstr "40%"
+
+#. translators: %1$s: Discount percentage (includes % sign), %2$s: Coupon code
+#. for the discount
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:391
+#: FreeSSLAuto/src/Email.php:169
+msgid "%1$s discount code: %2$s"
+msgstr "Código de descuento del %1$s: %2$s"
+
+#. translators: %s: placeholders for HTML code to create a hyperlink with the
+#. text 'Click here'.
+#: FreeSSLAuto/src/Email.php:167
+msgid "%sClick here%s to try Premium Version; the plugin will do everything automatically!"
+msgstr "%sHacer clic aquí%s para probar la versión Premium; ¡el plugin hará todo automáticamente!"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:338
+#: FreeSSLAuto/src/Email.php:165
+msgid "Tired of renewing & installing SSL certificates manually every 60 days?"
+msgstr "¿Cansado de renovar e instalar certificados SSL manualmente cada 60 días?"
+
+#: FreeSSLAuto/src/Email.php:139
+msgid "Renew urgently."
+msgstr "Renovar urgentemente."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:200
+msgid "Features Comparison"
+msgstr "Comparación de características"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:191
+msgid "Read the Documentation"
+msgstr "Lee la documentación"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:189
+msgid "Generate Your First SSL Certificate"
+msgstr "Genera tu primer certificado SSL"
+
+#. translators: %1$s: Name of this plugin, i.e., 'Auto-Install Free SSL'; %2$s:
+#. Name of the SSL certificate authority, e.g., Let's Encrypt
+#: FreeSSLAuto/src/Admin/HomeOptions.php:184
+msgid "'%1$s' makes creating Free SSL Certificates easy using the %2$s API. Please get started by creating an SSL Certificate or reading our documentation."
+msgstr "«%1$s» facilita la creación de certificados SSL gratuitos utilizando la API de %2$s. Por favor, comienza creando un certificado SSL o leyendo nuestra documentación."
+
+#. translators: %s: Name of this plugin, i.e., 'Auto-Install Free SSL'
+#: FreeSSLAuto/src/Admin/HomeOptions.php:179
+msgid "Thank you for choosing '%s' - the most powerful plugin to generate Free SSL Certificates in your WordPress dashboard."
+msgstr "Gracias por elegir «%s» - el plugin más potente para generar certificados SSL gratuitos en tu escritorio de WordPress."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:168
+msgid "We'll save you $90+ per year for every website"
+msgstr "Te ayudaremos a ahorrar más de 90 $ al año por cada web."
+
+#. translators: "Let's Encrypt" is a nonprofit SSL certificate authority.
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:305
+#: FreeSSLAuto/src/Admin/HomeOptions.php:157
+msgid "Let's Encrypt™"
+msgstr "Let's Encrypt™"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:115
+msgid "30"
+msgstr "30"
+
+#. translators: %d: A plural number
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1247
+msgid "%d domains were not validated."
+msgstr "%d dominios no fueron validados."
+
+#. translators: %1$d: A number; %2$d: Another number; %3$s: A domain name,
+#. e.g., example.com
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1240
+msgid "The number of authorizations: %1$d. But the number of validated domains: %2$d. Sorry, the SSL certificate can not be issued to %3$s."
+msgstr "El número de autorizaciones: %1$d. Pero el número de dominios validados: %2$d. Lo siento, no se puede emitir el certificado SSL para %3$s."
+
+#. translators: %s: a domain name, e.g., example.com
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1210
+msgid "Congratulations! SSL certificate has been issued to %s, and the plugin has saved you $90."
+msgstr "¡Felicidades! Se ha emitido un certificado SSL para %s y el plugin te ha ahorrado $90."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1063
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1212
+msgid "Please download it from the links given below."
+msgstr "Por favor, descárgalo desde los enlaces proporcionados a continuación."
+
+#. translators: %1$s: a domain name, e.g., example.com; %2$s: Opening HTML
+#. 'strong' tag; %3$s: Closing 'strong' tag. (Opening and closing 'strong' tags
+#. make the enclosed text bold.)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1061
+msgid "SSL certificate already issued to %1$s, and %2$sthe plugin has saved you $90.%3$s"
+msgstr "El certificado SSL ya ha sido emitido para %1$s y %2$sel plugin te ha ahorrado $90.%3$s"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:429
+msgid "This free version doesn't have any automation feature."
+msgstr "Esta versión gratuita no tiene ninguna característica de automatización."
+
+#. translators: %1$s: Opening HTML 'a' tag; %2$s: Closing 'a' tag; %3$s: Name
+#. of this plugin, i.e., 'Auto-Install Free SSL'; (Opening and closing 'a' tags
+#. create a hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/AdminNotice.php:361
+#: FreeSSLAuto/src/Admin/AdminNotice.php:424
+msgid "As we mentioned in our %1$s announcement %2$s dated November 3, 2020, we released the premium version of %3$s on June 30, 2022, which is fully automated."
+msgstr "Como mencionamos en nuestro %1$s anuncio %2$s del 3 de noviembre de 2020, lanzamos la versión premium de %3$s el 30 de junio de 2022, que es completamente automatizada."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:618
+msgid "1"
+msgstr "1"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:396 FreeSSLAuto/src/Acme/AcmeV2.php:547
+msgid "2"
+msgstr "2"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:316
+msgid "2nd Internal Validation:"
+msgstr "2ª Validación interna:"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:305 FreeSSLAuto/src/Acme/AcmeV2.php:316
+msgid "Payload content does not match the challenge URI's content."
+msgstr "El contenido de la carga útil no coincide con el contenido del URI del desafío."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:305
+msgid "1st Internal Validation:"
+msgstr "1ª Validación interna:"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:237
+msgid "Your visitors will see a security warning in red and may leave your website if you don't renew the SSL certificate URGENTLY."
+msgstr "Tus visitantes verán una advertencia de seguridad en rojo y podrían abandonar tu web si no renuevas el certificado SSL CON URGENCIA."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:688
+msgid "Video Tutorial for the Premium Version [1:42 Minute]"
+msgstr "Tutorial en video para la Versión premium [1:42 Minutos]"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:685
+msgid "Setting up Automation for Free SSL Certificate is very easy!"
+msgstr "¡Configurar la automatización del certificado SSL gratuito es muy fácil!"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:240
+msgid "expires in"
+msgstr "caduca en"
+
+#. translators: %1$s: HTML code to make the color red of the text '%2$s
+#. discount!'. Please keep its order the same.    %2$s: Discount percentage
+#. (includes % sign)
+#: FreeSSLAuto/src/Admin/HomeOptions.php:239
+msgid "Select any Pro plan asap to grab a %1$s %2$s discount!"
+msgstr "¡Selecciona cualquier plan Pro lo antes posible para obtener un %1$s %2$s de descuento!"
+
+#. translators: %s: placeholders for HTML code create a hyperlink with the word
+#. 'Premium'.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:119
+msgid "%sPremium%s feature"
+msgstr "Característica %spremium%s"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:826
+msgid "You are a step away from saving $90"
+msgstr "Estás a un paso de ahorrar $90"
+
+#. translators: %s: Name of a button, e.g., Next Step
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:672
+msgid "Please click the '%s' button to proceed."
+msgstr "Por favor, haz clic en el botón «%s» para continuar."
+
+#: FreeSSLAuto/src/Admin/ForceHttpsPage.php:65
+msgid "Free vs. Premium"
+msgstr "Gratis vs Premium"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:240
+msgid "Tired of renewing & installing SSL certificates manually every 60 days? Try Premium Version, and the plugin will do it automatically!"
+msgstr "¿Cansado de renovar e instalar los certificados SSL manualmente cada 60 días? ¡Prueba la versión Premium, y el plugin lo hará automáticamente!"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:225
+msgid "Go Premium"
+msgstr "Hazte premium"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:222
+msgid "Go Premium (20% off)"
+msgstr "Hazte premium (20% de descuento)"
+
+#. translators: %s: Discount percentage (includes % sign)
+#: auto-install-free-ssl.php:960
+msgid "Grab the deal now!"
+msgstr "¡Aprovecha la oferta ahora!"
+
+#. translators: %s: Discount percentage (includes % sign)
+#: auto-install-free-ssl.php:960
+msgid "WAIT, HOW ABOUT %s OFF?"
+msgstr "ESPERA, ¿QUÉ TAL UN %s DE DESCUENTO?"
+
+#: auto-install-free-ssl.php:585
+msgid "Please read and agree to FreeSSL.tech Terms of Service and Privacy Policy"
+msgstr "Por favor, lee y acepta los términos de servicio y la política de privacidad de freeSSL.tech"
+
+#. translators: "Let's Encrypt" is a nonprofit SSL certificate authority.
+#: auto-install-free-ssl.php:579
+msgid "Please read and agree to the Let's Encrypt™ Subscriber Agreement"
+msgstr "Por favor, lee y acepta el acuerdo de suscriptor de Let's Encrypt™"
+
+#: auto-install-free-ssl.php:583
+msgid "Please provide the Admin Email id"
+msgstr "Por favor, proporciona la dirección de correo electrónico del administrador."
+
+#: auto-install-free-ssl.php:582
+msgid "Please provide either a Password or an API Token"
+msgstr "Por favor, proporciona una contraseña o un token de API."
+
+#. translators: %1$s: A domain name, e.g., example.com, %2$s: Number of days
+#: FreeSSLAuto/src/Email.php:135
+msgid "Your SSL certificate, for %1$s, is expiring in %2$s days"
+msgstr "Tu certificado SSL, para %1$s, caducará en %2$s días."
+
+#: FreeSSLAuto/src/Admin/ForceHttpsPage.php:69
+msgid "Upgrade License"
+msgstr "Actualizar licencia"
+
+#: FreeSSLAuto/src/Admin/ForceHttpsPage.php:69
+msgid "Upgrade to Premium"
+msgstr "Actualizar a Premium"
+
+#: FreeSSLAuto/src/Email.php:224
+msgid "Team"
+msgstr "Equipo"
+
+#: FreeSSLAuto/src/Email.php:223
+msgid "Regards"
+msgstr "Saludos"
+
+#: FreeSSLAuto/src/Email.php:221
+msgid "Do not reply to this automated email."
+msgstr "No respondas a este correo electrónico automático."
+
+#: FreeSSLAuto/src/Email.php:220
+msgid "This is a system-generated email from your website."
+msgstr "Este es un correo electrónico generado por el sistema desde tu web."
+
+#: FreeSSLAuto/src/Email.php:156
+msgid "URGENTLY"
+msgstr "URGENTEMENTE"
+
+#: FreeSSLAuto/src/Email.php:155
+msgid "before the expiry date"
+msgstr "antes de la fecha de vencimiento"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:441
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:387
+#: FreeSSLAuto/src/Admin/HomeOptions.php:235 FreeSSLAuto/src/Email.php:116
+#: FreeSSLAuto/src/Email.php:123
+msgid "20%"
+msgstr "20%"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:441 FreeSSLAuto/src/Email.php:113
+msgid "30%"
+msgstr "30%"
+
+#: FreeSSLAuto/src/Email.php:126
+msgid "10%"
+msgstr "10%"
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Controller.php:65
+msgid "%s is in your exclusion list; skip it."
+msgstr "%s está en tu lista de exclusiones; omitirlo."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:550
+msgid "Manually renewing SSL every 60 days is tiresome and challenging to remember"
+msgstr "Renovar manualmente el SSL cada 60 días es tedioso y difícil de recordar."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:278
+msgid "10"
+msgstr "10"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:277
+msgid "9"
+msgstr "9"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:153
+msgid "hosting"
+msgstr "alojamiento"
+
+#. translators: 'cPanel' is web hosting control panel software developed by
+#. cPanel, LLC.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:155
+msgid "cPanel"
+msgstr "cPanel"
+
+#. translators: %s: placeholders for HTML code to create a hyperlink with the
+#. text 'Activate Force HTTPS'.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:137
+msgid "After installing the SSL certificate, don't forget to %sActivate Force HTTPS%s"
+msgstr "Después de instalar el certificado SSL, no olvides %sActivar el forzado de HTTPS%s"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:105 FreeSSLAuto/src/Email.php:105
+msgid "at"
+msgstr "en"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1351
+msgid "You need to complete every step again manually. Will you proceed?"
+msgstr "Necesitas completar cada paso de nuevo manualmente. ¿Continuarás?"
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:946
+msgid "Please log in to your DNS service provider's account, for %s, and add the TXT records given below:"
+msgstr "Por favor, accede en la cuenta de tu proveedor de servicios DNS, para %s, y añade los registros TXT que se indican a continuación:"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:771
+msgid "The domains array is given below: "
+msgstr "El array de dominios se muestra a continuación: "
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:182
+msgid "for"
+msgstr "para"
+
+#. translators: %s: placeholders for HTML code create a hyperlink with the word
+#. 'click here'.
+#: FreeSSLAuto/src/Admin/ForceSSL.php:501
+msgid "But if the issue persists, %sclick here%s for documentation on more options on how to revert to HTTP."
+msgstr "Pero si el problema persiste, %shacer clic aquí%s para ver la documentación sobre más opciones de cómo revertir a HTTP."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:497
+msgid "You may face issues if the SSL certificate is not installed correctly or an invalid SSL certificate is installed on your website. Your WordPress website may be inaccessible too. In that case, please click the link given below to deactivate force HTTPS and revert to HTTP."
+msgstr "Puedes tener problemas si el certificado SSL no está instalado correctamente o si se instala un certificado SSL no válido en tu web. Tu web de WordPress también puede ser inaccesible. En ese caso, por favor, haz clic en el enlace que se proporciona a continuación para desactivar el forzado de HTTPS y volver a HTTP."
+
+#. translators: %1$s and %2$s: HTML code to make the enclosed text bold. Please
+#. keep their order the same. Otherwise, you'll break the style. %3$s: An email
+#. id.
+#: FreeSSLAuto/src/Admin/ForceSSL.php:492
+msgid "Please refresh your website to get the padlock. Do not you see it? If your theme can %1$sregenerate CSS files%2$s, please do it. Otherwise, you can just search the theme and plugins for %1$shardcoded URLs%2$s, if any, and fix them. Do not hesitate to contact us at %3$s for any help."
+msgstr "Por favor, actualiza tu web para ver el candado. ¿No lo ves? Si tu tema puede %1$sregenerar archivos CSS%2$s, por favor, hazlo. De lo contrario, puedes buscar en el tema y los plugins las %1$sURL codificadas directamente%2$s, si las hay, y corregirlas. No dudes en ponerte en contacto con nosotros en %3$s para solicitar ayuda."
+
+#. translators: %1$s: A domain name, e.g., example.com; %2$s: Another domain
+#. name, e.g., www.example.com; %3$s: Opening HTML 'strong' tag; %4$s: Opening
+#. HTML 'a' tag; %5$s: Closing 'a' tag; %6$s: Closing 'strong' tag. (Opening
+#. and closing 'strong' tags make the enclosed text bold. Opening and closing
+#. 'a' tags create a hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/ForceSSL.php:383
+msgid "The installed SSL covers only %1$s. But it does not cover %2$s. %3$sPlease either change your %4$sWordPress Address (URL) & Site Address (URL)%5$s or install an SSL certificate that covers %2$s. %6$s"
+msgstr "El SSL instalado cubre solo %1$s. Pero no cubre %2$s. %3$sPor favor, cambia tu %4$sdirección de WordPress (URL) y tu dirección del sitio (URL),%5$s o instala un certificado SSL que cubra %2$s. %6$s"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:380
+msgid "Click here to change WordPress Address (URL) & Site Address (URL)"
+msgstr "Haz clic aquí para cambiar la dirección de WordPress (URL) y la dirección del sitio (URL)"
+
+#. translators: %1$s: Opening HTML 'strong' tag; %2$s: Closing 'strong' tag;
+#. %3$s: A domain name, e.g., example.com; %4$s: Another domain name, e.g.,
+#. www.example.com; (Opening and closing 'strong' tags make the enclosed text
+#. bold.)
+#: FreeSSLAuto/src/Admin/ForceSSL.php:365
+msgid "No %1$svalid%2$s SSL is installed on %3$s and %4$s. %1$sPlease install an SSL certificate on this website and try again.%2$s"
+msgstr "No hay un SSL %1$sválido%2$s instalado en %3$s y %4$s. %1$sPor favor, instala un certificado SSL en esta web e inténtalo de nuevo.%2$s"
+
+#. translators: %s: HTML code to create a hyperlink with the text 'click here'
+#: FreeSSLAuto/src/Admin/ForceSSL.php:322
+msgid "But if the issue persists even after you click that link, please %sclick here%s for documentation on more options on how to revert to HTTP."
+msgstr "Pero si el problema persiste, incluso después de hacer clic en ese enlace, por favor %shaz clic aquí%s para documentarte sobre más opciones para revertir a HTTP."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:320
+msgid "Please check your spam folder if you don't find that email in your inbox."
+msgstr "Por favor, comprueba tu carpeta de spam si no encuentras ese correo electrónico en tu bandeja de entrada."
+
+#. translators: %s: A website address with a hyperlink, e.g.,
+#. https://example.com
+#: FreeSSLAuto/src/Admin/ForceSSL.php:317
+msgid "If the SSL certificate is not installed correctly, clicking this button may cause issues accessing the website. So, please click this link first: %s and check for HTTPS in the address bar."
+msgstr "Si el certificado SSL no está instalado correctamente, hacer clic en este botón puede causar problemas para acceder a la web. Por lo tanto, haz clic primero en este enlace: %s y comprueba si hay HTTPS en la barra de direcciones."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:99
+msgid "Your website reverted to HTTP successfully. Now you can access your website over http://"
+msgstr "Tu web se ha revertido a HTTP correctamente. Ahora puedes acceder a tu web a través de http://"
+
+#. translators: %s: HTML code to create a hyperlink with the text 'click here'
+#: FreeSSLAuto/src/Admin/Factory.php:999
+msgid "After you do so, wait to propagate the DNS record. Please %sclick here%s to check the DNS record propagation status. Proceed if you see green tick marks for almost all locations in the list and map."
+msgstr "Después de hacerlo, espera a que se propague el registro DNS. Por favor %shaz clic aquí%s para comprobar el estado de propagación del registro DNS. Continúa si ves marcas de verificación verdes para casi todas las ubicaciones en la lista y el mapa."
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Admin/Factory.php:996
+msgid "%s is offline."
+msgstr "%s está fuera de línea."
+
+#. translators: %s: Name of this plugin, i.e., 'Auto-Install Free SSL'
+#: FreeSSLAuto/src/Admin/AdminNotice.php:372
+#: FreeSSLAuto/src/Admin/AdminNotice.php:451
+msgid "Do you need %s to remind you later?"
+msgstr "¿Necesitas que %s te lo recuerde más tarde?"
+
+#. translators: %s: Name of this plugin, i.e., 'Auto-Install Free SSL'
+#: FreeSSLAuto/src/Admin/AdminNotice.php:350
+msgid "Are you sure you do NOT want to learn the benefits of the Premium Version of %s compared to the free version?"
+msgstr "¿Estás seguro de que NO quieres conocer las ventajas de la versión Premium de %s comparada con la versión gratuita?"
+
+#. translators: %s: Name of this plugin, i.e., 'Auto-Install Free SSL'
+#: FreeSSLAuto/src/Admin/AdminNotice.php:348
+msgid "Are you sure you know the benefits of the Premium Version of %s compared to the free version?"
+msgstr "¿Estás seguro de que conoces las ventajas de la versión Premium de %s en comparación con la versión gratuita?"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:281
+msgid "Click here to Review"
+msgstr "Haz clic aquí para dejar una reseña"
+
+#. translators: %s: Name of this plugin, i.e., 'Auto-Install Free SSL'
+#: FreeSSLAuto/src/Admin/AdminNotice.php:279 FreeSSLAuto/src/Email.php:67
+msgid "%s has saved you $90 by providing Free SSL Certificates and will save more. Please share your experience with us on WordPress (probably with a five-star rating). That will help boost our motivation and spread the word."
+msgstr "%s te ha ahorrado $90 al proporcionar certificados SSL gratuitos y seguirá ahorrándote más. Por favor, comparte tu experiencia con nosotros en WordPress (probablemente con una calificación de cinco estrellas). Eso ayudará a impulsar nuestra motivación y difundir la noticia."
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:246
+msgid "Do you want to be reminded later to renew your SSL certificate?"
+msgstr "¿Quieres que te recordemos más tarde que debes renovar tu certificado SSL?"
+
+#. translators: "Let's Encrypt" is a nonprofit SSL certificate authority.
+#: FreeSSLAuto/src/Acme/AcmeV2.php:863
+msgid "Sorry, there was a problem registering the account. Please try again. Let's Encrypt™ server response given below."
+msgstr "Lo sentimos, ha habido un problema al registrar la cuenta. Por favor, inténtalo de nuevo. La respuesta del servidor de Let's Encrypt™ se da a continuación."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:843
+msgid "Congrats! A new account has been registered successfully."
+msgstr "¡Enhorabuena! Se ha registrado correctamente una nueva cuenta."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:623
+msgid "We have got a certificate! YAY!"
+msgstr "¡Hemos conseguido un certificado! ¡YAY!"
+
+#. Description of the plugin
+msgid "Generate & install Free SSL Certificates, activate force HTTPS redirect with one click to fix insecure links & mixed content warnings, and get automatic Renewal Reminders."
+msgstr "Genera e instala certificados SSL gratuitos, activa la redirección a HTTPS forzada con un solo clic para corregir enlaces no seguros y advertencias de contenido mixto, y recibe recordatorios de renovación automáticos."
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:444 FreeSSLAuto/src/Email.php:170
+msgid "The offer expires soon."
+msgstr "La oferta caduca pronto."
+
+#. translators: %1$s: Opening HTML 'a' tag; %2$s: Closing 'a' tag; %3$s:
+#. Discount percentage (includes % sign); %4$s: Coupon code for the discount;
+#. (Opening and closing 'a' tags create a hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/AdminNotice.php:438
+msgid "%1$sClick here%2$s to purchase a premium license using this %3$s discount code: %4$s"
+msgstr "%1$sHaz clic aquí%2$s para adquirir una licencia premium utilizando este código de %3$s de descuento: %4$s"
+
+#. translators: %s: Name of this plugin, i.e., 'Auto-Install Free SSL'
+#: FreeSSLAuto/src/Admin/AdminNotice.php:410
+msgid "If you do not purchase a premium license, you will need to renew your SSL certificate manually every 60 days. Are you sure you do not want the Premium Version of %s?"
+msgstr "Si no adquieres una licencia premium, tendrás que renovar tu certificado SSL manualmente cada 60 días. ¿Estás seguro de que no quieres la versión Premium de %s?"
+
+#. translators: %s: Name of this plugin, i.e., 'Auto-Install Free SSL'
+#: FreeSSLAuto/src/Admin/AdminNotice.php:406
+msgid "Are you sure you have already purchased the Premium license of %s?"
+msgstr "¿Estás seguro de que ya has comprado la licencia premium de %s?"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:403
+msgid "I have already purchased"
+msgstr "Ya la he comprado"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:401
+msgid "Grab the offer now!"
+msgstr "¡Aprovecha la oferta ahora!"
+
+#. translators: %s: HTML code to create a superscript with the text
+#. '(required)'
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:595
+msgid "Admin email %s(required)%s"
+msgstr "Correo electrónico de administrador %s(requerido)%s"
+
+#. translators: "Let's Encrypt" is a nonprofit SSL certificate authority.
+#: FreeSSLAuto/src/Acme/AcmeV2.php:896
+msgid "Oops! There is an error registering your Let's Encrypt™ account. Error details are given below:"
+msgstr "¡Ups! Se ha producido un error al registrar tu cuenta de Let's Encrypt™. Los detalles del error se indican a continuación:"
+
+#. translators: %1$s: An email id; %2$s: Opening HTML 'strong' tag; %3$s:
+#. Closing 'strong' tag. (Opening and closing 'strong' tags make the enclosed
+#. text bold. "Let's Encrypt" is a nonprofit SSL certificate authority.)
+#: FreeSSLAuto/src/Acme/AcmeV2.php:886
+msgid "Oops! An invalid email id (%1$s) was set as the admin email of this WordPress website. But Let's Encrypt™ expects we should register an account with a working email address. So please %2$s fill in the following text field with your real email id %3$s and try again. This will update the admin email too."
+msgstr "¡Vaya! Una dirección de correo electrónico no válida (%1$s) fue establecida como el correo electrónico del administrador de esta web WordPress. Pero Let's Encrypt™ espera que registremos una cuenta con una dirección de correo electrónico que funcione. Así que, por favor, %2$s completa el siguiente campo de texto con tu dirección de correo electrónico real %3$s e inténtalo de nuevo. Esto actualizará el correo electrónico del administrador también."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1265
+msgid "Please check the log for details information."
+msgstr "Por favor, comprueba el registro para obtener información detallada."
+
+#. translators: %s: A domain name, e.g., example.com ("Let's Encrypt" is a
+#. nonprofit SSL certificate authority.)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1160
+msgid "Oops! Let's Encrypt™ could not validate ownership of the domain %s due to some error."
+msgstr "¡Vaya! Let's Encrypt™ no pudo validar la propiedad del dominio %s debido a algún error."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:107
+msgid "Exit"
+msgstr "Salir"
+
+#. translators: %s: HTML code to create a hyperlink with the text 'Terms &
+#. conditions'.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:672
+msgid "%sTerms & conditions%s apply."
+msgstr "Se aplican los %stérminos y condiciones%s."
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:214
+#: FreeSSLAuto/src/Admin/HomeOptions.php:104 FreeSSLAuto/src/Email.php:104
+msgid "UTC"
+msgstr "UTC"
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Acme/AcmeV2.php:253
+msgid "We got the challenge token for %s."
+msgstr "Recibimos el token de desafío para %s."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:233
+msgid "The 'HTTP-01' challenge was NOT found, but the 'DNS-01' challenge has been found."
+msgstr "NO se encontró el desafío «HTTP-01», pero se ha encontrado el desafío «DNS-01»."
+
+#: FreeSSLAuto/src/Admin/Log.php:213
+msgid "Settings successfully updated! We'll keep the plugin data INTACT on deactivation."
+msgstr "¡Ajustes actualizados correctamente! Mantendremos los datos del plugin INTACTOS al desactivarlo."
+
+#: FreeSSLAuto/src/Admin/Log.php:203
+msgid "Settings successfully updated! We'll DELETE the plugin data on deactivation."
+msgstr "¡Ajustes actualizados correctamente! ELIMINAREMOS los datos del plugin al desactivarlo."
+
+#. translators: %1$s: Name of this plugin, i.e., 'Auto-Install Free SSL'; %2$s:
+#. Opening HTML 'a' tag; %3$s: Closing 'a' tag (Opening and closing 'a' tags
+#. create a hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/Log.php:176
+msgid "%1$s will delete the plugin data upon deactivation (or uninstallation). Feel free to %2$sclick here%3$s if you'd like to keep plugin data intact."
+msgstr "%1$s borrará los datos del plugin al desactivarlo (o desinstalarlo). Haz %2$sclic aquí%3$s si quieres mantener intactos los datos del plugin."
+
+#: FreeSSLAuto/src/Admin/Log.php:174
+msgid "You could keep plugin data INTACT on deactivation"
+msgstr "Puedes mantener los datos del plugin INTACTOS al desactivarlo"
+
+#. translators: %1$s: Name of this plugin, i.e., 'Auto-Install Free SSL'; %2$s:
+#. Opening HTML 'a' tag; %3$s: Closing 'a' tag (Opening and closing 'a' tags
+#. create a hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/Log.php:170
+msgid "%1$s keeps the plugin data intact on deactivation (or uninstallation). If you'd like to delete plugin data, you can %2$sclick here.%3$s"
+msgstr "%1$s mantiene los datos del plugin intactos al desactivarlo (o desinstalarlo). Si quieres borrar los datos del plugin, puedes %2$shacer clic aquí.%3$s"
+
+#: FreeSSLAuto/src/Admin/Log.php:168
+msgid "Would you like to DELETE plugin data on deactivation?"
+msgstr "¿Quieres BORRAR los datos del plugin al desactivarlo?"
+
+#: FreeSSLAuto/src/Admin/Log.php:167
+msgid "DELETE plugin data on deactivation"
+msgstr "BORRAR los datos del plugin al desactivarlo"
+
+#: FreeSSLAuto/src/Email.php:201
+msgid "Sorry, there was an issue sending the SSL renewal reminder email."
+msgstr "Lo sentimos, hubo un problema al enviar el correo electrónico del recordatorio de renovación de SSL."
+
+#: FreeSSLAuto/src/Email.php:199
+msgid "The SSL renewal reminder email has been sent successfully."
+msgstr "El recordatorio de renovación de SSL se ha enviado correctamente."
+
+#: FreeSSLAuto/src/Email.php:172
+msgid "Please ignore this email if you have renewed the SSL certificate already."
+msgstr "Por favor, ignora este correo electrónico si ya has renovado el certificado SSL."
+
+#. translators: %s: HTML code to create a hyperlink with the text 'click here'.
+#: FreeSSLAuto/src/Email.php:162
+msgid "%sClick here%s to Renew your SSL today."
+msgstr "%sHaz clic aquí%s para renovar tu SSL hoy mismo."
+
+#. translators: %s: Name of the SSL certificate authority, e.g., Let's Encrypt
+#: FreeSSLAuto/src/Admin/AdminNotice.php:239
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:308
+#: FreeSSLAuto/src/Email.php:160
+msgid "The validity of %s free SSL is 90 days. They recommend renewing 30 days before expiry."
+msgstr "La validez del SSL gratuito de %s es de 90 días. Se recomienda renovarlo 30 días antes de que caduque."
+
+#. translators: %s: Words, either 'before the expiry date' or 'URGENTLY' based
+#. on a predefined condition.
+#: FreeSSLAuto/src/Email.php:158
+msgid "If you don't renew the SSL certificate %s, your visitors will see a security warning in red and leave your website."
+msgstr "Si no renuevas el certificado SSL %s, tus visitantes verán una advertencia de seguridad en rojo y abandonarán tu web."
+
+#. translators: %s: A date, e.g., December 30, 2023.
+#: FreeSSLAuto/src/Email.php:154
+msgid "The expiry date is %s."
+msgstr "La fecha de caducidad es %s."
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Email.php:138 FreeSSLAuto/src/Email.php:150
+msgid "Your SSL certificate, for %s, is EXPIRED!"
+msgstr "Tu certificado SSL, para %s, ¡ha EXPIRADO!"
+
+#. translators: %1$s: A domain name, e.g., example.com, %2$s: Number of days
+#: FreeSSLAuto/src/Email.php:147
+msgid "Your SSL certificate, for %1$s, will expire in %2$s days."
+msgstr "Tu certificado SSL, para %1$s, caducará en %2$s días."
+
+#. translators: %d: A plural number, e.g., 4
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:395
+msgid "expiring in %d days"
+msgstr "caduca en %d días"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:246
+msgid "Remind later"
+msgstr "Recordar más tarde"
+
+#. translators: %s: A date, e.g., December 30, 2023.
+#: FreeSSLAuto/src/Admin/AdminNotice.php:233
+msgid "Your visitors will see a security warning in red and may leave your website if you don't renew the SSL certificate before the expiry date %s."
+msgstr "Tus visitantes verán una advertencia de seguridad en rojo y podrían abandonar tu web si no renuevas el certificado SSL antes de la fecha de caducidad %s."
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:231
+#: FreeSSLAuto/src/Admin/AdminNotice.php:244
+msgid "Renew SSL Now"
+msgstr "Renovar SSL ahora"
+
+#. translators: %s: HTML code to create a hyperlink with the text 'Contact Us'.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:852
+msgid "Any issues? %sContact Us%s right away. We'll be happy to help you."
+msgstr "¿Algún problema? %sContacta con nosotros%s de inmediato. Estaremos encantados de ayudarte."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:846
+msgid "Download from the email we sent you after the purchase."
+msgstr "Descárgalo desde el correo electrónico que te enviamos tras la compra."
+
+#. translators: %s: HTML code to create a hyperlink with the text 'Account
+#. page'.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:845
+msgid "Download from the %sAccount page%s."
+msgstr "Descargar desde la %spágina de cuenta%s."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:843
+msgid "Download from this link."
+msgstr "Descárgalo desde este enlace."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:841
+msgid "If you missed downloading the Pro version of this plugin, you could download it using any of the following options"
+msgstr "Si no has descargado la versión Pro de este plugin, puedes hacerlo desde cualquiera de las siguientes opciones"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:610
+#: FreeSSLAuto/src/Admin/HomeOptions.php:615
+msgid "E-mail / Chat"
+msgstr "Correo electrónico / Chat"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:453
+msgid "Automation with Bash script or Cloudflare CDN"
+msgstr "Automatización con script Bash o Cloudflare CDN"
+
+#. translators: %s: HTML code to create a new line.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:268
+msgid "PRO unlimited license is limited to 10 websites. %sIf you can implement the automation with the bash script yourself, it is truly unlimited."
+msgstr "La licencia PRO ilimitada está limitada a 10 webs. %sSi puedes implementar la automatización con el script bash tú mismo, será realmente ilimitada."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:266
+msgid "We'll do it (10 sites)"
+msgstr "Lo haremos (10 sitios)"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:265
+msgid "We'll do it"
+msgstr "Lo haremos"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:274
+msgid "Otherwise, we'll issue you a full refund."
+msgstr "De lo contrario, te devolveremos el dinero."
+
+#. translators: 'cPanel' is web hosting control panel software developed by
+#. cPanel, LLC.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:273
+msgid "you have cPanel! 100% automation is possible with premium!!"
+msgstr "¡Tienes cPanel! ¡Es posible automatizar al 100% con el premium!"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:263
+msgid "we'll issue you a full refund if we can't automate your SSL certificate."
+msgstr "si no podemos automatizar tu certificado SSL, te reembolsaremos el dinero."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:259
+msgid "Most web hosting companies provide an option to install SSL certificates. Please contact your web hosting provider if you are unaware of this option."
+msgstr "La mayoría de las empresas de alojamiento web ofrecen la opción de instalar certificados SSL. Ponte en contacto con tu proveedor de alojamiento web si no conoces esta opción."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:258
+msgid "Please log in to your web hosting control panel to install the SSL certificate"
+msgstr "Por favor, accede al panel de control de tu alojamiento web para instalar el certificado SSL."
+
+#. translators: %1$s: Name of a file, e.g., 'web.config'; %2$s: Name of a
+#. directory, e.g., '.well-known'
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:927
+msgid "If the above links display errors, create a %1$s file inside the %2$s directory and paste the following content into it:"
+msgstr "Si los enlaces anteriores muestran errores, crea un archivo %1$s dentro del directorio %2$s y pega en él el siguiente contenido:"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:894
+msgid "If you face any issues uploading files, create files with the same file name and content."
+msgstr "Si tienes problemas para subir archivos, crea archivos con el mismo nombre y contenido."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:859
+msgid "If you face any issues (e.g., 'Invalid path specified') creating directories, create 'Virtual Directory' instead."
+msgstr "Si tienes problemas (por ejemplo, «Ruta especificada no válida») al crear directorios, crea un «Directorio virtual» en su lugar."
+
+#. translators: %1$s: A domain name, e.g., example.com; %2$s: Name of a
+#. directory, e.g., '.well-known'; %3$s: Name of another directory, e.g.,
+#. 'acme-challenge'
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:857
+msgid "Browse to the document root of %1$s. Create a directory %2$s and another directory %3$s inside the %2$s directory."
+msgstr "Ve a la ruta absoluta de %1$s. Crea un directorio %2$s y otro directorio %3$s dentro del directorio %2$s."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:329
+msgid "Lifetime: $258.99"
+msgstr "Precio de por vida: 258,99 $"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:318
+msgid "Lifetime: $44.99"
+msgstr "Precio de por vida: 44,99 $"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:848
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:850
+msgid "Video"
+msgstr "Vídeo"
+
+#. translators: %s: Type of domain verification (HTTP-01 or DNS-01)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1001
+msgid "Verify Domain (%s) & Generate Free SSL"
+msgstr "Verificar dominio (%s) & Generar SSL gratuito"
+
+#. translators: 'Plesk' is a web hosting control panel software developed by
+#. Plesk International GmbH.
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:249
+msgid "Plesk: How to Install SSL Certificate"
+msgstr "Plesk: Cómo instalar un certificado SSL"
+
+#. translators: 'cPanel' is web hosting control panel software developed by
+#. cPanel, LLC.
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:237
+msgid "cPanel: How to Install SSL Certificate"
+msgstr "cPanel: Cómo Instalar un Certificado SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:89
+msgid "Next Step"
+msgstr "Siguiente paso"
+
+#: FreeSSLAuto/src/Admin/ForceHttpsPage.php:61
+msgid "Force HTTPS Page"
+msgstr "Forzar página HTTPS"
+
+#: FreeSSLAuto/src/Admin/Factory.php:990
+msgid "We'll issue Free SSL for"
+msgstr "Emitiremos SSL gratis para"
+
+#: auto-install-free-ssl.php:890 FreeSSLAuto/src/Admin/ForceHttpsPage.php:61
+msgid "Force HTTPS"
+msgstr "Forzar HTTPS"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:652
+#: FreeSSLAuto/src/Admin/HomeOptions.php:657
+#: FreeSSLAuto/src/Admin/HomeOptions.php:662
+msgid "Select"
+msgstr "Elegir"
+
+#. translators: %s: A technical word ('cPanel' or 'hosting'; based on a
+#. condition)
+#: FreeSSLAuto/src/Admin/HomeOptions.php:576
+msgid "One installation works on all websites of a %s"
+msgstr "Una sola instalación funciona en todas las webs de un %s"
+
+#. translators: %1$s: Name of the web hosting control panel ('cPanel' or
+#. 'hosting'; based on a condition); %2$s: A plural number, e.g., 10
+#: FreeSSLAuto/src/Admin/HomeOptions.php:280
+msgid "If you need the plugin to work on all websites in the same %1$s, you need %2$s minutes (once)."
+msgstr "Si necesitas que el plugin funcione en todas las webs del mismo %1$s, necesitas %2$s minutos (una sola vez)."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:437
+#: FreeSSLAuto/src/Admin/HomeOptions.php:444
+msgid "You don’t need to set up the Cron Job manually. It works by default."
+msgstr "No necesitas configurar el la tarea cron manualmente. Funciona por defecto."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:326
+msgid "$178.99 / year"
+msgstr "178,99 $ / año"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:315
+msgid "$26.99 / year"
+msgstr "26,99 $ / año"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:307
+msgid "$0.0"
+msgstr "$0.0"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:605
+msgid "Forum"
+msgstr "Foro"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:601
+msgid "Support"
+msgstr "Soporte"
+
+#. translators: %s: HTML code to make the text 'License Key' bold.
+#: FreeSSLAuto/src/Admin/HomeOptions.php:850
+msgid "The %sLicense Key%s has been provided in the same email."
+msgstr "La %sclave de acceso%s ha sido proporcionada en el mismo correo electrónico."
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:839
+msgid "Now, please deactivate this FREE version. Then download, install & activate the premium version and enjoy!"
+msgstr "Ahora, por favor, desactiva esta versión GRATUITA. Luego descarga, instala y activa la versión premium y ¡disfruta!"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:835
+msgid "Thank you for the purchase"
+msgstr "Gracias por la compra"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:404
+msgid "I don't want it"
+msgstr "No lo quiero"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:283
+#: FreeSSLAuto/src/Admin/AdminNotice.php:346
+msgid "I don't want to"
+msgstr "No quiero"
+
+#. translators: %s: A plural number, e.g., 30
+#: FreeSSLAuto/src/Admin/HomeOptions.php:117
+msgid "This plugin will renew & install the SSL automatically %s days before the expiry."
+msgstr "Este plugin renovará e instalará el SSL automáticamente %s días antes de que caduque."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:175
+msgid "Free SSL Certificate was Generated"
+msgstr "Se ha generado un Certificado SSL gratuito"
+
+#: FreeSSLAuto/src/Admin/Log.php:152
+msgid "No log is available."
+msgstr "No hay registro disponible."
+
+#: FreeSSLAuto/src/Admin/Log.php:130
+msgid "This log helps you understand the cause of an issue. Most users fix the issues by reading this log."
+msgstr "Este registro te ayuda a entender la causa de un problema. La mayoría de los usuarios solucionan los problemas leyendo este registro."
+
+#. translators: %s: A date
+#: FreeSSLAuto/src/Admin/Log.php:116
+msgid "Click here to view the log of %s"
+msgstr "Haz clic aquí para ver el registro del %s"
+
+#: FreeSSLAuto/src/Admin/Log.php:102
+msgid "View log by Date"
+msgstr "Ver registro por fecha"
+
+#: FreeSSLAuto/src/Admin/Log.php:66
+msgid "Log"
+msgstr "Log"
+
+#: FreeSSLAuto/src/Admin/Log.php:66
+msgid "Log Page"
+msgstr "Página de registro"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:130
+msgid "CA Bundle"
+msgstr "Lote CA"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:130
+msgid "Click here to download CA Bundle"
+msgstr "Haz clic aquí para descargar el Lote CA"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:129
+msgid "Private Key"
+msgstr "Clave privada"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:129
+msgid "Click here to download Private Key"
+msgstr "Haz clic aquí para descargar la clave privada"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:128
+msgid "SSL"
+msgstr "SSL"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:128
+msgid "Click here to download SSL Certificate"
+msgstr "Haz clic aquí para descargar el certificado SSL"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:127
+msgid "Downloads"
+msgstr "Descargas"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:112
+msgid "Issuer"
+msgstr "Emisor"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:111
+msgid "SSL Expiry date"
+msgstr "Fecha de caducidad del SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1353
+msgid "Re-generate (renew) SSL"
+msgstr "Volver a generar (renovar) el SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1306
+msgid "Download & Install SSL"
+msgstr "Descargar e instalar el SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1305
+msgid "Verify Domain"
+msgstr "Verificar dominio"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1304
+msgid "Initiate"
+msgstr "Iniciar"
+
+#. translators: %d: A singular number, i.e., 1
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1252
+msgid "%d domain was not validated."
+msgstr "El dominio %d no ha sido validado."
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1221
+msgid "Sorry, the SSL certificate was NOT issued to %s due to an error. Please check the log for details."
+msgstr "Lo sentimos, el certificado SSL NO se ha emitido a %s debido a un error. Comprueba los detalles en el registro."
+
+#. translators: %1$s: Opening HTML 'a' tag; %2$s: Closing 'a' tag (Opening and
+#. closing 'a' tags create a hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1173
+msgid "Upgrade to the %1$sPremium Version%2$s for fully automatic domain verification, automated SSL installation & renewal."
+msgstr "Actualiza a la %1$sversión Premium%2$s para una verificación de dominio totalmente automática y una instalación y renovación del SSL automatizada."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1134
+msgid "Oops! We could not verify DNS records. Please check whether you have added the DNS records correctly. Did you add DNS records just now? Please try again after 15 minutes."
+msgstr "¡Vaya! No hemos podido verificar los registros DNS. Por favor, comprueba si has añadido los registros DNS correctamente. ¿Acabas de añadir los registros DNS? Por favor, inténtalo de nuevo pasados 15 minutos."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1115
+msgid "Oops! We could not verify HTTP-01 challenges. Please check whether the uploaded HTTP challenge files are publicly accessible. Some hosts purposefully block BOT access to the acme-challenge folder, then please try DNS-based verification."
+msgstr "¡Vaya! No hemos podido comprobar los desafíos HTTP-01. Por favor, comprueba si los archivos de desafío HTTP cargados son de acceso público. Algunos proveedores bloquean intencionadamente el acceso BOT a la carpeta acme-challenge, intenta entonces la verificación basada en DNS."
+
+#. translators: %s: Type of the challenge (HTTP-01 or DNS-01)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:997
+msgid "Are you sure you have completed the %s challenges?"
+msgstr "¿Estás seguro de que has completado los %s desafíos?"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:929
+msgid "Is everything okay? Now click the button below."
+msgstr "¿Todo en orden? Ahora haz clic en el botón de abajo."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:927
+msgid "The content of the above links should EXACTLY match the content of the downloaded files."
+msgstr "El contenido de los enlaces anteriores debe coincidir EXACTAMENTE con el contenido de los archivos descargados."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:912
+msgid "Link 2"
+msgstr "Enlace 2"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:907
+msgid "Link 1"
+msgstr "Enlace 1"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:897
+msgid "Uploaded files should be available at"
+msgstr "Los archivos subidos deben estar disponibles en"
+
+#. translators: %s: Name of the directory, i.e., 'acme-challenge'
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:892
+msgid "Upload the above-downloaded challenge files into the %s directory (mentioned in serial number 2)."
+msgstr "Sube los archivos de desafío descargados arriba al directorio %s (mencionado en el número de serie 2)."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:892
+msgid "4."
+msgstr "4."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:876
+msgid "Challenge File"
+msgstr "Archivo de desafío"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:861
+msgid "Download the following HTTP-01 challenge files:"
+msgstr "Descarga los siguientes archivos de desafío HTTP-01:"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:861
+msgid "3."
+msgstr "3."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:855
+msgid "Please open an FTP client (e.g., FileZilla) or File Manager of your web hosting control panel."
+msgstr "Por favor, abre un cliente FTP (por ejemplo, FileZilla) o el Gestor de archivos de tu panel de control de alojamiento web."
+
+#. translators: %1$s: Opening HTML 'strong' tag; %2$s: Closing 'strong' tag;
+#. %3$s: Opening HTML 'em' tag; %4$s: Closing 'em' tag (Opening and closing
+#. 'strong' tags make the enclosed text bold. Opening and closing 'em' tags
+#. make the enclosed text emphasized.)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:962
+msgid "Please wait %1$sat least%2$s 15 minutes for the above DNS records to propagate and %3$sclick the button below%4$s."
+msgstr "Por favor, espera %1$spor lo menos%2$s 15 minutos para que los registros DNS de arriba se propaguen y %3$shaz clic en el botón de abajo%4$s."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:857
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:962
+msgid "2."
+msgstr " 2."
+
+#. translators: %1$s: Opening HTML 'strong' tag; %2$s: Closing 'strong' tag;
+#. (Opening and closing 'strong' tags make the enclosed text bold.)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:960
+msgid "TTL (Time to Live) for both: %1$s1 minute%2$s recommended. Otherwise, the minimum value supported by your DNS service provider."
+msgstr "TTL (Tiempo de vida) para ambos: %1$s1 minuto%2$s recomendado. En caso contrario, el valor mínimo admitido por tu proveedor de servicios DNS."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:953
+msgid "TXT record value:"
+msgstr "Valor del registro TXT:"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:952
+msgid "TXT record name/host:"
+msgstr "Nombre/proveedor del registro TXT:"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:951
+msgid "Record Set"
+msgstr "Conjunto de registros"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:855
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:941
+msgid "1."
+msgstr "1."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:834
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:943
+msgid "DNS-01"
+msgstr "DNS-01"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:833
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:845
+msgid "HTTP-01"
+msgstr "HTTP-01"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:827
+msgid "Please complete any one from HTTP-01 and DNS-01 challenges to verify your domain /subdomain ownership."
+msgstr "Por favor, completa cualquiera de los desafíos HTTP-01 y DNS-01 para verificar la propiedad de tu dominio/subdominio."
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:770
+msgid "Generating SSL for %s"
+msgstr "Generando SSL para %s"
+
+#. translators: %1$s: Opening HTML 'a' tag; %2$s: Closing 'a' tag; %3$s:
+#. Opening HTML 'a' tag; %4$s: Closing 'a' tag; %5$s: Closing 'sup' tag
+#. (Opening and closing 'a' tags create a hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:614
+msgid "I agree to the FreeSSL.tech %1$sTerms of Service%2$s and %3$sPrivacy Policy %4$s(required)%5$s"
+msgstr "Acepto los %1$stérminos de servicio%2$s y la %3$spolítica de privacidad %4$s(obligatorio)%5$s de freeSSL.tech"
+
+#. translators: %1$s: Opening HTML 'div' tag; %2$s: Opening HTML 'a' tag; %3$s:
+#. Closing 'a' tag; %4$s: Closing HTML 'sup' tag ("Let's Encrypt™" is a
+#. nonprofit SSL certificate authority. Opening and closing 'a' tags create a
+#. hyperlink with the enclosed text.)
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:605
+msgid "%1$sI agree to the %2$sLet's Encrypt™ Subscriber Agreement %3$s(required)%4$s"
+msgstr "%1$sAcepto el %2$sacuerdo de suscriptor de Let's Encrypt™ %3$s(obligatorio)%4$s"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:548
+msgid "High"
+msgstr "Alta"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:544
+msgid "SSL Expiration Chance"
+msgstr "Fecha de caducidad del SSL"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:524
+msgid "Multisite Support"
+msgstr "Compatible con multisitio"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:269
+#: FreeSSLAuto/src/Admin/HomeOptions.php:270
+#: FreeSSLAuto/src/Admin/HomeOptions.php:462
+#: FreeSSLAuto/src/Admin/HomeOptions.php:469
+#: FreeSSLAuto/src/Admin/HomeOptions.php:518
+#: FreeSSLAuto/src/Admin/HomeOptions.php:538
+#: FreeSSLAuto/src/Admin/HomeOptions.php:590
+#: FreeSSLAuto/src/Admin/HomeOptions.php:631
+#: FreeSSLAuto/src/Admin/HomeOptions.php:636
+msgid "Yes"
+msgstr "Sí"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:504
+msgid "Wildcard SSL"
+msgstr "SSL con comodín"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:275
+#: FreeSSLAuto/src/Admin/HomeOptions.php:276
+msgid "1 Min (once)"
+msgstr "1 minuto (una vez)"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:486
+msgid "20+ Min (per 60 days)"
+msgstr "+20 minutos (cada 60 días)"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:482
+msgid "Time Required to Set Up"
+msgstr "Tiempo necesario para la instalación"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:401
+msgid "SSL Renewal"
+msgstr "Renovación del SSL"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:426
+msgid "Cron Job"
+msgstr "Tarea cron"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:377
+msgid "SSL Installation"
+msgstr "Instalación del SSL"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:259
+#: FreeSSLAuto/src/Admin/HomeOptions.php:346
+#: FreeSSLAuto/src/Admin/HomeOptions.php:351
+#: FreeSSLAuto/src/Admin/HomeOptions.php:366
+#: FreeSSLAuto/src/Admin/HomeOptions.php:371
+#: FreeSSLAuto/src/Admin/HomeOptions.php:410
+#: FreeSSLAuto/src/Admin/HomeOptions.php:415
+#: FreeSSLAuto/src/Admin/HomeOptions.php:435
+#: FreeSSLAuto/src/Admin/HomeOptions.php:442
+msgid "Automatic"
+msgstr "Automático"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:341
+#: FreeSSLAuto/src/Admin/HomeOptions.php:361
+#: FreeSSLAuto/src/Admin/HomeOptions.php:381
+#: FreeSSLAuto/src/Admin/HomeOptions.php:405
+msgid "Manual"
+msgstr "Manualmente"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:337
+msgid "Domain Verification"
+msgstr "Verificación de dominio"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:323
+msgid "Pro Unlimited"
+msgstr "Pro Ilimitado"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:312
+msgid "Pro"
+msgstr "Pro"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:304
+msgid "Free"
+msgstr "Gratis"
+
+#: FreeSSLAuto/src/Admin/ForceHttpsPage.php:106
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:276
+msgid "Processing, please wait ..."
+msgstr "Procesando, por favor espera..."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:197
+msgid "Are you ready to start?"
+msgstr "¿Estás listo para empezar?"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:178
+msgid "Generate Free SSL Certificate"
+msgstr "Generar certificado SSL gratuito"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:146
+msgid "Oops! Please agree to both Terms & Conditions and try again."
+msgstr "¡Vaya! Por favor, acepta los términos y condiciones e inténtalo de nuevo."
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:107
+#: FreeSSLAuto/src/Admin/HomeOptions.php:357
+msgid "Generate SSL"
+msgstr "Generar SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:107
+msgid "Generate SSL Manually Page"
+msgstr "Generar SSL manualmente"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:518
+msgid "Sorry, there was an issue sending the Revert URL by email."
+msgstr "Lo sentimos, ha habido un problema al enviar la URL de Reversión por correo electrónico."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:514
+msgid "Revert URL was sent successfully by email."
+msgstr "La URL de Reversión se ha enviado correctamente por correo electrónico."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:333
+msgid "No SSL is installed on this website. Please install an SSL, and you'll get the option to Activate Force HTTPS."
+msgstr "No hay ningún SSL instalado en esta web. Por favor, instala un SSL, y tendrás la opción de Activar el forzado de HTTPS."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:309
+msgid "Do this only if an SSL certificate has been installed on this website."
+msgstr "Hazlo solo si se ha instalado un certificado SSL en esta web."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:101
+msgid "Access was denied due to an invalid secret code. Please use the link in the latest email (when you activated force HTTPS last time)."
+msgstr "El acceso fue denegado debido a un código secreto no válido. Por favor, utiliza el enlace del último correo electrónico (cuando activaste el forzado de HTTPS la última vez)."
+
+#: FreeSSLAuto/src/Admin/Factory.php:997
+msgid "Please point it to this hosting if you need SSL for it too."
+msgstr "Por favor, dirígelo a este alojamiento si también necesitas un SSL para él."
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:345
+msgid "Got it"
+msgstr "Entendido"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:344
+msgid "Comparison Table"
+msgstr "Tabla de comparación"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:904
+msgid "The account is already registered. Continuing..."
+msgstr "La cuenta ya está registrada. Continuando..."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:874 FreeSSLAuto/src/Acme/AcmeV2.php:877
+msgid "Closing the connection"
+msgstr "Cerrando la conexión"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:832
+msgid "Starting new account registration"
+msgstr "Iniciando el registro de una nueva cuenta"
+
+#. translators: %s: URL of the API
+#: FreeSSLAuto/src/Acme/AcmeV2.php:762 FreeSSLAuto/src/Acme/AcmeV2.php:803
+msgid "Sending signed request to %s"
+msgstr "Enviando solicitud firmada a %s"
+
+#. translators: "Let's Encrypt" is a nonprofit SSL certificate authority.
+#: FreeSSLAuto/src/Acme/AcmeV2.php:700
+msgid "Sending registration to the Let's Encrypt™ server"
+msgstr "Enviando registro al servidor de Let's Encrypt™."
+
+#. translators: "Let's Encrypt" is a nonprofit SSL certificate authority.
+#: FreeSSLAuto/src/Acme/AcmeV2.php:650
+msgid "Done!!!! Let's Encrypt™ ACME V2 SSL certificate successfully issued!!"
+msgstr "¡Hecho! ¡Certificado SSL ACME V2 de Let's Encrypt™ emitido correctamente!"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:647
+msgid "Saving fullchain.pem"
+msgstr "Guardando fullchain.pem"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:645
+msgid "Saving (CABUNDLE) cabundle.pem"
+msgstr "Guardando (CABUNDLE) cabundle.pem"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:643
+msgid "Saving Certificate (CRT) certificate.pem"
+msgstr "Guardando certificado (CRT) certificate.pem"
+
+#. translators: %s: Number of second
+#: FreeSSLAuto/src/Acme/AcmeV2.php:620
+msgid "Certificate generation pending, sleeping %s second."
+msgstr "Generación de certificado pendiente, entrando en reposo en %s segundos."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:615
+msgid "Location value"
+msgstr "Valor de ubicación"
+
+#. translators: %1$s: Status of the verification, e.g., 'valid'; %2$s: A domain
+#. name, e.g., example.com
+#: FreeSSLAuto/src/Acme/AcmeV2.php:556
+msgid "Verification ended with status: '%1$s' for the domain %2$s"
+msgstr "La verificación ha finalizado con el siguiente estado: «%1$s» para el dominio %2$s"
+
+#. translators: %s: Number of seconds, e.g., 2
+#: FreeSSLAuto/src/Acme/AcmeV2.php:549
+msgid "Verification pending, sleeping %s seconds."
+msgstr "Verificación pendiente, entrando en reposo en %s segundos."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:537
+msgid "The challenge file was not deleted due to an error. You may delete it manually."
+msgstr "El archivo de desafío no se ha eliminado debido a un error. Puedes borrarlo manualmente."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:535
+msgid "Deleted challenge file"
+msgstr "Archivo de desafío eliminado"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:458
+msgid "Sending request to challenge"
+msgstr "Enviando solicitud de desafío"
+
+#. translators: %1$s: DNS TXT record; %2$s: A sub-domain, e.g., sub.example.com
+#: FreeSSLAuto/src/Acme/AcmeV2.php:414
+msgid "TXT record %1$s for %2$s has NOT been propagated till now. Please check whether the TXT record was set correctly. You may also set 'dns_provider_takes_longer_to_propagate' => true and try again."
+msgstr "El registro TXT %1$s para %2$s NO se ha propagado hasta ahora. Comprueba si el registro TXT se ha configurado correctamente. También puedes establecer «dns_provider_takes_longer_to_propagate» => true e intentarlo de nuevo."
+
+#. translators: %1$s: DNS TXT record; %2$s: Number of minutes, e.g., 2
+#: FreeSSLAuto/src/Acme/AcmeV2.php:398
+msgid "TXT record (%1$s) has NOT been propagated till now, sleeping for %2$s minutes."
+msgstr "El registro TXT (%1$s) NO se ha propagado hasta ahora, ha permanecido en reposo durante %2$s minutos."
+
+#. translators: %1$s: DNS TXT record
+#: FreeSSLAuto/src/Acme/AcmeV2.php:390
+msgid "TXT record (%s) has been propagated successfully."
+msgstr "El registro TXT (%s) se ha propagado correctamente."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:374
+msgid "Now check whether the TXT record has been propagated."
+msgstr "Comprueba ahora si se ha propagado el registro TXT."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:368
+msgid "Execution resumed after 2 minutes of sleep."
+msgstr "Ejecución reanudada después de 2 minutos de reposo."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:366
+msgid "Execution sleeping for 2 minutes."
+msgstr "Ejecución en reposo durante 2 minutos."
+
+#. translators: %1$s: A data, i.e., string of characters; %2$s: A URL, e.g.,
+#. http://example.com/.well-known/acme-challenge/egIiS7rwd
+#: FreeSSLAuto/src/Acme/AcmeV2.php:329 FreeSSLAuto/src/Acme/AcmeV2.php:336
+msgid "Final Internal Validation: the Payload content (%1$s) successfully matched the content of %2$s."
+msgstr "Validación interna final: el contenido de la carga útil (%1$s) coincide correctamente con el contenido de %2$s."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:311
+msgid "Oops! There was an error creating .htaccess rules in the '.well-known' directory."
+msgstr "¡Vaya! Se ha producido un error al crear las reglas .htaccess en el directorio «.well-known»."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:309
+msgid ".htaccess rules have been created successfully in the '.well-known' directory."
+msgstr "Las reglas .htaccess se han creado correctamente en el directorio «.well-known»."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:242
+msgid "'HTTP-01' challenge found."
+msgstr "Desafío «HTTP-01» encontrado."
+
+#. translators: %1$s: Challenge type (HTTP-01 or DNS-01); %2$s: A domain name,
+#. e.g., example.com
+#: FreeSSLAuto/src/Acme/AcmeV2.php:236 FreeSSLAuto/src/Acme/AcmeV2.php:245
+msgid "So, using the '%1$s' challenge for %2$s."
+msgstr "Usando el desafío «%1$s» para %2$s."
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Acme/AcmeV2.php:179
+msgid "Domain (%s) already verified. Skip the verification process."
+msgstr "Dominio (%s) ya verificado. Omite el proceso de verificación."
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:152
+msgid "Requesting challenges for the array of domains"
+msgstr "Solicitud de desafío para el conjunto de dominios"
+
+#: FreeSSLAuto/src/Acme/AcmeV2.php:140
+msgid "Starting the SSL certificate generation process with ACME V2"
+msgstr "Iniciando el proceso de generación de certificados SSL con ACME V2"
+
+#: auto-install-free-ssl.php:44 auto-install-free-ssl.php:765
+#: FreeSSLAuto/src/Acme/AcmeV2.php:76 FreeSSLAuto/src/Acme/Client.php:40
+#: FreeSSLAuto/src/Acme/Factory.php:41 FreeSSLAuto/src/Admin/AdminNotice.php:47
+#: FreeSSLAuto/src/Admin/AdminNotice.php:474
+#: FreeSSLAuto/src/Admin/AdminNotice.php:482
+#: FreeSSLAuto/src/Admin/AdminNotice.php:495
+#: FreeSSLAuto/src/Admin/AdminNotice.php:503
+#: FreeSSLAuto/src/Admin/AdminNotice.php:516
+#: FreeSSLAuto/src/Admin/AdminNotice.php:526
+#: FreeSSLAuto/src/Admin/AdminNotice.php:534
+#: FreeSSLAuto/src/Admin/AutoDataEntry.php:47
+#: FreeSSLAuto/src/Admin/Factory.php:43
+#: FreeSSLAuto/src/Admin/ForceHttpsPage.php:46
+#: FreeSSLAuto/src/Admin/ForceSSL.php:56 FreeSSLAuto/src/Admin/ForceSSL.php:352
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:64
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1022
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1048
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1285
+#: FreeSSLAuto/src/Admin/HomeOptions.php:47
+#: FreeSSLAuto/src/Admin/HomeOptions.php:740
+#: FreeSSLAuto/src/Admin/HomeOptions.php:749
+#: FreeSSLAuto/src/Admin/HomeOptions.php:759 FreeSSLAuto/src/Admin/Log.php:48
+#: FreeSSLAuto/src/Admin/Log.php:135 FreeSSLAuto/src/Admin/Log.php:197
+#: FreeSSLAuto/src/Admin/Log.php:207 FreeSSLAuto/src/Controller.php:43
+#: FreeSSLAuto/src/Email.php:41
+msgid "Access denied"
+msgstr "Acceso denegado"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:375
+msgid "Error cause for"
+msgstr "Causa del error para"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:373
+#: FreeSSLAuto/src/Admin/ForceSSL.php:391
+msgid "Error cause"
+msgstr "Causa del error"
+
+#: FreeSSLAuto/src/Admin/HomeOptions.php:281
+#: FreeSSLAuto/src/Admin/HomeOptions.php:282
+#: FreeSSLAuto/src/Admin/HomeOptions.php:430
+#: FreeSSLAuto/src/Admin/HomeOptions.php:457
+#: FreeSSLAuto/src/Admin/HomeOptions.php:508
+#: FreeSSLAuto/src/Admin/HomeOptions.php:528
+#: FreeSSLAuto/src/Admin/HomeOptions.php:555
+#: FreeSSLAuto/src/Admin/HomeOptions.php:562
+#: FreeSSLAuto/src/Admin/HomeOptions.php:580
+#: FreeSSLAuto/src/Admin/HomeOptions.php:585
+#: FreeSSLAuto/src/Admin/HomeOptions.php:626
+msgid "No"
+msgstr "No"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:279 FreeSSLAuto/src/Email.php:65
+msgid "Hey"
+msgstr "Hey"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:912
+msgid "and"
+msgstr "y"
+
+#: FreeSSLAuto/src/Email.php:68
+msgid "Sure! You Deserve It."
+msgstr "¡Por supuesto! Te lo mereces."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:326
+msgid "If force HTTPS is causing issues with your website, click the button below to Deactivate the force HTTPS feature and revert to HTTP. After you fix the SSL issues, you may activate force HTTPS again."
+msgstr "Si forzar HTTPS está causando problemas con tu web, haz clic en el botón de abajo para desactivar la función de forzar HTTPS y volver a HTTP. Después de solucionar los problemas de SSL, puedes activar el forzado de HTTPS de nuevo."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:325
+msgid "Optional: Deactivate Force HTTPS"
+msgstr "Opcional: desactivar el forzado de HTTPS"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:320
+msgid "Please don't worry; as soon as you click the button, we'll send you an automated email with a link. If you need to revert to HTTP, click that link."
+msgstr "No te preocupes; en cuanto hagas clic en el botón, te enviaremos un correo electrónico automático con un enlace. Si necesitas volver a HTTP, haz clic en ese enlace."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:320
+msgid "If you face issues after clicking this button, please revert to HTTP."
+msgstr "Si tienes problemas después de hacer clic en este botón, por favor, vuelve a HTTP."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:315
+msgid "WARNING"
+msgstr "ADVERTENCIA"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:314
+msgid "Clicking this button will immediately force your website to load over HTTPS and may prompt you to log in again."
+msgstr "Al hacer clic en este botón, tu web se cargará inmediatamente en HTTPS, y es posible que tengas que volver a acceder."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:311
+msgid "To remove the mixed content warning and see a padlock in the browser's address bar, you need to click the button below (only once). This click will activate force SSL, and all your website resources will load over HTTPS."
+msgstr "Para eliminar la advertencia de contenido mixto y ver un candado en la barra de direcciones del navegador, debes hacer clic en el botón de abajo (solo una vez). Este clic activará el forzado del SSL, y todos los recursos de tu web se cargarán a través de HTTPS."
+
+#: auto-install-free-ssl.php:917
+msgid "click here"
+msgstr "haz clic aquí"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:499
+msgid "Clicking the above link will instantly deactivate force HTTPS and revert your website to HTTP."
+msgstr "Al hacer clic en el enlace anterior, se desactivará instantáneamente el forzado de HTTPS y tu web volverá a HTTP."
+
+#. translators: %s: A domain name, e.g., example.com
+#: FreeSSLAuto/src/Admin/ForceSSL.php:489
+msgid "We have successfully activated Force HTTPS on your website, %s."
+msgstr "Hemos activado correctamente el forzado de HTTPS en tu web, %s."
+
+#. translators: %1$s: Name of this plugin, i.e., 'Auto-Install Free SSL'; %2$s:
+#. A domain name, e.g., example.com
+#: FreeSSLAuto/src/Admin/ForceSSL.php:481
+msgid "'%1$s' has activated Force HTTPS on your website %2$s."
+msgstr "«%1$s» ha activado el forzado de HTTPS en tu web %2$s."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:448
+msgid "Force HTTPS has been Deactivated successfully, and you have reverted to HTTP."
+msgstr "El forzado de HTTPS se ha desactivado correctamente y has vuelto a HTTP."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:425
+msgid "Congratulations! Force HTTPS has been activated successfully."
+msgstr "¡Enhorabuena! El forzado de HTTPS se ha activado correctamente."
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:271
+msgid "Revert to HTTP"
+msgstr "Volver a HTTP"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:270
+msgid "Do you want to Deactivate force HTTPS and revert to HTTP?"
+msgstr "¿Quieres desactivar el forzado de HTTPS y volver a HTTP?"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:267
+#: FreeSSLAuto/src/Admin/ForceSSL.php:307
+msgid "Activate Force HTTPS"
+msgstr "Activar forzado de HTTPS"
+
+#: FreeSSLAuto/src/Admin/ForceSSL.php:266
+msgid "Are you sure you want to activate force HTTPS?"
+msgstr "¿Estás seguro de que quieres activar el forzado de HTTPS?"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:237
+#: FreeSSLAuto/src/Admin/AdminNotice.php:354
+#: FreeSSLAuto/src/Admin/AdminNotice.php:418
+#: FreeSSLAuto/src/Admin/ForceSSL.php:487
+#: FreeSSLAuto/src/Admin/HomeOptions.php:257 FreeSSLAuto/src/Email.php:143
+msgid "Hello"
+msgstr "Hola"
+
+#. Author of the plugin
+msgid "Free SSL Dot Tech"
+msgstr "SSL Dot Tech gratuito"
+
+#: auto-install-free-ssl.php:917
+msgid "For documentation"
+msgstr "Para documentación"
+
+#: auto-install-free-ssl.php:917
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:284
+#: FreeSSLAuto/src/Admin/AdminNotice.php:373
+#: FreeSSLAuto/src/Admin/AdminNotice.php:452
+msgid "Remind me later"
+msgstr "Recuérdamelo más tarde"
+
+#: FreeSSLAuto/src/Admin/AdminNotice.php:282
+msgid "I have done"
+msgstr "Ya lo he hecho"
+
+#: auto-install-free-ssl.php:209
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes permisos suficientes para acceder a esta página."
+
+#: auto-install-free-ssl.php:201
+msgid "Settings"
+msgstr "Ajustes"
+
+#: auto-install-free-ssl.php:157
+msgid "Auto-Install SSL Dashboard"
+msgstr "Panel de autoinstalación del SSL"
+
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1114
+#: FreeSSLAuto/src/Admin/GenerateSSLmanually.php:1133
+msgid "Domain"
+msgstr "Dominio"
+
+#: auto-install-free-ssl.php:100
+msgid "You need to set PHP directive allow_url_fopen = On. Please contact your web hosting company for help."
+msgstr "Necesitas establecer la directiva PHP allow_url_fopen = On. Contacta con tu empresa de alojamiento web para obtener ayuda."
+
+#: auto-install-free-ssl.php:97
+msgid "You need Curl extension enabled with PHP"
+msgstr "Necesitas activar la extensión Curl con PHP"
+
+#: auto-install-free-ssl.php:94
+msgid "You need OpenSSL extension enabled with PHP"
+msgstr "Necesitas activar la extensión OpenSSL con PHP"
+
+#: auto-install-free-ssl.php:91
+msgid "You need at least PHP 5.4.0"
+msgstr "Necesitas al menos PHP 5.4.0"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://freessl.tech"
+msgstr "https://freessl.tech"
+
+#. Plugin Name of the plugin
+#: auto-install-free-ssl.php:158
+msgid "Auto-Install Free SSL"
+msgstr "Auto-Install Free SSL"

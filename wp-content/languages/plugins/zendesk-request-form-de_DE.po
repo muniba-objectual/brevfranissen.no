@@ -1,0 +1,136 @@
+# Translation of Plugins - Request Form for Zendesk - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Request Form for Zendesk - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-24 07:52:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Request Form for Zendesk - Development (trunk)\n"
+
+#. Plugin Name of the plugin
+msgid "Request Form for Zendesk"
+msgstr "Request Form for Zendesk"
+
+#: zendesk-request-form.php:666
+msgid "Please enter a valid URL"
+msgstr "Bitte gib eine gültige URL ein"
+
+#: zendesk-request-form.php:446
+msgid "Last name"
+msgstr "Nachname"
+
+#: zendesk-request-form.php:439
+msgid "First name"
+msgstr "Vorname"
+
+#: zendesk-request-form.php:165
+msgid "Allowed file types:"
+msgstr "Erlaubte Dateitypen"
+
+#: zendesk-request-form.php:164
+msgid "Maximum size:"
+msgstr "Maximale Größe:"
+
+#: zendesk-request-form.php:611
+msgid "You can only upload a maximum of %s files."
+msgstr "Du kannst nur höchstens %s Dateien hochladen."
+
+#: zendesk-request-form.php:634
+msgid "Uploaded file type is not allowed."
+msgstr "Der hochgeladene Dateityp ist nicht erlaubt."
+
+#: zendesk-request-form.php:163
+msgid "Upload a file"
+msgstr "Datei hochladen"
+
+#: zendesk-request-form.php:624 inc/action.php:179
+msgid "Uploaded file is too large."
+msgstr "Die hochgeladene Datei ist zu groß."
+
+#: zendesk-request-form.php:162
+msgid "Priority of your message"
+msgstr "Priorität deiner Nachricht"
+
+#: zendesk-request-form.php:532
+msgid "No description set in ticket"
+msgstr "Es wurde keine Beschreibung im Ticket angegeben."
+
+#: inc/action.php:130 inc/action.php:134
+msgid "No email address entered."
+msgstr "Es wurde keine E-Mail-Adresse angegeben."
+
+#: zendesk-request-form.php:328 zendesk-request-form.php:485
+msgid "Select an option"
+msgstr "Bitte wähle eine Option"
+
+#: inc/action.php:27
+msgid "Request not submitted. Please contact the Admin of this website so they can check the settings for this form."
+msgstr "Deine Anfrage wurde nicht übermittelt. Bitte kontaktiere den Administrator dieser Website und bitte ihn, die Einstellungen dieses Formulars zu prüfen."
+
+#. Author URI of the plugin
+msgid "https://www.pipdig.co/"
+msgstr "https://www.pipdig.co/"
+
+#. Author of the plugin
+msgid "pipdig"
+msgstr "pipdig"
+
+#. Description of the plugin
+msgid "Add a Zendesk request form on any post/page via a shortcode. Submitted messages will create a new ticket in your Zendesk account."
+msgstr "Füge ein Zendesk-Anfrageformular in beliebige Seiten oder Beiträge per Shortcode ein. Gesendete Nachrichten erstellen ein neues Ticket in deinem Zendesk-Konto."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/zendesk-request-form/"
+msgstr "https://wordpress.org/plugins/zendesk-request-form/"
+
+#: zendesk-request-form.php:161
+msgid "Submit"
+msgstr "Senden"
+
+#: zendesk-request-form.php:160
+msgid "Your Message"
+msgstr "Deine Nachricht"
+
+#: zendesk-request-form.php:159
+msgid "Subject"
+msgstr "Betreff"
+
+#: zendesk-request-form.php:158
+msgid "Your Email"
+msgstr "E-Mail"
+
+#: zendesk-request-form.php:157
+msgid "Your Name"
+msgstr "Name"
+
+#: zendesk-request-form.php:184
+msgid "Your ticket number is %s."
+msgstr "Deine Ticket-ID lautet %s."
+
+#: zendesk-request-form.php:179 inc/settings.php:153
+msgid "Your message has been sent successfully."
+msgstr "Die Nachricht wurde erfolgreich gesendet."
+
+#: inc/action.php:383 inc/action.php:387
+msgid "Your message has been received. We will get back to you as soon as possible."
+msgstr "Deine Nachricht ist eingegangen. Wir werden so schnell wie möglich antworten."
+
+#: inc/action.php:350
+msgid "Ticket not created."
+msgstr "Ticket nicht erstellt."
+
+#: inc/action.php:105 inc/action.php:123
+msgid "No name entered."
+msgstr "Bitte gib deinen Namen an."
+
+#: inc/action.php:74
+msgid "Spam check failed."
+msgstr "Spam-Prüfung fehlgeschlagen."
+
+#: inc/action.php:8
+msgid "Please try again by clicking the back button on your browser."
+msgstr "Bitte versuche es erneut und gehe eine Seite zurück."

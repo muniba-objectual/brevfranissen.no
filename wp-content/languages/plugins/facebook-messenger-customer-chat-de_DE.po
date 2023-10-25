@@ -1,0 +1,41 @@
+# Translation of Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-20 16:48:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk)\n"
+
+#: facebook-messenger-customer-chat.php:86
+msgid "Support"
+msgstr "Support"
+
+#: facebook-messenger-customer-chat.php:80
+msgid "FAQ"
+msgstr "FAQ"
+
+#: facebook-messenger-customer-chat.php:56
+#: facebook-messenger-customer-chat.php:73
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: options.php:137
+msgid "Edit Chat Plugin"
+msgstr "Chat-Plugin bearbeiten"
+
+#: options.php:135
+msgid "Setup Chat Plugin"
+msgstr "Chat-Plugin einrichten"
+
+#. Author URI of the plugin
+msgid "https://developers.facebook.com"
+msgstr "https://developers.facebook.com"
+
+#. Author of the plugin
+msgid "Facebook"
+msgstr "Facebook"

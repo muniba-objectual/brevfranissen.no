@@ -1,0 +1,114 @@
+# Translation of Plugins - Top Bar - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Top Bar - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-10 15:55:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Top Bar - Development (trunk)\n"
+
+#: inc/topbar-settings.php:136
+msgid "Adds a button to your Top Bar."
+msgstr "Añade un botón a Top Bar."
+
+#: inc/topbar-settings.php:112
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/topbar-settings.php:80 inc/topbar-settings.php:83
+msgid "Fixed"
+msgstr "Fija"
+
+#: inc/topbar-settings.php:79 inc/topbar-settings.php:82
+msgid "Standard"
+msgstr "Estándar"
+
+#: inc/topbar-settings.php:86
+msgid "If set to Fixed, your Top Bar will remain visible as the user scrolls."
+msgstr "Si está establecido como «Fija», tu Top Bar permanecerá visible cuando el usuario haga scroll."
+
+#: inc/topbar-settings.php:75
+msgid "Position"
+msgstr "Posición"
+
+#: inc/topbar-settings.php:57
+msgid "Status"
+msgstr "Estado"
+
+#: inc/topbar-settings.php:53
+msgid "General"
+msgstr "General"
+
+#: inc/topbar-settings.php:95 inc/topbar-settings.php:98
+#: inc/topbar-settings.php:100 inc/topbar-settings.php:127
+#: inc/topbar-settings.php:129 inc/topbar-settings.php:132
+msgid "Disabled"
+msgstr "Desactivada"
+
+#: inc/topbar-settings.php:94 inc/topbar-settings.php:97
+#: inc/topbar-settings.php:101 inc/topbar-settings.php:126
+#: inc/topbar-settings.php:130 inc/topbar-settings.php:133
+msgid "Enabled"
+msgstr "Activada"
+
+#: inc/topbar-settings.php:150
+msgid "Button URL"
+msgstr "URL del botón"
+
+#: inc/topbar-settings.php:146
+msgid "eg. See product"
+msgstr "Ej.: Ver el producto"
+
+#: inc/topbar-settings.php:151
+msgid "eg. https://wpdarko.com"
+msgstr "Ej.: https://wpdarko.com"
+
+#. Plugin Name of the plugin
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#. Plugin URI of the plugin
+msgid "https://wpdarko.com/top-bar/"
+msgstr "https://wpdarko.com/top-bar/"
+
+#. Author of the plugin
+msgid "WP Darko"
+msgstr "WP Darko"
+
+#. Author URI of the plugin
+msgid "https://wpdarko.com"
+msgstr "https://wpdarko.com"
+
+#. Description of the plugin
+msgid "Simply the easiest way to add a top bar to your website. This plugin adds a simple and clean notification bar at the top of your website, allowing you to show a message to your visitors. Find help and information on our <a href=\"https://wpdarko.com/support\">support site</a>. This is a free plugin, it is NOT limited and does not contain any ad. Check out the <a href='https://wpdarko.com/top-bar/'>PRO version</a> for more great features."
+msgstr "Simplemente la forma más fácil de añadir una barra superior a tu web. Este plugin añade una sencilla y limpia barra de aviso en la parte superior de tu web, permitiéndote mostrar un mensaje agradable a tus visitantes. Encuentra ayuda e información en nuestro <a href=\"https://wpdarko.com/support\">sitio de soporte</a>. Este es un plugin gratuito, NO está limitado y no contiene ningún anuncio. Echa un vistazo a la <a href='https://wpdarko.com/top-bar/'>versión PRO</a> para más fantásticas características."
+
+#: inc/topbar-settings.php:117
+msgid "eg. Check out our new product right now!"
+msgstr "Ej.: ¡Comprueba nuestro nuevo producto ahora!"
+
+#: inc/topbar-settings.php:122
+msgid "Button"
+msgstr "Botón"
+
+#: inc/topbar-settings.php:145
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: inc/topbar-settings.php:116
+msgid "Message"
+msgstr "Mensaje"
+
+#: inc/topbar-settings.php:62 inc/topbar-settings.php:64
+#: inc/topbar-settings.php:68
+msgid "Inactive"
+msgstr "Inactiva"
+
+#: inc/topbar-settings.php:61 inc/topbar-settings.php:65
+#: inc/topbar-settings.php:67
+msgid "Active"
+msgstr "Activa"
